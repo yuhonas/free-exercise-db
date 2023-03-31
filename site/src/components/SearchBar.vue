@@ -35,7 +35,7 @@
           keys: ['name']
         }
 
-        if(this.query) {
+        if(this.query.length >1) {
           const fuse = new Fuse(this.exercises, options)
           this.searchResults = fuse.search(newValue).map(r => r.item)
         } else {
