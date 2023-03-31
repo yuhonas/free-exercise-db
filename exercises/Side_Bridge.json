@@ -1,0 +1,21 @@
+{
+  "name": "Side Bridge",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+
+  ],
+  "category": "strength",
+  "images": [
+    "Side_Bridge/0.jpg",
+    "Side_Bridge/1.jpg"
+  ]
+}
