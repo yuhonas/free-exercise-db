@@ -6,6 +6,9 @@ defaults:
     shell: bash
     working-directory: site
 
+env:
+  VITE_BASE_DIR: /free-exercise-db/
+
 on:
   # Runs on pushes targeting the default branch
   push:
