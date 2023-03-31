@@ -1,0 +1,21 @@
+{
+  "name": "Cuban Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Take a dumbbell in each hand with a pronated grip in a standing position. Raise your upper arms so that they are parallel to the floor, allowing your lower arms to hang in the \"scarecrow\" position. This will be your starting position.",
+    "To initiate the movement, externally rotate the shoulders to move the upper arm 180 degrees. Keep the upper arms in place, rotating the upper arms until the wrists are directly above the elbows, the forearms perpendicular to the floor.",
+    "Now press the dumbbells by extending at the elbows, straightening your arms overhead.",
+    "Return to the starting position as you breathe in by reversing the steps.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength"
+}

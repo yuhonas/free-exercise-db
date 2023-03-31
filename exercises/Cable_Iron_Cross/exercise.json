@@ -1,0 +1,17 @@
+{
+  "name": "Cable Iron Cross",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Begin by moving the pulleys to the high position, select the resistance to be used, and take a handle in each hand.",
+    "Stand directly between both pulleys with your arms extended out to your sides. Your head and chest should be up while your arms form a â€œTâ€. This will be your starting position.",
+    "Keeping the elbows extended, pull your arms straight to your sides.",
+    "Return your arms back to the starting position after a pause at the peak contraction.",
+    "Continue the movement for the prescribed number of repetitions."
+  ],
+  "category": "strength"
+}

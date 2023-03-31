@@ -1,0 +1,17 @@
+{
+  "name": "Stomach Vacuum",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "To begin, stand straight with your feet shoulder width apart from each other. Place your hands on your hips. This is the starting position.",
+    "Now slowly inhale as much air as possible and then start to exhale as much as possible while bringing your stomach in as much as possible and hold this position. Try to visualize your navel touching your backbone.",
+    "One isometric contraction is around 20 seconds. During the 20 second hold, try to breathe normally. Then inhale and bring your stomach back to the starting position.",
+    "Once you have practiced this exercise, try to perform this exercise for longer than 20 seconds. Tip: You can work your way up to 40-60 seconds.",
+    "Repeat for the recommended amount of sets."
+  ],
+  "category": "stretching"
+}

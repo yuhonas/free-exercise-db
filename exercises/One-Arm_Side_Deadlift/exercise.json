@@ -1,0 +1,25 @@
+{
+  "name": "One-Arm Side Deadlift",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "traps"
+  ],
+  "instructions": [
+    "Stand to the side of a barbell next to its center. Bend your knees and lower your body until you are able to reach the barbell.",
+    "Grasp the bar as if you were grabbing a briefcase (palms facing you since the bar is sideways). You may need a wrist wrap if you are using a significant amount of weight. This is your starting position.",
+    "Use your legs to help lift the barbell up while exhaling. Your arms should extend fully as bring the barbell up until you are in a standing position.",
+    "Slowly bring the barbell back down while inhaling. Tip: Make sure to bend your knees while lowering the weight to avoid any injury from occurring.",
+    "Repeat for the recommended amount of repetitions.",
+    "Switch arms and repeat the movement."
+  ],
+  "category": "strength"
+}

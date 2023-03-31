@@ -1,0 +1,23 @@
+{
+  "name": "Split Jump",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Assume a lunge stance position with one foot forward with the knee bent, and the rear knee nearly touching the ground.",
+    "Ensure that the front knee is over the midline of the foot.",
+    "Extending through both legs, jump as high as possible, swinging your arms to gain lift.",
+    "As you jump, bring your feet together, and move them back to their initial positions as you land.",
+    "Absorb the impact by reverting back to the starting position."
+  ],
+  "category": "plyometrics"
+}

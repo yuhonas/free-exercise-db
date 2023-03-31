@@ -1,0 +1,22 @@
+{
+  "name": "Close-Grip Dumbbell Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Place a dumbbell standing up on a flat bench.",
+    "Ensuring that the dumbbell stays securely placed at the top of the bench, lie perpendicular to the bench with only your shoulders lying on the surface. Hips should be below the bench and your legs bent with your feet firmly on the floor.",
+    "Grasp the dumbbell with both hands and hold it straight over your chest at armâ€™s length. Both palms should be pressing against the underside of the sides of the dumbbell. This will be your starting position.",
+    "Initiate the movement by lowering the dumbbell to your chest.",
+    "Return to the starting position by extending the elbows."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Standing One-Arm Cable Curl",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Start out by grabbing single handle next to the low pulley machine. Make sure you are far enough from the machine so that your arm is supporting the weight.",
+    "Make sure that your upper arm is stationary, perpendicular to the floor with elbows in and palms facing forward. Your non lifting arm should be grabbing your waist. This will allow you to keep your balance.",
+    "Slowly begin to curl the single handle upwards while keeping the upper arm stationary until your forearm touches your bicep while exhaling. Tip: Only the forearm should move.",
+    "Hold the contraction position as you squeeze the bicep and then lower the single handle back down to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions.",
+    "Switch arms while performing this exercise."
+  ],
+  "category": "strength"
+}

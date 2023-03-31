@@ -1,0 +1,22 @@
+{
+  "name": "Otis-Up",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Secure your feet and lay back on the floor. Your knees should be bent. Hold a weight with both hands to your chest. This will be your starting position.",
+    "Initiate the movement by flexing the hips and spine to raise your torso up from the ground.",
+    "As you move up, press the weight up so that it is above your head at the top of the movement.",
+    "Return the weight to your chest as you reverse the sit-up motion, ensuring not to go all the way down to the floor."
+  ],
+  "category": "strength"
+}

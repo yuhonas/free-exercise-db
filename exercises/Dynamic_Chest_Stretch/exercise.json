@@ -1,0 +1,18 @@
+{
+  "name": "Dynamic Chest Stretch",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "middle back"
+  ],
+  "instructions": [
+    "Stand with your hands together, arms extended directly in front of you. This will be your starting position.",
+    "Keeping your arms straight, quickly move your arms back as far as possible and back in again, similar to an exaggerated clapping motion. Repeat 5-10 times, increasing speed as you do so."
+  ],
+  "category": "stretching"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Shoulder Stretch",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": ["shoulders"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Reach your left arm across your body and hold it straight."
+  ],
+  "category": "stretching"
+}

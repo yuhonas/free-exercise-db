@@ -1,0 +1,20 @@
+{
+  "name": "Medicine Ball Full Twist",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "For this exercise you will need a medicine ball and a partner. Stand back to back with your partner, spaced 2-3 feet apart. This will be your starting position.",
+    "Hold the ball in front of the trunk. Open the hips and turn the shoulders at the same time as your partner.",
+    "For full rotation, you and your partner should twist in the same direction, i.e. counter-clockwise.",
+    "Pass the ball to your partner, and both of you can now twist in the opposite direction to repeat the procedure."
+  ],
+  "category": "plyometrics"
+}

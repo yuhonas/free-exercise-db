@@ -1,0 +1,19 @@
+{
+  "name": "Decline EZ Bar Triceps Extension",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Secure your legs at the end of the decline bench and slowly lay down on the bench.",
+    "Using a close grip (a grip that is slightly less than shoulder width), lift the EZ bar from the rack and hold it straight over you with your arms locked and elbows in. The arms should be perpendicular to the floor. This will be your starting position. Tip: In order to protect your rotator cuff, it is best if you have a spotter help you lift the barbell off the rack.",
+    "As you breathe in and you keep the upper arms stationary, bring the bar down slowly by moving your forearms in a semicircular motion towards you until you feel the bar slightly touch your forehead. Breathe in as you perform this portion of the movement.",
+    "Lift the bar back to the starting position by contracting the triceps and exhaling.",
+    "Repeat until the recommended amount of repetitions is performed."
+  ],
+  "category": "strength"
+}

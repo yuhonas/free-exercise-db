@@ -1,0 +1,17 @@
+{
+  "name": "Iron Crosses (stretch)",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie face down on the floor, with your arms extended out to your side, palms pressed to the floor. This will be your starting position.",
+    "To begin, flex one knee and bring that leg across the back of your body, attempting to touch it to the ground near the opposite hand.",
+    "Promptly return the leg to the starting postion, and quickly repeat with the other leg. Continue alternating for 10-20 repetitions."
+  ],
+  "category": "stretching"
+}

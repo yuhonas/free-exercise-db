@@ -1,0 +1,23 @@
+{
+  "name": "Lunge Pass Through",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Stand with your torso upright holding a kettlebell in your right hand. This will be your starting position.",
+    "Step forward with your left foot and lower your upper body down by flexing the hip and the knee, keeping the torso upright. Lower your back knee until it nearly touches the ground.",
+    "As you lunge, pass the kettlebell under your front leg to your opposite hand.",
+    "Pressing through the heel of your foot, return to the starting position.",
+    "Repeat the movement for the recommended amount of repetitions, alternating legs."
+  ],
+  "category": "strength"
+}

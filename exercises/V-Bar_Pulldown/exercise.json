@@ -1,0 +1,24 @@
+{
+  "name": "V-Bar Pulldown",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back",
+    "shoulders"
+  ],
+  "instructions": [
+    "Sit down on a pull-down machine with a V-Bar attached to the top pulley.",
+    "Adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar.",
+    "Grab the V-bar with the palms facing each other (a neutral grip). Stick your chest out and lean yourself back slightly (around 30-degrees) in order to better engage the lats. This will be your starting position.",
+    "Using your lats, pull the bar down as you squeeze your shoulder blades. Continue until your chest nearly touches the V-bar. Exhale as you execute this motion. Tip: Keep the torso stationary throughout the movement.",
+    "After a second hold on the contracted position, slowly bring the bar back to the starting position as you breathe in.",
+    "Repeat for the prescribed number of repetitions."
+  ],
+  "category": "strength"
+}

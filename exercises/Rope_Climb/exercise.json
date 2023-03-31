@@ -1,0 +1,24 @@
+{
+  "name": "Rope Climb",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "middle back",
+    "shoulders"
+  ],
+  "instructions": [
+    "Grab the rope with both hands above your head. Pull down on the rope as you take a small jump.",
+    "Wrap the rope around one leg, using your feet to pinch the rope. Reach up as high as possible with your arms, gripping the rope tightly.",
+    "Release the rope from your feet as you pull yourself up with your arms, bringing your knees towards your chest.",
+    "Resecure your feet on the rope, and then stand up to take another high hold on the rope. Continue until you reach the top of the rope.",
+    "To lower yourself, loosen the grip of your feet on the rope as you slide down using a hand over hand motion."
+  ],
+  "category": "strength"
+}

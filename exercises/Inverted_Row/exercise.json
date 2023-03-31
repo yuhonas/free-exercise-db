@@ -1,0 +1,17 @@
+{
+  "name": "Inverted Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": null,
+  "primaryMuscles": ["middle back"],
+  "secondaryMuscles": ["lats"],
+  "instructions": [
+    "Position a bar in a rack to about waist height. You can also use a smith machine.",
+    "Take a wider than shoulder width grip on the bar and position yourself hanging underneath the bar. Your body should be straight with your heels on the ground with your arms fully extended. This will be your starting position.",
+    "Begin by flexing the elbow, pulling your chest towards the bar. Retract your shoulder blades as you perform the movement.",
+    "Pause at the top of the motion, and return yourself to the start position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "category": "strength"
+}

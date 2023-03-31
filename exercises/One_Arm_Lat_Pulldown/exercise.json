@@ -1,0 +1,16 @@
+{
+  "name": "One Arm Lat Pulldown",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["biceps", "middle back"],
+  "instructions": [
+    "Select an appropriate weight and adjust the knee pad to help keep you down. Grasp the handle with a pronated grip. This will be your starting position.",
+    "Pull the handle down, squeezing your elbow to your side as you flex the elbow.",
+    "Pause at the bottom of the motion, and then slowly return the handle to the starting position.",
+    "For multiple repetitions, avoid completely returning the weight to keep tension on the muscles being worked."
+  ],
+  "category": "strength"
+}

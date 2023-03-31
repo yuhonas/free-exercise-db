@@ -1,0 +1,19 @@
+{
+  "name": "Weighted Ball Side Bend",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "exercise ball",
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "To begin, lie down on an exercise ball with your left side of the torso (waist, hips and shoulder) pressed against the ball.",
+    "Your feet should be on the floor while your legs are crossed and hanging from the ball. Hold a weighted plate with your right hand directly to the right side of your head. Tip: Make sure the smooth side of the plate is resting against your head.",
+    "Place your left arm across your torso so that your palm is on your obliques. There should be a right angle between your left forearm and upper arm. This is the starting position.",
+    "Raise the side of your torso up by laterally flexing at the waist while exhaling.",
+    "Hold the contraction for a second and slowly lower yourself back down to the starting position while inhaling.",
+    "Repeat for the recommended amount of repetitions.",
+    "Switch sides and repeat the exercise."
+  ],
+  "category": "strength"
+}

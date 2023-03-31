@@ -1,0 +1,22 @@
+{
+  "name": "Smith Machine One-Arm Upright Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "traps"
+  ],
+  "instructions": [
+    "With the bar at thigh level, load an appropriate weight.",
+    "Take a wide grip on the bar and unhook the weight, removing your off hand from the bar. Your arm should be extended as you stand up straight with your head and chest up. This will be your starting position.",
+    "Begin the movement by flexing the elbow, raising the upper arm with the elbow pointed out. Continue until your upper arm is parallel to the floor.",
+    "After a brief pause, return the weight to the starting position.",
+    "Repeat for the desired number of repetitions before engaging the hooks to rack the weight."
+  ],
+  "category": "strength"
+}

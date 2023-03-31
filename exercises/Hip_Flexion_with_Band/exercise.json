@@ -1,0 +1,16 @@
+{
+  "name": "Hip Flexion with Band",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Secure one end of the band to the lower portion of a post and attach the other to one ankle.",
+    "Face away from the attachment point of the band.",
+    "Keeping your head and your chest up, raise your knee up to 90 degrees and pause.",
+    "Return the leg to the starting position."
+  ],
+  "category": "strength"
+}

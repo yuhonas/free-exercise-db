@@ -1,0 +1,16 @@
+{
+  "name": "Spell Caster",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": ["glutes", "shoulders"],
+  "instructions": [
+    "Hold a dumbbell in each hand with a pronated grip. Your feet should be wide with your hips and knees extended. This will be your starting position.",
+    "Begin the movement by pulling both of the dumbbells to one side next to your hip, rotating your torso.",
+    "Keeping your arms straight and the dumbbells parallel to the ground, rotate your torso to swing the weights to your opposite side.",
+    "Continue alternating, rotating from one side to the other until the set is complete."
+  ],
+  "category": "strength"
+}

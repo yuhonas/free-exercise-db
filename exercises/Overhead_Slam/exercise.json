@@ -1,0 +1,18 @@
+{
+  "name": "Overhead Slam",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold a medine ball with both hands and stand with your feet at shoulder width. This will be your starting position.",
+    "Initiate the countermovement by raising the ball above your head and fully extending your body.",
+    "Reverse the motion, slamming the ball into the ground directly in front of you as hard as you can.",
+    "Receive the ball with both hands on the bounce and repeat the movement."
+  ],
+  "category": "plyometrics"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Cable Incline Pushdown",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie on incline an bench facing away from a high pulley machine that has a straight bar attachment on it.",
+    "Grasp the straight bar attachment overhead with a pronated (overhand; palms down) shoulder width grip and extend your arms in front of you. The bar should be around 2 inches away from your upper thighs. This will be your starting position.",
+    "Keeping the upper arms stationary, lift your arms back in a semi circle until the bar is straight over your head. Breathe in during this portion of the movement.",
+    "Slowly go back to the starting position using your lats and hold the contraction once you reach the starting position. Breathe out during the execution of this movement.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Band Hip Adductions",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Anchor a band around a solid post or other object.",
+    "Stand with your left side to the post, and put your right foot through the band, getting it around the ankle.",
+    "Stand up straight and hold onto the post if needed. This will be your starting position.",
+    "Keeping the knee straight, raise your right legs out to the side as far as you can.",
+    "Return to the starting position and repeat for the desired rep count.",
+    "Switch sides."
+  ],
+  "category": "strength"
+}

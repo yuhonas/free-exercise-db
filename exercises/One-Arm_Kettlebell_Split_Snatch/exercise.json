@@ -1,0 +1,21 @@
+{
+  "name": "One-Arm Kettlebell Split Snatch",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Hold a kettlebell in one hand by the handle.",
+    "Squat towards the floor, and then reverse the motion, extending the hips, knees, and finally the ankles, to raise the kettlebell overhead.",
+    "After fully extending the body, descend into a lunge position to receive the weights overhead, one leg forward and one leg back. Ensure you drive through with your hips and lock the ketttlebells overhead in one uninterrupted motion.",
+    "Return to a standing position, holding the weight overhead, and bring the feet together. Lower the weight to return to the starting position."
+  ],
+  "category": "strength"
+}

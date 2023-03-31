@@ -1,0 +1,14 @@
+{
+  "name": "Lower Back-SMR",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "foam roll",
+  "primaryMuscles": ["lower back"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "In a seated position, place a foam roll under your lower back. Cross your arms in front of you and protract your shoulders. This will be your starting position.",
+    "Raise your hips off of the floor and lean back, keeping your weight on your lower back. Now shift your weight slightly to one side, keeping your weight off of the spine and on the muscles to the side of it. Roll over your lower back, holding points of tension for 10-30 seconds. Repeat on the other side."
+  ],
+  "category": "stretching"
+}

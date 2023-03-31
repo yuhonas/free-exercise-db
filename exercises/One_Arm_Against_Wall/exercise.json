@@ -1,0 +1,14 @@
+{
+  "name": "One Arm Against Wall",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "From a standing position, place a bent arm against a wall or doorway.",
+    "Slowly lean toward your arm until you feel a stretch in your lats."
+  ],
+  "category": "stretching"
+}

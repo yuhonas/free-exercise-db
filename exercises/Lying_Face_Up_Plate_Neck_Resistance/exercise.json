@@ -1,0 +1,16 @@
+{
+  "name": "Lying Face Up Plate Neck Resistance",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": ["neck"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie face up with your whole body straight on a flat bench while holding a weight plate on top of your forehead. Tip: You will need to position yourself so that your shoulders are slightly above the end of a flat bench in order for the traps, neck and head to be off the bench. This will be your starting position.",
+    "While keeping the plate secure on your forehead slowly lower your head back in a semi-circular motion as you breathe in.",
+    "Raise your head back up to the starting position in a semi-circular motion as you breathe out. Hold the contraction for a second.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength"
+}

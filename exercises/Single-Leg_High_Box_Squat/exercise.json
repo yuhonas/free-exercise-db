@@ -1,0 +1,15 @@
+{
+  "name": "Single-Leg High Box Squat",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "instructions": [
+    "Position a box in a rack. Secure a band or rope in place above the box.",
+    "Standing in front of it, step onto the box to a full standing position, letting your other leg remain unsupported. Hold onto the band for balance",
+    ". Continue stepping up and down on the same leg before switching to the opposite side."
+  ],
+  "category": "strength"
+}

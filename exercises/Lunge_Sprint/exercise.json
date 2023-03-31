@@ -1,0 +1,16 @@
+{
+  "name": "Lunge Sprint",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "instructions": [
+    "Adjust a bar in a Smith machine to an appropriate height. Position yourself under the bar, racking it across the back of your shoulders. Unrack the bar, and then split your feet, moving one foot forward and one foot back. This will be your starting position.",
+    "Lower your back knee nearly to the ground, flexing the knees and lowering your hips as you do so.",
+    "At the bottom of the descent, immediately reverse direction. Explosively drive through the heel of your front foot with light pressure from your back foot. Jump up and reverse the position of your legs.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength"
+}

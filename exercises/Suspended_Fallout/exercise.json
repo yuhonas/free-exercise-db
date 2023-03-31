@@ -1,0 +1,23 @@
+{
+  "name": "Suspended Fallout",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "lower back",
+    "shoulders"
+  ],
+  "instructions": [
+    "Adjust the straps so the handles are at an appropriate height, below waist level.",
+    "Begin standing and grasping the handles. Lean into the straps, moving to an incline push-up position. This will be your starting position.",
+    "Keeping your arms straight, lean further into the suspension straps, bringing your body closer to the ground, allowing your shoulders to extend, raising your arms up and over your head.",
+    "Maintain a neutral spine and keep the rest of your body straight, your shoulders being the only joints allowed to move.",
+    "Pause during the peak contraction, and then return to the starting position."
+  ],
+  "category": "strength"
+}

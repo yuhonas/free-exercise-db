@@ -1,0 +1,24 @@
+{
+  "name": "Power Stairs",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": [
+    "adductors",
+    "calves",
+    "glutes",
+    "lower back",
+    "quadriceps",
+    "shoulders",
+    "traps"
+  ],
+  "instructions": [
+    "In the power stairs, implements are moved up a staircase. For training purposes, these can be performed with a tire or box.",
+    "Begin by taking the implement with both hands. Set your feet wide, with your head and chest up. Drive through the ground with your heels, extending your knees and hips to raise the weight from the ground.",
+    "As you lean back, attempt to swing the weight onto the stairs, which are usually around 16-18\" high. You can use your legs to help push the weight onto the stair.",
+    "Repeat for 3-5 repetitions, and continue with a heavier weight, moving as fast as possible."
+  ],
+  "category": "strongman"
+}

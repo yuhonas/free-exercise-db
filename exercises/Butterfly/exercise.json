@@ -1,0 +1,17 @@
+{
+  "name": "Butterfly",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit on the machine with your back flat on the pad.",
+    "Take hold of the handles. Tip: Your upper arms should be positioned parallel to the floor; adjust the machine accordingly. This will be your starting position.",
+    "Push the handles together slowly as you squeeze your chest in the middle. Breathe out during this part of the motion and hold the contraction for a second.",
+    "Return back to the starting position slowly as you inhale until your chest muscles are fully stretched.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength"
+}

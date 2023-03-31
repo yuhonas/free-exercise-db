@@ -1,0 +1,18 @@
+{
+  "name": "Seated Overhead Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit up straight on an exercise mat.",
+    "Touch the soles of your feet together with your feet six to eight inches in front of your hips.",
+    "Place one hand on the floor beside you and your other hand behind your head.",
+    "Lift your elbow to the ceiling as you incline your torso to the other side. Hold for 10 to 20 seconds, then switch sides."
+  ],
+  "category": "stretching"
+}

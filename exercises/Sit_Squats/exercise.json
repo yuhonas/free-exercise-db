@@ -1,0 +1,21 @@
+{
+  "name": "Sit Squats",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Stand with your feet shoulder width apart. This will be your starting position.",
+    "Begin the movement by flexing your knees and hips, sitting back with your hips.",
+    "Continue until you have squatted a portion of the way down, but are above parallel, and quickly reverse the motion until you return to the starting position. Repeat for 5-10 repetitions."
+  ],
+  "category": "stretching"
+}

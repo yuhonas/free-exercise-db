@@ -1,0 +1,19 @@
+{
+  "name": "Bench Press - With Bands",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["shoulders", "triceps"],
+  "instructions": [
+    "Using a flat bench secure a band under the leg of the bench that is nearest to your head.",
+    "Once the band is secure, grab it by both handles and lie down on the bench.",
+    "Extend your arms so that you are holding the band handles in front of you at shoulder width.",
+    "Once at shoulder width, rotate your wrists forward so that the palms of your hands are facing away from you. This will be your starting position.",
+    "Bring down the handles slowly until your elbow forms a 90 degree angle. Keep full control at all times.",
+    "As you breathe out, bring the handles up using your pectoral muscles. Lock your arms in the contracted position, squeeze your chest, hold for a second and then start coming down slowly. Tip: It should take at least twice as long to go down than to come up.",
+    "Repeat the movement for the prescribed amount of repetitions of your training program."
+  ],
+  "category": "strength"
+}

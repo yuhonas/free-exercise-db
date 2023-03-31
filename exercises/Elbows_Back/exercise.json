@@ -1,0 +1,15 @@
+{
+  "name": "Elbows Back",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["shoulders"],
+  "instructions": [
+    "Stand up straight.",
+    "Place both hands on your lower back, fingers pointing downward and elbows out.",
+    "Then gently pull your elbows back aiming to touch them together."
+  ],
+  "category": "stretching"
+}

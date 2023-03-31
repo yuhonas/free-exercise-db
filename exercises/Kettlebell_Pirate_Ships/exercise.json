@@ -1,0 +1,20 @@
+{
+  "name": "Kettlebell Pirate Ships",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": [
+    "With a wide stance, hold a kettlebell with both hands. Allow it to hang at waist level with your arms extended. This will be your starting position.",
+    "Initiate the movement by turning to one side, swinging the kettlebell to head height. Briefly pause at the top of the motion.",
+    "Allow the bell to drop as you rotate to the opposite side, again raising the kettlebell to head height.",
+    "Repeat for the desired amount of repetitions."
+  ],
+  "category": "strength"
+}

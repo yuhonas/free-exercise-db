@@ -1,0 +1,14 @@
+{
+  "name": "Pyramid",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "exercise ball",
+  "primaryMuscles": ["lower back"],
+  "secondaryMuscles": ["shoulders"],
+  "instructions": [
+    "Start off by rolling your torso forward onto the ball so your hips rest on top of the ball and become the highest point of your body.",
+    "Rest your hands and feet on the floor. Your arms and legs can be slightly bent or straight, depending on the size of the ball, your flexibility, and the length of your limbs. This also helps develop stabilizing strength in your torso and shoulders."
+  ],
+  "category": "stretching"
+}

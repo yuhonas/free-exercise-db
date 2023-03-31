@@ -1,0 +1,17 @@
+{
+  "name": "Wrist Roller",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": ["forearms"],
+  "secondaryMuscles": ["shoulders"],
+  "instructions": [
+    "To begin, stand straight up grabbing a wrist roller using a pronated grip (palms facing down). Your feet should be shoulder width apart.",
+    "Slowly lift both arms until they are fully extended and parallel to the floor in front of you. Note: Make sure the rope is not wrapped around the roller. Your entire body should be stationary except for the forearms. This is the starting position.",
+    "Rotate one wrist at a time in an upward motion to bring the weight up to the bar by rolling the rope around the roller.",
+    "Once the weight has reached the bar, slowly begin to lower the weight back down by rotating the wrist in a downward motion until the weight reaches the starting position.",
+    "Repeat for the prescribed amount of repetitions in your program."
+  ],
+  "category": "strength"
+}

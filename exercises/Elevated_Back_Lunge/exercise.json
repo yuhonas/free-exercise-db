@@ -1,0 +1,21 @@
+{
+  "name": "Elevated Back Lunge",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Position a bar onto a rack at shoulder height loaded to an appropriate weight. Place a short, raised platform behind you.",
+    "Rack the bar onto your upper back, keeping your back arched and tight. Step onto your raised platform with both feet. This will be your starting position.",
+    "Begin by stepping backwards with one leg. Descend by flexing your hips and knees until your knee touches the floor.",
+    "Pause, and extend through the hips and knees to rise up, returning all the way to the starting position before alternating."
+  ],
+  "category": "strength"
+}

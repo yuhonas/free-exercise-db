@@ -1,0 +1,20 @@
+{
+  "name": "Standing Olympic Plate Hand Squeeze",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": [
+    "To begin, stand straight while holding a weight plate by the ridge at arm's length in each hand using a neutral grip (palms facing in). You feet should be shoulder width apart from each other. This will be your starting position.",
+    "Lower the plates until the fingers are nearly extended but can still hold weights. Inhale as you lower the plates.",
+    "Now raise the plates back to the starting position as you exhale by closing your hands.",
+    "Repeat for the recommended amount of repetitions prescribed in your program."
+  ],
+  "category": "strength"
+}

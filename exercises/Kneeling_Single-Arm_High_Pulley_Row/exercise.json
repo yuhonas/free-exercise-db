@@ -1,0 +1,21 @@
+{
+  "name": "Kneeling Single-Arm High Pulley Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back"
+  ],
+  "instructions": [
+    "Attach a single handle to a high pulley and make your weight selection.",
+    "Kneel in front of the cable tower, taking the cable with one hand with your arm extended. This will be your starting position.",
+    "Starting with your palm facing forward, pull the weight down to your torso by flexing the elbow and retract the shoulder blade. As you do so, rotate the wrist so that at the completion of the movement, your palm is now facing you.",
+    "After a brief pause, return to the starting position."
+  ],
+  "category": "strength"
+}

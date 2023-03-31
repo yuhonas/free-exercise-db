@@ -1,0 +1,19 @@
+{
+  "name": "Cable Internal Rotation",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit next to a low pulley sideways (with legs stretched in front of you or crossed) and grasp the single hand cable attachment with the arm nearest to the cable. Tip: If you can adjust the pulleyâ€™s height, you can use a flat bench to sit on instead.",
+    "Position the elbow against your side with the elbow bent at 90Â° and the arm pointing towards the pulley. This will be your starting position.",
+    "Pull the single hand cable attachment toward your body by internally rotating your shoulder until your forearm is across your abs. You will be creating an imaginary semi-circle. Tip: The forearm should be perpendicular to your torso at all times.",
+    "Slowly go back to the initial position.",
+    "Repeat for the recommended amount of repetitions and then repeat the movement with the next arm."
+  ],
+  "category": "strength"
+}

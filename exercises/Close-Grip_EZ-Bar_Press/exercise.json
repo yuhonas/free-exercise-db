@@ -1,0 +1,22 @@
+{
+  "name": "Close-Grip EZ-Bar Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "e-z curl bar",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Lie on a flat bench with an EZ bar loaded to an appropriate weight.",
+    "Using a narrow grip lift the bar and hold it straight over your torso with your elbows in. The arms should be perpendicular to the floor. This will be your starting position.",
+    "Now lower the bar down to your lower chest as you breathe in. Keep the elbows in as you perform this movement.",
+    "Using the triceps to push the bar back up, press it back to the starting position by extending the elbows as you exhale.",
+    "Repeat."
+  ],
+  "category": "strength"
+}

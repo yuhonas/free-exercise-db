@@ -1,0 +1,16 @@
+{
+  "name": "Looking At Ceiling",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Kneel on the floor, holding your heels with both hands.",
+    "Lift your buttocks up and forward while bringing your head back to look up at the ceiling, to give an arch in your back."
+  ],
+  "category": "stretching"
+}

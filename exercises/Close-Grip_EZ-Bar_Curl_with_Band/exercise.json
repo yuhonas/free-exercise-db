@@ -1,0 +1,17 @@
+{
+  "name": "Close-Grip EZ-Bar Curl with Band",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "e-z curl bar",
+  "primaryMuscles": ["biceps"],
+  "secondaryMuscles": ["forearms"],
+  "instructions": [
+    "Attach a band to each end of the bar. Take the bar, placing a foot on the middle of the band. Stand upright with a narrow, supinated grip on the EZ bar. The elbows should be close to the torso. This will be your starting position.",
+    "While keeping the upper arms in place, flex the elbows to execute the curl. Exhale as the weight is lifted.",
+    "Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard.",
+    "Slowly begin to bring the bar back to starting position as your breathe in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength"
+}

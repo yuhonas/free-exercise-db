@@ -1,0 +1,15 @@
+{
+  "name": "Single-Cone Sprint Drill",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "instructions": [
+    "This drill teaches quick foot action. You need a single cone. Begin standing next to the cone with one arm back and one arm forward.",
+    "Chop the feet as quickly as possible, blocking with the arms. Circle the cone, keep your knees up, with violent foot action.",
+    "Rest after three trips around the cone."
+  ],
+  "category": "plyometrics"
+}

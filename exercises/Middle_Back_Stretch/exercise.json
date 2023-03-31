@@ -1,0 +1,14 @@
+{
+  "name": "Middle Back Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": ["middle back"],
+  "secondaryMuscles": ["abdominals", "lats", "lower back"],
+  "instructions": [
+    "Stand so your feet are shoulder width apart and your hands are on your hips.",
+    "Twist at your waist until you feel a stretch. Hold for 10 to 15 seconds, then twist to the other side."
+  ],
+  "category": "stretching"
+}

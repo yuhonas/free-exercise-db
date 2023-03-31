@@ -1,0 +1,21 @@
+{
+  "name": "Standing Inner-Biceps Curl",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand up with a dumbbell in each hand being held at arms length. The elbows should be close to the torso. Your legs should be at about shoulder's width apart from each other.",
+    "Rotate the palms of the hands so that they are facing inward in a neutral position. This will be your starting position.",
+    "While holding the upper arms stationary, curl the weights out while contracting the biceps as you breathe out. Your wrist should turn so that when the weights are fully elevated you have supinated grip (palms facing up).",
+    "Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Tip: Keep the forearms aligned with your outer deltoids.",
+    "Hold the contracted position for a second as you squeeze the biceps.",
+    "Slowly begin to bring the dumbbells back to the starting position as your breathe in. Remember to rotate the wrists as you lower the weight in order to switch back to a neutral grip.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Elbow to Knee",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie on the floor, crossing your right leg across your bent left knee. Clasp your hands behind your head, beginning with your shoulder blades on the ground. This will be your starting position.",
+    "Perform the motion by flexing the spine and rotating your torso to bring the left elbow to the right knee.",
+    "Return to the starting position and repeat the movement for the desired number of repetitions before switching sides."
+  ],
+  "category": "strength"
+}

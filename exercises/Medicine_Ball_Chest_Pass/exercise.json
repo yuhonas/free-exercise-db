@@ -1,0 +1,22 @@
+{
+  "name": "Medicine Ball Chest Pass",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "You will need a partner for this exercise. Lacking one, this movement can be performed against a wall.",
+    "Begin facing your partner holding the medicine ball at your torso with both hands.",
+    "Pull the ball to your chest, and reverse the motion by extending through the elbows. For sports applications, you can take a step as you throw.",
+    "Your partner should catch the ball, and throw it back to you.",
+    "Receive the throw with both hands at chest height."
+  ],
+  "category": "plyometrics"
+}

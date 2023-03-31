@@ -1,0 +1,20 @@
+{
+  "name": "Seated Barbell Twist",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Start out by sitting at the end of a flat bench with a barbell placed on top of your thighs. Your feet should be shoulder width apart from each other.",
+    "Grip the bar with your palms facing down and make sure your hands are wider than shoulder width apart from each other. Begin to lift the barbell up over your head until your arms are fully extended.",
+    "Now lower the barbell behind your head until it is resting along the base of your neck. This is the starting position.",
+    "While keeping your feet and head stationary, move your waist from side to side so that your oblique muscles feel the contraction. Only move from side to side as far as your waist will allow you to go. Stretching or moving too far can cause an injury to occur. Tip: Use a slow and controlled motion.",
+    "Remember to breathe out while twisting your body to the side and in when moving back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength"
+}

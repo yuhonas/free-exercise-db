@@ -1,0 +1,22 @@
+{
+  "name": "Barbell Hack Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "forearms",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Stand up straight while holding a barbell behind you at arms length and your feet at shoulder width. Tip: A shoulder width grip is best with the palms of your hands facing back. You can use wrist wraps for this exercise for a better grip. This will be your starting position.",
+    "While keeping your head and eyes up and back straight, squat until your upper thighs are parallel to the floor. Breathe in as you slowly go down.",
+    "Pressing mainly with the heel of the foot and squeezing the thighs, go back up as you breathe out.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength"
+}

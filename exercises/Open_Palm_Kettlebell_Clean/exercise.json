@@ -1,0 +1,15 @@
+{
+  "name": "Open Palm Kettlebell Clean",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["glutes", "lower back", "quadriceps", "shoulders"],
+  "instructions": [
+    "Place one kettlebell between your feet. Clean the kettlebell by extending through the legs and hips as you raise the kettlebell towards your shoulders.",
+    "Release the kettlebell as it comes up, and let it flip so that the ball of the kettlebell lands in the palms of your hands.",
+    "Release the kettlebell out in front of you and catch the handle with both hands. Lower the kettlebell to the starting position and repeat."
+  ],
+  "category": "strength"
+}

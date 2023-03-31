@@ -1,0 +1,22 @@
+{
+  "name": "Seated Dumbbell Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Grab a couple of dumbbells and sit on a military press bench or a utility bench that has a back support on it as you place the dumbbells upright on top of your thighs.",
+    "Clean the dumbbells up one at a time by using your thighs to bring the dumbbells up to shoulder height at each side.",
+    "Rotate the wrists so that the palms of your hands are facing forward. This is your starting position.",
+    "As you exhale, push the dumbbells up until they touch at the top.",
+    "After a second pause, slowly come down back to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "category": "strength"
+}

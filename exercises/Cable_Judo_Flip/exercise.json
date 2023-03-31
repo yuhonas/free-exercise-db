@@ -1,0 +1,17 @@
+{
+  "name": "Cable Judo Flip",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Connect a rope attachment to a tower, and move the cable to the lowest pulley position. Stand with your side to the cable with a wide stance, and grab the rope with both hands.",
+    "Twist your body away from the pulley as you bring the rope over your shoulder like youâ€™re performing a judo flip.",
+    "Shift your weight between your feet as you twist and crunch forward, pulling the cable downward.",
+    "Return to the starting position and repeat until failure.",
+    "Then, reposition and repeat the same series of movements on the opposite side."
+  ],
+  "category": "strength"
+}

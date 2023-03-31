@@ -1,0 +1,16 @@
+{
+  "name": "Rope Straight-Arm Pulldown",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Attach a rope to a high pulley and make your weight selection. Stand a couple feet back from the pulley with your feet staggered and take the rope with both hands. Lean forward from the hip, keeping your back straight, with your arms extended up in front of you. This will be your starting position.",
+    "Keeping your arms straight, extend the shoulder to pull the rope down to your thighs.",
+    "Pause at the bottom of the motion, squeezing your lats.",
+    "Return to the starting position without allowing the weight to fully rest on the stack."
+  ],
+  "category": "strength"
+}
