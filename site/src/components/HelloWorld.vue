@@ -9,7 +9,9 @@ defineProps({
 <script>
   import exercises from '../assets/exercises/all.json'
   import Fuse from 'fuse.js'
+  const assets = import.meta.glob('../assets/**/*.jpg', { eager: true });
 
+  // debugger
   export default {
     data() {
       return {
@@ -21,8 +23,9 @@ defineProps({
     methods: {
       getImageFromExercise(exercise) {
         var filePath = '../assets/exercises/' + exercise.images[0]
-
-        return new URL(filePath, import.meta.url).href
+        return(assets[filePath].default)
+        // debugger
+        // return new URL(filePath, import.meta.url).href
       }
     },
     watch: {
