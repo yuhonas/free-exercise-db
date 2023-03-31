@@ -1,8 +1,15 @@
-# site
+## Free Exercise DB
 
-This template should help get you started developing with Vue 3 in Vite.
+Over 800+ exercises and imagery, Completely open Public Domain and in JSON format
 
-## Recommended IDE Setup
+### Why?
+
+I started building another fitness related app and was looking for free/open source exercise lists and imagery I stumbled upon
+[exercises.json](https://github.com/wrkout/exercises.json) which was amazing though the data wasn't structured the way I wanted it and I also wanted a free browsable/searchable frontend to the data inspired by [this issue](https://github.com/wrkout/exercises.json/issues/5) so I restructed the data and built a simple frontend to it :)
+
+
+### Running the site
+
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
