@@ -5,16 +5,18 @@ Over 800+ exercises and imagery, Completely open Public Domain and in JSON forma
 ### Why?
 
 I started building another fitness related app and was looking for free/open source exercise lists and imagery I stumbled upon
-[exercises.json](https://github.com/wrkout/exercises.json) which was amazing though the data wasn't structured the way I wanted it and I also wanted a free browsable/searchable frontend to the data inspired by [this issue](https://github.com/wrkout/exercises.json/issues/5) so I restructed the data and built a simple frontend to it :)
+[exercises.json](https://github.com/wrkout/exercises.json) which was amazing though the data wasn't structured the way I wanted it and I also wanted a free browsable/searchable frontend to the data inspired by [this issue](https://github.com/wrkout/exercises.json/issues/5) so I restructured the data and built a simple frontend to it :)
+
+### Where is it?
+
+All exercises are in `JSON` format under [exercises](./exercises)
+
+### Browsable frontend
+
+There is a simple searchable/browsable frontend to the data written in [vuejs](https://vuejs.org/)  available at [https://yuhonas.github.io/free-exercise-db/](https://yuhonas.github.io/free-exercise-db/), all related code is in the [site](./site) directory
 
 
-### Running the site
-
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-
-#### Project Setup
+#### Setup
 
 ```sh
 npm install
