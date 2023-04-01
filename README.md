@@ -7,9 +7,37 @@ Over 800+ exercises and imagery, Completely open Public Domain and in JSON forma
 I started building another fitness related app and was looking for free/open source exercise lists and imagery I stumbled upon
 [exercises.json](https://github.com/wrkout/exercises.json) which was amazing though the data wasn't structured the way I wanted it and I also wanted a free browsable/searchable frontend to the data inspired by [this issue](https://github.com/wrkout/exercises.json/issues/5) so I restructured the data and built a simple frontend to it :)
 
-### Where is it?
+### What do they look like?
 
-All exercises are in `JSON` format under [exercises](./exercises)
+All exercises are stored as seperate `JSON` documents in the following format 
+
+```json
+{
+  "name": "Alternate Incline Dumbbell Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+],
+"secondaryMuscles": [
+  "forearms"
+],
+"instructions": [
+  "Sit down on an incline bench with a dumbbell in each hand being held at arms length. Tip: Keep the elbows close to the torso.This will be your   starting position."
+],
+"category": "strength",
+"images": [
+  "Alternate_Incline_Dumbbell_Curl/0.jpg",
+  "Alternate_Incline_Dumbbell_Curl/1.jpg"
+]}
+```
+They can be found under [exercises](./exercises), if you wish to merge these into one single `JSON` document you can use [jq](https://stedolan.github.io/jq/) with the following command which will output an array of exercise objects into `all.json`
+
+```bash
+$ jq -s . **/*.json > all.json
+```
 
 ### Browsable frontend
 
