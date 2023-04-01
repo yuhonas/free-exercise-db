@@ -10,7 +10,7 @@ I started building another fitness related app and was looking for free/open sou
 
 ### What do they look like?
 
-All exercises are stored as seperate `JSON` documents in the following format eg. [Alternate_Incline_Dumbbell_Curl.json](./exercises/Alternate_Incline_Dumbbell_Curl.json)
+All exercises are stored as seperate `JSON` documents in the following format eg. [Alternate_Incline_Dumbbell_Curl.json](./exercises/Alternate_Incline_Dumbbell_Curl.json) and conform to the following [JSON Schema](./schema.json)
 
 ```json
 {
@@ -34,11 +34,26 @@ All exercises are stored as seperate `JSON` documents in the following format eg
   "Alternate_Incline_Dumbbell_Curl/1.jpg"
 ]}
 ```
-They can be found under [./exercises](./exercises), if you wish to merge these into one single `JSON` document you can use [jq](https://stedolan.github.io/jq/) with the following command which will output an array of exercise objects into `all.json`
+
+### How do I use them?
+
+You can use the JSON files independantly or combine them into a single JSON file containing an array of objects using the following make task
 
 ```bash
-$ jq -s . **/*.json > all.json
+$ make dist/exercises.nd.json
 ```
+_Note: requires [jq](https://stedolan.github.io/jq/)_
+
+### Importing into PostgreSQL
+
+To combine all JSON files into Newline Delimeted JSON suitable for import into PostgreSQL use the following make task
+
+```bash
+$ make dist/exercises.nd.json
+```
+_Note: requires [jq](https://stedolan.github.io/jq/)_
+
+See also [Makefile](./Makefile)
 
 ### Browsable frontend
 

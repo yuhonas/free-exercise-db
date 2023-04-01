@@ -4,6 +4,8 @@ lint:
 install:
 		pip install check-jsonschema
 dist/exercises.json: ./exercises/**.json
+		# requires jq
+		# brew install jq (for macos)
 		jq -s '.' ./exercises/**.json > ./dist/exercises.json
 dist/exercises.nd.json: ./exercises/**.json
 		# output to new line delimited JSON
