@@ -10,7 +10,7 @@ I started building another fitness related app and was looking for free/open sou
 
 ### What do they look like?
 
-All exercises are stored as seperate `JSON` documents in the following format eg. [Alternate_Incline_Dumbbell_Curl.json](./exercises/Alternate_Incline_Dumbbell_Curl.json) and conform to the following [JSON Schema](./schema.json)
+All exercises are stored as seperate `JSON` documents and conform to the following [JSON Schema](./schema.json) eg.
 
 ```json
 {
@@ -34,13 +34,14 @@ All exercises are stored as seperate `JSON` documents in the following format eg
   "Alternate_Incline_Dumbbell_Curl/1.jpg"
 ]}
 ```
-
+See [Alternate_Incline_Dumbbell_Curl.json](./exercises/Alternate_Incline_Dumbbell_Curl.json) 
+ 
 ### How do I use them?
 
 You can use the JSON files independantly or combine them into a single JSON file containing an array of objects using the following make task
 
 ```bash
-$ make dist/exercises.nd.json
+$ make dist/exercises.json
 ```
 _Note: requires [jq](https://stedolan.github.io/jq/)_
 
