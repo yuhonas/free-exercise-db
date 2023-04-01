@@ -1,5 +1,5 @@
-## Free Exercise DB 💪  
-[![Lint & Deploy Site to Github Pages](https://github.com/yuhonas/free-exercise-db/actions/workflows/build-site.yaml/badge.svg)](https://github.com/yuhonas/free-exercise-db/actions/workflows/build-site.yaml)
+## Free Exercise DB 💪  &nbsp; [![Lint & Deploy Site to Github Pages](https://github.com/yuhonas/free-exercise-db/actions/workflows/build-site.yaml/badge.svg)](https://github.com/yuhonas/free-exercise-db/actions/workflows/build-site.yaml)
+
 
 Open Public Domain Exercise Dataset in `JSON` format, over 800 exercises & images with a browsable public searchable frontend
 
