@@ -1,6 +1,6 @@
 ## Free Exercise DB
 
-Over 800+ exercises and imagery, Completely open Public Domain and in JSON format
+Open Public Domain Exercise Dataset in JSON format, over 800 exercises & images with a browsable public searchable frontend
 
 ### Why?
 
