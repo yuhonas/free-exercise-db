@@ -32,7 +32,6 @@ import SearchBar from './components/SearchBar.vue'
         <div class="flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
           <SearchBar />
         </div>
-      test
       </div>
     </section>
   </main>
