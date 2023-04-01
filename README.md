@@ -92,6 +92,14 @@ npm run test:e2e
 npm run lint
 ```
 
+### TODO
+
+The following fields are incomplete in _some_ JSON files and in such have had to allow `null` in the JSON Schema
+
+* force
+* mechanic
+* equipment
+
 ### Contribute
 Contributions are always welcome! Please read the contribution guidelines first.
 

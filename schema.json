@@ -1,0 +1,166 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "force": {
+      "type": [ "string", "null" ],
+      "enum": [
+        null,
+        "static",
+        "pull",
+        "push"
+      ]
+    },
+    "level": {
+      "type": "string",
+      "enum": [
+        "beginner",
+        "intermediate",
+        "expert"
+      ]
+    },
+    "mechanic": {
+      "type": [ "string", "null" ],
+      "enum": [
+        "isolation",
+        "compound",
+        null
+      ]
+    },
+    "equipment": {
+      "type": [ "string", "null" ],
+      "enum": [
+        null,
+        "medicine ball",
+        "dumbbell",
+        "body only",
+        "bands",
+        "kettlebells",
+        "foam roll",
+        "cable",
+        "machine",
+        "barbell",
+        "exercise ball",
+        "e-z curl bar",
+        "other"
+      ]
+    },
+    "primaryMuscles": {
+      "type": "array",
+      "items": [
+        {
+          "type": "string",
+          "enum": [
+            "abdominals",
+            "abductors",
+            "adductors",
+            "biceps",
+            "calves",
+            "chest",
+            "forearms",
+            "glutes",
+            "hamstrings",
+            "lats",
+            "lower back",
+            "middle back",
+            "neck",
+            "quadriceps",
+            "shoulders",
+            "traps",
+            "triceps"
+          ]
+        }
+      ]
+    },
+    "secondaryMuscles": {
+      "type": "array",
+      "items": [
+        {
+          "type": "string",
+          "enum": [
+            "abdominals",
+            "abductors",
+            "adductors",
+            "biceps",
+            "calves",
+            "chest",
+            "forearms",
+            "glutes",
+            "hamstrings",
+            "lats",
+            "lower back",
+            "middle back",
+            "neck",
+            "quadriceps",
+            "shoulders",
+            "traps",
+            "triceps"
+          ]
+        }
+      ]
+    },
+    "instructions": {
+      "type": "array",
+      "items": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        }
+      ]
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "powerlifting",
+        "strength",
+        "stretching",
+        "cardio",
+        "olympic weightlifting",
+        "strongman",
+        "plyometrics"
+      ]
+    },
+    "images": {
+      "type": "array",
+      "items": [
+        {
+          "type": "string"
+        }
+      ]
+    }
+  },
+  "required": [
+    "name",
+    "level",
+    "mechanic",
+    "equipment",
+    "primaryMuscles",
+    "secondaryMuscles",
+    "instructions",
+    "category",
+    "images"
+  ]
+}

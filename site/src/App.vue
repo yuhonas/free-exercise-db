@@ -22,7 +22,7 @@ import SearchBar from './components/SearchBar.vue'
           Free Exercise DB
         </h1>
         <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">
-          This is a frontend to a public domain open data set of over 800+ exercises and photo's, see the repository
+          This is a frontend to a public domain open data set of over 800+ exercises and photo's, see the <a href="https://www.github.com/yuhonas/free-exercise-db/" class="underline">repository</a>
           for more details including how to get the backend data, enjoy 💪
         </p>
         <!-- <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">

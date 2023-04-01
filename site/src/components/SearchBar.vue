@@ -1,5 +1,5 @@
 <script>
-import exercises from '../assets/exercises/all.json'
+import exercises from '../assets/exercises.json'
 import Fuse from 'fuse.js'
 
 export default {

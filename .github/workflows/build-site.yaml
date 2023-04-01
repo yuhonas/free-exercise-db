@@ -1,10 +1,10 @@
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
-defaults:
-  run:
-    shell: bash
-    working-directory: site
+# defaults:
+#   run:
+#     shell: bash
+#     working-directory: site
 
 env:
   VITE_BASE_DIR: /free-exercise-db/
@@ -29,8 +29,17 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  # Single deploy job since we're just deploying
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Install linting dependencies
+        run: make install
+      - name: Lint JSON to ensure it conforms with schema
+        run: make lint
   deploy:
+    needs: lint
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -46,8 +55,10 @@ jobs:
           cache-dependency-path: site/package-lock.json
       - name: Install dependencies
         run: npm install
+        working-directory: site
       - name: Build
         run: npm run build
+        working-directory: site
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
