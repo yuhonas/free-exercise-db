@@ -38,19 +38,19 @@ See [Alternate_Incline_Dumbbell_Curl.json](./exercises/Alternate_Incline_Dumbbel
  
 ### How do I use them?
 
-You can use the JSON files independantly or combine them into a single JSON file containing an array of objects using the following make task
+You can use the `JSON` files independantly or combine them into a single `JSON` file containing an array of objects using the following make task
 
-```bash
-$ make dist/exercises.json
+```sh
+make dist/exercises.json
 ```
 _Note: requires [jq](https://stedolan.github.io/jq/)_
 
 ### Importing into PostgreSQL
 
-To combine all JSON files into Newline Delimeted JSON suitable for import into PostgreSQL use the following make task
+To combine all `JSON` files into Newline Delimeted `JSON` suitable for import into PostgreSQL use the following make task
 
-```bash
-$ make dist/exercises.nd.json
+```sh
+make dist/exercises.nd.json
 ```
 _Note: requires [jq](https://stedolan.github.io/jq/)_
 
