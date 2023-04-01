@@ -1,4 +1,4 @@
-## Free Exercise DB
+## Free Exercise DB 💪
 
 Open Public Domain Exercise Dataset in `JSON` format, over 800 exercises & images with a browsable public searchable frontend
 
@@ -9,7 +9,7 @@ I started building another fitness related app and was looking for free/open sou
 
 ### What do they look like?
 
-All exercises are stored as seperate `JSON` documents in the following format 
+All exercises are stored as seperate `JSON` documents in the following format eg. [Alternate_Incline_Dumbbell_Curl.json](./exercises/Alternate_Incline_Dumbbell_Curl.json)
 
 ```json
 {
@@ -33,7 +33,7 @@ All exercises are stored as seperate `JSON` documents in the following format
   "Alternate_Incline_Dumbbell_Curl/1.jpg"
 ]}
 ```
-They can be found under [exercises](./exercises), if you wish to merge these into one single `JSON` document you can use [jq](https://stedolan.github.io/jq/) with the following command which will output an array of exercise objects into `all.json`
+They can be found under [./exercises](./exercises), if you wish to merge these into one single `JSON` document you can use [jq](https://stedolan.github.io/jq/) with the following command which will output an array of exercise objects into `all.json`
 
 ```bash
 $ jq -s . **/*.json > all.json
@@ -41,7 +41,9 @@ $ jq -s . **/*.json > all.json
 
 ### Browsable frontend
 
-There is a simple searchable/browsable frontend to the data written in [vuejs](https://vuejs.org/)  available at [https://yuhonas.github.io/free-exercise-db/](https://yuhonas.github.io/free-exercise-db/), all related code is in the [site](./site) directory
+<img src="./site/public/screenshot.png" alt="Screenshot of browsable frontend" width="500">
+
+There is a simple searchable/browsable frontend to the data written in [Vue.js](https://vuejs.org/)  available at [https://yuhonas.github.io/free-exercise-db/](https://yuhonas.github.io/free-exercise-db/), all related code is in the [./site](./site) directory
 
 
 #### Setup
