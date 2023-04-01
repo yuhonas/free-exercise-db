@@ -23,7 +23,7 @@ import SearchBar from './components/SearchBar.vue'
         </h1>
         <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">
           This is a frontend to a public domain open data set of over 800+ exercises and photo's, see the repository
-          for more details including how to get the backend data, enjoy 😀
+          for more details including how to get the backend data, enjoy 💪
         </p>
         <!-- <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">
           Over 800+ exercises, searchable, workoutable, unconditional free use of the data if

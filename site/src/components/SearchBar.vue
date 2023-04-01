@@ -81,7 +81,7 @@ export default {
           required
         />
         <button
-          type="submit"
+          type="button"
           class="text-white absolute right-2.5 bottom-2.5 bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-4 py-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
         >
           Search
@@ -90,7 +90,7 @@ export default {
     </form>
     <a
       v-for="exercise in paginatedItems"
-      href="#"
+      href=""
       class="flex flex-col mt-4 items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
     >
       <img
