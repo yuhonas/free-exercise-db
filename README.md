@@ -34,8 +34,8 @@ All exercises are stored as seperate `JSON` documents and conform to the followi
   "Alternate_Incline_Dumbbell_Curl/1.jpg"
 ]}
 ```
-See [Alternate_Incline_Dumbbell_Curl.json](./exercises/Alternate_Incline_Dumbbell_Curl.json) 
- 
+See [Alternate_Incline_Dumbbell_Curl.json](./exercises/Alternate_Incline_Dumbbell_Curl.json)
+
 ### How do I use them?
 
 You can use the `JSON` files independantly or combine them into a single `JSON` file containing an array of objects using the following make task
@@ -111,11 +111,20 @@ npm run lint
 
 ### TODO
 
-The following fields are incomplete in _some_ JSON files and in such have had to allow `null` in the JSON Schema
+The following fields are incomplete in _some_ JSON files and in such have had to allow `null` in [schema.json](./schema.json)
 
 * force
 * mechanic
 * equipment
+
+There are also a small number of duplicate images eg.
+
+```sh
+jdupes --summarize --recurse .
+
+Scanning: 2620 files, 874 items (in 1 specified)
+25 duplicate files (in 22 sets), occupying 809 KB
+```
 
 ### Contribute
 Contributions are always welcome! Please read the contribution guidelines first.

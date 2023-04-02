@@ -22,14 +22,7 @@ export default {
   methods: {
     totalPages() {
       return Math.ceil(this.searchResults.length / this.pageSize)
-    },
-    // pages() {
-    //   const pages = []
-    //   for (let i = 0; i < this.totalPages; i++) {
-    //     pages.push(i)
-    //   }
-    //   return pages
-    // }
+    }
   },
   mounted() {
     window.addEventListener('scroll', () => {
@@ -105,6 +98,7 @@ export default {
 </form>
 <div id="infinite-list">
 <a v-for="exercise in paginatedItems"
+v-bind:key="exercise.name"
 href=""
 class="flex flex-col mt-4 items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
 >
@@ -123,35 +117,5 @@ class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none m
 </div>
 </a>
 </div>
-<!--
-  <nav aria-label="Page navigation example">
-    <ul class="inline-flex -space-x-px">
-      <li class="page-item" :class="{ disabled: currentPage === 0 }">
-        <a href="#" @click="prevPage" class="px-3 py-2 ml-0 leading-tight text-gray-500 bg-white border border-gray-300 rounded-l-lg hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">Previous</a>
-      </li>
-      <li>
-      </li>
-      <li class="page-item" v-for="page in pages" :key="page" :class="{ active: currentPage === page }">
-        <a class="px-3 py-2 leading-tight text-gray-500 bg-white border border-gray-300 hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white" href="#" @click="setPage(page)">{{ page + 1 }}</a>
-      </li>
-      <li class="page-item" :class="{ disabled: currentPage === totalPages - 1 }">
-        <a class="px-3 py-2 leading-tight text-gray-500 bg-white border border-gray-300 rounded-r-lg hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white" href="#" @click="nextPage">Next</a>
-      </li>
-    </ul>
-  </nav> -->
-
-  <!-- <nav>
-    <ul class="pagination">
-      <li class="page-item" :class="{ disabled: currentPage === 0 }">
-        <a class="page-link" href="#" @click="prevPage">Previous</a>
-      </li>
-      <li class="page-item" v-for="page in pages" :key="page" :class="{ active: currentPage === page }">
-        <a class="page-link" href="#" @click="setPage(page)">{{ page + 1 }}</a>
-      </li>
-      <li class="page-item" :class="{ disabled: currentPage === totalPages - 1 }">
-        <a class="page-link" href="#" @click="nextPage">Next</a>
-      </li>
-    </ul>
-  </nav> -->
 </div>
 </template>
