@@ -1,12 +1,14 @@
 <script>
 import exercises from '../assets/exercises.json'
 import Instructions from './Instructions.vue'
+import PhotoGallery from './PhotoGallery.vue'
 
 import Fuse from 'fuse.js'
 
 export default {
   components: {
-    Instructions
+    Instructions,
+    PhotoGallery
   },
   data() {
     return {
@@ -106,14 +108,17 @@ export default {
       <div
         v-for="exercise in paginatedItems"
         v-bind:key="exercise.name"
-        class="flex flex-col mt-4 items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
+        class="flex flex-col mt-4 items-center justify-between bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
       >
-        <img
-          :alt="exercise.name"
-          :src="`./exercises/${exercise.images[0]}`"
-          class="object-cover w-full ml-2 rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-l"
-        />
-        <div class="justify-between p-4 leading-normal">
+        <div class="w-full md:h-auto md:w-60">
+          <PhotoGallery :photos="exercise.images" />
+          <!-- <img
+            :alt="exercise.name"
+            :src="`./exercises/${exercise.images[0]}`"
+            class="w-full object-cover rounded-t-lg p-2"
+          /> -->
+        </div>
+        <div class="w-96 p-4 leading-normal">
           <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
             {{ exercise.name }}
           </h5>

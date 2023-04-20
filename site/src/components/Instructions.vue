@@ -51,7 +51,6 @@ export default {
 
 <style scoped>
 section.collapsed p {
-  /**Major Properties**/
   overflow: hidden;
   /* line-height: 2rem; */
   max-height: 6rem;
