@@ -1,5 +1,10 @@
 <script>
+import { ArrowPathIcon } from '@heroicons/vue/24/solid'
+
 export default {
+  components: {
+    ArrowPathIcon
+  },
   props: {
     photos: Array,
     required: true
@@ -23,10 +28,13 @@ export default {
 }
 </script>
 <template>
-  <a href="#" @click="nextPhoto">
-    <img
-      :src="`./exercises/${photos[currentIndex]}`"
-      class="w-full object-cover rounded-t-lg p-2"
-    />
-  </a>
+  <div class="relative">
+    <a href="#" @click="nextPhoto">
+      <img
+        :src="`./exercises/${photos[currentIndex]}`"
+        class="w-full object-cover rounded-t-lg p-2"
+      />
+    </a>
+    <ArrowPathIcon class="w-4 h-3 absolute top-4 left-4 text-white text-sm opacity-80" />
+  </div>
 </template>
