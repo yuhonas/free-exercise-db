@@ -14,5 +14,6 @@
     "Continue back and forth for several repetitions."
   ],
   "category": "plyometrics",
-  "images": ["Lateral_Bound/0.jpg", "Lateral_Bound/1.jpg"]
+  "images": ["Lateral_Bound/0.jpg", "Lateral_Bound/1.jpg"],
+  "id": "Lateral_Bound"
 }

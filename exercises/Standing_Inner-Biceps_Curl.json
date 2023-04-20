@@ -16,5 +16,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Standing_Inner-Biceps_Curl/0.jpg", "Standing_Inner-Biceps_Curl/1.jpg"]
+  "images": ["Standing_Inner-Biceps_Curl/0.jpg", "Standing_Inner-Biceps_Curl/1.jpg"],
+  "id": "Standing_Inner-Biceps_Curl"
 }

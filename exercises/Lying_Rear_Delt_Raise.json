@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions and then switch to the other arm."
   ],
   "category": "strength",
-  "images": ["Lying_Rear_Delt_Raise/0.jpg", "Lying_Rear_Delt_Raise/1.jpg"]
+  "images": ["Lying_Rear_Delt_Raise/0.jpg", "Lying_Rear_Delt_Raise/1.jpg"],
+  "id": "Lying_Rear_Delt_Raise"
 }

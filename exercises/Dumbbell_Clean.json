@@ -22,5 +22,6 @@
     "Upon receiving the weight in the squat position, extend the hips and knees to finish in a standing position with the weights on your shoulders."
   ],
   "category": "strength",
-  "images": ["Dumbbell_Clean/0.jpg", "Dumbbell_Clean/1.jpg"]
+  "images": ["Dumbbell_Clean/0.jpg", "Dumbbell_Clean/1.jpg"],
+  "id": "Dumbbell_Clean"
 }

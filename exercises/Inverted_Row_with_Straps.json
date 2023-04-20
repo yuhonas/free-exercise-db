@@ -13,5 +13,6 @@
     "Repeat for the desired number of repetitions."
   ],
   "category": "strength",
-  "images": ["Inverted_Row_with_Straps/0.jpg", "Inverted_Row_with_Straps/1.jpg"]
+  "images": ["Inverted_Row_with_Straps/0.jpg", "Inverted_Row_with_Straps/1.jpg"],
+  "id": "Inverted_Row_with_Straps"
 }

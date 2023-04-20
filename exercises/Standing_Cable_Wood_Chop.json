@@ -17,5 +17,6 @@
     "Then, reposition and repeat the same series of movements on the opposite side."
   ],
   "category": "strength",
-  "images": ["Standing_Cable_Wood_Chop/0.jpg", "Standing_Cable_Wood_Chop/1.jpg"]
+  "images": ["Standing_Cable_Wood_Chop/0.jpg", "Standing_Cable_Wood_Chop/1.jpg"],
+  "id": "Standing_Cable_Wood_Chop"
 }

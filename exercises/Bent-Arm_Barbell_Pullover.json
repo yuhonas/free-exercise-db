@@ -14,5 +14,6 @@
     "Hold the weight on the initial position for a second and repeat the motion for the prescribed number of repetitions."
   ],
   "category": "strength",
-  "images": ["Bent-Arm_Barbell_Pullover/0.jpg", "Bent-Arm_Barbell_Pullover/1.jpg"]
+  "images": ["Bent-Arm_Barbell_Pullover/0.jpg", "Bent-Arm_Barbell_Pullover/1.jpg"],
+  "id": "Bent-Arm_Barbell_Pullover"
 }

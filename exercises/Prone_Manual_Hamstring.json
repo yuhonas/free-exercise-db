@@ -12,5 +12,6 @@
     "Pause at the top, returning the leg to the starting position as your partner provides resistance going the other direction."
   ],
   "category": "strength",
-  "images": ["Prone_Manual_Hamstring/0.jpg", "Prone_Manual_Hamstring/1.jpg"]
+  "images": ["Prone_Manual_Hamstring/0.jpg", "Prone_Manual_Hamstring/1.jpg"],
+  "id": "Prone_Manual_Hamstring"
 }

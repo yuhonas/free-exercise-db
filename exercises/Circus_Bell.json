@@ -13,5 +13,6 @@
     "Carefully guide the bell back to the floor, keeping it under control as much as possible. It is best to perform this event on a thick rubber mat to prevent damage to the floor."
   ],
   "category": "strongman",
-  "images": ["Circus_Bell/0.jpg", "Circus_Bell/1.jpg"]
+  "images": ["Circus_Bell/0.jpg", "Circus_Bell/1.jpg"],
+  "id": "Circus_Bell"
 }

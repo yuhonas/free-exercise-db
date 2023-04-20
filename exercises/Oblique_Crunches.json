@@ -16,5 +16,6 @@
     "Continue alternating in this manner until all of the recommended repetitions for each side have been completed."
   ],
   "category": "strength",
-  "images": ["Oblique_Crunches/0.jpg", "Oblique_Crunches/1.jpg"]
+  "images": ["Oblique_Crunches/0.jpg", "Oblique_Crunches/1.jpg"],
+  "id": "Oblique_Crunches"
 }

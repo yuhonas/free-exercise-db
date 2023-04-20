@@ -13,5 +13,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Side_Lateral_Raise/0.jpg", "Side_Lateral_Raise/1.jpg"]
+  "images": ["Side_Lateral_Raise/0.jpg", "Side_Lateral_Raise/1.jpg"],
+  "id": "Side_Lateral_Raise"
 }

@@ -12,5 +12,6 @@
     "Reverse the motion, returning the torso to an upright position."
   ],
   "category": "powerlifting",
-  "images": ["Kneeling_Squat/0.jpg", "Kneeling_Squat/1.jpg"]
+  "images": ["Kneeling_Squat/0.jpg", "Kneeling_Squat/1.jpg"],
+  "id": "Kneeling_Squat"
 }

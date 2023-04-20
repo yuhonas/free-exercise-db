@@ -14,5 +14,6 @@
     "Repeat this motion for the prescribed amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Pullups/0.jpg", "Pullups/1.jpg"]
+  "images": ["Pullups/0.jpg", "Pullups/1.jpg"],
+  "id": "Pullups"
 }

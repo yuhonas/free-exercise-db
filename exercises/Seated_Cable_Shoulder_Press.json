@@ -13,5 +13,6 @@
     "You can also execute this movement with your back off the pad and alternate hands."
   ],
   "category": "strength",
-  "images": ["Seated_Cable_Shoulder_Press/0.jpg", "Seated_Cable_Shoulder_Press/1.jpg"]
+  "images": ["Seated_Cable_Shoulder_Press/0.jpg", "Seated_Cable_Shoulder_Press/1.jpg"],
+  "id": "Seated_Cable_Shoulder_Press"
 }

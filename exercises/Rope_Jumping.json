@@ -11,5 +11,6 @@
     "Rope jumping is exciting, challenges your coordination, and requires a lot of energy. A 150 lb person will burn about 350 calories jumping rope for 30 minutes, compared to over 450 calories running."
   ],
   "category": "cardio",
-  "images": ["Rope_Jumping/0.jpg", "Rope_Jumping/1.jpg"]
+  "images": ["Rope_Jumping/0.jpg", "Rope_Jumping/1.jpg"],
+  "id": "Rope_Jumping"
 }

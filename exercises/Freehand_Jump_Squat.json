@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Freehand_Jump_Squat/0.jpg", "Freehand_Jump_Squat/1.jpg"]
+  "images": ["Freehand_Jump_Squat/0.jpg", "Freehand_Jump_Squat/1.jpg"],
+  "id": "Freehand_Jump_Squat"
 }

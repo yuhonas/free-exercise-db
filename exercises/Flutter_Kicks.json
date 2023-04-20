@@ -14,5 +14,6 @@
     "Continue alternating in this manner (as though you are doing a flutter kick in water) until you have done the recommended amount of repetitions for each leg. Make sure that you keep a controlled movement at all times. Tip: You will breathe normally as you perform this movement."
   ],
   "category": "strength",
-  "images": ["Flutter_Kicks/0.jpg", "Flutter_Kicks/1.jpg"]
+  "images": ["Flutter_Kicks/0.jpg", "Flutter_Kicks/1.jpg"],
+  "id": "Flutter_Kicks"
 }

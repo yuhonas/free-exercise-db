@@ -13,5 +13,6 @@
     "Return to the starting position without allowing the weight to fully rest on the stack."
   ],
   "category": "strength",
-  "images": ["Rope_Straight-Arm_Pulldown/0.jpg", "Rope_Straight-Arm_Pulldown/1.jpg"]
+  "images": ["Rope_Straight-Arm_Pulldown/0.jpg", "Rope_Straight-Arm_Pulldown/1.jpg"],
+  "id": "Rope_Straight-Arm_Pulldown"
 }

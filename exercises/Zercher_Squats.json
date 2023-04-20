@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Zercher_Squats/0.jpg", "Zercher_Squats/1.jpg"]
+  "images": ["Zercher_Squats/0.jpg", "Zercher_Squats/1.jpg"],
+  "id": "Zercher_Squats"
 }

@@ -15,5 +15,9 @@
     "Repeat for your prescribed number of repetitions and then repeat with the right leg."
   ],
   "category": "strength",
-  "images": ["Dumbbell_Seated_One-Leg_Calf_Raise/0.jpg", "Dumbbell_Seated_One-Leg_Calf_Raise/1.jpg"]
+  "images": [
+    "Dumbbell_Seated_One-Leg_Calf_Raise/0.jpg",
+    "Dumbbell_Seated_One-Leg_Calf_Raise/1.jpg"
+  ],
+  "id": "Dumbbell_Seated_One-Leg_Calf_Raise"
 }

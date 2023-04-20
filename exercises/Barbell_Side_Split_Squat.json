@@ -13,5 +13,6 @@
     "After performing the recommended amount of reps, repeat the movement with the opposite leg."
   ],
   "category": "strength",
-  "images": ["Barbell_Side_Split_Squat/0.jpg", "Barbell_Side_Split_Squat/1.jpg"]
+  "images": ["Barbell_Side_Split_Squat/0.jpg", "Barbell_Side_Split_Squat/1.jpg"],
+  "id": "Barbell_Side_Split_Squat"
 }

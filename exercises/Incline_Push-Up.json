@@ -12,5 +12,6 @@
     "Push body up until arms are extended. Repeat."
   ],
   "category": "strength",
-  "images": ["Incline_Push-Up/0.jpg", "Incline_Push-Up/1.jpg"]
+  "images": ["Incline_Push-Up/0.jpg", "Incline_Push-Up/1.jpg"],
+  "id": "Incline_Push-Up"
 }

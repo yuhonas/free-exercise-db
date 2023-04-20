@@ -13,5 +13,6 @@
     "Execute the movement by rotating your arm in a backhand motion, keeping your elbow in place."
   ],
   "category": "strength",
-  "images": ["External_Rotation_with_Cable/0.jpg", "External_Rotation_with_Cable/1.jpg"]
+  "images": ["External_Rotation_with_Cable/0.jpg", "External_Rotation_with_Cable/1.jpg"],
+  "id": "External_Rotation_with_Cable"
 }

@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Reverse_Grip_Triceps_Pushdown/0.jpg", "Reverse_Grip_Triceps_Pushdown/1.jpg"]
+  "images": ["Reverse_Grip_Triceps_Pushdown/0.jpg", "Reverse_Grip_Triceps_Pushdown/1.jpg"],
+  "id": "Reverse_Grip_Triceps_Pushdown"
 }

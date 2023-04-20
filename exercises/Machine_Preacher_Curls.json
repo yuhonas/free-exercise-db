@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Machine_Preacher_Curls/0.jpg", "Machine_Preacher_Curls/1.jpg"]
+  "images": ["Machine_Preacher_Curls/0.jpg", "Machine_Preacher_Curls/1.jpg"],
+  "id": "Machine_Preacher_Curls"
 }

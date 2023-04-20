@@ -12,5 +12,6 @@
     "After a brief pause, return to the starting position."
   ],
   "category": "strength",
-  "images": ["Cocoons/0.jpg", "Cocoons/1.jpg"]
+  "images": ["Cocoons/0.jpg", "Cocoons/1.jpg"],
+  "id": "Cocoons"
 }

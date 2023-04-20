@@ -13,5 +13,6 @@
     "Pause for a second after retrieving the kettlebell from the ground and reverse the motion back to the starting position."
   ],
   "category": "strength",
-  "images": ["Double_Kettlebell_Windmill/0.jpg", "Double_Kettlebell_Windmill/1.jpg"]
+  "images": ["Double_Kettlebell_Windmill/0.jpg", "Double_Kettlebell_Windmill/1.jpg"],
+  "id": "Double_Kettlebell_Windmill"
 }

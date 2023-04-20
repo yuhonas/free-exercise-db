@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions and then perform the same movement with the other arm."
   ],
   "category": "strength",
-  "images": ["Cable_One_Arm_Tricep_Extension/0.jpg", "Cable_One_Arm_Tricep_Extension/1.jpg"]
+  "images": ["Cable_One_Arm_Tricep_Extension/0.jpg", "Cable_One_Arm_Tricep_Extension/1.jpg"],
+  "id": "Cable_One_Arm_Tricep_Extension"
 }

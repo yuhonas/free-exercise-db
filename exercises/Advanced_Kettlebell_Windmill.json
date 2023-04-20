@@ -13,5 +13,6 @@
     "Pause for a second and reverse the motion back to the starting position."
   ],
   "category": "strength",
-  "images": ["Advanced_Kettlebell_Windmill/0.jpg", "Advanced_Kettlebell_Windmill/1.jpg"]
+  "images": ["Advanced_Kettlebell_Windmill/0.jpg", "Advanced_Kettlebell_Windmill/1.jpg"],
+  "id": "Advanced_Kettlebell_Windmill"
 }

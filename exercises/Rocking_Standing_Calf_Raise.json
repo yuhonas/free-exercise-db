@@ -17,5 +17,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Rocking_Standing_Calf_Raise/0.jpg", "Rocking_Standing_Calf_Raise/1.jpg"]
+  "images": ["Rocking_Standing_Calf_Raise/0.jpg", "Rocking_Standing_Calf_Raise/1.jpg"],
+  "id": "Rocking_Standing_Calf_Raise"
 }

@@ -13,5 +13,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Front_Two-Dumbbell_Raise/0.jpg", "Front_Two-Dumbbell_Raise/1.jpg"]
+  "images": ["Front_Two-Dumbbell_Raise/0.jpg", "Front_Two-Dumbbell_Raise/1.jpg"],
+  "id": "Front_Two-Dumbbell_Raise"
 }

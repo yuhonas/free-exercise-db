@@ -14,5 +14,6 @@
     "Absorb the impact by reverting back to the starting position."
   ],
   "category": "plyometrics",
-  "images": ["Split_Jump/0.jpg", "Split_Jump/1.jpg"]
+  "images": ["Split_Jump/0.jpg", "Split_Jump/1.jpg"],
+  "id": "Split_Jump"
 }

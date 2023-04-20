@@ -13,5 +13,6 @@
     "Repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Standing_Concentration_Curl/0.jpg", "Standing_Concentration_Curl/1.jpg"]
+  "images": ["Standing_Concentration_Curl/0.jpg", "Standing_Concentration_Curl/1.jpg"],
+  "id": "Standing_Concentration_Curl"
 }

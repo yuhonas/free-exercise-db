@@ -16,5 +16,6 @@
     "Switch sides and repeat the exercise."
   ],
   "category": "strength",
-  "images": ["Weighted_Ball_Side_Bend/0.jpg", "Weighted_Ball_Side_Bend/1.jpg"]
+  "images": ["Weighted_Ball_Side_Bend/0.jpg", "Weighted_Ball_Side_Bend/1.jpg"],
+  "id": "Weighted_Ball_Side_Bend"
 }

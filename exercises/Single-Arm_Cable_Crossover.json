@@ -14,5 +14,6 @@
     "Hold for a second at the starting position and repeat the movement on the opposite side. Continue alternating back and forth for the prescribed number of repetitions."
   ],
   "category": "strength",
-  "images": ["Single-Arm_Cable_Crossover/0.jpg", "Single-Arm_Cable_Crossover/1.jpg"]
+  "images": ["Single-Arm_Cable_Crossover/0.jpg", "Single-Arm_Cable_Crossover/1.jpg"],
+  "id": "Single-Arm_Cable_Crossover"
 }

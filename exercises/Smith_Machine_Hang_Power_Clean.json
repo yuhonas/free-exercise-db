@@ -15,5 +15,6 @@
     "Extend through the hips and knees to come to a standing position with the bar racked on your shoulders to complete the movement."
   ],
   "category": "strength",
-  "images": ["Smith_Machine_Hang_Power_Clean/0.jpg", "Smith_Machine_Hang_Power_Clean/1.jpg"]
+  "images": ["Smith_Machine_Hang_Power_Clean/0.jpg", "Smith_Machine_Hang_Power_Clean/1.jpg"],
+  "id": "Smith_Machine_Hang_Power_Clean"
 }

@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "stretching",
-  "images": ["Toe_Touchers/0.jpg", "Toe_Touchers/1.jpg"]
+  "images": ["Toe_Touchers/0.jpg", "Toe_Touchers/1.jpg"],
+  "id": "Toe_Touchers"
 }

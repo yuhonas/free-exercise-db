@@ -13,5 +13,6 @@
     "Hold the peak contraction for a moment before returning to the starting position."
   ],
   "category": "strength",
-  "images": ["Standing_Rope_Crunch/0.jpg", "Standing_Rope_Crunch/1.jpg"]
+  "images": ["Standing_Rope_Crunch/0.jpg", "Standing_Rope_Crunch/1.jpg"],
+  "id": "Standing_Rope_Crunch"
 }

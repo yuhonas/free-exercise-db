@@ -13,5 +13,6 @@
     "Repeat for the desired amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Kettlebell_Pirate_Ships/0.jpg", "Kettlebell_Pirate_Ships/1.jpg"]
+  "images": ["Kettlebell_Pirate_Ships/0.jpg", "Kettlebell_Pirate_Ships/1.jpg"],
+  "id": "Kettlebell_Pirate_Ships"
 }

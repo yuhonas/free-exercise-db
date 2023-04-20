@@ -8,5 +8,6 @@
   "secondaryMuscles": ["quadriceps", "triceps"],
   "instructions": [],
   "category": "olympic weightlifting",
-  "images": ["Push_Press/0.jpg", "Push_Press/1.jpg"]
+  "images": ["Push_Press/0.jpg", "Push_Press/1.jpg"],
+  "id": "Push_Press"
 }

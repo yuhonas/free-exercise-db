@@ -14,5 +14,6 @@
     "Hold for a second at the contracted position and repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Decline_Dumbbell_Flyes/0.jpg", "Decline_Dumbbell_Flyes/1.jpg"]
+  "images": ["Decline_Dumbbell_Flyes/0.jpg", "Decline_Dumbbell_Flyes/1.jpg"],
+  "id": "Decline_Dumbbell_Flyes"
 }

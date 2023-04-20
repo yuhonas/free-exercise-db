@@ -14,5 +14,6 @@
     "Repeat for the desired number of repetitions."
   ],
   "category": "strength",
-  "images": ["Inverted_Row/0.jpg", "Inverted_Row/1.jpg"]
+  "images": ["Inverted_Row/0.jpg", "Inverted_Row/1.jpg"],
+  "id": "Inverted_Row"
 }

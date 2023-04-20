@@ -14,5 +14,6 @@
     "After a second pause at the contracted position, repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Push-Ups_With_Feet_Elevated/0.jpg", "Push-Ups_With_Feet_Elevated/1.jpg"]
+  "images": ["Push-Ups_With_Feet_Elevated/0.jpg", "Push-Ups_With_Feet_Elevated/1.jpg"],
+  "id": "Push-Ups_With_Feet_Elevated"
 }

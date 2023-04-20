@@ -14,5 +14,6 @@
     "Once all of the recommended amount of repetitions have been performed for this arm, switch arms and perform the exercise with the right one."
   ],
   "category": "strength",
-  "images": ["Front_Cable_Raise/0.jpg", "Front_Cable_Raise/1.jpg"]
+  "images": ["Front_Cable_Raise/0.jpg", "Front_Cable_Raise/1.jpg"],
+  "id": "Front_Cable_Raise"
 }

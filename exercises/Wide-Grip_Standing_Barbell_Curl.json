@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Wide-Grip_Standing_Barbell_Curl/0.jpg", "Wide-Grip_Standing_Barbell_Curl/1.jpg"]
+  "images": ["Wide-Grip_Standing_Barbell_Curl/0.jpg", "Wide-Grip_Standing_Barbell_Curl/1.jpg"],
+  "id": "Wide-Grip_Standing_Barbell_Curl"
 }

@@ -12,5 +12,6 @@
     "Reverse the motion by flexing the wrist, rolling the opposite direction. Continue the alternating motion until failure."
   ],
   "category": "strength",
-  "images": ["Wrist_Rotations_with_Straight_Bar/0.jpg", "Wrist_Rotations_with_Straight_Bar/1.jpg"]
+  "images": ["Wrist_Rotations_with_Straight_Bar/0.jpg", "Wrist_Rotations_with_Straight_Bar/1.jpg"],
+  "id": "Wrist_Rotations_with_Straight_Bar"
 }

@@ -14,5 +14,6 @@
     "Carefully jump down to the other side of the box, and continue going back and forth for several repetitions."
   ],
   "category": "plyometrics",
-  "images": ["Lateral_Box_Jump/0.jpg", "Lateral_Box_Jump/1.jpg"]
+  "images": ["Lateral_Box_Jump/0.jpg", "Lateral_Box_Jump/1.jpg"],
+  "id": "Lateral_Box_Jump"
 }

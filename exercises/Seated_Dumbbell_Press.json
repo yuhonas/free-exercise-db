@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Seated_Dumbbell_Press/0.jpg", "Seated_Dumbbell_Press/1.jpg"]
+  "images": ["Seated_Dumbbell_Press/0.jpg", "Seated_Dumbbell_Press/1.jpg"],
+  "id": "Seated_Dumbbell_Press"
 }

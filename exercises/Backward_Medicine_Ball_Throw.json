@@ -13,5 +13,6 @@
     "Your partner can then roll the ball back to you. Repeat for the desired number of repetitions."
   ],
   "category": "plyometrics",
-  "images": ["Backward_Medicine_Ball_Throw/0.jpg", "Backward_Medicine_Ball_Throw/1.jpg"]
+  "images": ["Backward_Medicine_Ball_Throw/0.jpg", "Backward_Medicine_Ball_Throw/1.jpg"],
+  "id": "Backward_Medicine_Ball_Throw"
 }

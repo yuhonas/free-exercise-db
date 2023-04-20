@@ -12,5 +12,6 @@
     "As you do, swing your arms up and over your head, keeping them extended, releasing the ball at the peak of your movement. The goal is to throw the ball the greatest distance behind you."
   ],
   "category": "plyometrics",
-  "images": ["Medicine_Ball_Scoop_Throw/0.jpg", "Medicine_Ball_Scoop_Throw/1.jpg"]
+  "images": ["Medicine_Ball_Scoop_Throw/0.jpg", "Medicine_Ball_Scoop_Throw/1.jpg"],
+  "id": "Medicine_Ball_Scoop_Throw"
 }

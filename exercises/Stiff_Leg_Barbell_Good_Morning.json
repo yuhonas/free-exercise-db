@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Stiff_Leg_Barbell_Good_Morning/0.jpg", "Stiff_Leg_Barbell_Good_Morning/1.jpg"]
+  "images": ["Stiff_Leg_Barbell_Good_Morning/0.jpg", "Stiff_Leg_Barbell_Good_Morning/1.jpg"],
+  "id": "Stiff_Leg_Barbell_Good_Morning"
 }

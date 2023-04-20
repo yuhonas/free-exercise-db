@@ -12,5 +12,9 @@
     "Pause at the bottom position for a second before rising back to the top, driving through the heels of your feet."
   ],
   "category": "strength",
-  "images": ["One-Arm_Overhead_Kettlebell_Squats/0.jpg", "One-Arm_Overhead_Kettlebell_Squats/1.jpg"]
+  "images": [
+    "One-Arm_Overhead_Kettlebell_Squats/0.jpg",
+    "One-Arm_Overhead_Kettlebell_Squats/1.jpg"
+  ],
+  "id": "One-Arm_Overhead_Kettlebell_Squats"
 }

@@ -14,5 +14,6 @@
     "Pause briefly, and explode off of the box, extending through the hips and knees."
   ],
   "category": "powerlifting",
-  "images": ["Speed_Box_Squat/0.jpg", "Speed_Box_Squat/1.jpg"]
+  "images": ["Speed_Box_Squat/0.jpg", "Speed_Box_Squat/1.jpg"],
+  "id": "Speed_Box_Squat"
 }

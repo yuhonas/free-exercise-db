@@ -14,5 +14,6 @@
     "Continue alternating sides in this manner until all prescribed repetitions are done."
   ],
   "category": "strength",
-  "images": ["Alternate_Heel_Touchers/0.jpg", "Alternate_Heel_Touchers/1.jpg"]
+  "images": ["Alternate_Heel_Touchers/0.jpg", "Alternate_Heel_Touchers/1.jpg"],
+  "id": "Alternate_Heel_Touchers"
 }

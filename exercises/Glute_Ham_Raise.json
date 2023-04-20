@@ -12,5 +12,6 @@
     "Return to the starting position, keeping your descent under control."
   ],
   "category": "powerlifting",
-  "images": ["Glute_Ham_Raise/0.jpg", "Glute_Ham_Raise/1.jpg"]
+  "images": ["Glute_Ham_Raise/0.jpg", "Glute_Ham_Raise/1.jpg"],
+  "id": "Glute_Ham_Raise"
 }

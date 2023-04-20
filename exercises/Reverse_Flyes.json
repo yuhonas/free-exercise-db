@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Reverse_Flyes/0.jpg", "Reverse_Flyes/1.jpg"]
+  "images": ["Reverse_Flyes/0.jpg", "Reverse_Flyes/1.jpg"],
+  "id": "Reverse_Flyes"
 }

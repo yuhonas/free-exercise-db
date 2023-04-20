@@ -12,5 +12,6 @@
     "Extend through the elbow to straighten your arm, keeping your upper arm in place. Pause at the top of the motion, and return to the starting position."
   ],
   "category": "strength",
-  "images": ["Band_Skull_Crusher/0.jpg", "Band_Skull_Crusher/1.jpg"]
+  "images": ["Band_Skull_Crusher/0.jpg", "Band_Skull_Crusher/1.jpg"],
+  "id": "Band_Skull_Crusher"
 }

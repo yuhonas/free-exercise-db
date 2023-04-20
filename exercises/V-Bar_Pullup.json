@@ -14,5 +14,6 @@
     "Repeat for the prescribed number of repetitions."
   ],
   "category": "strength",
-  "images": ["V-Bar_Pullup/0.jpg", "V-Bar_Pullup/1.jpg"]
+  "images": ["V-Bar_Pullup/0.jpg", "V-Bar_Pullup/1.jpg"],
+  "id": "V-Bar_Pullup"
 }

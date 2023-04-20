@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Plate_Twist/0.jpg", "Plate_Twist/1.jpg"]
+  "images": ["Plate_Twist/0.jpg", "Plate_Twist/1.jpg"],
+  "id": "Plate_Twist"
 }

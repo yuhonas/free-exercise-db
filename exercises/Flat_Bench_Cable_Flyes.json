@@ -16,5 +16,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Flat_Bench_Cable_Flyes/0.jpg", "Flat_Bench_Cable_Flyes/1.jpg"]
+  "images": ["Flat_Bench_Cable_Flyes/0.jpg", "Flat_Bench_Cable_Flyes/1.jpg"],
+  "id": "Flat_Bench_Cable_Flyes"
 }

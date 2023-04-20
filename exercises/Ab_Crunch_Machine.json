@@ -13,5 +13,6 @@
     "Repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Ab_Crunch_Machine/0.jpg", "Ab_Crunch_Machine/1.jpg"]
+  "images": ["Ab_Crunch_Machine/0.jpg", "Ab_Crunch_Machine/1.jpg"],
+  "id": "Ab_Crunch_Machine"
 }

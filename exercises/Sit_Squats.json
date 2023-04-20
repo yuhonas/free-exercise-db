@@ -12,5 +12,6 @@
     "Continue until you have squatted a portion of the way down, but are above parallel, and quickly reverse the motion until you return to the starting position. Repeat for 5-10 repetitions."
   ],
   "category": "stretching",
-  "images": ["Sit_Squats/0.jpg", "Sit_Squats/1.jpg"]
+  "images": ["Sit_Squats/0.jpg", "Sit_Squats/1.jpg"],
+  "id": "Sit_Squats"
 }

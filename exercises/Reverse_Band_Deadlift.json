@@ -14,5 +14,6 @@
     "Lower the bar by bending at the hips and guiding it to the floor."
   ],
   "category": "powerlifting",
-  "images": ["Reverse_Band_Deadlift/0.jpg", "Reverse_Band_Deadlift/1.jpg"]
+  "images": ["Reverse_Band_Deadlift/0.jpg", "Reverse_Band_Deadlift/1.jpg"],
+  "id": "Reverse_Band_Deadlift"
 }

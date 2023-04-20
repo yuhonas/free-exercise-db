@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions and then switch to the other arm."
   ],
   "category": "strength",
-  "images": ["External_Rotation/0.jpg", "External_Rotation/1.jpg"]
+  "images": ["External_Rotation/0.jpg", "External_Rotation/1.jpg"],
+  "id": "External_Rotation"
 }

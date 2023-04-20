@@ -14,5 +14,9 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Decline_Dumbbell_Triceps_Extension/0.jpg", "Decline_Dumbbell_Triceps_Extension/1.jpg"]
+  "images": [
+    "Decline_Dumbbell_Triceps_Extension/0.jpg",
+    "Decline_Dumbbell_Triceps_Extension/1.jpg"
+  ],
+  "id": "Decline_Dumbbell_Triceps_Extension"
 }

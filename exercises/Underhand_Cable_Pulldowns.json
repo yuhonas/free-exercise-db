@@ -15,5 +15,6 @@
     "Repeat this motion for the prescribed amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Underhand_Cable_Pulldowns/0.jpg", "Underhand_Cable_Pulldowns/1.jpg"]
+  "images": ["Underhand_Cable_Pulldowns/0.jpg", "Underhand_Cable_Pulldowns/1.jpg"],
+  "id": "Underhand_Cable_Pulldowns"
 }

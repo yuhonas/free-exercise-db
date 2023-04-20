@@ -12,5 +12,6 @@
     "After the bar crosses the knees, complete the lift by driving the hips into the bar until your hips and knees are extended."
   ],
   "category": "olympic weightlifting",
-  "images": ["Clean_Deadlift/0.jpg", "Clean_Deadlift/1.jpg"]
+  "images": ["Clean_Deadlift/0.jpg", "Clean_Deadlift/1.jpg"],
+  "id": "Clean_Deadlift"
 }

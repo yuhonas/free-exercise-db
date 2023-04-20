@@ -13,5 +13,6 @@
     "Return to the starting position and repeat to complete the set."
   ],
   "category": "strength",
-  "images": ["Anti-Gravity_Press/0.jpg", "Anti-Gravity_Press/1.jpg"]
+  "images": ["Anti-Gravity_Press/0.jpg", "Anti-Gravity_Press/1.jpg"],
+  "id": "Anti-Gravity_Press"
 }

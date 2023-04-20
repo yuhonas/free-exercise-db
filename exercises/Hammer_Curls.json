@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Hammer_Curls/0.jpg", "Hammer_Curls/1.jpg"]
+  "images": ["Hammer_Curls/0.jpg", "Hammer_Curls/1.jpg"],
+  "id": "Hammer_Curls"
 }

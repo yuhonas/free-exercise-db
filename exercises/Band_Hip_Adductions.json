@@ -15,5 +15,6 @@
     "Switch sides."
   ],
   "category": "strength",
-  "images": ["Band_Hip_Adductions/0.jpg", "Band_Hip_Adductions/1.jpg"]
+  "images": ["Band_Hip_Adductions/0.jpg", "Band_Hip_Adductions/1.jpg"],
+  "id": "Band_Hip_Adductions"
 }

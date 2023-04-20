@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Barbell_Rear_Delt_Row/0.jpg", "Barbell_Rear_Delt_Row/1.jpg"]
+  "images": ["Barbell_Rear_Delt_Row/0.jpg", "Barbell_Rear_Delt_Row/1.jpg"],
+  "id": "Barbell_Rear_Delt_Row"
 }

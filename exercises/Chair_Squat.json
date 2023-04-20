@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Chair_Squat/0.jpg", "Chair_Squat/1.jpg"]
+  "images": ["Chair_Squat/0.jpg", "Chair_Squat/1.jpg"],
+  "id": "Chair_Squat"
 }

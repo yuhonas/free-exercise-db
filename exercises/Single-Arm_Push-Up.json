@@ -13,5 +13,6 @@
     "Descend slowly, and reverse direction be extending the arm to return to the starting position."
   ],
   "category": "strength",
-  "images": ["Single-Arm_Push-Up/0.jpg", "Single-Arm_Push-Up/1.jpg"]
+  "images": ["Single-Arm_Push-Up/0.jpg", "Single-Arm_Push-Up/1.jpg"],
+  "id": "Single-Arm_Push-Up"
 }

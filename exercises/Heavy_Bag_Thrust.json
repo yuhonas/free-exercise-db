@@ -12,5 +12,6 @@
     "Receive the bag as it swings back by reversing these steps."
   ],
   "category": "plyometrics",
-  "images": ["Heavy_Bag_Thrust/0.jpg", "Heavy_Bag_Thrust/1.jpg"]
+  "images": ["Heavy_Bag_Thrust/0.jpg", "Heavy_Bag_Thrust/1.jpg"],
+  "id": "Heavy_Bag_Thrust"
 }

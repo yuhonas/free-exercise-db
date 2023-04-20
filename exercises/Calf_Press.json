@@ -13,5 +13,6 @@
     "After a brief pause, reverse the motion and repeat."
   ],
   "category": "strength",
-  "images": ["Calf_Press/0.jpg", "Calf_Press/1.jpg"]
+  "images": ["Calf_Press/0.jpg", "Calf_Press/1.jpg"],
+  "id": "Calf_Press"
 }

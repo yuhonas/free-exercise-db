@@ -12,5 +12,6 @@
     "Lower the bar by bending at the hips and guiding it to the floor."
   ],
   "category": "powerlifting",
-  "images": ["Deficit_Deadlift/0.jpg", "Deficit_Deadlift/1.jpg"]
+  "images": ["Deficit_Deadlift/0.jpg", "Deficit_Deadlift/1.jpg"],
+  "id": "Deficit_Deadlift"
 }

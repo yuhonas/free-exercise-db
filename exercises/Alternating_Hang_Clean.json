@@ -12,5 +12,6 @@
     "Lower the cleaned kettlebell to a hanging position and clean the alternate kettlebell. Repeat."
   ],
   "category": "strength",
-  "images": ["Alternating_Hang_Clean/0.jpg", "Alternating_Hang_Clean/1.jpg"]
+  "images": ["Alternating_Hang_Clean/0.jpg", "Alternating_Hang_Clean/1.jpg"],
+  "id": "Alternating_Hang_Clean"
 }

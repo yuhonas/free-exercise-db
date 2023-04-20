@@ -12,5 +12,6 @@
     "Perform fast skips by maintaining close contact with the ground and reduce air time, moving as quickly as possible."
   ],
   "category": "plyometrics",
-  "images": ["Fast_Skipping/0.jpg", "Fast_Skipping/1.jpg"]
+  "images": ["Fast_Skipping/0.jpg", "Fast_Skipping/1.jpg"],
+  "id": "Fast_Skipping"
 }

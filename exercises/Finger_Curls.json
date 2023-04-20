@@ -13,5 +13,6 @@
     "Now curl bar up as high as possible by closing your hands while exhaling. Hold the contraction at the top."
   ],
   "category": "strength",
-  "images": ["Finger_Curls/0.jpg", "Finger_Curls/1.jpg"]
+  "images": ["Finger_Curls/0.jpg", "Finger_Curls/1.jpg"],
+  "id": "Finger_Curls"
 }

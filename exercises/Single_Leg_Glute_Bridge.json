@@ -13,5 +13,6 @@
     "Extend as far as possible, pause and then return to the starting position."
   ],
   "category": "strength",
-  "images": ["Single_Leg_Glute_Bridge/0.jpg", "Single_Leg_Glute_Bridge/1.jpg"]
+  "images": ["Single_Leg_Glute_Bridge/0.jpg", "Single_Leg_Glute_Bridge/1.jpg"],
+  "id": "Single_Leg_Glute_Bridge"
 }

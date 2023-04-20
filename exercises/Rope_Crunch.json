@@ -14,5 +14,6 @@
     "These can be done with twists or to the side to hit the obliques."
   ],
   "category": "strength",
-  "images": ["Rope_Crunch/0.jpg", "Rope_Crunch/1.jpg"]
+  "images": ["Rope_Crunch/0.jpg", "Rope_Crunch/1.jpg"],
+  "id": "Rope_Crunch"
 }

@@ -16,5 +16,6 @@
     "Repeat on the opposite side, alternating until the set is complete."
   ],
   "category": "strength",
-  "images": ["Dead_Bug/0.jpg", "Dead_Bug/1.jpg"]
+  "images": ["Dead_Bug/0.jpg", "Dead_Bug/1.jpg"],
+  "id": "Dead_Bug"
 }

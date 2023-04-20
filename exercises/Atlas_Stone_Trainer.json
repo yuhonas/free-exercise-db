@@ -13,5 +13,6 @@
     "Finish the movement by extending through your hips and knees to raise the weight as high as possible. The weight can be returned to the lap or to the ground for successive repetitions."
   ],
   "category": "strongman",
-  "images": ["Atlas_Stone_Trainer/0.jpg", "Atlas_Stone_Trainer/1.jpg"]
+  "images": ["Atlas_Stone_Trainer/0.jpg", "Atlas_Stone_Trainer/1.jpg"],
+  "id": "Atlas_Stone_Trainer"
 }

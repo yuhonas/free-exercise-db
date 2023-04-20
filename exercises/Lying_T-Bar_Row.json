@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Lying_T-Bar_Row/0.jpg", "Lying_T-Bar_Row/1.jpg"]
+  "images": ["Lying_T-Bar_Row/0.jpg", "Lying_T-Bar_Row/1.jpg"],
+  "id": "Lying_T-Bar_Row"
 }

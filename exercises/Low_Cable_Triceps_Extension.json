@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Low_Cable_Triceps_Extension/0.jpg", "Low_Cable_Triceps_Extension/1.jpg"]
+  "images": ["Low_Cable_Triceps_Extension/0.jpg", "Low_Cable_Triceps_Extension/1.jpg"],
+  "id": "Low_Cable_Triceps_Extension"
 }

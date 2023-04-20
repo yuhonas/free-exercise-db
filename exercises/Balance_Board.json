@@ -12,5 +12,6 @@
     "Hold the balance for as long as desired."
   ],
   "category": "strength",
-  "images": ["Balance_Board/0.jpg", "Balance_Board/1.jpg"]
+  "images": ["Balance_Board/0.jpg", "Balance_Board/1.jpg"],
+  "id": "Balance_Board"
 }

@@ -14,5 +14,6 @@
     "Perform the same exercise now for the left leg."
   ],
   "category": "strength",
-  "images": ["Standing_Leg_Curl/0.jpg", "Standing_Leg_Curl/1.jpg"]
+  "images": ["Standing_Leg_Curl/0.jpg", "Standing_Leg_Curl/1.jpg"],
+  "id": "Standing_Leg_Curl"
 }

@@ -13,5 +13,6 @@
     "Measure the distance from your landing point to the starting point and track results."
   ],
   "category": "plyometrics",
-  "images": ["Standing_Long_Jump/0.jpg", "Standing_Long_Jump/1.jpg"]
+  "images": ["Standing_Long_Jump/0.jpg", "Standing_Long_Jump/1.jpg"],
+  "id": "Standing_Long_Jump"
 }

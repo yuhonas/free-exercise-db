@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Smith_Machine_Upright_Row/0.jpg", "Smith_Machine_Upright_Row/1.jpg"]
+  "images": ["Smith_Machine_Upright_Row/0.jpg", "Smith_Machine_Upright_Row/1.jpg"],
+  "id": "Smith_Machine_Upright_Row"
 }

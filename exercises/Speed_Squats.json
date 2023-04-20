@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Speed_Squats/0.jpg", "Speed_Squats/1.jpg"]
+  "images": ["Speed_Squats/0.jpg", "Speed_Squats/1.jpg"],
+  "id": "Speed_Squats"
 }

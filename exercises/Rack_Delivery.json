@@ -12,5 +12,6 @@
     "It is important that the bar stay close to the body at all times, as with a heavier load any distance will result in an unwanted collision. As the movement becomes smoother, speed and load can be increased before progressing further."
   ],
   "category": "olympic weightlifting",
-  "images": ["Rack_Delivery/0.jpg", "Rack_Delivery/1.jpg"]
+  "images": ["Rack_Delivery/0.jpg", "Rack_Delivery/1.jpg"],
+  "id": "Rack_Delivery"
 }

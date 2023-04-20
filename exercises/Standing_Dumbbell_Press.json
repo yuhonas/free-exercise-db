@@ -12,5 +12,6 @@
     "Pause, and slowly return the weight to the starting position."
   ],
   "category": "strength",
-  "images": ["Standing_Dumbbell_Press/0.jpg", "Standing_Dumbbell_Press/1.jpg"]
+  "images": ["Standing_Dumbbell_Press/0.jpg", "Standing_Dumbbell_Press/1.jpg"],
+  "id": "Standing_Dumbbell_Press"
 }

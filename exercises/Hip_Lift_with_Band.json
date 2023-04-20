@@ -13,5 +13,6 @@
     "Pause at the top of the motion, and return to the starting position."
   ],
   "category": "powerlifting",
-  "images": ["Hip_Lift_with_Band/0.jpg", "Hip_Lift_with_Band/1.jpg"]
+  "images": ["Hip_Lift_with_Band/0.jpg", "Hip_Lift_with_Band/1.jpg"],
+  "id": "Hip_Lift_with_Band"
 }

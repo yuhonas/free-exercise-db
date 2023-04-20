@@ -16,5 +16,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Frog_Sit-Ups/0.jpg", "Frog_Sit-Ups/1.jpg"]
+  "images": ["Frog_Sit-Ups/0.jpg", "Frog_Sit-Ups/1.jpg"],
+  "id": "Frog_Sit-Ups"
 }

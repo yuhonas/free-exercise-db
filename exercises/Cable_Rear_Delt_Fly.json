@@ -13,5 +13,6 @@
     "Pause at the end of the motion before returning the handles to the start position."
   ],
   "category": "strength",
-  "images": ["Cable_Rear_Delt_Fly/0.jpg", "Cable_Rear_Delt_Fly/1.jpg"]
+  "images": ["Cable_Rear_Delt_Fly/0.jpg", "Cable_Rear_Delt_Fly/1.jpg"],
+  "id": "Cable_Rear_Delt_Fly"
 }

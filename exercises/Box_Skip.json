@@ -14,5 +14,6 @@
     "Then, step to the next box and repeat."
   ],
   "category": "plyometrics",
-  "images": ["Box_Skip/0.jpg", "Box_Skip/1.jpg"]
+  "images": ["Box_Skip/0.jpg", "Box_Skip/1.jpg"],
+  "id": "Box_Skip"
 }

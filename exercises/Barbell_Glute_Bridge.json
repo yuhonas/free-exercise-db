@@ -12,5 +12,6 @@
     "Extend as far as possible, then reverse the motion to return to the starting position."
   ],
   "category": "powerlifting",
-  "images": ["Barbell_Glute_Bridge/0.jpg", "Barbell_Glute_Bridge/1.jpg"]
+  "images": ["Barbell_Glute_Bridge/0.jpg", "Barbell_Glute_Bridge/1.jpg"],
+  "id": "Barbell_Glute_Bridge"
 }

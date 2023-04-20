@@ -14,5 +14,6 @@
     "Return the weights to the starting position and continue alternating to the front and side."
   ],
   "category": "strength",
-  "images": ["Alternating_Deltoid_Raise/0.jpg", "Alternating_Deltoid_Raise/1.jpg"]
+  "images": ["Alternating_Deltoid_Raise/0.jpg", "Alternating_Deltoid_Raise/1.jpg"],
+  "id": "Alternating_Deltoid_Raise"
 }

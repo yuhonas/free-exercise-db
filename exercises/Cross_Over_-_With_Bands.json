@@ -15,5 +15,6 @@
     "Perform for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Cross_Over_-_With_Bands/0.jpg", "Cross_Over_-_With_Bands/1.jpg"]
+  "images": ["Cross_Over_-_With_Bands/0.jpg", "Cross_Over_-_With_Bands/1.jpg"],
+  "id": "Cross_Over_-_With_Bands"
 }

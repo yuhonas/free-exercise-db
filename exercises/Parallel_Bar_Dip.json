@@ -13,5 +13,6 @@
     "Repeat for the desired number of repetitions."
   ],
   "category": "strength",
-  "images": ["Parallel_Bar_Dip/0.jpg", "Parallel_Bar_Dip/1.jpg"]
+  "images": ["Parallel_Bar_Dip/0.jpg", "Parallel_Bar_Dip/1.jpg"],
+  "id": "Parallel_Bar_Dip"
 }

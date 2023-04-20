@@ -16,5 +16,6 @@
     "When you are done, place the dumbbells back on your thighs and then on the floor. This is the safest manner to release the dumbbells."
   ],
   "category": "strength",
-  "images": ["Incline_Dumbbell_Press/0.jpg", "Incline_Dumbbell_Press/1.jpg"]
+  "images": ["Incline_Dumbbell_Press/0.jpg", "Incline_Dumbbell_Press/1.jpg"],
+  "id": "Incline_Dumbbell_Press"
 }

@@ -12,5 +12,6 @@
     "With good posture, drop from the platforms by pressing up and moving your hands to shoulder width, cushioning your landing by absorbing the impact through the arm."
   ],
   "category": "plyometrics",
-  "images": ["Drop_Push/0.jpg", "Drop_Push/1.jpg"]
+  "images": ["Drop_Push/0.jpg", "Drop_Push/1.jpg"],
+  "id": "Drop_Push"
 }

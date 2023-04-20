@@ -13,5 +13,6 @@
     "Return your arms back to the starting position after a brief pause."
   ],
   "category": "strength",
-  "images": ["Low_Cable_Crossover/0.jpg", "Low_Cable_Crossover/1.jpg"]
+  "images": ["Low_Cable_Crossover/0.jpg", "Low_Cable_Crossover/1.jpg"],
+  "id": "Low_Cable_Crossover"
 }

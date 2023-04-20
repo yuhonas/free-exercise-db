@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Reverse_Grip_Bent-Over_Rows/0.jpg", "Reverse_Grip_Bent-Over_Rows/1.jpg"]
+  "images": ["Reverse_Grip_Bent-Over_Rows/0.jpg", "Reverse_Grip_Bent-Over_Rows/1.jpg"],
+  "id": "Reverse_Grip_Bent-Over_Rows"
 }

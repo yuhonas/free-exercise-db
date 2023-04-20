@@ -15,5 +15,6 @@
     "At the conclusion of the set, repeat facing the other direction."
   ],
   "category": "strength",
-  "images": ["Pallof_Press/0.jpg", "Pallof_Press/1.jpg"]
+  "images": ["Pallof_Press/0.jpg", "Pallof_Press/1.jpg"],
+  "id": "Pallof_Press"
 }

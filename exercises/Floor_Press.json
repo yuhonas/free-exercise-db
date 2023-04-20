@@ -12,5 +12,6 @@
     "Press the bar back up as fast as you can, keeping the bar, your wrists, and elbows in line as you do so."
   ],
   "category": "powerlifting",
-  "images": ["Floor_Press/0.jpg", "Floor_Press/1.jpg"]
+  "images": ["Floor_Press/0.jpg", "Floor_Press/1.jpg"],
+  "id": "Floor_Press"
 }

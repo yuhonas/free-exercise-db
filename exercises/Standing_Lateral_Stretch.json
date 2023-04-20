@@ -13,5 +13,6 @@
     "Keep your weight evenly distributed between both legs (don't lean into your left hip). Switch sides."
   ],
   "category": "stretching",
-  "images": ["Standing_Lateral_Stretch/0.jpg", "Standing_Lateral_Stretch/1.jpg"]
+  "images": ["Standing_Lateral_Stretch/0.jpg", "Standing_Lateral_Stretch/1.jpg"],
+  "id": "Standing_Lateral_Stretch"
 }

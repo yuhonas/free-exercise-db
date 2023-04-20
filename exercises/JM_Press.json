@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["JM_Press/0.jpg", "JM_Press/1.jpg"]
+  "images": ["JM_Press/0.jpg", "JM_Press/1.jpg"],
+  "id": "JM_Press"
 }

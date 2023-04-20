@@ -13,5 +13,6 @@
     "Pause at the top of the motion, and return to the starting position."
   ],
   "category": "strength",
-  "images": ["Standing_Cable_Chest_Press/0.jpg", "Standing_Cable_Chest_Press/1.jpg"]
+  "images": ["Standing_Cable_Chest_Press/0.jpg", "Standing_Cable_Chest_Press/1.jpg"],
+  "id": "Standing_Cable_Chest_Press"
 }

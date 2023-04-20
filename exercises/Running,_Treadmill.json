@@ -11,5 +11,6 @@
     "Treadmills offer convenience, cardiovascular benefits, and usually have less impact than running outside. A 150 lb person will burn over 450 calories running 8 miles per hour for 30 minutes. Maintain proper posture as you run, and only hold onto the handles when necessary, such as when dismounting or checking your heart rate."
   ],
   "category": "cardio",
-  "images": ["Running,_Treadmill/0.jpg", "Running,_Treadmill/1.jpg"]
+  "images": ["Running,_Treadmill/0.jpg", "Running,_Treadmill/1.jpg"],
+  "id": "Running_Treadmill"
 }

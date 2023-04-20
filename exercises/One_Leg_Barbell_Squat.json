@@ -16,5 +16,6 @@
     "Switch legs and repeat the movement."
   ],
   "category": "strength",
-  "images": ["One_Leg_Barbell_Squat/0.jpg", "One_Leg_Barbell_Squat/1.jpg"]
+  "images": ["One_Leg_Barbell_Squat/0.jpg", "One_Leg_Barbell_Squat/1.jpg"],
+  "id": "One_Leg_Barbell_Squat"
 }

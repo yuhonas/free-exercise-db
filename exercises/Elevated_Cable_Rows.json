@@ -16,5 +16,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Elevated_Cable_Rows/0.jpg", "Elevated_Cable_Rows/1.jpg"]
+  "images": ["Elevated_Cable_Rows/0.jpg", "Elevated_Cable_Rows/1.jpg"],
+  "id": "Elevated_Cable_Rows"
 }

@@ -8,5 +8,6 @@
   "secondaryMuscles": [],
   "instructions": [],
   "category": "strength",
-  "images": ["Side_Jackknife/0.jpg", "Side_Jackknife/1.jpg"]
+  "images": ["Side_Jackknife/0.jpg", "Side_Jackknife/1.jpg"],
+  "id": "Side_Jackknife"
 }

@@ -13,5 +13,6 @@
     "Repeat on the other side."
   ],
   "category": "plyometrics",
-  "images": ["Sledgehammer_Swings/0.jpg", "Sledgehammer_Swings/1.jpg"]
+  "images": ["Sledgehammer_Swings/0.jpg", "Sledgehammer_Swings/1.jpg"],
+  "id": "Sledgehammer_Swings"
 }

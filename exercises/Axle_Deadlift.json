@@ -13,5 +13,6 @@
     "Lower the bar by bending at the hips and guiding it to the floor."
   ],
   "category": "strongman",
-  "images": ["Axle_Deadlift/0.jpg", "Axle_Deadlift/1.jpg"]
+  "images": ["Axle_Deadlift/0.jpg", "Axle_Deadlift/1.jpg"],
+  "id": "Axle_Deadlift"
 }

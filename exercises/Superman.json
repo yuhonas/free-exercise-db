@@ -13,5 +13,6 @@
     "Repeat for the recommended amount of repetitions prescribed in your program."
   ],
   "category": "stretching",
-  "images": ["Superman/0.jpg", "Superman/1.jpg"]
+  "images": ["Superman/0.jpg", "Superman/1.jpg"],
+  "id": "Superman"
 }

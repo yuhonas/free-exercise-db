@@ -13,5 +13,6 @@
     "Squeeze the biceps hard for a second at the contracted position and repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Two-Arm_Dumbbell_Preacher_Curl/0.jpg", "Two-Arm_Dumbbell_Preacher_Curl/1.jpg"]
+  "images": ["Two-Arm_Dumbbell_Preacher_Curl/0.jpg", "Two-Arm_Dumbbell_Preacher_Curl/1.jpg"],
+  "id": "Two-Arm_Dumbbell_Preacher_Curl"
 }

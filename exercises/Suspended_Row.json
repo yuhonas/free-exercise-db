@@ -12,5 +12,6 @@
     "At the completion of the motion pause, and then return to the starting position."
   ],
   "category": "strength",
-  "images": ["Suspended_Row/0.jpg", "Suspended_Row/1.jpg"]
+  "images": ["Suspended_Row/0.jpg", "Suspended_Row/1.jpg"],
+  "id": "Suspended_Row"
 }

@@ -13,5 +13,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Barbell_Ab_Rollout/0.jpg", "Barbell_Ab_Rollout/1.jpg"]
+  "images": ["Barbell_Ab_Rollout/0.jpg", "Barbell_Ab_Rollout/1.jpg"],
+  "id": "Barbell_Ab_Rollout"
 }

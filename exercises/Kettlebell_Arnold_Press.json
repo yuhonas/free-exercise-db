@@ -12,5 +12,6 @@
     "Return the kettlebell to the starting position, with the palm facing in."
   ],
   "category": "strength",
-  "images": ["Kettlebell_Arnold_Press/0.jpg", "Kettlebell_Arnold_Press/1.jpg"]
+  "images": ["Kettlebell_Arnold_Press/0.jpg", "Kettlebell_Arnold_Press/1.jpg"],
+  "id": "Kettlebell_Arnold_Press"
 }

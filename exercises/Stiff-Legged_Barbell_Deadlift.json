@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Stiff-Legged_Barbell_Deadlift/0.jpg", "Stiff-Legged_Barbell_Deadlift/1.jpg"]
+  "images": ["Stiff-Legged_Barbell_Deadlift/0.jpg", "Stiff-Legged_Barbell_Deadlift/1.jpg"],
+  "id": "Stiff-Legged_Barbell_Deadlift"
 }

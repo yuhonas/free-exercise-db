@@ -14,5 +14,6 @@
     "Progress from bodyweight by adding chains over your shoulders."
   ],
   "category": "strength",
-  "images": ["Body_Tricep_Press/0.jpg", "Body_Tricep_Press/1.jpg"]
+  "images": ["Body_Tricep_Press/0.jpg", "Body_Tricep_Press/1.jpg"],
+  "id": "Body_Tricep_Press"
 }

@@ -11,5 +11,6 @@
     "Jump forward several feet, avoiding jumping unnecessarily high. As your feet contact the ground, absorb the impact through your legs, and jump again. Repeat this action 5-10 times."
   ],
   "category": "stretching",
-  "images": ["Frog_Hops/0.jpg", "Frog_Hops/1.jpg"]
+  "images": ["Frog_Hops/0.jpg", "Frog_Hops/1.jpg"],
+  "id": "Frog_Hops"
 }

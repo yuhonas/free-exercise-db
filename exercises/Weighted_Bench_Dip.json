@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Weighted_Bench_Dip/0.jpg", "Weighted_Bench_Dip/1.jpg"]
+  "images": ["Weighted_Bench_Dip/0.jpg", "Weighted_Bench_Dip/1.jpg"],
+  "id": "Weighted_Bench_Dip"
 }

@@ -13,5 +13,6 @@
     "Pause when the barbell touches your torso, and then drive the bar up with as much force as possible. The elbows should be tucked in until lockout."
   ],
   "category": "powerlifting",
-  "images": ["Bench_Press_-_Powerlifting/0.jpg", "Bench_Press_-_Powerlifting/1.jpg"]
+  "images": ["Bench_Press_-_Powerlifting/0.jpg", "Bench_Press_-_Powerlifting/1.jpg"],
+  "id": "Bench_Press_-_Powerlifting"
 }

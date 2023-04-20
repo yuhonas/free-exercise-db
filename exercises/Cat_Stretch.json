@@ -12,5 +12,6 @@
     "Hold for 15 seconds."
   ],
   "category": "stretching",
-  "images": ["Cat_Stretch/0.jpg", "Cat_Stretch/1.jpg"]
+  "images": ["Cat_Stretch/0.jpg", "Cat_Stretch/1.jpg"],
+  "id": "Cat_Stretch"
 }

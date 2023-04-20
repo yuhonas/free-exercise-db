@@ -12,5 +12,6 @@
     "Land facing the same direction with your feet hip width apart, absorbing the impact through your lower body."
   ],
   "category": "plyometrics",
-  "images": ["Side_Standing_Long_Jump/0.jpg", "Side_Standing_Long_Jump/1.jpg"]
+  "images": ["Side_Standing_Long_Jump/0.jpg", "Side_Standing_Long_Jump/1.jpg"],
+  "id": "Side_Standing_Long_Jump"
 }

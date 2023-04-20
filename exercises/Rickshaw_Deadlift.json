@@ -12,5 +12,6 @@
     "Lower the weight by bending at the hips and guiding it to the ground."
   ],
   "category": "strongman",
-  "images": ["Rickshaw_Deadlift/0.jpg", "Rickshaw_Deadlift/1.jpg"]
+  "images": ["Rickshaw_Deadlift/0.jpg", "Rickshaw_Deadlift/1.jpg"],
+  "id": "Rickshaw_Deadlift"
 }

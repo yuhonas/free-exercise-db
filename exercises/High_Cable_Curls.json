@@ -13,5 +13,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["High_Cable_Curls/0.jpg", "High_Cable_Curls/1.jpg"]
+  "images": ["High_Cable_Curls/0.jpg", "High_Cable_Curls/1.jpg"],
+  "id": "High_Cable_Curls"
 }

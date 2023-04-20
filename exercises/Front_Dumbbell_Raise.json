@@ -13,5 +13,6 @@
     "Continue alternating in this fashion until all of the recommended amount of repetitions have been performed for each arm."
   ],
   "category": "strength",
-  "images": ["Front_Dumbbell_Raise/0.jpg", "Front_Dumbbell_Raise/1.jpg"]
+  "images": ["Front_Dumbbell_Raise/0.jpg", "Front_Dumbbell_Raise/1.jpg"],
+  "id": "Front_Dumbbell_Raise"
 }

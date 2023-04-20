@@ -12,5 +12,6 @@
     "Continue until your elbow forms a 90 degree angle, and then reverse the motion by extending through the elbow to lockout."
   ],
   "category": "powerlifting",
-  "images": ["Chain_Press/0.jpg", "Chain_Press/1.jpg"]
+  "images": ["Chain_Press/0.jpg", "Chain_Press/1.jpg"],
+  "id": "Chain_Press"
 }

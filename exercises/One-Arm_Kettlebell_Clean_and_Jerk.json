@@ -15,5 +15,6 @@
     "Keeping the weight overhead, return to a standing position. Lower the weight to the floor to perform the next repetition."
   ],
   "category": "strength",
-  "images": ["One-Arm_Kettlebell_Clean_and_Jerk/0.jpg", "One-Arm_Kettlebell_Clean_and_Jerk/1.jpg"]
+  "images": ["One-Arm_Kettlebell_Clean_and_Jerk/0.jpg", "One-Arm_Kettlebell_Clean_and_Jerk/1.jpg"],
+  "id": "One-Arm_Kettlebell_Clean_and_Jerk"
 }

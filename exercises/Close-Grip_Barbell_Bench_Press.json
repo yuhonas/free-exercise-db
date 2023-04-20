@@ -14,5 +14,6 @@
     "When you are done, place the bar back in the rack."
   ],
   "category": "strength",
-  "images": ["Close-Grip_Barbell_Bench_Press/0.jpg", "Close-Grip_Barbell_Bench_Press/1.jpg"]
+  "images": ["Close-Grip_Barbell_Bench_Press/0.jpg", "Close-Grip_Barbell_Bench_Press/1.jpg"],
+  "id": "Close-Grip_Barbell_Bench_Press"
 }

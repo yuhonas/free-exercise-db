@@ -13,5 +13,6 @@
     "Step down and return to the starting position."
   ],
   "category": "plyometrics",
-  "images": ["Dumbbell_Seated_Box_Jump/0.jpg", "Dumbbell_Seated_Box_Jump/1.jpg"]
+  "images": ["Dumbbell_Seated_Box_Jump/0.jpg", "Dumbbell_Seated_Box_Jump/1.jpg"],
+  "id": "Dumbbell_Seated_Box_Jump"
 }

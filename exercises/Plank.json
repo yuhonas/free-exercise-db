@@ -11,5 +11,6 @@
     "Keep your body straight at all times, and hold this position as long as possible. To increase difficulty, an arm or leg can be raised."
   ],
   "category": "strength",
-  "images": ["Plank/0.jpg", "Plank/1.jpg"]
+  "images": ["Plank/0.jpg", "Plank/1.jpg"],
+  "id": "Plank"
 }

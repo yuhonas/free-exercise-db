@@ -13,5 +13,6 @@
     "Repeat with the right leg for the recommended amount of repetitions and then perform with the left leg."
   ],
   "category": "strength",
-  "images": ["Dumbbell_Step_Ups/0.jpg", "Dumbbell_Step_Ups/1.jpg"]
+  "images": ["Dumbbell_Step_Ups/0.jpg", "Dumbbell_Step_Ups/1.jpg"],
+  "id": "Dumbbell_Step_Ups"
 }

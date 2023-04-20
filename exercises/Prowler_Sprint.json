@@ -12,5 +12,6 @@
     "With good posture, drive through the ground with alternating, short steps. Move as fast as you can for a short distance."
   ],
   "category": "cardio",
-  "images": ["Prowler_Sprint/0.jpg", "Prowler_Sprint/1.jpg"]
+  "images": ["Prowler_Sprint/0.jpg", "Prowler_Sprint/1.jpg"],
+  "id": "Prowler_Sprint"
 }

@@ -13,5 +13,6 @@
     "There should be no need to actively pull through the arms to accelerate the weight; at the end of the second pull, the body should be fully extended, leaning slightly back. Full extension should be violent and abrupt, and ensure that you do not prolong the extension for longer than necessary."
   ],
   "category": "strength",
-  "images": ["Snatch_Pull/0.jpg", "Snatch_Pull/1.jpg"]
+  "images": ["Snatch_Pull/0.jpg", "Snatch_Pull/1.jpg"],
+  "id": "Snatch_Pull"
 }

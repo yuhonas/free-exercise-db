@@ -22,5 +22,6 @@
     "Return to a standing position with the weight overhead. Follow by returning the weight to the ground under control."
   ],
   "category": "olympic weightlifting",
-  "images": ["Hang_Snatch/0.jpg", "Hang_Snatch/1.jpg"]
+  "images": ["Hang_Snatch/0.jpg", "Hang_Snatch/1.jpg"],
+  "id": "Hang_Snatch"
 }

@@ -13,5 +13,6 @@
     "Catch the ball on the bounce and continue for the desired number of repetitions."
   ],
   "category": "strength",
-  "images": ["One-Arm_Medicine_Ball_Slam/0.jpg", "One-Arm_Medicine_Ball_Slam/1.jpg"]
+  "images": ["One-Arm_Medicine_Ball_Slam/0.jpg", "One-Arm_Medicine_Ball_Slam/1.jpg"],
+  "id": "One-Arm_Medicine_Ball_Slam"
 }

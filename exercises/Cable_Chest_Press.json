@@ -13,5 +13,6 @@
     "You can also execute this movement with your back off the pad, at an incline or decline, or alternate hands."
   ],
   "category": "strength",
-  "images": ["Cable_Chest_Press/0.jpg", "Cable_Chest_Press/1.jpg"]
+  "images": ["Cable_Chest_Press/0.jpg", "Cable_Chest_Press/1.jpg"],
+  "id": "Cable_Chest_Press"
 }

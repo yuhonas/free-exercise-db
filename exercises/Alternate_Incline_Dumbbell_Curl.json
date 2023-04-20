@@ -14,5 +14,6 @@
     "Continue alternating in this manner for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Alternate_Incline_Dumbbell_Curl/0.jpg", "Alternate_Incline_Dumbbell_Curl/1.jpg"]
+  "images": ["Alternate_Incline_Dumbbell_Curl/0.jpg", "Alternate_Incline_Dumbbell_Curl/1.jpg"],
+  "id": "Alternate_Incline_Dumbbell_Curl"
 }

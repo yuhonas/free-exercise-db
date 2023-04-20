@@ -2,6 +2,10 @@
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
   "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[0-9a-zA-Z_-]+$"
+    },
     "name": {
       "type": "string"
     },
@@ -132,6 +136,7 @@
     }
   },
   "required": [
+    "id",
     "name",
     "level",
     "mechanic",

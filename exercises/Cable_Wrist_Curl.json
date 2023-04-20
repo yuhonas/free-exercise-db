@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Cable_Wrist_Curl/0.jpg", "Cable_Wrist_Curl/1.jpg"]
+  "images": ["Cable_Wrist_Curl/0.jpg", "Cable_Wrist_Curl/1.jpg"],
+  "id": "Cable_Wrist_Curl"
 }

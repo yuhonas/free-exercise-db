@@ -13,5 +13,6 @@
     "Repeat for the desired number of repetitions."
   ],
   "category": "strength",
-  "images": ["Single-Leg_Leg_Extension/0.jpg", "Single-Leg_Leg_Extension/1.jpg"]
+  "images": ["Single-Leg_Leg_Extension/0.jpg", "Single-Leg_Leg_Extension/1.jpg"],
+  "id": "Single-Leg_Leg_Extension"
 }

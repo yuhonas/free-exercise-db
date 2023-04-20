@@ -13,5 +13,6 @@
     "Pause at the top of the motion, and then slowly return to the starting position."
   ],
   "category": "strength",
-  "images": ["Svend_Press/0.jpg", "Svend_Press/1.jpg"]
+  "images": ["Svend_Press/0.jpg", "Svend_Press/1.jpg"],
+  "id": "Svend_Press"
 }

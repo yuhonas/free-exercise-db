@@ -13,5 +13,6 @@
     "Repeat with the right leg for the recommended amount of repetitions and then perform with the left leg."
   ],
   "category": "strength",
-  "images": ["Barbell_Step_Ups/0.jpg", "Barbell_Step_Ups/1.jpg"]
+  "images": ["Barbell_Step_Ups/0.jpg", "Barbell_Step_Ups/1.jpg"],
+  "id": "Barbell_Step_Ups"
 }

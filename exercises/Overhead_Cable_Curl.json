@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions prescribed in your program."
   ],
   "category": "strength",
-  "images": ["Overhead_Cable_Curl/0.jpg", "Overhead_Cable_Curl/1.jpg"]
+  "images": ["Overhead_Cable_Curl/0.jpg", "Overhead_Cable_Curl/1.jpg"],
+  "id": "Overhead_Cable_Curl"
 }

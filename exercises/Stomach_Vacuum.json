@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of sets."
   ],
   "category": "stretching",
-  "images": ["Stomach_Vacuum/0.jpg", "Stomach_Vacuum/1.jpg"]
+  "images": ["Stomach_Vacuum/0.jpg", "Stomach_Vacuum/1.jpg"],
+  "id": "Stomach_Vacuum"
 }

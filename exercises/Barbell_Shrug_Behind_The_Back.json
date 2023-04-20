@@ -13,5 +13,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Barbell_Shrug_Behind_The_Back/0.jpg", "Barbell_Shrug_Behind_The_Back/1.jpg"]
+  "images": ["Barbell_Shrug_Behind_The_Back/0.jpg", "Barbell_Shrug_Behind_The_Back/1.jpg"],
+  "id": "Barbell_Shrug_Behind_The_Back"
 }

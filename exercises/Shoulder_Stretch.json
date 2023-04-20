@@ -8,5 +8,6 @@
   "secondaryMuscles": [],
   "instructions": ["Reach your left arm across your body and hold it straight."],
   "category": "stretching",
-  "images": ["Shoulder_Stretch/0.jpg", "Shoulder_Stretch/1.jpg"]
+  "images": ["Shoulder_Stretch/0.jpg", "Shoulder_Stretch/1.jpg"],
+  "id": "Shoulder_Stretch"
 }
