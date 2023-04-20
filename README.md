@@ -130,4 +130,5 @@ Scanning: 2620 files, 874 items (in 1 specified)
 Contributions are always welcome! Please read the contribution guidelines first.
 
 ### Special Thanks 🙇
-To [Ollie Jennings](https://github.com/OllieJennings) for the original dataset at [exercises.json](https://github.com/wrkout/exercises.json)
+* [Ollie Jennings](https://github.com/OllieJennings) for the original dataset at [exercises.json](https://github.com/wrkout/exercises.json)
+* flaticon for the favicon see [Sports-and-competition icons created by Dragon Icons - Flaticon](https://www.flaticon.com/free-icons/sports-and-competition)
