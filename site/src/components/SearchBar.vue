@@ -51,7 +51,7 @@ export default {
       this.currentPage = 0
       if (this.query.length > 1) {
         const fuse = new Fuse(this.exercises, options)
-        this.searchResults = fuse.search(newValue).map((r) => r.item)
+        this.searchResults = fuse.search({ name: newValue }).map((r) => r.item)
       } else {
         this.searchResults = this.exercises
       }
@@ -61,7 +61,7 @@ export default {
 </script>
 <template>
   <div>
-    <form>
+    <form @submit.prevent="onSubmit">
       <label
         for="default-search"
         class="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white"
