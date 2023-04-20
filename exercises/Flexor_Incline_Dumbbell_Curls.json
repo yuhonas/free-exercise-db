@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": [
-    "biceps"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["biceps"],
+  "secondaryMuscles": [],
   "instructions": [
     "Hold the dumbbell towards the side farther from you so that you have more weight on the side closest to you. (This can be done for a good effect on all bicep dumbbell exercises). Now do a normal incline dumbbell curl, but keep your wrists as far back as possible so as to neutralize any stress that is placed on them.",
     "Sit on an incline bench that is angled at 45-degrees while holding a dumbbell on each hand.",
@@ -19,8 +15,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Flexor_Incline_Dumbbell_Curls/0.jpg",
-    "Flexor_Incline_Dumbbell_Curls/1.jpg"
-  ]
+  "images": ["Flexor_Incline_Dumbbell_Curls/0.jpg", "Flexor_Incline_Dumbbell_Curls/1.jpg"]
 }

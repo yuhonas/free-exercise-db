@@ -4,14 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "cable",
-  "primaryMuscles": [
-    "middle back"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "lats",
-    "shoulders"
-  ],
+  "primaryMuscles": ["middle back"],
+  "secondaryMuscles": ["biceps", "lats", "shoulders"],
   "instructions": [
     "For this exercise you will need access to a low pulley row machine with a V-bar. Note: The V-bar will enable you to have a neutral grip where the palms of your hands face each other. To get into the starting position, first sit down on the machine and place your feet on the front platform or crossbar provided making sure that your knees are slightly bent and not locked.",
     "Lean over as you keep the natural alignment of your back and grab the V-bar handles.",
@@ -20,8 +14,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Seated_Cable_Rows/0.jpg",
-    "Seated_Cable_Rows/1.jpg"
-  ]
+  "images": ["Seated_Cable_Rows/0.jpg", "Seated_Cable_Rows/1.jpg"]
 }

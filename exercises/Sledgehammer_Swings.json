@@ -4,16 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "abdominals"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "forearms",
-    "lats",
-    "middle back",
-    "shoulders"
-  ],
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": ["calves", "forearms", "lats", "middle back", "shoulders"],
   "instructions": [
     "You will need a tire and a sledgehammer for this exercise. Stand in front of the tire about two feet away from it with a staggered stance. Grip the sledgehammer.",
     "If you are right handed, your left hand should be at the bottom of the handle, and your right hand should be choking up closer to the head.",
@@ -21,8 +13,5 @@
     "Repeat on the other side."
   ],
   "category": "plyometrics",
-  "images": [
-    "Sledgehammer_Swings/0.jpg",
-    "Sledgehammer_Swings/1.jpg"
-  ]
+  "images": ["Sledgehammer_Swings/0.jpg", "Sledgehammer_Swings/1.jpg"]
 }

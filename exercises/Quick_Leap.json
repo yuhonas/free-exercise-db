@@ -4,13 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "hamstrings"
-  ],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["calves", "hamstrings"],
   "instructions": [
     "You will need a box for this exerise.",
     "Begin facing the box standing 1-2 feet from its edge.",
@@ -18,8 +13,5 @@
     "Immediately upon landing, fully extend through the entire body and swing your arms overhead to explode off of the box. Use your legs to absorb the impact of landing."
   ],
   "category": "plyometrics",
-  "images": [
-    "Quick_Leap/0.jpg",
-    "Quick_Leap/1.jpg"
-  ]
+  "images": ["Quick_Leap/0.jpg", "Quick_Leap/1.jpg"]
 }

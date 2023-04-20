@@ -4,14 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": [
-    "shoulders"
-  ],
-  "secondaryMuscles": [
-    "lower back",
-    "middle back",
-    "traps"
-  ],
+  "primaryMuscles": ["shoulders"],
+  "secondaryMuscles": ["lower back", "middle back", "traps"],
   "instructions": [
     "Select a weight and hold the handle of the low pulley with your right hand.",
     "Bend at the waist until your torso is nearly parallel to the floor. Your legs should be slightly bent with your left hand placed on your lower left thigh. Your right arm should be hanging from your shoulder in front of you and with a slight bend at the elbow. This will be your starting position.",
@@ -20,8 +14,5 @@
     "Repeat for the recommended amount of repetitions and repeat the movement with the other arm."
   ],
   "category": "strength",
-  "images": [
-    "Bent_Over_Low-Pulley_Side_Lateral/0.jpg",
-    "Bent_Over_Low-Pulley_Side_Lateral/1.jpg"
-  ]
+  "images": ["Bent_Over_Low-Pulley_Side_Lateral/0.jpg", "Bent_Over_Low-Pulley_Side_Lateral/1.jpg"]
 }

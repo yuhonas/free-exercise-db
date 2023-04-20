@@ -4,22 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "medicine ball",
-  "primaryMuscles": [
-    "chest"
-  ],
-  "secondaryMuscles": [
-    "abdominals",
-    "shoulders",
-    "triceps"
-  ],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["abdominals", "shoulders", "triceps"],
   "instructions": [
     "Begin in a kneeling position holding the medicine ball with both hands tightly into the chest.",
     "Execute the pass by exploding forward and outward with the hips while pushing the ball as far as possible.",
     "Follow through by falling forward, catching yourself with your hands."
   ],
   "category": "plyometrics",
-  "images": [
-    "Chest_Push_(single_response)/0.jpg",
-    "Chest_Push_(single_response)/1.jpg"
-  ]
+  "images": ["Chest_Push_(single_response)/0.jpg", "Chest_Push_(single_response)/1.jpg"]
 }

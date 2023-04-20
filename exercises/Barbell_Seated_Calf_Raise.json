@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "calves"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["calves"],
+  "secondaryMuscles": [],
   "instructions": [
     "Place a block about 12 inches in front of a flat bench.",
     "Sit on the bench and place the ball of your feet on the block.",
@@ -19,8 +15,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Barbell_Seated_Calf_Raise/0.jpg",
-    "Barbell_Seated_Calf_Raise/1.jpg"
-  ]
+  "images": ["Barbell_Seated_Calf_Raise/0.jpg", "Barbell_Seated_Calf_Raise/1.jpg"]
 }

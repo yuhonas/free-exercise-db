@@ -4,13 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": [
-    "chest"
-  ],
-  "secondaryMuscles": [
-    "shoulders",
-    "triceps"
-  ],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["shoulders", "triceps"],
   "instructions": [
     "Lie back on an incline bench with a dumbbell on each hand on top of your thighs. The palms of your hand will be facing each other.",
     "By using your thighs to help you get the dumbbells up, clean the dumbbells one arm at a time so that you can hold them at shoulder width.",

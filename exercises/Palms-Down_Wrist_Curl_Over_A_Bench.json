@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "forearms"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["forearms"],
+  "secondaryMuscles": [],
   "instructions": [
     "Start out by placing a barbell on one side of a flat bench.",
     "Kneel down on both of your knees so that your body is facing the flat bench.",
@@ -20,8 +16,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Palms-Down_Wrist_Curl_Over_A_Bench/0.jpg",
-    "Palms-Down_Wrist_Curl_Over_A_Bench/1.jpg"
-  ]
+  "images": ["Palms-Down_Wrist_Curl_Over_A_Bench/0.jpg", "Palms-Down_Wrist_Curl_Over_A_Bench/1.jpg"]
 }

@@ -4,15 +4,8 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings",
-    "lower back"
-  ],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings", "lower back"],
   "instructions": [
     "Stand up straight with a flat bench behind you while holding a dumbbell on each hand (palms facing the side of your legs).",
     "Position your legs using a shoulder width medium stance with the toes slightly pointed out. Keep your head up at all times as looking down will get you off balance and also maintain a straight back. This will be your starting position. Note: For the purposes of this discussion we will use the medium stance described above which targets overall development; however you can choose any of the three stances discussed in the foot stances section.",
@@ -21,8 +14,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Dumbbell_Squat_To_A_Bench/0.jpg",
-    "Dumbbell_Squat_To_A_Bench/1.jpg"
-  ]
+  "images": ["Dumbbell_Squat_To_A_Bench/0.jpg", "Dumbbell_Squat_To_A_Bench/1.jpg"]
 }

@@ -4,21 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": null,
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "quadriceps"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["calves", "quadriceps"],
   "instructions": [
     "This move helps prepare your running form to help you excel at sprinting. As you run, be sure to flex the knee, aiming to kick your glutes as the hip extends.",
     "Reload the quad as the leg moves back forward, attacking the ground on the next step.",
     "Ensure that as you run, you block with the arms, punching through in a rapid 1-2 motion."
   ],
   "category": "plyometrics",
-  "images": [
-    "Moving_Claw_Series/0.jpg",
-    "Moving_Claw_Series/1.jpg"
-  ]
+  "images": ["Moving_Claw_Series/0.jpg", "Moving_Claw_Series/1.jpg"]
 }

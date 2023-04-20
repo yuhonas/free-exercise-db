@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "other",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "adductors"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["adductors"],
   "instructions": [
     "Sit upright in a chair and grip the seat on the sides.",
     "Raise one leg, extending the knee, flexing the ankle as you do so.",
@@ -17,8 +13,5 @@
     "Repeat for your other leg."
   ],
   "category": "stretching",
-  "images": [
-    "Chair_Leg_Extended_Stretch/0.jpg",
-    "Chair_Leg_Extended_Stretch/1.jpg"
-  ]
+  "images": ["Chair_Leg_Extended_Stretch/0.jpg", "Chair_Leg_Extended_Stretch/1.jpg"]
 }

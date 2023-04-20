@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": [
-    "chest"
-  ],
-  "secondaryMuscles": [
-    "shoulders"
-  ],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["shoulders"],
   "instructions": [
     "To get yourself into the starting position, place the pulleys on a high position (above your head), select the resistance to be used and hold the pulleys in each hand.",
     "Step forward in front of an imaginary straight line between both pulleys while pulling your arms together in front of you. Your torso should have a small forward bend from the waist. This will be your starting position.",
@@ -18,8 +14,5 @@
     "Hold for a second at the starting position and repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Cable_Crossover/0.jpg",
-    "Cable_Crossover/1.jpg"
-  ]
+  "images": ["Cable_Crossover/0.jpg", "Cable_Crossover/1.jpg"]
 }

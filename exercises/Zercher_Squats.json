@@ -4,14 +4,8 @@
   "level": "expert",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
   "instructions": [
     "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. The correct height should be anywhere above the waist but below the chest. Once the correct height is chosen and the bar is loaded, lock your hands together and place the bar on top of your arms in between the forearm and upper arm.",
     "Lift the bar up so that it is resting on top of your forearms. If you are holding the bar properly, it should look as if you have your arms crossed but with a bar running across them.",
@@ -21,8 +15,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Zercher_Squats/0.jpg",
-    "Zercher_Squats/1.jpg"
-  ]
+  "images": ["Zercher_Squats/0.jpg", "Zercher_Squats/1.jpg"]
 }

@@ -4,13 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
   "instructions": [
     "Assume a lunge stance position with one foot forward with the knee bent, and the rear knee nearly touching the ground.",
     "Ensure that the front knee is over the midline of the foot. Extending through both legs, jump as high as possible, swinging your arms to gain lift.",
@@ -18,8 +13,5 @@
     "As you land, absorb the impact through the legs by adopting the lunge position, and repeat."
   ],
   "category": "plyometrics",
-  "images": [
-    "Scissors_Jump/0.jpg",
-    "Scissors_Jump/1.jpg"
-  ]
+  "images": ["Scissors_Jump/0.jpg", "Scissors_Jump/1.jpg"]
 }

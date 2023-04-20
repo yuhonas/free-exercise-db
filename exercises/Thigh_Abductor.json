@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "machine",
-  "primaryMuscles": [
-    "abductors"
-  ],
-  "secondaryMuscles": [
-    "glutes"
-  ],
+  "primaryMuscles": ["abductors"],
+  "secondaryMuscles": ["glutes"],
   "instructions": [
     "To begin, sit down on the abductor machine and select a weight you are comfortable with. When your legs are positioned properly, grip the handles on each side. Your entire upper body (from the waist up) should be stationary. This is the starting position.",
     "Slowly press against the machine with your legs to move them away from each other while exhaling.",
@@ -17,8 +13,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Thigh_Abductor/0.jpg",
-    "Thigh_Abductor/1.jpg"
-  ]
+  "images": ["Thigh_Abductor/0.jpg", "Thigh_Abductor/1.jpg"]
 }

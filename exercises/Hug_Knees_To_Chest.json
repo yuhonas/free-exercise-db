@@ -4,20 +4,13 @@
   "level": "beginner",
   "mechanic": null,
   "equipment": null,
-  "primaryMuscles": [
-    "lower back"
-  ],
-  "secondaryMuscles": [
-    "glutes"
-  ],
+  "primaryMuscles": ["lower back"],
+  "secondaryMuscles": ["glutes"],
   "instructions": [
     "Lie down on your back and pull both knees up to your chest.",
     "Hold your arms under the knees, not over (that would put to much pressure on your knee joints).",
     "Slowly pull the knees toward your shoulders. This also stretches your buttocks muscles."
   ],
   "category": "stretching",
-  "images": [
-    "Hug_Knees_To_Chest/0.jpg",
-    "Hug_Knees_To_Chest/1.jpg"
-  ]
+  "images": ["Hug_Knees_To_Chest/0.jpg", "Hug_Knees_To_Chest/1.jpg"]
 }

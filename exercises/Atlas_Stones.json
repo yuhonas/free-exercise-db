@@ -4,9 +4,7 @@
   "level": "expert",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "lower back"
-  ],
+  "primaryMuscles": ["lower back"],
   "secondaryMuscles": [
     "abdominals",
     "adductors",
@@ -26,8 +24,5 @@
     "Sit low, getting the stone high onto your chest as you change your grip to reach over the stone. Stand, driving through with your hips. Close distance to the loading platform, and lean back, extending the hips to get the stone as high as possible."
   ],
   "category": "strongman",
-  "images": [
-    "Atlas_Stones/0.jpg",
-    "Atlas_Stones/1.jpg"
-  ]
+  "images": ["Atlas_Stones/0.jpg", "Atlas_Stones/1.jpg"]
 }

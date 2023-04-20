@@ -4,9 +4,7 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
+  "primaryMuscles": ["quadriceps"],
   "secondaryMuscles": [
     "calves",
     "forearms",
@@ -23,8 +21,5 @@
     "Immediately recover by driving through the heels, keeping the torso upright and elbows up. Continue until you have risen to a standing position."
   ],
   "category": "olympic weightlifting",
-  "images": [
-    "Hang_Clean_-_Below_the_Knees/0.jpg",
-    "Hang_Clean_-_Below_the_Knees/1.jpg"
-  ]
+  "images": ["Hang_Clean_-_Below_the_Knees/0.jpg", "Hang_Clean_-_Below_the_Knees/1.jpg"]
 }

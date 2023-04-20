@@ -4,12 +4,8 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",
-  "primaryMuscles": [
-    "shoulders"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["shoulders"],
+  "secondaryMuscles": [],
   "instructions": [
     "Hold a kettlebell by the handle.",
     "Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulder. Rotate your wrist as you do so, so that the palm faces forward.",
@@ -19,8 +15,5 @@
     "Keeping the weight overhead, return to a standing position. Lower the weight to the floor to perform the next repetition."
   ],
   "category": "strength",
-  "images": [
-    "One-Arm_Kettlebell_Clean_and_Jerk/0.jpg",
-    "One-Arm_Kettlebell_Clean_and_Jerk/1.jpg"
-  ]
+  "images": ["One-Arm_Kettlebell_Clean_and_Jerk/0.jpg", "One-Arm_Kettlebell_Clean_and_Jerk/1.jpg"]
 }

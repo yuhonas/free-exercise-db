@@ -4,9 +4,7 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "shoulders"
-  ],
+  "primaryMuscles": ["shoulders"],
   "secondaryMuscles": [
     "abdominals",
     "chest",
@@ -24,8 +22,5 @@
     "Repeat as many times as possible. Attempt to control the descent of the log as it is returned to the ground."
   ],
   "category": "strongman",
-  "images": [
-    "Log_Lift/0.jpg",
-    "Log_Lift/1.jpg"
-  ]
+  "images": ["Log_Lift/0.jpg", "Log_Lift/1.jpg"]
 }

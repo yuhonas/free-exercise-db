@@ -4,14 +4,8 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "machine",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
   "instructions": [
     "Adjust the leg machine to a height that will allow you to get inside it with your knees bent and the thighs slightly below parallel.",
     "Once you select the weight, position yourself inside the machine face up with the knees bent and thighs slightly below parallel to the platform. Make sure that the knees do not go past the toes. The angle created between the hamstrings and the calves should be one that is slightly less than 90 degrees (since your starting position requires you to start slightly below parallel). Your back and your head should be resting on the machine while your shoulders are pressed under the shoulder pads.",
@@ -21,8 +15,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Lying_Machine_Squat/0.jpg",
-    "Lying_Machine_Squat/1.jpg"
-  ]
+  "images": ["Lying_Machine_Squat/0.jpg", "Lying_Machine_Squat/1.jpg"]
 }

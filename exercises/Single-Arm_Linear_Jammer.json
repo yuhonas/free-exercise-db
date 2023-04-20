@@ -4,13 +4,8 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "shoulders"
-  ],
-  "secondaryMuscles": [
-    "chest",
-    "triceps"
-  ],
+  "primaryMuscles": ["shoulders"],
+  "secondaryMuscles": ["chest", "triceps"],
   "instructions": [
     "Position a bar into a landmine or securely anchor it in a corner. Load the bar to an appropriate weight.",
     "Raise the bar from the floor, taking it to your shoulders with one or both hands. Adopt a wide stance. This will be your starting position.",
@@ -18,8 +13,5 @@
     "Return to the starting position."
   ],
   "category": "strength",
-  "images": [
-    "Single-Arm_Linear_Jammer/0.jpg",
-    "Single-Arm_Linear_Jammer/1.jpg"
-  ]
+  "images": ["Single-Arm_Linear_Jammer/0.jpg", "Single-Arm_Linear_Jammer/1.jpg"]
 }

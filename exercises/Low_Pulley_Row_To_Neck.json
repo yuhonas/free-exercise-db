@@ -4,14 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "cable",
-  "primaryMuscles": [
-    "shoulders"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "middle back",
-    "traps"
-  ],
+  "primaryMuscles": ["shoulders"],
+  "secondaryMuscles": ["biceps", "middle back", "traps"],
   "instructions": [
     "Sit on a low pulley row machine with a rope attachment.",
     "Grab the ends of the rope using a palms-down grip and sit with your back straight and your knees slightly bent. Tip: Keep your back almost completely vertical and your arms fully extended in front of you. This will be your starting position.",
@@ -20,8 +14,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Low_Pulley_Row_To_Neck/0.jpg",
-    "Low_Pulley_Row_To_Neck/1.jpg"
-  ]
+  "images": ["Low_Pulley_Row_To_Neck/0.jpg", "Low_Pulley_Row_To_Neck/1.jpg"]
 }

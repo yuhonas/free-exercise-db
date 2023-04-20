@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "machine",
-  "primaryMuscles": [
-    "shoulders"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["shoulders"],
+  "secondaryMuscles": ["triceps"],
   "instructions": [
     "Sit down on the Shoulder Press Machine and select the weight.",
     "Grab the handles to your sides as you keep the elbows bent and in line with your torso. This will be your starting position.",
@@ -18,8 +14,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Machine_Shoulder_(Military)_Press/0.jpg",
-    "Machine_Shoulder_(Military)_Press/1.jpg"
-  ]
+  "images": ["Machine_Shoulder_(Military)_Press/0.jpg", "Machine_Shoulder_(Military)_Press/1.jpg"]
 }

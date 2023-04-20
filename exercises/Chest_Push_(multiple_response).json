@@ -4,14 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "medicine ball",
-  "primaryMuscles": [
-    "chest"
-  ],
-  "secondaryMuscles": [
-    "abdominals",
-    "shoulders",
-    "triceps"
-  ],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["abdominals", "shoulders", "triceps"],
   "instructions": [
     "Begin in a kneeling position facing a wall or utilize a partner. Hold the ball with both hands tight into the chest.",
     "Execute the pass by exploding forward and outward with the hips while pushing the ball as hard as possible.",
@@ -19,8 +13,5 @@
     "Immediately return to an upright position. Repeat for the desired number of repetitions."
   ],
   "category": "plyometrics",
-  "images": [
-    "Chest_Push_(multiple_response)/0.jpg",
-    "Chest_Push_(multiple_response)/1.jpg"
-  ]
+  "images": ["Chest_Push_(multiple_response)/0.jpg", "Chest_Push_(multiple_response)/1.jpg"]
 }

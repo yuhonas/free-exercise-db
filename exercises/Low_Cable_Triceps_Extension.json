@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": [],
   "instructions": [
     "Select the desired weight and lay down face up on the bench of a seated row machine that has a rope attached to it. Your head should be pointing towards the attachment.",
     "Grab the outside of the rope ends with your palms facing each other (neutral grip).",
@@ -19,8 +15,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Low_Cable_Triceps_Extension/0.jpg",
-    "Low_Cable_Triceps_Extension/1.jpg"
-  ]
+  "images": ["Low_Cable_Triceps_Extension/0.jpg", "Low_Cable_Triceps_Extension/1.jpg"]
 }

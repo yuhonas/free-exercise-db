@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "machine",
-  "primaryMuscles": [
-    "calves"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["calves"],
+  "secondaryMuscles": [],
   "instructions": [
     "Adjust the barbell on the smith machine to fit your height and align a raised platform right under the bar.",
     "Stand on the platform with the heels of your feet secured on top of it with the balls of your feet extending off it. Position your toes facing forward with a shoulder width stance.",
@@ -19,8 +15,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Smith_Machine_Reverse_Calf_Raises/0.jpg",
-    "Smith_Machine_Reverse_Calf_Raises/1.jpg"
-  ]
+  "images": ["Smith_Machine_Reverse_Calf_Raises/0.jpg", "Smith_Machine_Reverse_Calf_Raises/1.jpg"]
 }

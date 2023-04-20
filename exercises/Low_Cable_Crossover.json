@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": [
-    "chest"
-  ],
-  "secondaryMuscles": [
-    "shoulders"
-  ],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["shoulders"],
   "instructions": [
     "To move into the starting position, place the pulleys at the low position, select the resistance to be used and grasp a handle in each hand.",
     "Step forward, gaining tension in the pulleys. Your palms should be facing forward, hands below the waist, and your arms straight. This will be your starting position.",
@@ -17,8 +13,5 @@
     "Return your arms back to the starting position after a brief pause."
   ],
   "category": "strength",
-  "images": [
-    "Low_Cable_Crossover/0.jpg",
-    "Low_Cable_Crossover/1.jpg"
-  ]
+  "images": ["Low_Cable_Crossover/0.jpg", "Low_Cable_Crossover/1.jpg"]
 }

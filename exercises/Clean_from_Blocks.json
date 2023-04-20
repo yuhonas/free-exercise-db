@@ -4,16 +4,8 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings",
-    "shoulders",
-    "traps"
-  ],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings", "shoulders", "traps"],
   "instructions": [
     "With a barbell on boxes or stands of the desired height, take an overhand or hook grip just outside the legs. Lower your hips with the weight focused on the heels, back straight, head facing forward, chest up, with your shoulders just in front of the bar. This will be your starting position.",
     "Begin the first pull by driving through the heels, extending your knees. Your back angle should stay the same, and your arms should remain straight with the elbows pointed out.",
@@ -21,8 +13,5 @@
     "Immediately recover by driving through the heels, keeping the torso upright and elbows up. Continue until you have risen to a standing position. Return the weight to the boxes for the next rep."
   ],
   "category": "olympic weightlifting",
-  "images": [
-    "Clean_from_Blocks/0.jpg",
-    "Clean_from_Blocks/1.jpg"
-  ]
+  "images": ["Clean_from_Blocks/0.jpg", "Clean_from_Blocks/1.jpg"]
 }

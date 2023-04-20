@@ -4,16 +4,8 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "machine",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "lower back",
-    "quadriceps",
-    "shoulders",
-    "traps"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["glutes", "lower back", "quadriceps", "shoulders", "traps"],
   "instructions": [
     "Position the bar at knee height and load it to an appropriate weight.",
     "Take a pronated grip on the bar outside of shoulder width and unhook the bar from the machine. Your arms should be fully extended with your head and chest up. Your elbows should be pointed out with your shoulders back and down. Your hips should be back, loading the tension into the hamstrings. This will be your starting position.",
@@ -23,8 +15,5 @@
     "Extend through the hips and knees to come to a standing position with the bar racked on your shoulders to complete the movement."
   ],
   "category": "strength",
-  "images": [
-    "Smith_Machine_Hang_Power_Clean/0.jpg",
-    "Smith_Machine_Hang_Power_Clean/1.jpg"
-  ]
+  "images": ["Smith_Machine_Hang_Power_Clean/0.jpg", "Smith_Machine_Hang_Power_Clean/1.jpg"]
 }

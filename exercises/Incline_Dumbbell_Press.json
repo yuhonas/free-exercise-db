@@ -4,13 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": [
-    "chest"
-  ],
-  "secondaryMuscles": [
-    "shoulders",
-    "triceps"
-  ],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["shoulders", "triceps"],
   "instructions": [
     "Lie back on an incline bench with a dumbbell in each hand atop your thighs. The palms of your hands will be facing each other.",
     "Then, using your thighs to help push the dumbbells up, lift the dumbbells one at a time so that you can hold them at shoulder width.",
@@ -21,8 +16,5 @@
     "When you are done, place the dumbbells back on your thighs and then on the floor. This is the safest manner to release the dumbbells."
   ],
   "category": "strength",
-  "images": [
-    "Incline_Dumbbell_Press/0.jpg",
-    "Incline_Dumbbell_Press/1.jpg"
-  ]
+  "images": ["Incline_Dumbbell_Press/0.jpg", "Incline_Dumbbell_Press/1.jpg"]
 }

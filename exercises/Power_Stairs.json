@@ -4,9 +4,7 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
+  "primaryMuscles": ["hamstrings"],
   "secondaryMuscles": [
     "adductors",
     "calves",
@@ -23,8 +21,5 @@
     "Repeat for 3-5 repetitions, and continue with a heavier weight, moving as fast as possible."
   ],
   "category": "strongman",
-  "images": [
-    "Power_Stairs/0.jpg",
-    "Power_Stairs/1.jpg"
-  ]
+  "images": ["Power_Stairs/0.jpg", "Power_Stairs/1.jpg"]
 }

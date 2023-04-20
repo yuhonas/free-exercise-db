@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": [
-    "biceps"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["biceps"],
+  "secondaryMuscles": [],
   "instructions": [
     "Place a flat bench in front of a high pulley or lat pulldown machine.",
     "Hold the straight bar attachment using an underhand grip (palms up) that is about shoulder width.",

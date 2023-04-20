@@ -4,13 +4,8 @@
   "level": "beginner",
   "mechanic": null,
   "equipment": null,
-  "primaryMuscles": [
-    "lower back"
-  ],
-  "secondaryMuscles": [
-    "abductors",
-    "glutes"
-  ],
+  "primaryMuscles": ["lower back"],
+  "secondaryMuscles": ["abductors", "glutes"],
   "instructions": [
     "Sit up on the floor.",
     "Cross your right leg over your left, keeping the knee bent. Your left leg is straight and down on the floor.",
@@ -18,8 +13,5 @@
     "Rotate your upper body to the right, and hold for 10-20 seconds. Switch sides."
   ],
   "category": "stretching",
-  "images": [
-    "Dancer's_Stretch/0.jpg",
-    "Dancer's_Stretch/1.jpg"
-  ]
+  "images": ["Dancer's_Stretch/0.jpg", "Dancer's_Stretch/1.jpg"]
 }

@@ -4,12 +4,8 @@
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "other",
-  "primaryMuscles": [
-    "forearms"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["forearms"],
+  "secondaryMuscles": [],
   "instructions": [
     "Grab two wide-rimmed plates and put them together with the smooth sides facing outward",
     "Use your fingers to grip the outside part of the plate and your thumb for the other side thus holding both plates together. This is the starting position.",
@@ -18,8 +14,5 @@
     "Switch arms and repeat the movements."
   ],
   "category": "strength",
-  "images": [
-    "Plate_Pinch/0.jpg",
-    "Plate_Pinch/1.jpg"
-  ]
+  "images": ["Plate_Pinch/0.jpg", "Plate_Pinch/1.jpg"]
 }

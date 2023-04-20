@@ -4,13 +4,8 @@
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "chest",
-    "shoulders"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["chest", "shoulders"],
   "instructions": [
     "Lie down on a flat bench with a dumbbell in each hand on top of your thighs. The palms of your hand will be facing each other.",
     "By using your thighs to help you get the dumbbells up, clean the dumbbells one arm at a time so that you can hold them in front of you at shoulder width. Note: when holding the dumbbells in front of you, make sure your arms are wider than shoulder width apart from each other using a pronated (palms forward) grip. Allow your elbows to point out. This is your starting position.",
@@ -19,8 +14,5 @@
     "Repeat the movement for the prescribed amount of repetitions of your training program."
   ],
   "category": "strength",
-  "images": [
-    "Tate_Press/0.jpg",
-    "Tate_Press/1.jpg"
-  ]
+  "images": ["Tate_Press/0.jpg", "Tate_Press/1.jpg"]
 }

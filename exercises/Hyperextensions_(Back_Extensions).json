@@ -4,13 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "other",
-  "primaryMuscles": [
-    "lower back"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
+  "primaryMuscles": ["lower back"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
   "instructions": [
     "Lie face down on a hyperextension bench, tucking your ankles securely under the footpads.",
     "Adjust the upper pad if possible so your upper thighs lie flat across the wide pad, leaving enough room for you to bend at the waist without any restriction.",
@@ -20,8 +15,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Hyperextensions_(Back_Extensions)/0.jpg",
-    "Hyperextensions_(Back_Extensions)/1.jpg"
-  ]
+  "images": ["Hyperextensions_(Back_Extensions)/0.jpg", "Hyperextensions_(Back_Extensions)/1.jpg"]
 }

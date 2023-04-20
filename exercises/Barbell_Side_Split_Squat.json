@@ -4,14 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "hamstrings",
-    "lower back"
-  ],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["calves", "hamstrings", "lower back"],
   "instructions": [
     "Stand up straight while holding a barbell placed on the back of your shoulders (slightly below the neck). Your feet should be placed wide apart with the foot of the lead leg angled out to the side. This will be your starting position.",
     "Lower your body towards the side of your angled foot by bending the knee and hip of your lead leg and while keeping the opposite leg only slightly bent. Breathe in as you lower your body.",
@@ -19,8 +13,5 @@
     "After performing the recommended amount of reps, repeat the movement with the opposite leg."
   ],
   "category": "strength",
-  "images": [
-    "Barbell_Side_Split_Squat/0.jpg",
-    "Barbell_Side_Split_Squat/1.jpg"
-  ]
+  "images": ["Barbell_Side_Split_Squat/0.jpg", "Barbell_Side_Split_Squat/1.jpg"]
 }

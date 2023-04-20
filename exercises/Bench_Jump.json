@@ -4,14 +4,8 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
   "instructions": [
     "Begin with a box or bench 1-2 feet in front of you. Stand with your feet shoulder width apart. This will be your starting position.",
     "Perform a short squat in preparation for the jump; swing your arms behind you.",
@@ -20,8 +14,5 @@
     "Turn around and face the opposite direction, then jump back over the bench."
   ],
   "category": "plyometrics",
-  "images": [
-    "Bench_Jump/0.jpg",
-    "Bench_Jump/1.jpg"
-  ]
+  "images": ["Bench_Jump/0.jpg", "Bench_Jump/1.jpg"]
 }

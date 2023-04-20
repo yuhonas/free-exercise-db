@@ -4,15 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "cable",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
-  "secondaryMuscles": [
-    "forearms",
-    "glutes",
-    "hamstrings",
-    "lower back"
-  ],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["forearms", "glutes", "hamstrings", "lower back"],
   "instructions": [
     "Move the cables to the bottom of the towers and select an appropriate weight. Stand directly in between the uprights.",
     "To begin, squat down be flexing your hips and knees until you can reach the handles.",
@@ -20,8 +13,5 @@
     "After reaching a full standing position, Return to the starting position and repeat."
   ],
   "category": "strength",
-  "images": [
-    "Cable_Deadlifts/0.jpg",
-    "Cable_Deadlifts/1.jpg"
-  ]
+  "images": ["Cable_Deadlifts/0.jpg", "Cable_Deadlifts/1.jpg"]
 }

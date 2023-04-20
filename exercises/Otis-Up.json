@@ -4,14 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "abdominals"
-  ],
-  "secondaryMuscles": [
-    "chest",
-    "shoulders",
-    "triceps"
-  ],
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": ["chest", "shoulders", "triceps"],
   "instructions": [
     "Secure your feet and lay back on the floor. Your knees should be bent. Hold a weight with both hands to your chest. This will be your starting position.",
     "Initiate the movement by flexing the hips and spine to raise your torso up from the ground.",
@@ -19,8 +13,5 @@
     "Return the weight to your chest as you reverse the sit-up motion, ensuring not to go all the way down to the floor."
   ],
   "category": "strength",
-  "images": [
-    "Otis-Up/0.jpg",
-    "Otis-Up/1.jpg"
-  ]
+  "images": ["Otis-Up/0.jpg", "Otis-Up/1.jpg"]
 }

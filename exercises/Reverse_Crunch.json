@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "body only",
-  "primaryMuscles": [
-    "abdominals"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie down on the floor with your legs fully extended and arms to the side of your torso with the palms on the floor. Your arms should be stationary for the entire exercise.",
     "Move your legs up so that your thighs are perpendicular to the floor and feet are together and parallel to the floor. This is the starting position.",
@@ -18,8 +14,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Reverse_Crunch/0.jpg",
-    "Reverse_Crunch/1.jpg"
-  ]
+  "images": ["Reverse_Crunch/0.jpg", "Reverse_Crunch/1.jpg"]
 }

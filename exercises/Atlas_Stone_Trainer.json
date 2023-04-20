@@ -4,16 +4,8 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "lower back"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "forearms",
-    "glutes",
-    "hamstrings",
-    "quadriceps"
-  ],
+  "primaryMuscles": ["lower back"],
+  "secondaryMuscles": ["biceps", "forearms", "glutes", "hamstrings", "quadriceps"],
   "instructions": [
     "This trainer is effective for developing Atlas Stone strength for those who don't have access to stones, and are typically made from bar ends or heavy pipe.",
     "Begin by loading the desired weight onto the bar. Straddle the weight, wrapping your arms around the implement, bending at the hips.",
@@ -21,8 +13,5 @@
     "Finish the movement by extending through your hips and knees to raise the weight as high as possible. The weight can be returned to the lap or to the ground for successive repetitions."
   ],
   "category": "strongman",
-  "images": [
-    "Atlas_Stone_Trainer/0.jpg",
-    "Atlas_Stone_Trainer/1.jpg"
-  ]
+  "images": ["Atlas_Stone_Trainer/0.jpg", "Atlas_Stone_Trainer/1.jpg"]
 }

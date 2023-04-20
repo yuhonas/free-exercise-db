@@ -4,21 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "calves"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "quadriceps"
-  ],
+  "primaryMuscles": ["calves"],
+  "secondaryMuscles": ["hamstrings", "quadriceps"],
   "instructions": [
     "Place a balance board in front of you.",
     "Stand up on it and try to balance yourself.",
     "Hold the balance for as long as desired."
   ],
   "category": "strength",
-  "images": [
-    "Balance_Board/0.jpg",
-    "Balance_Board/1.jpg"
-  ]
+  "images": ["Balance_Board/0.jpg", "Balance_Board/1.jpg"]
 }

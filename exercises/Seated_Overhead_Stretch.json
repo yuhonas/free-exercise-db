@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": null,
-  "primaryMuscles": [
-    "abdominals"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": [],
   "instructions": [
     "Sit up straight on an exercise mat.",
     "Touch the soles of your feet together with your feet six to eight inches in front of your hips.",
@@ -17,8 +13,5 @@
     "Lift your elbow to the ceiling as you incline your torso to the other side. Hold for 10 to 20 seconds, then switch sides."
   ],
   "category": "stretching",
-  "images": [
-    "Seated_Overhead_Stretch/0.jpg",
-    "Seated_Overhead_Stretch/1.jpg"
-  ]
+  "images": ["Seated_Overhead_Stretch/0.jpg", "Seated_Overhead_Stretch/1.jpg"]
 }

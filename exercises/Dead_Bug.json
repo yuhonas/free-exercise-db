@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": [
-    "abdominals"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": [],
   "instructions": [
     "Begin lying on your back with your hands extended above you toward the ceiling.",
     "Bring your feet, knees, and hips up to 90 degrees.",
@@ -20,8 +16,5 @@
     "Repeat on the opposite side, alternating until the set is complete."
   ],
   "category": "strength",
-  "images": [
-    "Dead_Bug/0.jpg",
-    "Dead_Bug/1.jpg"
-  ]
+  "images": ["Dead_Bug/0.jpg", "Dead_Bug/1.jpg"]
 }

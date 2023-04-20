@@ -4,20 +4,13 @@
   "level": "beginner",
   "mechanic": null,
   "equipment": null,
-  "primaryMuscles": [
-    "glutes"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": [],
   "instructions": [
     "From a lying position, bend your knees and keep your feet on the floor.",
     "Place your ankle of one foot on your opposite knee.",
     "Grasp the thigh or knee of the bottom leg and pull both of your legs into the chest. Relax your neck and shoulders. Hold for 10-20 seconds and then switch sides."
   ],
   "category": "stretching",
-  "images": [
-    "Ankle_On_The_Knee/0.jpg",
-    "Ankle_On_The_Knee/1.jpg"
-  ]
+  "images": ["Ankle_On_The_Knee/0.jpg", "Ankle_On_The_Knee/1.jpg"]
 }

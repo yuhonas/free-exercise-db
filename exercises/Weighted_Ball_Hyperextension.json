@@ -4,14 +4,8 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "exercise ball",
-  "primaryMuscles": [
-    "lower back"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings",
-    "middle back"
-  ],
+  "primaryMuscles": ["lower back"],
+  "secondaryMuscles": ["glutes", "hamstrings", "middle back"],
   "instructions": [
     "To begin, lie down on an exercise ball with your torso pressing against the ball and parallel to the floor. The ball of your feet should be pressed against the floor to help keep you balanced. Place a weighted plate under your chin or behind your neck. This is the starting position.",
     "Slowly raise your torso up by bending at the waist and lower back. Remember to exhale during this movement.",
@@ -19,8 +13,5 @@
     "Repeat for the recommended amount of repetitions prescribed in your program."
   ],
   "category": "strength",
-  "images": [
-    "Weighted_Ball_Hyperextension/0.jpg",
-    "Weighted_Ball_Hyperextension/1.jpg"
-  ]
+  "images": ["Weighted_Ball_Hyperextension/0.jpg", "Weighted_Ball_Hyperextension/1.jpg"]
 }

@@ -4,15 +4,8 @@
   "level": "expert",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings",
-    "lower back"
-  ],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings", "lower back"],
   "instructions": [
     "This exercise is best performed inside a squat rack for safety purposes. To begin, first place a flat bench or a box behind you. The flat bench is used to teach you to set your hips back and to hit depth.",
     "",
@@ -24,8 +17,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Barbell_Squat_To_A_Bench/0.jpg",
-    "Barbell_Squat_To_A_Bench/1.jpg"
-  ]
+  "images": ["Barbell_Squat_To_A_Bench/0.jpg", "Barbell_Squat_To_A_Bench/1.jpg"]
 }

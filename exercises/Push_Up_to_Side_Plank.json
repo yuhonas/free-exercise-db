@@ -4,14 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": [
-    "chest"
-  ],
-  "secondaryMuscles": [
-    "abdominals",
-    "shoulders",
-    "triceps"
-  ],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["abdominals", "shoulders", "triceps"],
   "instructions": [
     "Get into pushup position on the toes with your hands just outside of shoulder width.",
     "Perform a pushup by allowing the elbows to flex. As you descend, keep your body straight.",
@@ -20,8 +14,5 @@
     "Repeat the series, alternating each side, for 10 or more reps."
   ],
   "category": "strength",
-  "images": [
-    "Push_Up_to_Side_Plank/0.jpg",
-    "Push_Up_to_Side_Plank/1.jpg"
-  ]
+  "images": ["Push_Up_to_Side_Plank/0.jpg", "Push_Up_to_Side_Plank/1.jpg"]
 }

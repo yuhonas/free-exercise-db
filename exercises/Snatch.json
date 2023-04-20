@@ -4,9 +4,7 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
+  "primaryMuscles": ["quadriceps"],
   "secondaryMuscles": [
     "biceps",
     "glutes",
@@ -26,8 +24,5 @@
     "Finalize the movement by rising up out of the squat position to finish the lift. At the end of the lift both feet should be on line and the arms fully extended holding the barbell overhead."
   ],
   "category": "olympic weightlifting",
-  "images": [
-    "Snatch/0.jpg",
-    "Snatch/1.jpg"
-  ]
+  "images": ["Snatch/0.jpg", "Snatch/1.jpg"]
 }

@@ -4,16 +4,8 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
-  "secondaryMuscles": [
-    "abductors",
-    "adductors",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["abductors", "adductors", "calves", "glutes", "hamstrings"],
   "instructions": [
     "To begin, first set the bar on a rack to just below shoulder level. Position a weight plate on the ground a couple feet back from the rack. Once the bar is loaded, step under it and place the back of your shoulders across it.",
     "Hold on to the bar with both hands and lift it off the rack by first pushing with your legs and at the same time straighten your torso.",
@@ -25,8 +17,5 @@
     "Place your inside foot on the weight plate, adopting a wide stance for the next repetition."
   ],
   "category": "strength",
-  "images": [
-    "Squat_with_Plate_Movers/0.jpg",
-    "Squat_with_Plate_Movers/1.jpg"
-  ]
+  "images": ["Squat_with_Plate_Movers/0.jpg", "Squat_with_Plate_Movers/1.jpg"]
 }

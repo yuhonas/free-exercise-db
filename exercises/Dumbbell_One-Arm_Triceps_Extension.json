@@ -4,12 +4,8 @@
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": [],
   "instructions": [
     "Grab a dumbbell and either sit on a military press bench or a utility bench that has a back support on it as you place the dumbbells upright on top of your thighs or stand up straight.",
     "Clean the dumbbell up to bring it to shoulder height and then extend the arm over your head so that the whole arm is perpendicular to the floor and next to your head. The dumbbell should be on top of you. The other hand can be kept fully extended to the side, by the waist, supporting the upper arm that has the dumbbell or grabbing a fixed surface.",
@@ -19,8 +15,5 @@
     "Repeat for the recommended amount of repetitions and switch arms."
   ],
   "category": "strength",
-  "images": [
-    "Dumbbell_One-Arm_Triceps_Extension/0.jpg",
-    "Dumbbell_One-Arm_Triceps_Extension/1.jpg"
-  ]
+  "images": ["Dumbbell_One-Arm_Triceps_Extension/0.jpg", "Dumbbell_One-Arm_Triceps_Extension/1.jpg"]
 }

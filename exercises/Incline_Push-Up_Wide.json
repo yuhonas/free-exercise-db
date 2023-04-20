@@ -4,14 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": [
-    "chest"
-  ],
-  "secondaryMuscles": [
-    "abdominals",
-    "shoulders",
-    "triceps"
-  ],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["abdominals", "shoulders", "triceps"],
   "instructions": [
     "Stand facing a Smith machine bar or sturdy elevated platform at an appropriate height.",
     "Place your hands on the bar, with your hands wider than shoulder width.",
@@ -20,8 +14,5 @@
     "Return to the starting position by extending the elbows, pressing yourself back up."
   ],
   "category": "strength",
-  "images": [
-    "Incline_Push-Up_Wide/0.jpg",
-    "Incline_Push-Up_Wide/1.jpg"
-  ]
+  "images": ["Incline_Push-Up_Wide/0.jpg", "Incline_Push-Up_Wide/1.jpg"]
 }

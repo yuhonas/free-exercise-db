@@ -4,12 +4,8 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "lower back"
-  ],
-  "secondaryMuscles": [
-    "glutes"
-  ],
+  "primaryMuscles": ["lower back"],
+  "secondaryMuscles": ["glutes"],
   "instructions": [
     "Set up a box in a power rack. The pins should be set at an appropriate height. Begin by stepping under the bar and placing it across the back of the shoulders, not on top of your traps. Squeeze your shoulder blades together and rotate your elbows forward, attempting to bend the bar across your shoulders.",
     "Remove the bar from the rack, creating a tight arch in your lower back. Keep your head facing forward. With your back, shoulders, and core tight, push your knees and butt out and you begin your descent. Sit back with your hips until you are seated on the box. This will be your starting position.",
@@ -17,8 +13,5 @@
     "Pause just above the pins and reverse the motion until your torso it upright."
   ],
   "category": "powerlifting",
-  "images": [
-    "Seated_Good_Mornings/0.jpg",
-    "Seated_Good_Mornings/1.jpg"
-  ]
+  "images": ["Seated_Good_Mornings/0.jpg", "Seated_Good_Mornings/1.jpg"]
 }

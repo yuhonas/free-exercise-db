@@ -4,13 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "bands",
-  "primaryMuscles": [
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "hamstrings"
-  ],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": ["calves", "hamstrings"],
   "instructions": [
     "After choosing a suitable band, lay down in the middle of the rack, after securing the band on either side of you. If your rack doesn't have pegs, the band can be secured using heavy dumbbells or similar objects, just ensure they won't move.",
     "Adjust your position so that the band is directly over your hips. Bend your knees and place your feet flat on the floor. Your hands can be on the floor or holding the band in position.",
@@ -18,8 +13,5 @@
     "Pause at the top of the motion, and return to the starting position."
   ],
   "category": "powerlifting",
-  "images": [
-    "Hip_Lift_with_Band/0.jpg",
-    "Hip_Lift_with_Band/1.jpg"
-  ]
+  "images": ["Hip_Lift_with_Band/0.jpg", "Hip_Lift_with_Band/1.jpg"]
 }

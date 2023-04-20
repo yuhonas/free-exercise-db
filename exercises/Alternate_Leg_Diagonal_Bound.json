@@ -4,16 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": null,
-  "primaryMuscles": [
-    "quadriceps"
-  ],
-  "secondaryMuscles": [
-    "abductors",
-    "adductors",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["abductors", "adductors", "calves", "glutes", "hamstrings"],
   "instructions": [
     "Assume a comfortable stance with one foot slightly in front of the other.",
     "Begin by pushing off with the front leg, driving the opposite knee forward and as high as possible before landing. Attempt to cover as much distance to each side with each bound.",
@@ -21,8 +13,5 @@
     "Repeat the sequence with the other leg."
   ],
   "category": "plyometrics",
-  "images": [
-    "Alternate_Leg_Diagonal_Bound/0.jpg",
-    "Alternate_Leg_Diagonal_Bound/1.jpg"
-  ]
+  "images": ["Alternate_Leg_Diagonal_Bound/0.jpg", "Alternate_Leg_Diagonal_Bound/1.jpg"]
 }

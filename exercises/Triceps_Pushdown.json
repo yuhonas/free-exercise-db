@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": [],
   "instructions": [
     "Attach a straight or angled bar to a high pulley and grab with an overhand grip (palms facing down) at shoulder width.",
     "Standing upright with the torso straight and a very small inclination forward, bring the upper arms close to your body and perpendicular to the floor. The forearms should be pointing up towards the pulley as they hold the bar. This is your starting position.",
@@ -18,8 +14,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Triceps_Pushdown/0.jpg",
-    "Triceps_Pushdown/1.jpg"
-  ]
+  "images": ["Triceps_Pushdown/0.jpg", "Triceps_Pushdown/1.jpg"]
 }

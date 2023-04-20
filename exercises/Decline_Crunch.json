@@ -4,12 +4,8 @@
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "body only",
-  "primaryMuscles": [
-    "abdominals"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": [],
   "instructions": [
     "Secure your legs at the end of the decline bench and lie down.",
     "Now place your hands lightly on either side of your head keeping your elbows in. Tip: Don't lock your fingers behind your head.",
@@ -19,8 +15,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Decline_Crunch/0.jpg",
-    "Decline_Crunch/1.jpg"
-  ]
+  "images": ["Decline_Crunch/0.jpg", "Decline_Crunch/1.jpg"]
 }

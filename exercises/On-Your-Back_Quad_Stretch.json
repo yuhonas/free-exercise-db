@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "other",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie on a flat bench or step, and hang one leg and arm over the side.",
     "Bend the knee and hold the top of the foot. As you do this, be careful not to arch your lower back.",
@@ -17,8 +13,5 @@
     "Switch sides."
   ],
   "category": "stretching",
-  "images": [
-    "On-Your-Back_Quad_Stretch/0.jpg",
-    "On-Your-Back_Quad_Stretch/1.jpg"
-  ]
+  "images": ["On-Your-Back_Quad_Stretch/0.jpg", "On-Your-Back_Quad_Stretch/1.jpg"]
 }

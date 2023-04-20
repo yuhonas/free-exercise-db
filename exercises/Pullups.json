@@ -4,13 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "middle back"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["biceps", "middle back"],
   "instructions": [
     "Grab the pull-up bar with the palms facing forward using the prescribed grip. Note on grips: For a wide grip, your hands need to be spaced out at a distance wider than your shoulder width. For a medium grip, your hands need to be spaced out at a distance equal to your shoulder width and for a close grip at a distance smaller than your shoulder width.",
     "As you have both arms extended in front of you holding the bar at the chosen grip width, bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.",
@@ -19,8 +14,5 @@
     "Repeat this motion for the prescribed amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Pullups/0.jpg",
-    "Pullups/1.jpg"
-  ]
+  "images": ["Pullups/0.jpg", "Pullups/1.jpg"]
 }

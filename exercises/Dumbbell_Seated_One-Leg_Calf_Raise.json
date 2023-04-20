@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": [
-    "calves"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["calves"],
+  "secondaryMuscles": [],
   "instructions": [
     "Place a block on the floor about 12 inches from a flat bench.",
     "Sit on a flat bench and place a dumbbell on your upper left thigh about 3 inches above your knee.",
@@ -19,8 +15,5 @@
     "Repeat for your prescribed number of repetitions and then repeat with the right leg."
   ],
   "category": "strength",
-  "images": [
-    "Dumbbell_Seated_One-Leg_Calf_Raise/0.jpg",
-    "Dumbbell_Seated_One-Leg_Calf_Raise/1.jpg"
-  ]
+  "images": ["Dumbbell_Seated_One-Leg_Calf_Raise/0.jpg", "Dumbbell_Seated_One-Leg_Calf_Raise/1.jpg"]
 }

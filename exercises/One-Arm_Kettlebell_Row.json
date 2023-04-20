@@ -4,19 +4,11 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",
-  "primaryMuscles": [
-    "middle back"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "lats"
-  ],
+  "primaryMuscles": ["middle back"],
+  "secondaryMuscles": ["biceps", "lats"],
   "instructions": [
     "Place a kettlebell in front of your feet. Bend your knees slightly and then push your butt out as much as possible as you bend over to get in the starting position. Grab the kettlebell and pull it to your stomach, retracting your shoulder blade and flexing the elbow. Keep your back straight. Lower and repeat."
   ],
   "category": "strength",
-  "images": [
-    "One-Arm_Kettlebell_Row/0.jpg",
-    "One-Arm_Kettlebell_Row/1.jpg"
-  ]
+  "images": ["One-Arm_Kettlebell_Row/0.jpg", "One-Arm_Kettlebell_Row/1.jpg"]
 }

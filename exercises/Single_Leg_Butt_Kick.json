@@ -4,13 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "hamstrings"
-  ],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["calves", "hamstrings"],
   "instructions": [
     "Begin by standing on one leg, with the bent knee raised. This will be your start position.",
     "Using a countermovement jump, take off upward by extending the hip, knee, and ankle of the grounded leg.",
@@ -18,8 +13,5 @@
     "Return the leg to a partially bent position underneath the hips and land. Your opposite leg should stay in relatively the same position throughout the drill."
   ],
   "category": "plyometrics",
-  "images": [
-    "Single_Leg_Butt_Kick/0.jpg",
-    "Single_Leg_Butt_Kick/1.jpg"
-  ]
+  "images": ["Single_Leg_Butt_Kick/0.jpg", "Single_Leg_Butt_Kick/1.jpg"]
 }

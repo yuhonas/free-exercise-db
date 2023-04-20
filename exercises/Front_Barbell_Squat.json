@@ -4,14 +4,8 @@
   "level": "expert",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
   "instructions": [
     "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, bring your arms up under the bar while keeping the elbows high and the upper arm slightly above parallel to the floor. Rest the bar on top of the deltoids and cross your arms while grasping the bar for total control.",
     "Lift the bar off the rack by first pushing with your legs and at the same time straightening your torso.",
@@ -21,8 +15,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Front_Barbell_Squat/0.jpg",
-    "Front_Barbell_Squat/1.jpg"
-  ]
+  "images": ["Front_Barbell_Squat/0.jpg", "Front_Barbell_Squat/1.jpg"]
 }

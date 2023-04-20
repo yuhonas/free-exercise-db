@@ -4,14 +4,8 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "middle back"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "lats",
-    "shoulders"
-  ],
+  "primaryMuscles": ["middle back"],
+  "secondaryMuscles": ["biceps", "lats", "shoulders"],
   "instructions": [
     "Stand erect while holding a barbell with a supinated grip (palms facing up).",
     "Bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The barbell should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position.",
@@ -20,8 +14,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Reverse_Grip_Bent-Over_Rows/0.jpg",
-    "Reverse_Grip_Bent-Over_Rows/1.jpg"
-  ]
+  "images": ["Reverse_Grip_Bent-Over_Rows/0.jpg", "Reverse_Grip_Bent-Over_Rows/1.jpg"]
 }

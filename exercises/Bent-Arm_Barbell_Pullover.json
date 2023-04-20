@@ -4,15 +4,8 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "chest",
-    "lats",
-    "shoulders",
-    "triceps"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["chest", "lats", "shoulders", "triceps"],
   "instructions": [
     "Lie on a flat bench with a barbell using a shoulder grip width.",
     "Hold the bar straight over your chest with a bend in your arms. This will be your starting position.",
@@ -21,8 +14,5 @@
     "Hold the weight on the initial position for a second and repeat the motion for the prescribed number of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Bent-Arm_Barbell_Pullover/0.jpg",
-    "Bent-Arm_Barbell_Pullover/1.jpg"
-  ]
+  "images": ["Bent-Arm_Barbell_Pullover/0.jpg", "Bent-Arm_Barbell_Pullover/1.jpg"]
 }

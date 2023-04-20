@@ -4,13 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "medicine ball",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "chest",
-    "shoulders"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["chest", "shoulders"],
   "instructions": [
     "This drill is great for chest passes when you lack a partner or a wall of sufficient strength. Lay on the ground on your back with your knees bent.",
     "Begin with the ball on your chest, held with both hands on the bottom.",
@@ -18,8 +13,5 @@
     "Catch the ball with both hands as it comes down."
   ],
   "category": "plyometrics",
-  "images": [
-    "Supine_Chest_Throw/0.jpg",
-    "Supine_Chest_Throw/1.jpg"
-  ]
+  "images": ["Supine_Chest_Throw/0.jpg", "Supine_Chest_Throw/1.jpg"]
 }

@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": [
-    "shoulders"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["shoulders"],
+  "secondaryMuscles": [],
   "instructions": [
     "Select the weight on a low pulley machine and grasp the single hand cable attachment that is attached to the low pulley with your left hand.",
     "Face away from the pulley and put your arm straight down with the hand cable attachment in front of your thighs at arms' length with the palms of the hand facing your thighs. This will be your starting position.",
@@ -18,8 +14,5 @@
     "Once all of the recommended amount of repetitions have been performed for this arm, switch arms and perform the exercise with the right one."
   ],
   "category": "strength",
-  "images": [
-    "Front_Cable_Raise/0.jpg",
-    "Front_Cable_Raise/1.jpg"
-  ]
+  "images": ["Front_Cable_Raise/0.jpg", "Front_Cable_Raise/1.jpg"]
 }

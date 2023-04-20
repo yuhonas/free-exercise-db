@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "body only",
-  "primaryMuscles": [
-    "abdominals"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie on the floor with your back flat and knees bent with around a 60-degree angle between the hamstrings and the calves.",
     "Keep your feet flat on the floor and stretch your arms overhead with your palms crossed. This will be your starting position.",
@@ -18,8 +14,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Crunch_-_Hands_Overhead/0.jpg",
-    "Crunch_-_Hands_Overhead/1.jpg"
-  ]
+  "images": ["Crunch_-_Hands_Overhead/0.jpg", "Crunch_-_Hands_Overhead/1.jpg"]
 }

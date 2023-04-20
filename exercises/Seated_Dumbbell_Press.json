@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": [
-    "shoulders"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["shoulders"],
+  "secondaryMuscles": ["triceps"],
   "instructions": [
     "Grab a couple of dumbbells and sit on a military press bench or a utility bench that has a back support on it as you place the dumbbells upright on top of your thighs.",
     "Clean the dumbbells up one at a time by using your thighs to bring the dumbbells up to shoulder height at each side.",
@@ -19,8 +15,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Seated_Dumbbell_Press/0.jpg",
-    "Seated_Dumbbell_Press/1.jpg"
-  ]
+  "images": ["Seated_Dumbbell_Press/0.jpg", "Seated_Dumbbell_Press/1.jpg"]
 }

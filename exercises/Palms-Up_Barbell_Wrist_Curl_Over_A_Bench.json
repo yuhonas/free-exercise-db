@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "forearms"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["forearms"],
+  "secondaryMuscles": [],
   "instructions": [
     "Start out by placing a barbell on one side of a flat bench.",
     "Kneel down on both of your knees so that your body is facing the flat bench.",

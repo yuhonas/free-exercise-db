@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": null,
   "equipment": "body only",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "calves"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["calves"],
   "instructions": [
     "Lie on your back, with one leg extended straight out.",
     "With the other leg, bend the hip and knee to 90 degrees. You may brace your leg with your hands if necessary. This will be your starting position.",
@@ -17,8 +13,5 @@
     "Repeat for 10-20 repetitions, and then switch to the other leg."
   ],
   "category": "stretching",
-  "images": [
-    "90_90_Hamstring/0.jpg",
-    "90_90_Hamstring/1.jpg"
-  ]
+  "images": ["90_90_Hamstring/0.jpg", "90_90_Hamstring/1.jpg"]
 }

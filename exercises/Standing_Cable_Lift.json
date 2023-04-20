@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "cable",
-  "primaryMuscles": [
-    "abdominals"
-  ],
-  "secondaryMuscles": [
-    "shoulders"
-  ],
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": ["shoulders"],
   "instructions": [
     "Connect a standard handle on a tower, and move the cable to the lowest pulley position.",
     "With your side to the cable, grab the handle with one hand and step away from the tower. You should be approximately armâ€™s length away from the pulley, with the tension of the weight on the cable. Your outstretched arm should be aligned with the cable.",
@@ -21,8 +17,5 @@
     "Then, reposition and repeat the same series of movements on the opposite side."
   ],
   "category": "strength",
-  "images": [
-    "Standing_Cable_Lift/0.jpg",
-    "Standing_Cable_Lift/1.jpg"
-  ]
+  "images": ["Standing_Cable_Lift/0.jpg", "Standing_Cable_Lift/1.jpg"]
 }

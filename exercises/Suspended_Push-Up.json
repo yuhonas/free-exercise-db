@@ -4,13 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "chest"
-  ],
-  "secondaryMuscles": [
-    "shoulders",
-    "triceps"
-  ],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["shoulders", "triceps"],
   "instructions": [
     "Anchor your suspension straps securely to the top of a rack or other object.",
     "Leaning into the straps, take a handle in each hand and move into a push-up plank position. You should be as close to parallel to the ground as you can manage with your arms fully extended, maintaining good posture.",
@@ -18,8 +13,5 @@
     "Continue until your elbows break 90 degrees, pausing before you extend to return to the starting position."
   ],
   "category": "strength",
-  "images": [
-    "Suspended_Push-Up/0.jpg",
-    "Suspended_Push-Up/1.jpg"
-  ]
+  "images": ["Suspended_Push-Up/0.jpg", "Suspended_Push-Up/1.jpg"]
 }

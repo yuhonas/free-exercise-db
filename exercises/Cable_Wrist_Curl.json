@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": [
-    "forearms"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["forearms"],
+  "secondaryMuscles": [],
   "instructions": [
     "Start out by placing a flat bench in front of a low pulley cable that has a straight bar attachment.",
     "Use your arms to grab the cable bar with a narrow to shoulder width supinated grip (palms up) and bring them up so that your forearms are resting against the top of your thighs. Your wrists should be hanging just beyond your knees.",
@@ -19,8 +15,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Cable_Wrist_Curl/0.jpg",
-    "Cable_Wrist_Curl/1.jpg"
-  ]
+  "images": ["Cable_Wrist_Curl/0.jpg", "Cable_Wrist_Curl/1.jpg"]
 }

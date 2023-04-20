@@ -4,13 +4,8 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "chest",
-    "shoulders"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["chest", "shoulders"],
   "instructions": [
     "Lie down on a flat surface with your back pressing against the floor or an exercise mat. Make sure your knees are bent.",
     "Have a partner hand you the bar on one hand. When starting, your arm should be just about fully extended, similar to the starting position of a barbell bench press. However, this time your grip will be neutral (palms facing your torso).",
@@ -21,8 +16,5 @@
     "Switch arms and repeat the movement."
   ],
   "category": "strength",
-  "images": [
-    "One_Arm_Floor_Press/0.jpg",
-    "One_Arm_Floor_Press/1.jpg"
-  ]
+  "images": ["One_Arm_Floor_Press/0.jpg", "One_Arm_Floor_Press/1.jpg"]
 }

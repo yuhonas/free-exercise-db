@@ -4,14 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
   "instructions": [
     "This drill is best done in sand or other soft landing surface. Ensure that you are able to measure distance. Stand in a partial squat stance with feet shoulder width apart.",
     "Utilizing a big arm swing and a countermovement of the legs, jump forward as far as you can.",
@@ -19,8 +13,5 @@
     "Measure the distance from your landing point to the starting point and track results."
   ],
   "category": "plyometrics",
-  "images": [
-    "Standing_Long_Jump/0.jpg",
-    "Standing_Long_Jump/1.jpg"
-  ]
+  "images": ["Standing_Long_Jump/0.jpg", "Standing_Long_Jump/1.jpg"]
 }

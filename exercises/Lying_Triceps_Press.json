@@ -4,12 +4,8 @@
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "e-z curl bar",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie on a flat bench with either an e-z bar (my preference) or a straight bar placed on the floor behind your head and your feet on the floor.",
     "Grab the bar behind you, using a medium overhand (pronated) grip, and raise the bar in front of you at arms length. Tip: The arms should be perpendicular to the torso and the floor. The elbows should be tucked in. This is the starting position.",
@@ -18,8 +14,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Lying_Triceps_Press/0.jpg",
-    "Lying_Triceps_Press/1.jpg"
-  ]
+  "images": ["Lying_Triceps_Press/0.jpg", "Lying_Triceps_Press/1.jpg"]
 }

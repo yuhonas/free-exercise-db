@@ -4,9 +4,7 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
+  "primaryMuscles": ["hamstrings"],
   "secondaryMuscles": [
     "biceps",
     "calves",

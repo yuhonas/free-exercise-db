@@ -4,16 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "abductors",
-    "adductors",
-    "calves",
-    "glutes",
-    "quadriceps"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["abductors", "adductors", "calves", "glutes", "quadriceps"],
   "instructions": [
     "Begin with a box of an appropriate height 1-2 feet in front of you. Stand with your feet should width apart. This will be your starting position.",
     "Perform a short squat in preparation for jumping, swinging your arms behind you.",
@@ -21,8 +13,5 @@
     "Land on the box with the knees bent, absorbing the impact through the legs. You can jump from the box back to the ground, or preferably step down one leg at a time."
   ],
   "category": "plyometrics",
-  "images": [
-    "Front_Box_Jump/0.jpg",
-    "Front_Box_Jump/1.jpg"
-  ]
+  "images": ["Front_Box_Jump/0.jpg", "Front_Box_Jump/1.jpg"]
 }

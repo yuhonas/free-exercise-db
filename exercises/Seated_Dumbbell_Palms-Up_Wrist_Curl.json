@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": [
-    "forearms"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["forearms"],
+  "secondaryMuscles": [],
   "instructions": [
     "Start out by placing two dumbbells on the floor in front of a flat bench.",
     "Sit down on the edge of the flat bench with your legs at about shoulder width apart. Make sure to keep your feet on the floor.",

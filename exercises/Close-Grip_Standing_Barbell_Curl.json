@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
+  "primaryMuscles": ["biceps"],
+  "secondaryMuscles": ["forearms"],
   "instructions": [
     "Hold a barbell with both hands, palms up and a few inches apart.",
     "Stand with your torso straight and your head up. Your feet should be about shoulder width and your elbows close to your torso. This will be your starting position. Tip: You will keep your upper arms and elbows stationary throughout the movement.",
@@ -18,8 +14,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Close-Grip_Standing_Barbell_Curl/0.jpg",
-    "Close-Grip_Standing_Barbell_Curl/1.jpg"
-  ]
+  "images": ["Close-Grip_Standing_Barbell_Curl/0.jpg", "Close-Grip_Standing_Barbell_Curl/1.jpg"]
 }

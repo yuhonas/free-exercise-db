@@ -4,16 +4,8 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings",
-    "shoulders",
-    "triceps"
-  ],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings", "shoulders", "triceps"],
   "instructions": [
     "Begin with the feet in the pulling position, the bar racked across the back of the shoulders, and the hands placed in a wide snatch grip.",
     "Pop the bar with an abrupt dip and drive of the knees, and aggressively drive under the bar, transitioning the feet into the receiving position.",
@@ -21,8 +13,5 @@
     "Continue to descend to full depth, and return to a standing position. Carefully lower the weight."
   ],
   "category": "olympic weightlifting",
-  "images": [
-    "Snatch_Balance/0.jpg",
-    "Snatch_Balance/1.jpg"
-  ]
+  "images": ["Snatch_Balance/0.jpg", "Snatch_Balance/1.jpg"]
 }

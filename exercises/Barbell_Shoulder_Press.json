@@ -4,13 +4,8 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "shoulders"
-  ],
-  "secondaryMuscles": [
-    "chest",
-    "triceps"
-  ],
+  "primaryMuscles": ["shoulders"],
+  "secondaryMuscles": ["chest", "triceps"],
   "instructions": [
     "Sit on a bench with back support in a squat rack. Position a barbell at a height that is just above your head. Grab the barbell with a pronated grip (palms facing forward).",
     "Once you pick up the barbell with the correct grip width, lift the bar up over your head by locking your arms. Hold at about shoulder level and slightly in front of your head. This is your starting position.",
@@ -19,8 +14,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Barbell_Shoulder_Press/0.jpg",
-    "Barbell_Shoulder_Press/1.jpg"
-  ]
+  "images": ["Barbell_Shoulder_Press/0.jpg", "Barbell_Shoulder_Press/1.jpg"]
 }

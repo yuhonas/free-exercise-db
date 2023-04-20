@@ -4,13 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": [
-    "chest"
-  ],
-  "secondaryMuscles": [
-    "shoulders",
-    "triceps"
-  ],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["shoulders", "triceps"],
   "instructions": [
     "While either seating or standing, bend your arms at a 90-degree angle and place the palms of your hands together in front of your chest. Tip: Your hands should be open with the palms together and fingers facing forward (perpendicular to your torso).",
     "Push both hands against each other as you contract your chest. Start with slow tension and increase slowly. Keep breathing normally as you execute this contraction.",
@@ -19,8 +14,5 @@
     "Rest for the recommended amount of time and repeat."
   ],
   "category": "plyometrics",
-  "images": [
-    "Isometric_Chest_Squeezes/0.jpg",
-    "Isometric_Chest_Squeezes/1.jpg"
-  ]
+  "images": ["Isometric_Chest_Squeezes/0.jpg", "Isometric_Chest_Squeezes/1.jpg"]
 }

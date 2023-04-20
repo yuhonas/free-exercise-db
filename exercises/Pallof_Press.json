@@ -4,14 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": [
-    "abdominals"
-  ],
-  "secondaryMuscles": [
-    "chest",
-    "shoulders",
-    "triceps"
-  ],
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": ["chest", "shoulders", "triceps"],
   "instructions": [
     "Connect a standard handle to a tower, andâ€”if possibleâ€”position the cable to shoulder height. If not, a low pulley will suffice.",
     "With your side to the cable, grab the handle with both hands and step away from the tower. You should be approximately armâ€™s length away from the pulley, with the tension of the weight on the cable.",
@@ -21,8 +15,5 @@
     "At the conclusion of the set, repeat facing the other direction."
   ],
   "category": "strength",
-  "images": [
-    "Pallof_Press/0.jpg",
-    "Pallof_Press/1.jpg"
-  ]
+  "images": ["Pallof_Press/0.jpg", "Pallof_Press/1.jpg"]
 }

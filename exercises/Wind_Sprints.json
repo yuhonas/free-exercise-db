@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": [
-    "abdominals"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": [],
   "instructions": [
     "Hang from a pull-up bar using a pronated grip. Your arms and legs should be extended. This will be your starting position.",
     "Begin by quickly raising one knee as high as you can. Do not swing your body or your legs. 3",
@@ -17,8 +13,5 @@
     "Continue alternating between legs until the set is complete."
   ],
   "category": "strength",
-  "images": [
-    "Wind_Sprints/0.jpg",
-    "Wind_Sprints/1.jpg"
-  ]
+  "images": ["Wind_Sprints/0.jpg", "Wind_Sprints/1.jpg"]
 }

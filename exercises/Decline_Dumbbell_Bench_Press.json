@@ -4,13 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": [
-    "chest"
-  ],
-  "secondaryMuscles": [
-    "shoulders",
-    "triceps"
-  ],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["shoulders", "triceps"],
   "instructions": [
     "Secure your legs at the end of the decline bench and lie down with a dumbbell on each hand on top of your thighs. The palms of your hand will be facing each other.",
     "Once you are laying down, move the dumbbells in front of you at shoulder width.",
@@ -20,8 +15,5 @@
     "Repeat the movement for the prescribed amount of repetitions of your training program."
   ],
   "category": "strength",
-  "images": [
-    "Decline_Dumbbell_Bench_Press/0.jpg",
-    "Decline_Dumbbell_Bench_Press/1.jpg"
-  ]
+  "images": ["Decline_Dumbbell_Bench_Press/0.jpg", "Decline_Dumbbell_Bench_Press/1.jpg"]
 }

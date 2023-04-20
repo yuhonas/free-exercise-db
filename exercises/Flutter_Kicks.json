@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": [
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "hamstrings"
-  ],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": ["hamstrings"],
   "instructions": [
     "On a flat bench lie facedown with the hips on the edge of the bench, the legs straight with toes high off the floor and with the arms on top of the bench holding on to the front edge.",
     "Squeeze your glutes and hamstrings and straighten the legs until they are level with the hips. This will be your starting position.",
@@ -18,8 +14,5 @@
     "Continue alternating in this manner (as though you are doing a flutter kick in water) until you have done the recommended amount of repetitions for each leg. Make sure that you keep a controlled movement at all times. Tip: You will breathe normally as you perform this movement."
   ],
   "category": "strength",
-  "images": [
-    "Flutter_Kicks/0.jpg",
-    "Flutter_Kicks/1.jpg"
-  ]
+  "images": ["Flutter_Kicks/0.jpg", "Flutter_Kicks/1.jpg"]
 }

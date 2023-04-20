@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "body only",
-  "primaryMuscles": [
-    "abdominals"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie flat on your back with your feet resting on an exercise ball and your knees bent at a 90 degree angle.",
     "Place your feet three to four inches apart and point your toes inward so they touch.",
@@ -20,8 +16,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Crunch_-_Legs_On_Exercise_Ball/0.jpg",
-    "Crunch_-_Legs_On_Exercise_Ball/1.jpg"
-  ]
+  "images": ["Crunch_-_Legs_On_Exercise_Ball/0.jpg", "Crunch_-_Legs_On_Exercise_Ball/1.jpg"]
 }

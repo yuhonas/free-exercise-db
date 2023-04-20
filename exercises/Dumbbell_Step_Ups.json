@@ -4,14 +4,8 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
   "instructions": [
     "Stand up straight while holding a dumbbell on each hand (palms facing the side of your legs).",
     "Place the right foot on the elevated platform. Step on the platform by extending the hip and the knee of your right leg. Use the heel mainly to lift the rest of your body up and place the foot of the left leg on the platform as well. Breathe out as you execute the force required to come up.",
@@ -19,8 +13,5 @@
     "Repeat with the right leg for the recommended amount of repetitions and then perform with the left leg."
   ],
   "category": "strength",
-  "images": [
-    "Dumbbell_Step_Ups/0.jpg",
-    "Dumbbell_Step_Ups/1.jpg"
-  ]
+  "images": ["Dumbbell_Step_Ups/0.jpg", "Dumbbell_Step_Ups/1.jpg"]
 }

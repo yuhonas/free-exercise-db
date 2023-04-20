@@ -4,13 +4,8 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "cable",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "middle back",
-    "traps"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["middle back", "traps"],
   "instructions": [
     "Get a platform of some sort (it can be an aerobics or calf raise platform) that is around 4-6 inches in height.",
     "Place it on the seat of the cable row machine.",
@@ -21,8 +16,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Elevated_Cable_Rows/0.jpg",
-    "Elevated_Cable_Rows/1.jpg"
-  ]
+  "images": ["Elevated_Cable_Rows/0.jpg", "Elevated_Cable_Rows/1.jpg"]
 }

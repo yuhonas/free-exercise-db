@@ -4,13 +4,8 @@
   "level": "expert",
   "mechanic": "compound",
   "equipment": "kettlebells",
-  "primaryMuscles": [
-    "shoulders"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "quadriceps"
-  ],
+  "primaryMuscles": ["shoulders"],
+  "secondaryMuscles": ["hamstrings", "quadriceps"],
   "instructions": [
     "Hold a kettlebell in one hand by the handle.",
     "Squat towards the floor, and then reverse the motion, extending the hips, knees, and finally the ankles, to raise the kettlebell overhead.",
@@ -18,8 +13,5 @@
     "Return to a standing position, holding the weight overhead, and bring the feet together. Lower the weight to return to the starting position."
   ],
   "category": "strength",
-  "images": [
-    "One-Arm_Kettlebell_Split_Snatch/0.jpg",
-    "One-Arm_Kettlebell_Split_Snatch/1.jpg"
-  ]
+  "images": ["One-Arm_Kettlebell_Split_Snatch/0.jpg", "One-Arm_Kettlebell_Split_Snatch/1.jpg"]
 }

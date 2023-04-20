@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": [
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
+  "primaryMuscles": ["biceps"],
+  "secondaryMuscles": ["forearms"],
   "instructions": [
     "Place a preacher bench about 2 feet in front of a pulley machine.",
     "Attach a straight bar to the low pulley.",
@@ -20,8 +16,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Cable_Preacher_Curl/0.jpg",
-    "Cable_Preacher_Curl/1.jpg"
-  ]
+  "images": ["Cable_Preacher_Curl/0.jpg", "Cable_Preacher_Curl/1.jpg"]
 }

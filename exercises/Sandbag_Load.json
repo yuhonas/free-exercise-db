@@ -4,9 +4,7 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
+  "primaryMuscles": ["quadriceps"],
   "secondaryMuscles": [
     "abdominals",
     "biceps",
@@ -26,8 +24,5 @@
     "Return to the starting position to retrieve the next sandbag, and repeat until the event is completed."
   ],
   "category": "strongman",
-  "images": [
-    "Sandbag_Load/0.jpg",
-    "Sandbag_Load/1.jpg"
-  ]
+  "images": ["Sandbag_Load/0.jpg", "Sandbag_Load/1.jpg"]
 }

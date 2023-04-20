@@ -4,14 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "cable",
-  "primaryMuscles": [
-    "abdominals"
-  ],
-  "secondaryMuscles": [
-    "chest",
-    "shoulders",
-    "triceps"
-  ],
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": ["chest", "shoulders", "triceps"],
   "instructions": [
     "Connect a standard handle to a tower, and position the cable to shoulder height.",
     "With your side to the cable, grab the handle with one hand and step away from the tower. You should be approximately armâ€™s length away from the pulley, with the tension of the weight on the cable. Align outstretched arm with cable.",
@@ -24,8 +18,5 @@
     "Then, reposition and repeat the same series of movements on the opposite side."
   ],
   "category": "strength",
-  "images": [
-    "Pallof_Press_With_Rotation/0.jpg",
-    "Pallof_Press_With_Rotation/1.jpg"
-  ]
+  "images": ["Pallof_Press_With_Rotation/0.jpg", "Pallof_Press_With_Rotation/1.jpg"]
 }

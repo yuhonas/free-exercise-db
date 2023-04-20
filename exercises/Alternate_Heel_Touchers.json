@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "body only",
-  "primaryMuscles": [
-    "abdominals"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie on the floor with the knees bent and the feet on the floor around 18-24 inches apart. Your arms should be extended by your side. This will be your starting position.",
     "Crunch over your torso forward and up about 3-4 inches to the right side and touch your right heel as you hold the contraction for a second. Exhale while performing this movement.",
@@ -18,8 +14,5 @@
     "Continue alternating sides in this manner until all prescribed repetitions are done."
   ],
   "category": "strength",
-  "images": [
-    "Alternate_Heel_Touchers/0.jpg",
-    "Alternate_Heel_Touchers/1.jpg"
-  ]
+  "images": ["Alternate_Heel_Touchers/0.jpg", "Alternate_Heel_Touchers/1.jpg"]
 }

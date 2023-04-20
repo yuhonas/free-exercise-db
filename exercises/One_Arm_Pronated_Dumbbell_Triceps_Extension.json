@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie flat on a bench while holding a dumbbell at arms length. Your arm should be perpendicular to your body. The palm of your hand should be facing towards your feet as a pronated grip is required to perform this exercise.",
     "Place your non lifting hand on your bicep for support.",

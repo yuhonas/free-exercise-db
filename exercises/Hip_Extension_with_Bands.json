@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "bands",
-  "primaryMuscles": [
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "hamstrings"
-  ],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": ["hamstrings"],
   "instructions": [
     "Secure one end of the band to the lower portion of a post and attach the other to one ankle.",
     "Facing the attachment point of the band, hold on to the column to stabilize yourself.",
@@ -17,8 +13,5 @@
     "Return the leg to the starting position."
   ],
   "category": "strength",
-  "images": [
-    "Hip_Extension_with_Bands/0.jpg",
-    "Hip_Extension_with_Bands/1.jpg"
-  ]
+  "images": ["Hip_Extension_with_Bands/0.jpg", "Hip_Extension_with_Bands/1.jpg"]
 }

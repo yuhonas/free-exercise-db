@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "cable",
-  "primaryMuscles": [
-    "abdominals"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": [],
   "instructions": [
     "Connect a standard handle attachment, and position the cable to a middle pulley position.",
     "Lie on a stability ball perpendicular to the cable and grab the handle with one hand. You should be approximately armâ€™s length away from the pulley, with the tension of the weight on the cable.",
@@ -20,8 +16,5 @@
     "Then, reposition and repeat the same series of movements on the opposite side."
   ],
   "category": "strength",
-  "images": [
-    "Cable_Russian_Twists/0.jpg",
-    "Cable_Russian_Twists/1.jpg"
-  ]
+  "images": ["Cable_Russian_Twists/0.jpg", "Cable_Russian_Twists/1.jpg"]
 }

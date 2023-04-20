@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": [
-    "abdominals"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": [],
   "instructions": [
     "Kneel 1-2 feet in front of a cable system with a rope attached.",
     "After selecting an appropriate weight, grasp the rope with both hands reaching overhead. Your torso should be upright in the starting position.",
@@ -18,8 +14,5 @@
     "These can be done with twists or to the side to hit the obliques."
   ],
   "category": "strength",
-  "images": [
-    "Rope_Crunch/0.jpg",
-    "Rope_Crunch/1.jpg"
-  ]
+  "images": ["Rope_Crunch/0.jpg", "Rope_Crunch/1.jpg"]
 }

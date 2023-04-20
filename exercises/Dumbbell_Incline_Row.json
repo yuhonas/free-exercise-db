@@ -4,15 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": [
-    "middle back"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "forearms",
-    "lats",
-    "shoulders"
-  ],
+  "primaryMuscles": ["middle back"],
+  "secondaryMuscles": ["biceps", "forearms", "lats", "shoulders"],
   "instructions": [
     "Using a neutral grip, lean into an incline bench.",
     "Take a dumbbell in each hand with a neutral grip, beginning with the arms straight. This will be your starting position.",
@@ -20,8 +13,5 @@
     "Pause at the top of the motion, and then return to the starting position."
   ],
   "category": "strength",
-  "images": [
-    "Dumbbell_Incline_Row/0.jpg",
-    "Dumbbell_Incline_Row/1.jpg"
-  ]
+  "images": ["Dumbbell_Incline_Row/0.jpg", "Dumbbell_Incline_Row/1.jpg"]
 }

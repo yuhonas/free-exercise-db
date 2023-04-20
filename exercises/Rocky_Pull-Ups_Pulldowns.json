@@ -4,14 +4,8 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "middle back",
-    "shoulders"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["biceps", "middle back", "shoulders"],
   "instructions": [
     "Grab the pull-up bar with the palms facing forward using a wide grip.",
     "As you have both arms extended in front of you holding the bar at the chosen grip width, bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.",
@@ -21,8 +15,5 @@
     "Once you have lowered yourself back down to the starting position, repeat the exercise for the prescribed amount of repetitions in your program."
   ],
   "category": "strength",
-  "images": [
-    "Rocky_Pull-Ups_Pulldowns/0.jpg",
-    "Rocky_Pull-Ups_Pulldowns/1.jpg"
-  ]
+  "images": ["Rocky_Pull-Ups_Pulldowns/0.jpg", "Rocky_Pull-Ups_Pulldowns/1.jpg"]
 }

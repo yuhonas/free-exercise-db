@@ -4,13 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "machine",
-  "primaryMuscles": [
-    "chest"
-  ],
-  "secondaryMuscles": [
-    "shoulders",
-    "triceps"
-  ],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["shoulders", "triceps"],
   "instructions": [
     "Sit down on the Chest Press Machine and select the weight.",
     "Step on the lever provided by the machine since it will help you to bring the handles forward so that you can grab the handles and fully extend the arms.",
@@ -21,8 +16,5 @@
     "When finished step on the lever again and slowly get the handles back to their original place."
   ],
   "category": "strength",
-  "images": [
-    "Machine_Bench_Press/0.jpg",
-    "Machine_Bench_Press/1.jpg"
-  ]
+  "images": ["Machine_Bench_Press/0.jpg", "Machine_Bench_Press/1.jpg"]
 }

@@ -4,13 +4,8 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "lower back"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
+  "primaryMuscles": ["lower back"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
   "instructions": [
     "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
     "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
@@ -20,8 +15,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Stiff_Leg_Barbell_Good_Morning/0.jpg",
-    "Stiff_Leg_Barbell_Good_Morning/1.jpg"
-  ]
+  "images": ["Stiff_Leg_Barbell_Good_Morning/0.jpg", "Stiff_Leg_Barbell_Good_Morning/1.jpg"]
 }
