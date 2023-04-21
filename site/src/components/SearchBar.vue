@@ -116,99 +116,94 @@ export default {
 }
 </script>
 <template>
-  <div>
-    <form @submit.prevent="onSubmit">
-      <label
-        for="default-search"
-        class="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white"
-        >Search</label
-      >
-      <div class="relative">
-        <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
-          <svg
-            aria-hidden="true"
-            class="w-5 h-5 text-gray-500 dark:text-gray-400"
-            fill="none"
-            stroke="currentColor"
-            viewBox="0 0 24 24"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
-            ></path>
-          </svg>
-        </div>
-        <input
-          v-model="query"
-          type="search"
-          autofocus="autofocus"
-          id="default-search"
-          class="block w-full p-4 pl-10 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
-          placeholder="Search Exercises, Instructions"
-          required
-        />
-        <!-- <button
+  <form @submit.prevent="onSubmit">
+    <label
+      for="default-search"
+      class="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white"
+      >Search</label
+    >
+    <div class="relative">
+      <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
+        <svg
+          aria-hidden="true"
+          class="w-5 h-5 text-gray-500 dark:text-gray-400"
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+          ></path>
+        </svg>
+      </div>
+      <input
+        v-model="query"
+        type="search"
+        autofocus="autofocus"
+        id="default-search"
+        class="block w-full p-4 pl-10 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+        placeholder="Search Exercises, Instructions"
+        required
+      />
+      <!-- <button
           type="button"
           class="text-white absolute right-2.5 bottom-2.5 bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-4 py-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
         >
           Search
         </button> -->
-        <button
-          type="button"
-          @click.prevent="toggleSavedExercises"
-          :class="classObject"
-          class="text-white absolute right-2.5 bottom-2.5 focus:ring-4 focus:outline-none font-medium rounded-lg text-sm px-4 py-2"
+      <button
+        type="button"
+        @click.prevent="toggleSavedExercises"
+        :class="classObject"
+        class="text-white absolute right-2.5 bottom-2.5 focus:ring-4 focus:outline-none font-medium rounded-lg text-sm px-4 py-2"
+      >
+        <BookmarkIconOutline
+          class="w-5 h-5 mr-2 -ml-1 text-white"
+          v-if="savedExercises.length == 0"
+        />
+        <BookmarkIconSolid class="w-5 h-5 mr-2 -ml-1 text-white" v-if="savedExercises.length > 0" />
+        <span class="sr-only">Saved</span>
+        <div
+          class="absolute inline-flex items-center justify-center w-6 h-6 text-xs font-bold text-white bg-red-500 border-2 border-white rounded-full -top-2 -right-2 dark:border-gray-900"
+        >
+          {{ savedExercises.length }}
+        </div>
+      </button>
+    </div>
+  </form>
+  <div id="infinite-list">
+    <div
+      v-for="exercise in paginatedItems"
+      v-bind:key="exercise.name"
+      :class="classObject"
+      class="flex flex-col relative mt-4 items-center justify-between bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl dark:border-gray-700"
+    >
+      <div class="w-full md:h-auto md:w-60">
+        <PhotoGallery :photos="exercise.images" />
+      </div>
+      <div class="w-96 p-4 leading-normal" :class="{ bookedmarked: isBookedMarked(exercise) }">
+        <a
+          href=""
+          @click.prevent="saveExercise(exercise)"
+          class="text-blue-500 hover:text-blue-600 dark:text-blue-400 dark:hover:text-blue-500"
         >
           <BookmarkIconOutline
-            class="w-5 h-5 mr-2 -ml-1 text-white"
-            v-if="savedExercises.length == 0"
+            class="absolute top-2 right-2 w-5 text-gray-400 hover:text-gray-500 cursor-pointer"
+            v-if="!isBookedMarked(exercise)"
           />
           <BookmarkIconSolid
-            class="w-5 h-5 mr-2 -ml-1 text-white"
-            v-if="savedExercises.length > 0"
+            class="absolute top-2 right-2 w-5 text-gray-400 hover:text-gray-500 cursor-pointer"
+            v-if="isBookedMarked(exercise)"
           />
-          <span class="sr-only">Saved</span>
-          <div
-            class="absolute inline-flex items-center justify-center w-6 h-6 text-xs font-bold text-white bg-red-500 border-2 border-white rounded-full -top-2 -right-2 dark:border-gray-900"
-          >
-            {{ savedExercises.length }}
-          </div>
-        </button>
-      </div>
-    </form>
-    <div id="infinite-list">
-      <div
-        v-for="exercise in paginatedItems"
-        v-bind:key="exercise.name"
-        :class="classObject"
-        class="flex flex-col relative mt-4 items-center justify-between bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl dark:border-gray-700"
-      >
-        <div class="w-full md:h-auto md:w-60">
-          <PhotoGallery :photos="exercise.images" />
-        </div>
-        <div class="w-96 p-4 leading-normal" :class="{ bookedmarked: isBookedMarked(exercise) }">
-          <a
-            href=""
-            @click.prevent="saveExercise(exercise)"
-            class="text-blue-500 hover:text-blue-600 dark:text-blue-400 dark:hover:text-blue-500"
-          >
-            <BookmarkIconOutline
-              class="absolute top-2 right-2 w-5 text-gray-400 hover:text-gray-500 cursor-pointer"
-              v-if="!isBookedMarked(exercise)"
-            />
-            <BookmarkIconSolid
-              class="absolute top-2 right-2 w-5 text-gray-400 hover:text-gray-500 cursor-pointer"
-              v-if="isBookedMarked(exercise)"
-            />
-          </a>
-          <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-            {{ exercise.name }}
-          </h5>
-          <ExerciseInstructions :text="exercise.instructions" />
-        </div>
+        </a>
+        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+          {{ exercise.name }}
+        </h5>
+        <ExerciseInstructions :text="exercise.instructions" />
       </div>
     </div>
   </div>

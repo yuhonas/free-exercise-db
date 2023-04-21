@@ -32,14 +32,12 @@ import SearchBar from './components/SearchBar.vue'
           >
           for more details including how to get the backend data, enjoy 💪
         </p>
-        <!-- <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">
-          Over 800+ exercises, searchable, workoutable, unconditional free use of the data if
-          you want it, see the github link
-        </p> -->
         <div
           class="flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4"
         >
-          <SearchBar />
+          <div>
+            <SearchBar />
+          </div>
         </div>
       </div>
     </section>
