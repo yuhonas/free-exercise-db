@@ -111,11 +111,15 @@ npm run lint
 
 ### TODO
 
-The following fields are incomplete in _some_ JSON files and in such have had to allow `null` in [schema.json](./schema.json)
+#### Incomplete fields
+
+The following fields are incomplete in _some_ `JSON` files and in such have had to allow `null` in [schema.json](./schema.json)
 
 * force
 * mechanic
 * equipment
+
+#### Images
 
 There are also a small number of duplicate images eg.
 
