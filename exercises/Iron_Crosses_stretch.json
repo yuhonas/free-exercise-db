@@ -12,6 +12,6 @@
     "Promptly return the leg to the starting postion, and quickly repeat with the other leg. Continue alternating for 10-20 repetitions."
   ],
   "category": "stretching",
-  "images": ["Iron_Crosses_(stretch)/0.jpg", "Iron_Crosses_(stretch)/1.jpg"],
+  "images": ["Iron_Crosses_stretch/0.jpg", "Iron_Crosses_stretch/1.jpg"],
   "id": "Iron_Crosses_stretch"
 }
