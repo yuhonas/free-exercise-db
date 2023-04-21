@@ -1,10 +1,4 @@
-# Simple workflow for deploying static content to GitHub Pages
-name: Lint & Deploy Site to Github Pages
-
-# defaults:
-#   run:
-#     shell: bash
-#     working-directory: site
+name: Test, Lint & Deploy Site to Github Pages
 
 env:
   VITE_BASE_DIR: /free-exercise-db/
