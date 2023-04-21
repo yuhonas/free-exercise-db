@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Dip_Machine/0.jpg", "Dip_Machine/1.jpg"]
+  "images": ["Dip_Machine/0.jpg", "Dip_Machine/1.jpg"],
+  "id": "Dip_Machine"
 }

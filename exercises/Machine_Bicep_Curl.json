@@ -13,5 +13,6 @@
     "Avoid returning the weight all the way to the stops until the set is complete to keep tension on the muscles being worked."
   ],
   "category": "strength",
-  "images": ["Machine_Bicep_Curl/0.jpg", "Machine_Bicep_Curl/1.jpg"]
+  "images": ["Machine_Bicep_Curl/0.jpg", "Machine_Bicep_Curl/1.jpg"],
+  "id": "Machine_Bicep_Curl"
 }

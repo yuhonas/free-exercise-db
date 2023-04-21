@@ -13,5 +13,6 @@
     "Repeat the motion to return to the starting position."
   ],
   "category": "plyometrics",
-  "images": ["Incline_Push-Up_Depth_Jump/0.jpg", "Incline_Push-Up_Depth_Jump/1.jpg"]
+  "images": ["Incline_Push-Up_Depth_Jump/0.jpg", "Incline_Push-Up_Depth_Jump/1.jpg"],
+  "id": "Incline_Push-Up_Depth_Jump"
 }

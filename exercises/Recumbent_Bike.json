@@ -12,5 +12,6 @@
     "Recumbent bikes offer convenience, cardiovascular benefits, and have less impact than other activities. A 150 lb person will burn about 230 calories cycling at a moderate rate for 30 minutes, compared to 450 calories or more running."
   ],
   "category": "cardio",
-  "images": ["Recumbent_Bike/0.jpg", "Recumbent_Bike/1.jpg"]
+  "images": ["Recumbent_Bike/0.jpg", "Recumbent_Bike/1.jpg"],
+  "id": "Recumbent_Bike"
 }

@@ -12,5 +12,6 @@
     "At the moment the upper legs contact the lower, reverse the motion, driving the weight upward."
   ],
   "category": "olympic weightlifting",
-  "images": ["Olympic_Squat/0.jpg", "Olympic_Squat/1.jpg"]
+  "images": ["Olympic_Squat/0.jpg", "Olympic_Squat/1.jpg"],
+  "id": "Olympic_Squat"
 }

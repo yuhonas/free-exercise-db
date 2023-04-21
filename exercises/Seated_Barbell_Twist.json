@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Seated_Barbell_Twist/0.jpg", "Seated_Barbell_Twist/1.jpg"]
+  "images": ["Seated_Barbell_Twist/0.jpg", "Seated_Barbell_Twist/1.jpg"],
+  "id": "Seated_Barbell_Twist"
 }

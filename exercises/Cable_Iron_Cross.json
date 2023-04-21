@@ -14,5 +14,6 @@
     "Continue the movement for the prescribed number of repetitions."
   ],
   "category": "strength",
-  "images": ["Cable_Iron_Cross/0.jpg", "Cable_Iron_Cross/1.jpg"]
+  "images": ["Cable_Iron_Cross/0.jpg", "Cable_Iron_Cross/1.jpg"],
+  "id": "Cable_Iron_Cross"
 }

@@ -12,5 +12,6 @@
     "Walk backwards, keeping your arms raised above your head. Avoid jerky movements."
   ],
   "category": "strength",
-  "images": ["Sled_Overhead_Backward_Walk/0.jpg", "Sled_Overhead_Backward_Walk/1.jpg"]
+  "images": ["Sled_Overhead_Backward_Walk/0.jpg", "Sled_Overhead_Backward_Walk/1.jpg"],
+  "id": "Sled_Overhead_Backward_Walk"
 }

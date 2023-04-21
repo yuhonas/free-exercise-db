@@ -15,5 +15,6 @@
     "Continue alternating in this manner until all of the recommended repetitions for each side have been completed."
   ],
   "category": "strength",
-  "images": ["Air_Bike/0.jpg", "Air_Bike/1.jpg"]
+  "images": ["Air_Bike/0.jpg", "Air_Bike/1.jpg"],
+  "id": "Air_Bike"
 }

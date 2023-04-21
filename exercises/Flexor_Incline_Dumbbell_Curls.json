@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Flexor_Incline_Dumbbell_Curls/0.jpg", "Flexor_Incline_Dumbbell_Curls/1.jpg"]
+  "images": ["Flexor_Incline_Dumbbell_Curls/0.jpg", "Flexor_Incline_Dumbbell_Curls/1.jpg"],
+  "id": "Flexor_Incline_Dumbbell_Curls"
 }

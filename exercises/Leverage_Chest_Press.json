@@ -13,5 +13,6 @@
     "After a brief pause at the top, return the weight just above the start position, keeping tension on the muscles by not returning the weight to the stops until the set is complete."
   ],
   "category": "strength",
-  "images": ["Leverage_Chest_Press/0.jpg", "Leverage_Chest_Press/1.jpg"]
+  "images": ["Leverage_Chest_Press/0.jpg", "Leverage_Chest_Press/1.jpg"],
+  "id": "Leverage_Chest_Press"
 }

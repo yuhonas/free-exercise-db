@@ -13,5 +13,6 @@
     "Continue alternating, rotating from one side to the other until the set is complete."
   ],
   "category": "strength",
-  "images": ["Spell_Caster/0.jpg", "Spell_Caster/1.jpg"]
+  "images": ["Spell_Caster/0.jpg", "Spell_Caster/1.jpg"],
+  "id": "Spell_Caster"
 }

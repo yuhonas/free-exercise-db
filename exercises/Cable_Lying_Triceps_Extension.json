@@ -14,5 +14,6 @@
     "Hold for a second at the contracted position and repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Cable_Lying_Triceps_Extension/0.jpg", "Cable_Lying_Triceps_Extension/1.jpg"]
+  "images": ["Cable_Lying_Triceps_Extension/0.jpg", "Cable_Lying_Triceps_Extension/1.jpg"],
+  "id": "Cable_Lying_Triceps_Extension"
 }

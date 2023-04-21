@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Lying_One-Arm_Lateral_Raise/0.jpg", "Lying_One-Arm_Lateral_Raise/1.jpg"]
+  "images": ["Lying_One-Arm_Lateral_Raise/0.jpg", "Lying_One-Arm_Lateral_Raise/1.jpg"],
+  "id": "Lying_One-Arm_Lateral_Raise"
 }

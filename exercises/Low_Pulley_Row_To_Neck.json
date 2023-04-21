@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Low_Pulley_Row_To_Neck/0.jpg", "Low_Pulley_Row_To_Neck/1.jpg"]
+  "images": ["Low_Pulley_Row_To_Neck/0.jpg", "Low_Pulley_Row_To_Neck/1.jpg"],
+  "id": "Low_Pulley_Row_To_Neck"
 }

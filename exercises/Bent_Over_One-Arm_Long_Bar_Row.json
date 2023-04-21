@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions and switch arms."
   ],
   "category": "strength",
-  "images": ["Bent_Over_One-Arm_Long_Bar_Row/0.jpg", "Bent_Over_One-Arm_Long_Bar_Row/1.jpg"]
+  "images": ["Bent_Over_One-Arm_Long_Bar_Row/0.jpg", "Bent_Over_One-Arm_Long_Bar_Row/1.jpg"],
+  "id": "Bent_Over_One-Arm_Long_Bar_Row"
 }

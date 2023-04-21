@@ -14,5 +14,6 @@
     "Pause during the peak contraction, and then return to the starting position."
   ],
   "category": "strength",
-  "images": ["Suspended_Fallout/0.jpg", "Suspended_Fallout/1.jpg"]
+  "images": ["Suspended_Fallout/0.jpg", "Suspended_Fallout/1.jpg"],
+  "id": "Suspended_Fallout"
 }

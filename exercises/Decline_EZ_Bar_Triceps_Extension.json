@@ -14,5 +14,6 @@
     "Repeat until the recommended amount of repetitions is performed."
   ],
   "category": "strength",
-  "images": ["Decline_EZ_Bar_Triceps_Extension/0.jpg", "Decline_EZ_Bar_Triceps_Extension/1.jpg"]
+  "images": ["Decline_EZ_Bar_Triceps_Extension/0.jpg", "Decline_EZ_Bar_Triceps_Extension/1.jpg"],
+  "id": "Decline_EZ_Bar_Triceps_Extension"
 }

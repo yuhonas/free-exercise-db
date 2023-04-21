@@ -11,5 +11,6 @@
     "The handles can be used to monitor your heart rate to help you stay at an appropriate intensity."
   ],
   "category": "cardio",
-  "images": ["Elliptical_Trainer/0.jpg", "Elliptical_Trainer/1.jpg"]
+  "images": ["Elliptical_Trainer/0.jpg", "Elliptical_Trainer/1.jpg"],
+  "id": "Elliptical_Trainer"
 }

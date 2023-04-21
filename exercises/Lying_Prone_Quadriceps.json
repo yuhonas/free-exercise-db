@@ -13,5 +13,6 @@
     "After 10-20 seconds, switch sides."
   ],
   "category": "stretching",
-  "images": ["Lying_Prone_Quadriceps/0.jpg", "Lying_Prone_Quadriceps/1.jpg"]
+  "images": ["Lying_Prone_Quadriceps/0.jpg", "Lying_Prone_Quadriceps/1.jpg"],
+  "id": "Lying_Prone_Quadriceps"
 }

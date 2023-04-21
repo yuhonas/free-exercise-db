@@ -12,5 +12,6 @@
     "Pause at the lockout, and reverse the motion to return to the starting position."
   ],
   "category": "powerlifting",
-  "images": ["Chain_Handle_Extension/0.jpg", "Chain_Handle_Extension/1.jpg"]
+  "images": ["Chain_Handle_Extension/0.jpg", "Chain_Handle_Extension/1.jpg"],
+  "id": "Chain_Handle_Extension"
 }

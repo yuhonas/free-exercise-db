@@ -12,5 +12,6 @@
     "After several steps, do just the opposite and walk backward to where you started."
   ],
   "category": "strength",
-  "images": ["Monster_Walk/0.jpg", "Monster_Walk/1.jpg"]
+  "images": ["Monster_Walk/0.jpg", "Monster_Walk/1.jpg"],
+  "id": "Monster_Walk"
 }

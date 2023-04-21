@@ -13,5 +13,6 @@
     "Repeat for the recommended amount of times."
   ],
   "category": "strength",
-  "images": ["Leg_Extensions/0.jpg", "Leg_Extensions/1.jpg"]
+  "images": ["Leg_Extensions/0.jpg", "Leg_Extensions/1.jpg"],
+  "id": "Leg_Extensions"
 }

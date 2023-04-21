@@ -12,5 +12,6 @@
     "Continue the circular motion of the outstretched arms for about ten seconds. Then reverse the movement, going the opposite direction."
   ],
   "category": "stretching",
-  "images": ["Arm_Circles/0.jpg", "Arm_Circles/1.jpg"]
+  "images": ["Arm_Circles/0.jpg", "Arm_Circles/1.jpg"],
+  "id": "Arm_Circles"
 }

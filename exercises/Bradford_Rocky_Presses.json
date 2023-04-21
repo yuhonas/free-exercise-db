@@ -15,5 +15,6 @@
     "Alternate in this manner until you complete the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Bradford_Rocky_Presses/0.jpg", "Bradford_Rocky_Presses/1.jpg"]
+  "images": ["Bradford_Rocky_Presses/0.jpg", "Bradford_Rocky_Presses/1.jpg"],
+  "id": "Bradford_Rocky_Presses"
 }

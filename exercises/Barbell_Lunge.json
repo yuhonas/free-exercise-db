@@ -14,5 +14,6 @@
     "Repeat the movement for the recommended amount of repetitions and then perform with the left leg."
   ],
   "category": "strength",
-  "images": ["Barbell_Lunge/0.jpg", "Barbell_Lunge/1.jpg"]
+  "images": ["Barbell_Lunge/0.jpg", "Barbell_Lunge/1.jpg"],
+  "id": "Barbell_Lunge"
 }

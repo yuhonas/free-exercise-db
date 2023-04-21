@@ -12,5 +12,6 @@
     "Press the kettlebell up and out until it is locked out overhead. Return to the starting position."
   ],
   "category": "strength",
-  "images": ["Kettlebell_Seated_Press/0.jpg", "Kettlebell_Seated_Press/1.jpg"]
+  "images": ["Kettlebell_Seated_Press/0.jpg", "Kettlebell_Seated_Press/1.jpg"],
+  "id": "Kettlebell_Seated_Press"
 }

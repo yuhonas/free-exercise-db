@@ -13,5 +13,6 @@
     "Repeat the sequence with the other leg."
   ],
   "category": "plyometrics",
-  "images": ["Alternate_Leg_Diagonal_Bound/0.jpg", "Alternate_Leg_Diagonal_Bound/1.jpg"]
+  "images": ["Alternate_Leg_Diagonal_Bound/0.jpg", "Alternate_Leg_Diagonal_Bound/1.jpg"],
+  "id": "Alternate_Leg_Diagonal_Bound"
 }

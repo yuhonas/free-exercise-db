@@ -12,5 +12,6 @@
     "Lower the pressed kettlebell to the starting position and immediately press with your other arm."
   ],
   "category": "strength",
-  "images": ["Alternating_Kettlebell_Press/0.jpg", "Alternating_Kettlebell_Press/1.jpg"]
+  "images": ["Alternating_Kettlebell_Press/0.jpg", "Alternating_Kettlebell_Press/1.jpg"],
+  "id": "Alternating_Kettlebell_Press"
 }

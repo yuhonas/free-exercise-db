@@ -15,5 +15,6 @@
     "Switch arms and repeat the movement."
   ],
   "category": "strength",
-  "images": ["One-Arm_Incline_Lateral_Raise/0.jpg", "One-Arm_Incline_Lateral_Raise/1.jpg"]
+  "images": ["One-Arm_Incline_Lateral_Raise/0.jpg", "One-Arm_Incline_Lateral_Raise/1.jpg"],
+  "id": "One-Arm_Incline_Lateral_Raise"
 }

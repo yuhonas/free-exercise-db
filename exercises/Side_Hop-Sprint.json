@@ -12,5 +12,6 @@
     "Hop for a prescribed number or repetitions as quickly as possible, and finish this drill by sprinting a short distance upon landing the last hop."
   ],
   "category": "plyometrics",
-  "images": ["Side_Hop-Sprint/0.jpg", "Side_Hop-Sprint/1.jpg"]
+  "images": ["Side_Hop-Sprint/0.jpg", "Side_Hop-Sprint/1.jpg"],
+  "id": "Side_Hop-Sprint"
 }

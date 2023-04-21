@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Machine_Shoulder_(Military)_Press/0.jpg", "Machine_Shoulder_(Military)_Press/1.jpg"]
+  "images": ["Machine_Shoulder_(Military)_Press/0.jpg", "Machine_Shoulder_(Military)_Press/1.jpg"],
+  "id": "Machine_Shoulder_Military_Press"
 }

@@ -16,5 +16,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Spider_Curl/0.jpg", "Spider_Curl/1.jpg"]
+  "images": ["Spider_Curl/0.jpg", "Spider_Curl/1.jpg"],
+  "id": "Spider_Curl"
 }

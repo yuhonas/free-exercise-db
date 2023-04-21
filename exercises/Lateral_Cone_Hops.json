@@ -13,5 +13,6 @@
     "Use your legs to absorb impact upon landing, and rebound into the next jump, continuing down the row of cones."
   ],
   "category": "plyometrics",
-  "images": ["Lateral_Cone_Hops/0.jpg", "Lateral_Cone_Hops/1.jpg"]
+  "images": ["Lateral_Cone_Hops/0.jpg", "Lateral_Cone_Hops/1.jpg"],
+  "id": "Lateral_Cone_Hops"
 }

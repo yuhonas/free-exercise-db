@@ -11,5 +11,6 @@
     "Begin standing, and raise your arms out to the side holding the implements. Your arms should be parallel to the ground. In competition, judges or sensors are used to let you know when you break parallel. Hold for as long as you can. Typically, the weights should be heavy enough that you fail in 30-60 seconds."
   ],
   "category": "strongman",
-  "images": ["Crucifix/0.jpg", "Crucifix/1.jpg"]
+  "images": ["Crucifix/0.jpg", "Crucifix/1.jpg"],
+  "id": "Crucifix"
 }

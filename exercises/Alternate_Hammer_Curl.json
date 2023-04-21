@@ -15,5 +15,6 @@
     "Continue alternating in this manner for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Alternate_Hammer_Curl/0.jpg", "Alternate_Hammer_Curl/1.jpg"]
+  "images": ["Alternate_Hammer_Curl/0.jpg", "Alternate_Hammer_Curl/1.jpg"],
+  "id": "Alternate_Hammer_Curl"
 }

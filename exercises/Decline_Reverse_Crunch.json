@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Decline_Reverse_Crunch/0.jpg", "Decline_Reverse_Crunch/1.jpg"]
+  "images": ["Decline_Reverse_Crunch/0.jpg", "Decline_Reverse_Crunch/1.jpg"],
+  "id": "Decline_Reverse_Crunch"
 }

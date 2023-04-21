@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Hanging_Pike/0.jpg", "Hanging_Pike/1.jpg"]
+  "images": ["Hanging_Pike/0.jpg", "Hanging_Pike/1.jpg"],
+  "id": "Hanging_Pike"
 }

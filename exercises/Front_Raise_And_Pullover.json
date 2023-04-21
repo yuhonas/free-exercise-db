@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Front_Raise_And_Pullover/0.jpg", "Front_Raise_And_Pullover/1.jpg"]
+  "images": ["Front_Raise_And_Pullover/0.jpg", "Front_Raise_And_Pullover/1.jpg"],
+  "id": "Front_Raise_And_Pullover"
 }

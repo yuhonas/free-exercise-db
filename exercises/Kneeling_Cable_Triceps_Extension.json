@@ -16,5 +16,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Kneeling_Cable_Triceps_Extension/0.jpg", "Kneeling_Cable_Triceps_Extension/1.jpg"]
+  "images": ["Kneeling_Cable_Triceps_Extension/0.jpg", "Kneeling_Cable_Triceps_Extension/1.jpg"],
+  "id": "Kneeling_Cable_Triceps_Extension"
 }

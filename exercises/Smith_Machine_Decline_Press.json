@@ -14,5 +14,6 @@
     "After completing the desired number of repetitions, rotate the bar to rack the weight."
   ],
   "category": "strength",
-  "images": ["Smith_Machine_Decline_Press/0.jpg", "Smith_Machine_Decline_Press/1.jpg"]
+  "images": ["Smith_Machine_Decline_Press/0.jpg", "Smith_Machine_Decline_Press/1.jpg"],
+  "id": "Smith_Machine_Decline_Press"
 }

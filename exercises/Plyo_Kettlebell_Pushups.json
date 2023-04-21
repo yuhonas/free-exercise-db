@@ -12,5 +12,6 @@
     "Quickly and forcefully reverse direction, pushing yourself up to the other side of the kettlebell, switching hands as you do so. Continue the movement by descending and repeating the movement back and forth."
   ],
   "category": "strength",
-  "images": ["Plyo_Kettlebell_Pushups/0.jpg", "Plyo_Kettlebell_Pushups/1.jpg"]
+  "images": ["Plyo_Kettlebell_Pushups/0.jpg", "Plyo_Kettlebell_Pushups/1.jpg"],
+  "id": "Plyo_Kettlebell_Pushups"
 }

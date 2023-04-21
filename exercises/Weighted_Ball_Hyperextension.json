@@ -13,5 +13,6 @@
     "Repeat for the recommended amount of repetitions prescribed in your program."
   ],
   "category": "strength",
-  "images": ["Weighted_Ball_Hyperextension/0.jpg", "Weighted_Ball_Hyperextension/1.jpg"]
+  "images": ["Weighted_Ball_Hyperextension/0.jpg", "Weighted_Ball_Hyperextension/1.jpg"],
+  "id": "Weighted_Ball_Hyperextension"
 }

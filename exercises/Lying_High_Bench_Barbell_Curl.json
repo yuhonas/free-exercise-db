@@ -13,5 +13,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Lying_High_Bench_Barbell_Curl/0.jpg", "Lying_High_Bench_Barbell_Curl/1.jpg"]
+  "images": ["Lying_High_Bench_Barbell_Curl/0.jpg", "Lying_High_Bench_Barbell_Curl/1.jpg"],
+  "id": "Lying_High_Bench_Barbell_Curl"
 }

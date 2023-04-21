@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Calf_Raise_On_A_Dumbbell/0.jpg", "Calf_Raise_On_A_Dumbbell/1.jpg"]
+  "images": ["Calf_Raise_On_A_Dumbbell/0.jpg", "Calf_Raise_On_A_Dumbbell/1.jpg"],
+  "id": "Calf_Raise_On_A_Dumbbell"
 }

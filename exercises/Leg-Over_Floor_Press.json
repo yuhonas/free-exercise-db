@@ -12,5 +12,6 @@
     "Lower the weight until the elbow touches the ground, keeping the kettlebell above the elbow. Repeat for the desired number of repetitions."
   ],
   "category": "strength",
-  "images": ["Leg-Over_Floor_Press/0.jpg", "Leg-Over_Floor_Press/1.jpg"]
+  "images": ["Leg-Over_Floor_Press/0.jpg", "Leg-Over_Floor_Press/1.jpg"],
+  "id": "Leg-Over_Floor_Press"
 }

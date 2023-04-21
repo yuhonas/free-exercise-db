@@ -14,5 +14,6 @@
     "Return to the starting position by extending the elbows, pressing yourself back up."
   ],
   "category": "strength",
-  "images": ["Incline_Push-Up_Wide/0.jpg", "Incline_Push-Up_Wide/1.jpg"]
+  "images": ["Incline_Push-Up_Wide/0.jpg", "Incline_Push-Up_Wide/1.jpg"],
+  "id": "Incline_Push-Up_Wide"
 }

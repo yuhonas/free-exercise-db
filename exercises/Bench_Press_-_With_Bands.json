@@ -16,5 +16,6 @@
     "Repeat the movement for the prescribed amount of repetitions of your training program."
   ],
   "category": "strength",
-  "images": ["Bench_Press_-_With_Bands/0.jpg", "Bench_Press_-_With_Bands/1.jpg"]
+  "images": ["Bench_Press_-_With_Bands/0.jpg", "Bench_Press_-_With_Bands/1.jpg"],
+  "id": "Bench_Press_-_With_Bands"
 }

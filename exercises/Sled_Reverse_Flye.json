@@ -13,5 +13,6 @@
     "Return to the starting position, taking a couple steps back to take the slack out of the line."
   ],
   "category": "strength",
-  "images": ["Sled_Reverse_Flye/0.jpg", "Sled_Reverse_Flye/1.jpg"]
+  "images": ["Sled_Reverse_Flye/0.jpg", "Sled_Reverse_Flye/1.jpg"],
+  "id": "Sled_Reverse_Flye"
 }

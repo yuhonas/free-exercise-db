@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Zottman_Preacher_Curl/0.jpg", "Zottman_Preacher_Curl/1.jpg"]
+  "images": ["Zottman_Preacher_Curl/0.jpg", "Zottman_Preacher_Curl/1.jpg"],
+  "id": "Zottman_Preacher_Curl"
 }

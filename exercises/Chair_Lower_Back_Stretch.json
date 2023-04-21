@@ -12,5 +12,6 @@
     "Hold for 10 seconds, and repeat for your other side."
   ],
   "category": "stretching",
-  "images": ["Chair_Lower_Back_Stretch/0.jpg", "Chair_Lower_Back_Stretch/1.jpg"]
+  "images": ["Chair_Lower_Back_Stretch/0.jpg", "Chair_Lower_Back_Stretch/1.jpg"],
+  "id": "Chair_Lower_Back_Stretch"
 }

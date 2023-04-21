@@ -12,5 +12,6 @@
     "Return the weight to the starting position."
   ],
   "category": "strength",
-  "images": ["One-Arm_Kettlebell_Clean/0.jpg", "One-Arm_Kettlebell_Clean/1.jpg"]
+  "images": ["One-Arm_Kettlebell_Clean/0.jpg", "One-Arm_Kettlebell_Clean/1.jpg"],
+  "id": "One-Arm_Kettlebell_Clean"
 }

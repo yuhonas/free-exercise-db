@@ -11,5 +11,6 @@
     "Take an athletic posture, leaning into the sled with your arms fully extended, grasping the handles. Push the sled as fast as possible, focusing on extending your hips and knees to strengthen your posterior chain."
   ],
   "category": "strongman",
-  "images": ["Sled_Push/0.jpg", "Sled_Push/1.jpg"]
+  "images": ["Sled_Push/0.jpg", "Sled_Push/1.jpg"],
+  "id": "Sled_Push"
 }

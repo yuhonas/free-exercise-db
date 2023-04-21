@@ -21,5 +21,6 @@
     "Use care when lowering yourself to the ground."
   ],
   "category": "strength",
-  "images": ["Muscle_Up/0.jpg", "Muscle_Up/1.jpg"]
+  "images": ["Muscle_Up/0.jpg", "Muscle_Up/1.jpg"],
+  "id": "Muscle_Up"
 }

@@ -12,5 +12,6 @@
     "Perform this slowly for a number of repetitions, and repeat on the other side."
   ],
   "category": "stretching",
-  "images": ["Hip_Circles_(prone)/0.jpg", "Hip_Circles_(prone)/1.jpg"]
+  "images": ["Hip_Circles_(prone)/0.jpg", "Hip_Circles_(prone)/1.jpg"],
+  "id": "Hip_Circles_prone"
 }

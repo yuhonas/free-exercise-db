@@ -13,5 +13,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Middle_Back_Shrug/0.jpg", "Middle_Back_Shrug/1.jpg"]
+  "images": ["Middle_Back_Shrug/0.jpg", "Middle_Back_Shrug/1.jpg"],
+  "id": "Middle_Back_Shrug"
 }

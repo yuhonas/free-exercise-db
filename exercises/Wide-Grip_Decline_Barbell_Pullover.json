@@ -15,5 +15,9 @@
     "When finished with your set, slowly lower the barbell back down until it is level with your head and release it."
   ],
   "category": "strength",
-  "images": ["Wide-Grip_Decline_Barbell_Pullover/0.jpg", "Wide-Grip_Decline_Barbell_Pullover/1.jpg"]
+  "images": [
+    "Wide-Grip_Decline_Barbell_Pullover/0.jpg",
+    "Wide-Grip_Decline_Barbell_Pullover/1.jpg"
+  ],
+  "id": "Wide-Grip_Decline_Barbell_Pullover"
 }

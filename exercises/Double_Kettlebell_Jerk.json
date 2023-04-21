@@ -16,5 +16,6 @@
     "Keeping the weights overhead, return to a standing position, bringing your feet together. Lower the weights to perform the next repetition."
   ],
   "category": "strength",
-  "images": ["Double_Kettlebell_Jerk/0.jpg", "Double_Kettlebell_Jerk/1.jpg"]
+  "images": ["Double_Kettlebell_Jerk/0.jpg", "Double_Kettlebell_Jerk/1.jpg"],
+  "id": "Double_Kettlebell_Jerk"
 }

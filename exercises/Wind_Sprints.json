@@ -13,5 +13,6 @@
     "Continue alternating between legs until the set is complete."
   ],
   "category": "strength",
-  "images": ["Wind_Sprints/0.jpg", "Wind_Sprints/1.jpg"]
+  "images": ["Wind_Sprints/0.jpg", "Wind_Sprints/1.jpg"],
+  "id": "Wind_Sprints"
 }

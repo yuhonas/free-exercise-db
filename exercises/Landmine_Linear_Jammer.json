@@ -14,5 +14,6 @@
     "Return to the starting position."
   ],
   "category": "strength",
-  "images": ["Landmine_Linear_Jammer/0.jpg", "Landmine_Linear_Jammer/1.jpg"]
+  "images": ["Landmine_Linear_Jammer/0.jpg", "Landmine_Linear_Jammer/1.jpg"],
+  "id": "Landmine_Linear_Jammer"
 }

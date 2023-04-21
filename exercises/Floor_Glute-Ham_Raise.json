@@ -13,5 +13,6 @@
     "Place your hands in front of you as you reach the floor. This movement is very difficult and you may be unable to do it unaided. Use your arms to lightly push off the floor to aid your return to the starting position."
   ],
   "category": "strength",
-  "images": ["Floor_Glute-Ham_Raise/0.jpg", "Floor_Glute-Ham_Raise/1.jpg"]
+  "images": ["Floor_Glute-Ham_Raise/0.jpg", "Floor_Glute-Ham_Raise/1.jpg"],
+  "id": "Floor_Glute-Ham_Raise"
 }

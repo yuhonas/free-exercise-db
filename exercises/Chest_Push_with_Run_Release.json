@@ -12,5 +12,6 @@
     "As you take the second step, explosively push the ball forward, immediately sprinting for 10 yards after the release. If you are really fast, you can catch your own pass!"
   ],
   "category": "plyometrics",
-  "images": ["Chest_Push_with_Run_Release/0.jpg", "Chest_Push_with_Run_Release/1.jpg"]
+  "images": ["Chest_Push_with_Run_Release/0.jpg", "Chest_Push_with_Run_Release/1.jpg"],
+  "id": "Chest_Push_with_Run_Release"
 }

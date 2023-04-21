@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Cable_Shrugs/0.jpg", "Cable_Shrugs/1.jpg"]
+  "images": ["Cable_Shrugs/0.jpg", "Cable_Shrugs/1.jpg"],
+  "id": "Cable_Shrugs"
 }

@@ -14,5 +14,6 @@
     "Repeat the movement for the prescribed amount of repetitions of your training program."
   ],
   "category": "strength",
-  "images": ["Tate_Press/0.jpg", "Tate_Press/1.jpg"]
+  "images": ["Tate_Press/0.jpg", "Tate_Press/1.jpg"],
+  "id": "Tate_Press"
 }

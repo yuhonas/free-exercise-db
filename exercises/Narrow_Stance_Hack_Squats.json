@@ -16,5 +16,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Narrow_Stance_Hack_Squats/0.jpg", "Narrow_Stance_Hack_Squats/1.jpg"]
+  "images": ["Narrow_Stance_Hack_Squats/0.jpg", "Narrow_Stance_Hack_Squats/1.jpg"],
+  "id": "Narrow_Stance_Hack_Squats"
 }

@@ -15,5 +15,6 @@
     "Repeat the same movement to failure."
   ],
   "category": "strength",
-  "images": ["Cable_Reverse_Crunch/0.jpg", "Cable_Reverse_Crunch/1.jpg"]
+  "images": ["Cable_Reverse_Crunch/0.jpg", "Cable_Reverse_Crunch/1.jpg"],
+  "id": "Cable_Reverse_Crunch"
 }

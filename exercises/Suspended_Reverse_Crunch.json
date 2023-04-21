@@ -13,5 +13,6 @@
     "At the top of the controlled motion, return to the starting position."
   ],
   "category": "strength",
-  "images": ["Suspended_Reverse_Crunch/0.jpg", "Suspended_Reverse_Crunch/1.jpg"]
+  "images": ["Suspended_Reverse_Crunch/0.jpg", "Suspended_Reverse_Crunch/1.jpg"],
+  "id": "Suspended_Reverse_Crunch"
 }

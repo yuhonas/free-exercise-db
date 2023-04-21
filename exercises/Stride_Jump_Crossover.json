@@ -13,5 +13,6 @@
     "Repeat the movement, crossing back over to the other side."
   ],
   "category": "plyometrics",
-  "images": ["Stride_Jump_Crossover/0.jpg", "Stride_Jump_Crossover/1.jpg"]
+  "images": ["Stride_Jump_Crossover/0.jpg", "Stride_Jump_Crossover/1.jpg"],
+  "id": "Stride_Jump_Crossover"
 }

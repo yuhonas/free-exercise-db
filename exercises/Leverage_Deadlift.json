@@ -11,5 +11,6 @@
     "Return the weight to the starting position."
   ],
   "category": "strength",
-  "images": ["Leverage_Deadlift/0.jpg", "Leverage_Deadlift/1.jpg"]
+  "images": ["Leverage_Deadlift/0.jpg", "Leverage_Deadlift/1.jpg"],
+  "id": "Leverage_Deadlift"
 }

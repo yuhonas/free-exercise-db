@@ -13,5 +13,6 @@
     "Pause at the rear of the movement, and slowly return the weight to the starting position."
   ],
   "category": "strength",
-  "images": ["Reverse_Machine_Flyes/0.jpg", "Reverse_Machine_Flyes/1.jpg"]
+  "images": ["Reverse_Machine_Flyes/0.jpg", "Reverse_Machine_Flyes/1.jpg"],
+  "id": "Reverse_Machine_Flyes"
 }

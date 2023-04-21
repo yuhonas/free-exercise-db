@@ -12,5 +12,6 @@
     "Return to the starting position and repeat the movement for the desired number of repetitions before switching sides."
   ],
   "category": "strength",
-  "images": ["Elbow_to_Knee/0.jpg", "Elbow_to_Knee/1.jpg"]
+  "images": ["Elbow_to_Knee/0.jpg", "Elbow_to_Knee/1.jpg"],
+  "id": "Elbow_to_Knee"
 }

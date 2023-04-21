@@ -12,5 +12,6 @@
     "After a brief pause at the top, return the weight to just above the start position, keeping tension on the muscles by not returning the weight to the stops until the set is complete."
   ],
   "category": "strength",
-  "images": ["Leverage_Shoulder_Press/0.jpg", "Leverage_Shoulder_Press/1.jpg"]
+  "images": ["Leverage_Shoulder_Press/0.jpg", "Leverage_Shoulder_Press/1.jpg"],
+  "id": "Leverage_Shoulder_Press"
 }

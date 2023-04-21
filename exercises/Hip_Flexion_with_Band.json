@@ -13,5 +13,6 @@
     "Return the leg to the starting position."
   ],
   "category": "strength",
-  "images": ["Hip_Flexion_with_Band/0.jpg", "Hip_Flexion_with_Band/1.jpg"]
+  "images": ["Hip_Flexion_with_Band/0.jpg", "Hip_Flexion_with_Band/1.jpg"],
+  "id": "Hip_Flexion_with_Band"
 }

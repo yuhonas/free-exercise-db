@@ -14,5 +14,6 @@
     "When you are done, place the bar back in the rack."
   ],
   "category": "strength",
-  "images": ["Barbell_Guillotine_Bench_Press/0.jpg", "Barbell_Guillotine_Bench_Press/1.jpg"]
+  "images": ["Barbell_Guillotine_Bench_Press/0.jpg", "Barbell_Guillotine_Bench_Press/1.jpg"],
+  "id": "Barbell_Guillotine_Bench_Press"
 }

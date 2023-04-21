@@ -8,5 +8,6 @@
   "secondaryMuscles": ["shoulders"],
   "instructions": [],
   "category": "strength",
-  "images": ["Side_Bridge/0.jpg", "Side_Bridge/1.jpg"]
+  "images": ["Side_Bridge/0.jpg", "Side_Bridge/1.jpg"],
+  "id": "Side_Bridge"
 }

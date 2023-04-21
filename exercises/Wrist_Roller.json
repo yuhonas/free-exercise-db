@@ -14,5 +14,6 @@
     "Repeat for the prescribed amount of repetitions in your program."
   ],
   "category": "strength",
-  "images": ["Wrist_Roller/0.jpg", "Wrist_Roller/1.jpg"]
+  "images": ["Wrist_Roller/0.jpg", "Wrist_Roller/1.jpg"],
+  "id": "Wrist_Roller"
 }

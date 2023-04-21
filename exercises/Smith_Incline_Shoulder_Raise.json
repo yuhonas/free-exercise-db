@@ -15,5 +15,6 @@
     "When you are done, place the bar back in the rack."
   ],
   "category": "strength",
-  "images": ["Smith_Incline_Shoulder_Raise/0.jpg", "Smith_Incline_Shoulder_Raise/1.jpg"]
+  "images": ["Smith_Incline_Shoulder_Raise/0.jpg", "Smith_Incline_Shoulder_Raise/1.jpg"],
+  "id": "Smith_Incline_Shoulder_Raise"
 }

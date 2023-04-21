@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Smith_Machine_Reverse_Calf_Raises/0.jpg", "Smith_Machine_Reverse_Calf_Raises/1.jpg"]
+  "images": ["Smith_Machine_Reverse_Calf_Raises/0.jpg", "Smith_Machine_Reverse_Calf_Raises/1.jpg"],
+  "id": "Smith_Machine_Reverse_Calf_Raises"
 }

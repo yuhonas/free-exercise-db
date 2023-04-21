@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Front_Barbell_Squat/0.jpg", "Front_Barbell_Squat/1.jpg"]
+  "images": ["Front_Barbell_Squat/0.jpg", "Front_Barbell_Squat/1.jpg"],
+  "id": "Front_Barbell_Squat"
 }

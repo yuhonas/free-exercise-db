@@ -14,5 +14,6 @@
     "Repeat the series, alternating each side, for 10 or more reps."
   ],
   "category": "strength",
-  "images": ["Push_Up_to_Side_Plank/0.jpg", "Push_Up_to_Side_Plank/1.jpg"]
+  "images": ["Push_Up_to_Side_Plank/0.jpg", "Push_Up_to_Side_Plank/1.jpg"],
+  "id": "Push_Up_to_Side_Plank"
 }

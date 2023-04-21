@@ -13,5 +13,6 @@
     "Continue to alternate legs until all of the recommended repetitions have been performed."
   ],
   "category": "strength",
-  "images": ["Glute_Kickback/0.jpg", "Glute_Kickback/1.jpg"]
+  "images": ["Glute_Kickback/0.jpg", "Glute_Kickback/1.jpg"],
+  "id": "Glute_Kickback"
 }

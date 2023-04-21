@@ -16,7 +16,8 @@ export default {
       exercises: exercises,
       searchResults: exercises,
       pageSize: 50,
-      currentPage: 0
+      currentPage: 0,
+      savedExercises: []
     }
   },
   computed: {
@@ -104,6 +105,7 @@ export default {
         </button>
       </div>
     </form>
+    <input type="text" value="0" />
     <div id="infinite-list">
       <div
         v-for="exercise in paginatedItems"

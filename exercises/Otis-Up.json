@@ -13,5 +13,6 @@
     "Return the weight to your chest as you reverse the sit-up motion, ensuring not to go all the way down to the floor."
   ],
   "category": "strength",
-  "images": ["Otis-Up/0.jpg", "Otis-Up/1.jpg"]
+  "images": ["Otis-Up/0.jpg", "Otis-Up/1.jpg"],
+  "id": "Otis-Up"
 }

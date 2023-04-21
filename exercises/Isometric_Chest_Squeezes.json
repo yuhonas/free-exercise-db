@@ -14,5 +14,6 @@
     "Rest for the recommended amount of time and repeat."
   ],
   "category": "plyometrics",
-  "images": ["Isometric_Chest_Squeezes/0.jpg", "Isometric_Chest_Squeezes/1.jpg"]
+  "images": ["Isometric_Chest_Squeezes/0.jpg", "Isometric_Chest_Squeezes/1.jpg"],
+  "id": "Isometric_Chest_Squeezes"
 }

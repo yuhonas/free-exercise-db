@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Gorilla_Chin_Crunch/0.jpg", "Gorilla_Chin_Crunch/1.jpg"]
+  "images": ["Gorilla_Chin_Crunch/0.jpg", "Gorilla_Chin_Crunch/1.jpg"],
+  "id": "Gorilla_Chin_Crunch"
 }

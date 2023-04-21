@@ -13,5 +13,6 @@
     "As you inhale, bring the legs back to the initial position. Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Lying_Leg_Curls/0.jpg", "Lying_Leg_Curls/1.jpg"]
+  "images": ["Lying_Leg_Curls/0.jpg", "Lying_Leg_Curls/1.jpg"],
+  "id": "Lying_Leg_Curls"
 }

@@ -13,5 +13,6 @@
     "Repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Tricep_Dumbbell_Kickback/0.jpg", "Tricep_Dumbbell_Kickback/1.jpg"]
+  "images": ["Tricep_Dumbbell_Kickback/0.jpg", "Tricep_Dumbbell_Kickback/1.jpg"],
+  "id": "Tricep_Dumbbell_Kickback"
 }

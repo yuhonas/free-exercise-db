@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Cuban_Press/0.jpg", "Cuban_Press/1.jpg"]
+  "images": ["Cuban_Press/0.jpg", "Cuban_Press/1.jpg"],
+  "id": "Cuban_Press"
 }

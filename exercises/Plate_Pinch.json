@@ -14,5 +14,6 @@
     "Switch arms and repeat the movements."
   ],
   "category": "strength",
-  "images": ["Plate_Pinch/0.jpg", "Plate_Pinch/1.jpg"]
+  "images": ["Plate_Pinch/0.jpg", "Plate_Pinch/1.jpg"],
+  "id": "Plate_Pinch"
 }

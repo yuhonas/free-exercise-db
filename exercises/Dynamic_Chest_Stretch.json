@@ -11,5 +11,6 @@
     "Keeping your arms straight, quickly move your arms back as far as possible and back in again, similar to an exaggerated clapping motion. Repeat 5-10 times, increasing speed as you do so."
   ],
   "category": "stretching",
-  "images": ["Dynamic_Chest_Stretch/0.jpg", "Dynamic_Chest_Stretch/1.jpg"]
+  "images": ["Dynamic_Chest_Stretch/0.jpg", "Dynamic_Chest_Stretch/1.jpg"],
+  "id": "Dynamic_Chest_Stretch"
 }

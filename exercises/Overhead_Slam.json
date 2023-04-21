@@ -13,5 +13,6 @@
     "Receive the ball with both hands on the bounce and repeat the movement."
   ],
   "category": "plyometrics",
-  "images": ["Overhead_Slam/0.jpg", "Overhead_Slam/1.jpg"]
+  "images": ["Overhead_Slam/0.jpg", "Overhead_Slam/1.jpg"],
+  "id": "Overhead_Slam"
 }

@@ -14,5 +14,6 @@
     "Continue walking until your feet are by hour hands, keeping your legs straight as you do so."
   ],
   "category": "stretching",
-  "images": ["Inchworm/0.jpg", "Inchworm/1.jpg"]
+  "images": ["Inchworm/0.jpg", "Inchworm/1.jpg"],
+  "id": "Inchworm"
 }

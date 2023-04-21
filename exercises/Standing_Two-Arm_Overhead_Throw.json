@@ -12,5 +12,6 @@
     "The medicine ball can be thrown to a partner or to a wall, receiving it as it bounces back."
   ],
   "category": "plyometrics",
-  "images": ["Standing_Two-Arm_Overhead_Throw/0.jpg", "Standing_Two-Arm_Overhead_Throw/1.jpg"]
+  "images": ["Standing_Two-Arm_Overhead_Throw/0.jpg", "Standing_Two-Arm_Overhead_Throw/1.jpg"],
+  "id": "Standing_Two-Arm_Overhead_Throw"
 }

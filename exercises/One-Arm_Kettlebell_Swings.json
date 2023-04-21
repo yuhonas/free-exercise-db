@@ -8,5 +8,6 @@
   "secondaryMuscles": ["calves", "glutes", "lower back", "shoulders"],
   "instructions": [],
   "category": "strength",
-  "images": ["One-Arm_Kettlebell_Swings/0.jpg", "One-Arm_Kettlebell_Swings/1.jpg"]
+  "images": ["One-Arm_Kettlebell_Swings/0.jpg", "One-Arm_Kettlebell_Swings/1.jpg"],
+  "id": "One-Arm_Kettlebell_Swings"
 }

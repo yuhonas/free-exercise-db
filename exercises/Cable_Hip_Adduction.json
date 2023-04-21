@@ -16,5 +16,6 @@
     "Repeat for the recommended amount of repetitions and then repeat the same movement with the opposite leg."
   ],
   "category": "strength",
-  "images": ["Cable_Hip_Adduction/0.jpg", "Cable_Hip_Adduction/1.jpg"]
+  "images": ["Cable_Hip_Adduction/0.jpg", "Cable_Hip_Adduction/1.jpg"],
+  "id": "Cable_Hip_Adduction"
 }

@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Donkey_Calf_Raises/0.jpg", "Donkey_Calf_Raises/1.jpg"]
+  "images": ["Donkey_Calf_Raises/0.jpg", "Donkey_Calf_Raises/1.jpg"],
+  "id": "Donkey_Calf_Raises"
 }

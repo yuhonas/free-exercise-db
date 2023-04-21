@@ -14,5 +14,6 @@
     "Return back to the starting position very slowly."
   ],
   "category": "strength",
-  "images": ["Lying_Supine_Dumbbell_Curl/0.jpg", "Lying_Supine_Dumbbell_Curl/1.jpg"]
+  "images": ["Lying_Supine_Dumbbell_Curl/0.jpg", "Lying_Supine_Dumbbell_Curl/1.jpg"],
+  "id": "Lying_Supine_Dumbbell_Curl"
 }

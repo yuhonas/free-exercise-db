@@ -13,5 +13,6 @@
     "Continue alternating in this fashion until the recommended amount of repetitions is performed for each arm."
   ],
   "category": "strength",
-  "images": ["Cross_Body_Hammer_Curl/0.jpg", "Cross_Body_Hammer_Curl/1.jpg"]
+  "images": ["Cross_Body_Hammer_Curl/0.jpg", "Cross_Body_Hammer_Curl/1.jpg"],
+  "id": "Cross_Body_Hammer_Curl"
 }

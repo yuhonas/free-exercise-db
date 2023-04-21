@@ -13,5 +13,6 @@
     "As you begin the next repetition, return the weights to the shoulders."
   ],
   "category": "strength",
-  "images": ["Kettlebell_Thruster/0.jpg", "Kettlebell_Thruster/1.jpg"]
+  "images": ["Kettlebell_Thruster/0.jpg", "Kettlebell_Thruster/1.jpg"],
+  "id": "Kettlebell_Thruster"
 }

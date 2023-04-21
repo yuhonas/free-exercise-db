@@ -12,5 +12,6 @@
     "Land in the same position that you started, using your inside leg to decelerate the impact."
   ],
   "category": "plyometrics",
-  "images": ["Single-Leg_Stride_Jump/0.jpg", "Single-Leg_Stride_Jump/1.jpg"]
+  "images": ["Single-Leg_Stride_Jump/0.jpg", "Single-Leg_Stride_Jump/1.jpg"],
+  "id": "Single-Leg_Stride_Jump"
 }

@@ -13,5 +13,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Thigh_Adductor/0.jpg", "Thigh_Adductor/1.jpg"]
+  "images": ["Thigh_Adductor/0.jpg", "Thigh_Adductor/1.jpg"],
+  "id": "Thigh_Adductor"
 }

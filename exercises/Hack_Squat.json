@@ -16,5 +16,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Hack_Squat/0.jpg", "Hack_Squat/1.jpg"]
+  "images": ["Hack_Squat/0.jpg", "Hack_Squat/1.jpg"],
+  "id": "Hack_Squat"
 }

@@ -12,5 +12,6 @@
     "Return to a standing position."
   ],
   "category": "olympic weightlifting",
-  "images": ["Heaving_Snatch_Balance/0.jpg", "Heaving_Snatch_Balance/1.jpg"]
+  "images": ["Heaving_Snatch_Balance/0.jpg", "Heaving_Snatch_Balance/1.jpg"],
+  "id": "Heaving_Snatch_Balance"
 }

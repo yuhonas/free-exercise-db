@@ -1,6 +1,10 @@
-.PHONY: lint install
+.PHONY: lint check_dupes install
 lint:
 		check-jsonschema --schemafile ./schema.json ./exercises/**.json
+check_dupes:
+		# check for duplicate id's, if there's ID's listed here
+		# we've got duplicate id's that need to be resolved
+		jq -s ".[]" exercises/**.json | jq '.id' | sort | uniq -d
 install:
 		pip install check-jsonschema
 dist/exercises.json: ./exercises/**.json

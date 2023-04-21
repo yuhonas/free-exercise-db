@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions and then switch to the other arm."
   ],
   "category": "strength",
-  "images": ["Dumbbell_Lying_Supination/0.jpg", "Dumbbell_Lying_Supination/1.jpg"]
+  "images": ["Dumbbell_Lying_Supination/0.jpg", "Dumbbell_Lying_Supination/1.jpg"],
+  "id": "Dumbbell_Lying_Supination"
 }

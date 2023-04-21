@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions. Then repeat the movement with the left arm."
   ],
   "category": "strength",
-  "images": ["Concentration_Curls/0.jpg", "Concentration_Curls/1.jpg"]
+  "images": ["Concentration_Curls/0.jpg", "Concentration_Curls/1.jpg"],
+  "id": "Concentration_Curls"
 }

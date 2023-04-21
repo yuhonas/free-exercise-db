@@ -13,5 +13,6 @@
     "Repeat."
   ],
   "category": "strength",
-  "images": ["Body-Up/0.jpg", "Body-Up/1.jpg"]
+  "images": ["Body-Up/0.jpg", "Body-Up/1.jpg"],
+  "id": "Body-Up"
 }

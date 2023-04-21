@@ -13,5 +13,6 @@
     "Continue alternating from one foot to another to complete the set."
   ],
   "category": "plyometrics",
-  "images": ["Bench_Sprint/0.jpg", "Bench_Sprint/1.jpg"]
+  "images": ["Bench_Sprint/0.jpg", "Bench_Sprint/1.jpg"],
+  "id": "Bench_Sprint"
 }

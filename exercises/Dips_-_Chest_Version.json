@@ -13,5 +13,6 @@
     "Repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Dips_-_Chest_Version/0.jpg", "Dips_-_Chest_Version/1.jpg"]
+  "images": ["Dips_-_Chest_Version/0.jpg", "Dips_-_Chest_Version/1.jpg"],
+  "id": "Dips_-_Chest_Version"
 }

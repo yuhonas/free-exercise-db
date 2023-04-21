@@ -13,5 +13,6 @@
     "Continue with the squat by driving through your heels and extending the knees to come to a standing position."
   ],
   "category": "olympic weightlifting",
-  "images": ["Kneeling_Jump_Squat/0.jpg", "Kneeling_Jump_Squat/1.jpg"]
+  "images": ["Kneeling_Jump_Squat/0.jpg", "Kneeling_Jump_Squat/1.jpg"],
+  "id": "Kneeling_Jump_Squat"
 }

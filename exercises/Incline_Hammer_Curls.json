@@ -12,5 +12,6 @@
     "Continue to the top of the movement and pause, then slowly return to the start position."
   ],
   "category": "strength",
-  "images": ["Incline_Hammer_Curls/0.jpg", "Incline_Hammer_Curls/1.jpg"]
+  "images": ["Incline_Hammer_Curls/0.jpg", "Incline_Hammer_Curls/1.jpg"],
+  "id": "Incline_Hammer_Curls"
 }

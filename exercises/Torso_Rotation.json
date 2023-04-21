@@ -11,5 +11,6 @@
     "Rotate your torso to one side, keeping your eyes on the ball as you move. Now, rotate back to the opposite direction. Repeat for 10-20 repetitions."
   ],
   "category": "stretching",
-  "images": ["Torso_Rotation/0.jpg", "Torso_Rotation/1.jpg"]
+  "images": ["Torso_Rotation/0.jpg", "Torso_Rotation/1.jpg"],
+  "id": "Torso_Rotation"
 }

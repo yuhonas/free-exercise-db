@@ -15,5 +15,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Incline_Dumbbell_Flyes/0.jpg", "Incline_Dumbbell_Flyes/1.jpg"]
+  "images": ["Incline_Dumbbell_Flyes/0.jpg", "Incline_Dumbbell_Flyes/1.jpg"],
+  "id": "Incline_Dumbbell_Flyes"
 }

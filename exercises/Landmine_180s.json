@@ -14,5 +14,6 @@
     "Continue alternating the movement until the set is complete."
   ],
   "category": "strength",
-  "images": ["Landmine_180's/0.jpg", "Landmine_180's/1.jpg"]
+  "images": ["Landmine_180's/0.jpg", "Landmine_180's/1.jpg"],
+  "id": "Landmine_180s"
 }

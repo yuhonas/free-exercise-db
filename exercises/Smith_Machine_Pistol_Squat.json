@@ -14,5 +14,6 @@
     "Pause briefly at the bottom and then return to the starting position by driving through the heel of your foot, extending the knee and hip."
   ],
   "category": "strength",
-  "images": ["Smith_Machine_Pistol_Squat/0.jpg", "Smith_Machine_Pistol_Squat/1.jpg"]
+  "images": ["Smith_Machine_Pistol_Squat/0.jpg", "Smith_Machine_Pistol_Squat/1.jpg"],
+  "id": "Smith_Machine_Pistol_Squat"
 }

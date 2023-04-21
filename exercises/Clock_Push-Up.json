@@ -15,5 +15,6 @@
     "Return to the starting position and repeat the exercise, working all the way around until you are back where you started."
   ],
   "category": "strength",
-  "images": ["Clock_Push-Up/0.jpg", "Clock_Push-Up/1.jpg"]
+  "images": ["Clock_Push-Up/0.jpg", "Clock_Push-Up/1.jpg"],
+  "id": "Clock_Push-Up"
 }

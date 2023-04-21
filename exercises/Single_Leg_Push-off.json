@@ -12,5 +12,6 @@
     "Land with the same foot on top of the box, returning your other foot back to the start position."
   ],
   "category": "plyometrics",
-  "images": ["Single_Leg_Push-off/0.jpg", "Single_Leg_Push-off/1.jpg"]
+  "images": ["Single_Leg_Push-off/0.jpg", "Single_Leg_Push-off/1.jpg"],
+  "id": "Single_Leg_Push-off"
 }

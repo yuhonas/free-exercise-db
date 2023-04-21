@@ -13,5 +13,6 @@
     "Return to a standing position, bringing the feet together."
   ],
   "category": "olympic weightlifting",
-  "images": ["Split_Jerk/0.jpg", "Split_Jerk/1.jpg"]
+  "images": ["Split_Jerk/0.jpg", "Split_Jerk/1.jpg"],
+  "id": "Split_Jerk"
 }

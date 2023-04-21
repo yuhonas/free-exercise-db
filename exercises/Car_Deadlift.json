@@ -13,5 +13,6 @@
     "Lower the weight by bending at the hips and guiding it to the floor."
   ],
   "category": "strongman",
-  "images": ["Car_Deadlift/0.jpg", "Car_Deadlift/1.jpg"]
+  "images": ["Car_Deadlift/0.jpg", "Car_Deadlift/1.jpg"],
+  "id": "Car_Deadlift"
 }

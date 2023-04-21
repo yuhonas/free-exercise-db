@@ -12,5 +12,6 @@
     "Return to the starting position and immediately repeat the movement, continuing for 10-20 repetitions."
   ],
   "category": "stretching",
-  "images": ["Groiners/0.jpg", "Groiners/1.jpg"]
+  "images": ["Groiners/0.jpg", "Groiners/1.jpg"],
+  "id": "Groiners"
 }

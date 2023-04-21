@@ -15,5 +15,6 @@
     "Return the bar to the pins, pausing before beginning the next repetition."
   ],
   "category": "powerlifting",
-  "images": ["Pin_Presses/0.jpg", "Pin_Presses/1.jpg"]
+  "images": ["Pin_Presses/0.jpg", "Pin_Presses/1.jpg"],
+  "id": "Pin_Presses"
 }

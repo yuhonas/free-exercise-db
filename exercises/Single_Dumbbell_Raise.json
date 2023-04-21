@@ -12,5 +12,6 @@
     "Return to the starting position and repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Single_Dumbbell_Raise/0.jpg", "Single_Dumbbell_Raise/1.jpg"]
+  "images": ["Single_Dumbbell_Raise/0.jpg", "Single_Dumbbell_Raise/1.jpg"],
+  "id": "Single_Dumbbell_Raise"
 }

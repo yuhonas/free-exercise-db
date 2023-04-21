@@ -13,5 +13,6 @@
     "Pause, and then return to the starting position."
   ],
   "category": "strength",
-  "images": ["Speed_Band_Overhead_Triceps/0.jpg", "Speed_Band_Overhead_Triceps/1.jpg"]
+  "images": ["Speed_Band_Overhead_Triceps/0.jpg", "Speed_Band_Overhead_Triceps/1.jpg"],
+  "id": "Speed_Band_Overhead_Triceps"
 }

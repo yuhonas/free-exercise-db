@@ -14,5 +14,6 @@
     "Repeat for the recommended amount of repetitions and then repeat the movement with the next arm."
   ],
   "category": "strength",
-  "images": ["Cable_Internal_Rotation/0.jpg", "Cable_Internal_Rotation/1.jpg"]
+  "images": ["Cable_Internal_Rotation/0.jpg", "Cable_Internal_Rotation/1.jpg"],
+  "id": "Cable_Internal_Rotation"
 }

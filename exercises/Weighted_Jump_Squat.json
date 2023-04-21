@@ -13,5 +13,6 @@
     "As you return to the ground, absorb the impact through your legs."
   ],
   "category": "strength",
-  "images": ["Weighted_Jump_Squat/0.jpg", "Weighted_Jump_Squat/1.jpg"]
+  "images": ["Weighted_Jump_Squat/0.jpg", "Weighted_Jump_Squat/1.jpg"],
+  "id": "Weighted_Jump_Squat"
 }

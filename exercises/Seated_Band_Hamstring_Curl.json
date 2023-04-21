@@ -13,5 +13,6 @@
     "Pause at the completion of the movement, and then slowly return to the starting position."
   ],
   "category": "strength",
-  "images": ["Seated_Band_Hamstring_Curl/0.jpg", "Seated_Band_Hamstring_Curl/1.jpg"]
+  "images": ["Seated_Band_Hamstring_Curl/0.jpg", "Seated_Band_Hamstring_Curl/1.jpg"],
+  "id": "Seated_Band_Hamstring_Curl"
 }

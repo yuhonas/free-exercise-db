@@ -14,5 +14,6 @@
     "Continue alternating in this manner until all prescribed repetitions are done."
   ],
   "category": "strength",
-  "images": ["Cross-Body_Crunch/0.jpg", "Cross-Body_Crunch/1.jpg"]
+  "images": ["Cross-Body_Crunch/0.jpg", "Cross-Body_Crunch/1.jpg"],
+  "id": "Cross-Body_Crunch"
 }

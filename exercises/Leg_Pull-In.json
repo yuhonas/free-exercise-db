@@ -13,5 +13,6 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Leg_Pull-In/0.jpg", "Leg_Pull-In/1.jpg"]
+  "images": ["Leg_Pull-In/0.jpg", "Leg_Pull-In/1.jpg"],
+  "id": "Leg_Pull-In"
 }

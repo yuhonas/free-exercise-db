@@ -13,5 +13,6 @@
     "Repeat for the recommended amount of times."
   ],
   "category": "strength",
-  "images": ["Standing_Dumbbell_Calf_Raise/0.jpg", "Standing_Dumbbell_Calf_Raise/1.jpg"]
+  "images": ["Standing_Dumbbell_Calf_Raise/0.jpg", "Standing_Dumbbell_Calf_Raise/1.jpg"],
+  "id": "Standing_Dumbbell_Calf_Raise"
 }
