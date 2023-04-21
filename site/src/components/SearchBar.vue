@@ -1,6 +1,6 @@
 <script>
 import exercises from '../assets/exercises.json'
-import Instructions from './Instructions.vue'
+import ExerciseInstructions from './ExerciseInstructions.vue'
 import PhotoGallery from './PhotoGallery.vue'
 
 // import bookmark icon from heroicons
@@ -11,7 +11,7 @@ import Fuse from 'fuse.js'
 
 export default {
   components: {
-    Instructions,
+    ExerciseInstructions,
     PhotoGallery,
     BookmarkIconOutline,
     BookmarkIconSolid
@@ -207,7 +207,7 @@ export default {
           <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
             {{ exercise.name }}
           </h5>
-          <Instructions :text="exercise.instructions" />
+          <ExerciseInstructions :text="exercise.instructions" />
         </div>
       </div>
     </div>

@@ -6,8 +6,10 @@ export default {
     ArrowPathIcon
   },
   props: {
-    photos: Array,
-    required: true
+    photos: {
+      type: Array,
+      required: true
+    }
   },
   data() {
     return {
