@@ -32,8 +32,14 @@ export default {
       return Math.ceil(this.searchResults.length / this.pageSize)
     },
     saveExercise(exercise) {
-      // console.log(exercise)
-      // this.savedExercises.push(exercise)
+      this.savedExercises.push(exercise)
+    },
+    toggleSavedExercises() {
+      if (this.searchResults == this.exercises) {
+        this.searchResults = this.savedExercises
+      } else {
+        this.searchResults = this.exercises
+      }
     }
   },
   mounted() {
@@ -109,7 +115,7 @@ export default {
         </button>
       </div>
     </form>
-    <input type="text" value="0" />
+    <!-- <a href="#" @click.prevent="toggleSavedExercises" class="btn">Show Saved Exercises</a> -->
     <div id="infinite-list">
       <div
         v-for="exercise in paginatedItems"
@@ -118,11 +124,6 @@ export default {
       >
         <div class="w-full md:h-auto md:w-60">
           <PhotoGallery :photos="exercise.images" />
-          <!-- <img
-            :alt="exercise.name"
-            :src="`./exercises/${exercise.images[0]}`"
-            class="w-full object-cover rounded-t-lg p-2"
-          /> -->
         </div>
         <div class="w-96 p-4 leading-normal">
           <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
