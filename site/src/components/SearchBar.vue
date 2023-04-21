@@ -3,12 +3,18 @@ import exercises from '../assets/exercises.json'
 import Instructions from './Instructions.vue'
 import PhotoGallery from './PhotoGallery.vue'
 
+// import bookmark icon from heroicons
+import { BookmarkIcon as BookmarkIconOutline } from '@heroicons/vue/24/outline'
+import { BookmarkIcon as BookmarkIconSolid } from '@heroicons/vue/24/solid'
+
 import Fuse from 'fuse.js'
 
 export default {
   components: {
     Instructions,
-    PhotoGallery
+    PhotoGallery,
+    BookmarkIconOutline,
+    BookmarkIconSolid
   },
   data() {
     return {
@@ -17,10 +23,24 @@ export default {
       searchResults: exercises,
       pageSize: 50,
       currentPage: 0,
-      savedExercises: []
+      savedExercises: [],
+      showSavedExercises: false
     }
   },
   computed: {
+    // TODO: Refactor this, it's a mess
+    classObject() {
+      let color = this.showSavedExercises ? 'blue' : 'grey'
+
+      return {
+        [`bg-${color}-700`]: true,
+        [`hover:bg-${color}-800`]: true,
+        [`dark:bg-${color}-600`]: true,
+        [`dark:hover:bg-${color}-700`]: true,
+        [`dark:focus:ring-${color}-800`]: true,
+        [`focus:ring-${color}-300`]: true
+      }
+    },
     paginatedItems() {
       const startIndex = this.currentPage * this.pageSize
       const endIndex = startIndex + this.pageSize
@@ -32,14 +52,25 @@ export default {
       return Math.ceil(this.searchResults.length / this.pageSize)
     },
     saveExercise(exercise) {
-      this.savedExercises.push(exercise)
+      // add the exercise if it's not already in the array otherwise remove it
+      if (!this.savedExercises.includes(exercise)) {
+        this.savedExercises.push(exercise)
+      } else {
+        this.savedExercises = this.savedExercises.filter((e) => e !== exercise)
+      }
     },
     toggleSavedExercises() {
-      if (this.searchResults == this.exercises) {
-        this.searchResults = this.savedExercises
-      } else {
+      // toggle between showing all exercises and saved exercises
+      if (this.searchResults === this.savedExercises) {
         this.searchResults = this.exercises
+        this.showSavedExercises = false
+      } else if (this.savedExercises.length > 0) {
+        this.searchResults = this.savedExercises
+        this.showSavedExercises = true
       }
+    },
+    isBookedMarked(exercise) {
+      return this.savedExercises.includes(exercise)
     }
   },
   mounted() {
@@ -62,6 +93,8 @@ export default {
       }
 
       this.currentPage = 0
+      this.showSavedExercises = false
+
       if (this.query.length > 1) {
         const fuse = new Fuse(this.exercises, options)
         this.searchResults = fuse.search({ name: newValue }).map((r) => r.item)
@@ -107,34 +140,62 @@ export default {
           placeholder="Search Exercises, Instructions"
           required
         />
-        <button
+        <!-- <button
           type="button"
           class="text-white absolute right-2.5 bottom-2.5 bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-4 py-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
         >
           Search
+        </button> -->
+        <button
+          type="button"
+          @click.prevent="toggleSavedExercises"
+          :class="classObject"
+          class="text-white absolute right-2.5 bottom-2.5 focus:ring-4 focus:outline-none font-medium rounded-lg text-sm px-4 py-2"
+        >
+          <BookmarkIconOutline
+            class="w-5 h-5 mr-2 -ml-1 text-white"
+            v-if="savedExercises.length == 0"
+          />
+          <BookmarkIconSolid
+            class="w-5 h-5 mr-2 -ml-1 text-white"
+            v-if="savedExercises.length > 0"
+          />
+          <span class="sr-only">Saved</span>
+          <div
+            class="absolute inline-flex items-center justify-center w-6 h-6 text-xs font-bold text-white bg-red-500 border-2 border-white rounded-full -top-2 -right-2 dark:border-gray-900"
+          >
+            {{ savedExercises.length }}
+          </div>
         </button>
       </div>
     </form>
-    <!-- <a href="#" @click.prevent="toggleSavedExercises" class="btn">Show Saved Exercises</a> -->
     <div id="infinite-list">
       <div
         v-for="exercise in paginatedItems"
         v-bind:key="exercise.name"
-        class="flex flex-col mt-4 items-center justify-between bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
+        class="flex flex-col relative mt-4 items-center justify-between bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
       >
         <div class="w-full md:h-auto md:w-60">
           <PhotoGallery :photos="exercise.images" />
         </div>
-        <div class="w-96 p-4 leading-normal">
-          <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-            {{ exercise.name }}
-          </h5>
-          <!-- <a
+        <div class="w-96 p-4 leading-normal" :class="{ bookedmarked: isBookedMarked(exercise) }">
+          <a
             href=""
             @click.prevent="saveExercise(exercise)"
             class="text-blue-500 hover:text-blue-600 dark:text-blue-400 dark:hover:text-blue-500"
-            >Save</a
-          > -->
+          >
+            <BookmarkIconOutline
+              class="absolute top-2 right-2 w-5 text-gray-400 hover:text-gray-500 cursor-pointer"
+              v-if="!isBookedMarked(exercise)"
+            />
+            <BookmarkIconSolid
+              class="absolute top-2 right-2 w-5 text-gray-400 hover:text-gray-500 cursor-pointer"
+              v-if="isBookedMarked(exercise)"
+            />
+          </a>
+          <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+            {{ exercise.name }}
+          </h5>
           <Instructions :text="exercise.instructions" />
         </div>
       </div>
