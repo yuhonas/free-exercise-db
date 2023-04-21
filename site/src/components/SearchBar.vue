@@ -30,16 +30,18 @@ export default {
   computed: {
     // TODO: Refactor this, it's a mess
     classObject() {
-      let color = this.showSavedExercises ? 'blue' : 'grey'
+      let color = this.showSavedExercises ? 'blue' : 'gray'
 
-      return {
+      let colors = {
         [`bg-${color}-700`]: true,
         [`hover:bg-${color}-800`]: true,
-        [`dark:bg-${color}-600`]: true,
+        [`dark:bg-${color}-800`]: true,
         [`dark:hover:bg-${color}-700`]: true,
         [`dark:focus:ring-${color}-800`]: true,
         [`focus:ring-${color}-300`]: true
       }
+
+      return colors
     },
     paginatedItems() {
       const startIndex = this.currentPage * this.pageSize
@@ -56,7 +58,15 @@ export default {
       if (!this.savedExercises.includes(exercise)) {
         this.savedExercises.push(exercise)
       } else {
+        // looks like we need to remote it
         this.savedExercises = this.savedExercises.filter((e) => e !== exercise)
+
+        // if we ended up with no exercises then let's clear the search
+        if (this.savedExercises.length == 0) {
+          this.query = ''
+        } else if (this.showSavedExercises) {
+          this.toggleSavedExercises()
+        }
       }
     },
     toggleSavedExercises() {
@@ -173,7 +183,8 @@ export default {
       <div
         v-for="exercise in paginatedItems"
         v-bind:key="exercise.name"
-        class="flex flex-col relative mt-4 items-center justify-between bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
+        :class="classObject"
+        class="flex flex-col relative mt-4 items-center justify-between bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl dark:border-gray-700"
       >
         <div class="w-full md:h-auto md:w-60">
           <PhotoGallery :photos="exercise.images" />
