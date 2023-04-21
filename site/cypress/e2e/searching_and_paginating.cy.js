@@ -6,11 +6,17 @@ describe('Searching and Paginating', () => {
     cy.visit('/')
   })
 
-  it('visits the app root url', () => {
+  it('should have a page title', () => {
     cy.contains('h1', 'Free Exercise DB')
   })
 
-  // it filters the list when i enter a search term into the search input
+  it('should expand the collapsed section when I click on the link with text "More"', () => {
+    // within the first element with class ".exercise" find the link with text "More" and click it
+    cy.get('.exercise').first().find('a').contains('More').click()
+    // assert that the exercise no longer contains the more link
+    cy.get('.exercise').first().should('not.contain', 'More')
+  })
+
   it('should filter the list when i enter a search term into the search input', () => {
     // enter the search term "bench press" into an input named "search"
     cy.get('input[name=search]').type('bench press chains')
@@ -26,5 +32,10 @@ describe('Searching and Paginating', () => {
 
   it('should paginate with 50 items', () => {
     cy.get('.exercise').should('have.length', 50)
+  })
+
+  it('should paginate another 50 items when I scroll to the bottom', () => {
+    cy.scrollTo('bottom')
+    cy.get('.exercise').should('have.length', 100)
   })
 })
