@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ['./public/index.html', './src/**/*.{js,vue,ts,jsx,tsx}'],
+  content: ['./index.html', './src/**/*.{js,vue,ts,jsx,tsx}'],
   safelist: [
     'bg-gray-700',
     'hover:bg-gray-800',
