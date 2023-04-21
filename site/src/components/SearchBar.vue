@@ -145,9 +145,10 @@ export default {
           </div>
           <input
             v-model="query"
+            name="search"
             type="search"
             autofocus="autofocus"
-            id="default-search"
+            id="search"
             class="block w-full p-4 pl-10 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
             placeholder="Search Exercises, Instructions"
             required
@@ -181,7 +182,7 @@ export default {
       v-for="exercise in paginatedItems"
       v-bind:key="exercise.name"
       :class="savedItemClasses"
-      class="flex flex-col relative mt-4 items-center justify-between bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl dark:border-gray-700"
+      class="exercise flex flex-col relative mt-4 items-center justify-between bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl dark:border-gray-700"
     >
       <div class="w-full md:h-auto md:w-60">
         <PhotoGallery :photos="exercise.images" />

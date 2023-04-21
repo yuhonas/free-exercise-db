@@ -38,8 +38,23 @@ jobs:
         run: make install
       - name: Lint JSON to ensure it conforms with schema
         run: make lint
+  test:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      # Install NPM dependencies, cache them correctly
+      # and run all Cypress tests
+      - name: Run E2E Test's
+        uses: cypress-io/github-action@v5
+        with:
+          build: npm run build
+          start: npm run preview
+          working-directory: site
+          config: baseUrl=http://localhost:4173/free-exercise-db/
+
   deploy:
-    needs: lint
+    needs: [lint,test]
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
