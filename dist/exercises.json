@@ -969,7 +969,7 @@
       "Band_Good_Morning_(Pull_Through)/0.jpg",
       "Band_Good_Morning_(Pull_Through)/1.jpg"
     ],
-    "id": "Band_Good_Morning_(Pull_Through)"
+    "id": "Band_Good_Morning_Pull_Through"
   },
   {
     "name": "Band Hip Adductions",
@@ -2287,31 +2287,6 @@
     "id": "Bent_Press"
   },
   {
-    "name": "Bicycling, Stationary",
-    "force": null,
-    "level": "beginner",
-    "mechanic": null,
-    "equipment": "machine",
-    "primaryMuscles": [
-      "quadriceps"
-    ],
-    "secondaryMuscles": [
-      "calves",
-      "glutes",
-      "hamstrings"
-    ],
-    "instructions": [
-      "To begin, seat yourself on the bike and adjust the seat to your height.",
-      "Select the desired option from the menu. You may have to start pedaling to turn it on. You can use the manual setting, or you can select a program to use. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. The level of resistance can be changed throughout the workout. The handles can be used to monitor your heart rate to help you stay at an appropriate intensity."
-    ],
-    "category": "cardio",
-    "images": [
-      "Bicycling,_Stationary/0.jpg",
-      "Bicycling,_Stationary/1.jpg"
-    ],
-    "id": "Bicycling,_Stationary"
-  },
-  {
     "name": "Bicycling",
     "force": null,
     "level": "beginner",
@@ -2334,6 +2309,31 @@
       "Bicycling/1.jpg"
     ],
     "id": "Bicycling"
+  },
+  {
+    "name": "Bicycling, Stationary",
+    "force": null,
+    "level": "beginner",
+    "mechanic": null,
+    "equipment": "machine",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "To begin, seat yourself on the bike and adjust the seat to your height.",
+      "Select the desired option from the menu. You may have to start pedaling to turn it on. You can use the manual setting, or you can select a program to use. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. The level of resistance can be changed throughout the workout. The handles can be used to monitor your heart rate to help you stay at an appropriate intensity."
+    ],
+    "category": "cardio",
+    "images": [
+      "Bicycling,_Stationary/0.jpg",
+      "Bicycling,_Stationary/1.jpg"
+    ],
+    "id": "Bicycling_Stationary"
   },
   {
     "name": "Board Press",
@@ -2619,7 +2619,7 @@
       "Box_Jump_(Multiple_Response)/0.jpg",
       "Box_Jump_(Multiple_Response)/1.jpg"
     ],
-    "id": "Box_Jump_(Multiple_Response)"
+    "id": "Box_Jump_Multiple_Response"
   },
   {
     "name": "Box Skip",
@@ -2835,7 +2835,7 @@
       "Butt_Lift_(Bridge)/0.jpg",
       "Butt_Lift_(Bridge)/1.jpg"
     ],
-    "id": "Butt_Lift_(Bridge)"
+    "id": "Butt_Lift_Bridge"
   },
   {
     "name": "Butterfly",
@@ -3958,6 +3958,32 @@
     "id": "Chest_And_Front_Of_Shoulder_Stretch"
   },
   {
+    "name": "Chest Push from 3 point stance",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "medicine ball",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "abdominals",
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Begin in a three point stance, squatted down with your back flat and one hand on the ground. Place the medicine ball directly in front of you.",
+      "To begin, take your first step as you pull the ball to your chest, positioning both hands to prepare for the throw.",
+      "As you execute the second step, explosively release the ball forward as hard as possible."
+    ],
+    "category": "plyometrics",
+    "images": [
+      "Chest_Push_from_3_point_stance/0.jpg",
+      "Chest_Push_from_3_point_stance/1.jpg"
+    ],
+    "id": "Chest_Push_from_3_point_stance"
+  },
+  {
     "name": "Chest Push (multiple response)",
     "force": "push",
     "level": "beginner",
@@ -3982,7 +4008,7 @@
       "Chest_Push_(multiple_response)/0.jpg",
       "Chest_Push_(multiple_response)/1.jpg"
     ],
-    "id": "Chest_Push_(multiple_response)"
+    "id": "Chest_Push_multiple_response"
   },
   {
     "name": "Chest Push (single response)",
@@ -4008,33 +4034,7 @@
       "Chest_Push_(single_response)/0.jpg",
       "Chest_Push_(single_response)/1.jpg"
     ],
-    "id": "Chest_Push_(single_response)"
-  },
-  {
-    "name": "Chest Push from 3 point stance",
-    "force": "push",
-    "level": "beginner",
-    "mechanic": "compound",
-    "equipment": "medicine ball",
-    "primaryMuscles": [
-      "chest"
-    ],
-    "secondaryMuscles": [
-      "abdominals",
-      "shoulders",
-      "triceps"
-    ],
-    "instructions": [
-      "Begin in a three point stance, squatted down with your back flat and one hand on the ground. Place the medicine ball directly in front of you.",
-      "To begin, take your first step as you pull the ball to your chest, positioning both hands to prepare for the throw.",
-      "As you execute the second step, explosively release the ball forward as hard as possible."
-    ],
-    "category": "plyometrics",
-    "images": [
-      "Chest_Push_from_3_point_stance/0.jpg",
-      "Chest_Push_from_3_point_stance/1.jpg"
-    ],
-    "id": "Chest_Push_from_3_point_stance"
+    "id": "Chest_Push_single_response"
   },
   {
     "name": "Chest Push with Run Release",
@@ -4107,7 +4107,7 @@
       "Child's_Pose/0.jpg",
       "Child's_Pose/1.jpg"
     ],
-    "id": "Child's_Pose"
+    "id": "Childs_Pose"
   },
   {
     "name": "Chin-Up",
@@ -4697,7 +4697,7 @@
       "Conan's_Wheel/0.jpg",
       "Conan's_Wheel/1.jpg"
     ],
-    "id": "Conan's_Wheel"
+    "id": "Conans_Wheel"
   },
   {
     "name": "Concentration Curls",
@@ -4978,7 +4978,7 @@
       "Dancer's_Stretch/0.jpg",
       "Dancer's_Stretch/1.jpg"
     ],
-    "id": "Dancer's_Stretch"
+    "id": "Dancers_Stretch"
   },
   {
     "name": "Dead Bug",
@@ -6968,7 +6968,7 @@
       "Farmer's_Walk/0.jpg",
       "Farmer's_Walk/1.jpg"
     ],
-    "id": "Farmer's_Walk"
+    "id": "Farmers_Walk"
   },
   {
     "name": "Fast Skipping",
@@ -7518,7 +7518,7 @@
       "Front_Cone_Hops_(or_hurdle_hops)/0.jpg",
       "Front_Cone_Hops_(or_hurdle_hops)/1.jpg"
     ],
-    "id": "Front_Cone_Hops_(or_hurdle_hops)"
+    "id": "Front_Cone_Hops_or_hurdle_hops"
   },
   {
     "name": "Front Dumbbell Raise",
@@ -7664,7 +7664,7 @@
       "Front_Squat_(Clean_Grip)/0.jpg",
       "Front_Squat_(Clean_Grip)/1.jpg"
     ],
-    "id": "Front_Squat_(Clean_Grip)"
+    "id": "Front_Squat_Clean_Grip"
   },
   {
     "name": "Front Squats With Two Kettlebells",
@@ -8418,7 +8418,7 @@
       "Hip_Circles_(prone)/0.jpg",
       "Hip_Circles_(prone)/1.jpg"
     ],
-    "id": "Hip_Circles_(prone)"
+    "id": "Hip_Circles_prone"
   },
   {
     "name": "Hip Extension with Bands",
@@ -8598,7 +8598,7 @@
       "Hyperextensions_(Back_Extensions)/0.jpg",
       "Hyperextensions_(Back_Extensions)/1.jpg"
     ],
-    "id": "Hyperextensions_(Back_Extensions)"
+    "id": "Hyperextensions_Back_Extensions"
   },
   {
     "name": "Hyperextensions With No Hyperextension Bench",
@@ -9308,7 +9308,7 @@
       "Iron_Crosses_(stretch)/0.jpg",
       "Iron_Crosses_(stretch)/1.jpg"
     ],
-    "id": "Iron_Crosses_(stretch)"
+    "id": "Iron_Crosses_stretch"
   },
   {
     "name": "Isometric Chest Squeezes",
@@ -9590,7 +9590,7 @@
       "Jogging,_Treadmill/0.jpg",
       "Jogging,_Treadmill/1.jpg"
     ],
-    "id": "Jogging,_Treadmill"
+    "id": "Jogging_Treadmill"
   },
   {
     "name": "Keg Load",
@@ -9959,7 +9959,7 @@
       "Kettlebell_Turkish_Get-Up_(Lunge_style)/0.jpg",
       "Kettlebell_Turkish_Get-Up_(Lunge_style)/1.jpg"
     ],
-    "id": "Kettlebell_Turkish_Get-Up_(Lunge_style)"
+    "id": "Kettlebell_Turkish_Get-Up_Lunge_style"
   },
   {
     "name": "Kettlebell Turkish Get-Up (Squat style)",
@@ -9987,7 +9987,7 @@
       "Kettlebell_Turkish_Get-Up_(Squat_style)/0.jpg",
       "Kettlebell_Turkish_Get-Up_(Squat_style)/1.jpg"
     ],
-    "id": "Kettlebell_Turkish_Get-Up_(Squat_style)"
+    "id": "Kettlebell_Turkish_Get-Up_Squat_style"
   },
   {
     "name": "Kettlebell Windmill",
@@ -10402,7 +10402,7 @@
       "Landmine_180's/0.jpg",
       "Landmine_180's/1.jpg"
     ],
-    "id": "Landmine_180's"
+    "id": "Landmine_180s"
   },
   {
     "name": "Landmine Linear Jammer",
@@ -11864,7 +11864,7 @@
       "Machine_Shoulder_(Military)_Press/0.jpg",
       "Machine_Shoulder_(Military)_Press/1.jpg"
     ],
-    "id": "Machine_Shoulder_(Military)_Press"
+    "id": "Machine_Shoulder_Military_Press"
   },
   {
     "name": "Machine Triceps Extension",
@@ -14754,7 +14754,7 @@
       "Pushups_(Close_and_Wide_Hand_Positions)/0.jpg",
       "Pushups_(Close_and_Wide_Hand_Positions)/1.jpg"
     ],
-    "id": "Pushups_(Close_and_Wide_Hand_Positions)"
+    "id": "Pushups_Close_and_Wide_Hand_Positions"
   },
   {
     "name": "Pyramid",
@@ -15854,7 +15854,7 @@
       "Rowing,_Stationary/0.jpg",
       "Rowing,_Stationary/1.jpg"
     ],
-    "id": "Rowing,_Stationary"
+    "id": "Rowing_Stationary"
   },
   {
     "name": "Runner's Stretch",
@@ -15878,7 +15878,7 @@
       "Runner's_Stretch/0.jpg",
       "Runner's_Stretch/1.jpg"
     ],
-    "id": "Runner's_Stretch"
+    "id": "Runners_Stretch"
   },
   {
     "name": "Running, Treadmill",
@@ -15903,7 +15903,7 @@
       "Running,_Treadmill/0.jpg",
       "Running,_Treadmill/1.jpg"
     ],
-    "id": "Running,_Treadmill"
+    "id": "Running_Treadmill"
   },
   {
     "name": "Russian Twist",
@@ -16958,7 +16958,7 @@
       "See-Saw_Press_(Alternating_Side_Press)/0.jpg",
       "See-Saw_Press_(Alternating_Side_Press)/1.jpg"
     ],
-    "id": "See-Saw_Press_(Alternating_Side_Press)"
+    "id": "See-Saw_Press_Alternating_Side_Press"
   },
   {
     "name": "Shotgun Row",
@@ -21871,7 +21871,7 @@
       "Walking,_Treadmill/0.jpg",
       "Walking,_Treadmill/1.jpg"
     ],
-    "id": "Walking,_Treadmill"
+    "id": "Walking_Treadmill"
   },
   {
     "name": "Weighted Ball Hyperextension",
@@ -22427,7 +22427,7 @@
       "World's_Greatest_Stretch/0.jpg",
       "World's_Greatest_Stretch/1.jpg"
     ],
-    "id": "World's_Greatest_Stretch"
+    "id": "Worlds_Greatest_Stretch"
   },
   {
     "name": "Wrist Circles",

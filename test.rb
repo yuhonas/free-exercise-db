@@ -11,8 +11,17 @@ Dir.glob("./exercises/**/*.json") do |file|
   # puts "#{id_filename} = #{File.basename(file)}"
 
   if id_filename != File.basename(file)
-    # puts "#{file} -> #{id_filename}"
-    File.rename(file, File.dirname(file) + "/" + id_filename)
+    puts file
+    # target_file = File.dirname(file) + "/" + id_filename
+
+    # source_dir = file.chomp(".json")
+    # target_dir = File.dirname(file) + "/" + json["id"]
+
+    # puts "#{file} -> #{target_file}"
+
+    # File.rename(file, target_file)
+    # puts "#{source_dir} -> #{target_dir}"
+    # File.rename(source_dir, target_dir)
   end
 
   # a new key to the JSON file called id that is derived from the filename without the extension
