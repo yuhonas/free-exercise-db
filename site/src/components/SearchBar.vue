@@ -32,8 +32,8 @@ export default {
       return Math.ceil(this.searchResults.length / this.pageSize)
     },
     saveExercise(exercise) {
-      console.log(exercise)
-      this.savedExercises.push(exercise)
+      // console.log(exercise)
+      // this.savedExercises.push(exercise)
     }
   },
   mounted() {
@@ -128,12 +128,12 @@ export default {
           <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
             {{ exercise.name }}
           </h5>
-          <a
+          <!-- <a
             href=""
             @click.prevent="saveExercise(exercise)"
             class="text-blue-500 hover:text-blue-600 dark:text-blue-400 dark:hover:text-blue-500"
             >Save</a
-          >
+          > -->
           <Instructions :text="exercise.instructions" />
         </div>
       </div>
