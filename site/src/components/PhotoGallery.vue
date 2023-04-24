@@ -31,18 +31,24 @@ export default {
       }
     },
     onImageLoad() {
-      // NOTE: we're really only doing this because the images aren't optimized for size
-      // and it can pause uncomfortably when loading the next image
+      // NOTE: we're really only doing this because of the dynamic image resizing
+      // on a cache miss there is a slight delay with imagekit as it resizes the image
       this.loading = false
     }
   }
 }
 </script>
 <template>
-  <div class="relative" :class="{ loading: loading }">
+  <div :class="{ loading: loading }" class="relative">
     <a href="#" @click="nextPhoto">
+      <!-- use imagekit.io for dynamic image resizing,
+      this is using https://raw.githubusercontent.com/yuhonas/free-exercise-db/exercises
+      as the origin server -->
       <img
-        :src="photos[currentIndex]"
+        :src="`https://ik.imagekit.io/yuhonas/${photos[currentIndex]}`"
+        :srcset="`https://ik.imagekit.io/yuhonas/${photos[currentIndex]} 850w, https://ik.imagekit.io/yuhonas/tr:w-250,h-180/${photos[currentIndex]} 200w`"
+        sizes="(min-width: 765px) 200px,
+            850px"
         class="w-full object-cover rounded-t-lg p-2"
         @load="onImageLoad"
       />
