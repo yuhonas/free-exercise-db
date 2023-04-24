@@ -1,4 +1,6 @@
-## Free Exercise DB 💪  &nbsp; [![Test, Lint & Deploy Site to Github Pages](https://github.com/yuhonas/free-exercise-db/actions/workflows/ci.yaml/badge.svg)](https://github.com/yuhonas/free-exercise-db/actions/workflows/ci.yaml)
+## Free Exercise DB 💪  &nbsp; [![Test, Lint & Deploy Site to Github Pages](https://github.com/yuhonas/free-exercise-db/actions/workflows/ci.yaml/badge.svg)](https://github.com/yuhonas/free-exercise-db/actions/workflows/ci.yaml) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+
+
 
 Open Public Domain Exercise Dataset in `JSON` format, 800+ exercises & images with a browsable public searchable frontend
 
@@ -20,18 +22,24 @@ All exercises are stored as seperate `JSON` documents and conform to the followi
   "equipment": "dumbbell",
   "primaryMuscles": [
     "biceps"
-],
-"secondaryMuscles": [
-  "forearms"
-],
-"instructions": [
-  "Sit down on an incline bench with a dumbbell in each hand being held at arms length. Tip: Keep the elbows close to the torso.This will be your   starting position."
-],
-"category": "strength",
-"images": [
-  "Alternate_Incline_Dumbbell_Curl/0.jpg",
-  "Alternate_Incline_Dumbbell_Curl/1.jpg"
-]}
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Sit down on an incline bench with a dumbbell in each hand being held at arms length. Tip: Keep the elbows close to the torso.This will be your starting position.",
+  ],
+  "category": "strength",
+  "images": [
+    "Alternate_Incline_Dumbbell_Curl/0.jpg",
+    "Alternate_Incline_Dumbbell_Curl/1.jpg"
+  ],
+  "id": "Alternate_Incline_Dumbbell_Curl",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternate_Incline_Dumbbell_Curl/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternate_Incline_Dumbbell_Curl/1.jpg"
+  ]
+}
 ```
 See [Alternate_Incline_Dumbbell_Curl.json](./exercises/Alternate_Incline_Dumbbell_Curl.json)
 
