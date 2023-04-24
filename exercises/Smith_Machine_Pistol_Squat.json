@@ -4,8 +4,14 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "machine",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
   "instructions": [
     "To begin, first set the bar to a position that best matches your height. Step under it and position the bar across the back of your shoulders.",
     "Take the bar with your hands facing forward, unlock it and lift it off the rack by extending your legs. 3",
@@ -14,6 +20,13 @@
     "Pause briefly at the bottom and then return to the starting position by driving through the heel of your foot, extending the knee and hip."
   ],
   "category": "strength",
-  "images": ["Smith_Machine_Pistol_Squat/0.jpg", "Smith_Machine_Pistol_Squat/1.jpg"],
-  "id": "Smith_Machine_Pistol_Squat"
+  "images": [
+    "Smith_Machine_Pistol_Squat/0.jpg",
+    "Smith_Machine_Pistol_Squat/1.jpg"
+  ],
+  "id": "Smith_Machine_Pistol_Squat",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Pistol_Squat/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Pistol_Squat/1.jpg"
+  ]
 }

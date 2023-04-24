@@ -4,8 +4,12 @@
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "barbell",
-  "primaryMuscles": ["triceps"],
-  "secondaryMuscles": ["forearms"],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
   "instructions": [
     "Hold a barbell with an overhand grip (palms down) that is a little closer together than shoulder width.",
     "Lie back on an incline bench set at any angle between 45-75-degrees.",
@@ -15,6 +19,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Incline_Barbell_Triceps_Extension/0.jpg", "Incline_Barbell_Triceps_Extension/1.jpg"],
-  "id": "Incline_Barbell_Triceps_Extension"
+  "images": [
+    "Incline_Barbell_Triceps_Extension/0.jpg",
+    "Incline_Barbell_Triceps_Extension/1.jpg"
+  ],
+  "id": "Incline_Barbell_Triceps_Extension",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Barbell_Triceps_Extension/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Barbell_Triceps_Extension/1.jpg"
+  ]
 }

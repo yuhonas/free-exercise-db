@@ -4,14 +4,26 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["calves", "hamstrings"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "hamstrings"
+  ],
   "instructions": [
     "Begin in a relaxed stance with your feet shoulder width apart and hold your arms close to the body.",
     "To initiate the move, squat down halfway and explode back up as high as possible.",
     "Fully extend your entire body, reaching overhead as far as possible. As you land, absorb your impact through the legs."
   ],
   "category": "plyometrics",
-  "images": ["Rocket_Jump/0.jpg", "Rocket_Jump/1.jpg"],
-  "id": "Rocket_Jump"
+  "images": [
+    "Rocket_Jump/0.jpg",
+    "Rocket_Jump/1.jpg"
+  ],
+  "id": "Rocket_Jump",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rocket_Jump/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rocket_Jump/1.jpg"
+  ]
 }

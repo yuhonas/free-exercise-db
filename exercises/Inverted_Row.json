@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": null,
-  "primaryMuscles": ["middle back"],
-  "secondaryMuscles": ["lats"],
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats"
+  ],
   "instructions": [
     "Position a bar in a rack to about waist height. You can also use a smith machine.",
     "Take a wider than shoulder width grip on the bar and position yourself hanging underneath the bar. Your body should be straight with your heels on the ground with your arms fully extended. This will be your starting position.",
@@ -14,6 +18,13 @@
     "Repeat for the desired number of repetitions."
   ],
   "category": "strength",
-  "images": ["Inverted_Row/0.jpg", "Inverted_Row/1.jpg"],
-  "id": "Inverted_Row"
+  "images": [
+    "Inverted_Row/0.jpg",
+    "Inverted_Row/1.jpg"
+  ],
+  "id": "Inverted_Row",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row/1.jpg"
+  ]
 }

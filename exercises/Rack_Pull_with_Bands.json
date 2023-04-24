@@ -4,14 +4,29 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["lower back"],
-  "secondaryMuscles": ["forearms", "glutes", "hamstrings", "quadriceps", "traps"],
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "quadriceps",
+    "traps"
+  ],
   "instructions": [
     "Set up in a power rack with the bar on the pins. The pins should be set to the desired point; just below the knees, just above, or in the mid thigh position. Attach bands to the base of the rack, or secure them with dumbbells. Attach the other end to the bar. You may need to choke the bands to provide tension.",
     "Position yourself against the bar in proper deadlifting position. Your feet should be under your hips, your grip shoulder width, back arched, and hips back to engage the hamstrings. Since the weight is typically heavy, you may use a mixed grip, a hook grip, or use straps to aid in holding the weight.",
     "With your head looking forward, extend through the hips and knees, pulling the weight up and back until lockout. Be sure to pull your shoulders back as you complete the movement. Return the weight to the pins and repeat."
   ],
   "category": "powerlifting",
-  "images": ["Rack_Pull_with_Bands/0.jpg", "Rack_Pull_with_Bands/1.jpg"],
-  "id": "Rack_Pull_with_Bands"
+  "images": [
+    "Rack_Pull_with_Bands/0.jpg",
+    "Rack_Pull_with_Bands/1.jpg"
+  ],
+  "id": "Rack_Pull_with_Bands",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rack_Pull_with_Bands/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rack_Pull_with_Bands/1.jpg"
+  ]
 }

@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "e-z curl bar",
-  "primaryMuscles": ["triceps"],
-  "secondaryMuscles": ["chest", "shoulders"],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
   "instructions": [
     "Lie on a flat bench with an EZ bar loaded to an appropriate weight.",
     "Using a narrow grip lift the bar and hold it straight over your torso with your elbows in. The arms should be perpendicular to the floor. This will be your starting position.",
@@ -14,6 +19,13 @@
     "Repeat."
   ],
   "category": "strength",
-  "images": ["Close-Grip_EZ-Bar_Press/0.jpg", "Close-Grip_EZ-Bar_Press/1.jpg"],
-  "id": "Close-Grip_EZ-Bar_Press"
+  "images": [
+    "Close-Grip_EZ-Bar_Press/0.jpg",
+    "Close-Grip_EZ-Bar_Press/1.jpg"
+  ],
+  "id": "Close-Grip_EZ-Bar_Press",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_EZ-Bar_Press/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_EZ-Bar_Press/1.jpg"
+  ]
 }

@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": ["biceps"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Attach a rope attachment to a low pulley and stand facing the machine about 12 inches away from it.",
     "Grasp the rope with a neutral (palms-in) grip and stand straight up keeping the natural arch of the back and your torso stationary.",
@@ -19,5 +23,9 @@
     "Cable_Hammer_Curls_-_Rope_Attachment/0.jpg",
     "Cable_Hammer_Curls_-_Rope_Attachment/1.jpg"
   ],
-  "id": "Cable_Hammer_Curls_-_Rope_Attachment"
+  "id": "Cable_Hammer_Curls_-_Rope_Attachment",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hammer_Curls_-_Rope_Attachment/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hammer_Curls_-_Rope_Attachment/1.jpg"
+  ]
 }

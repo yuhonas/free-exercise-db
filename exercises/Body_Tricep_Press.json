@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "body only",
-  "primaryMuscles": ["triceps"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Position a bar in a rack at chest height.",
     "Standing, take a shoulder width grip on the bar and step a yard or two back, feet together and arms extended so that you are leaning on the bar. This will be your starting position.",
@@ -14,6 +18,13 @@
     "Progress from bodyweight by adding chains over your shoulders."
   ],
   "category": "strength",
-  "images": ["Body_Tricep_Press/0.jpg", "Body_Tricep_Press/1.jpg"],
-  "id": "Body_Tricep_Press"
+  "images": [
+    "Body_Tricep_Press/0.jpg",
+    "Body_Tricep_Press/1.jpg"
+  ],
+  "id": "Body_Tricep_Press",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Body_Tricep_Press/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Body_Tricep_Press/1.jpg"
+  ]
 }

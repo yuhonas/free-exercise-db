@@ -4,8 +4,17 @@
   "level": "expert",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["abductors", "adductors", "calves", "glutes", "hamstrings", "lower back"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
   "instructions": [
     "Begin in a power rack with a box at the appropriate height behind you. Typically, you would aim for a box height that brings you to a parallel squat, but you can train higher or lower if desired.",
     "To set up the chains, begin by looping the leader chain over the sleeves of the bar. The heavy chain should be attached using a snap hook. Adjust the length of the lead chain so that a few links are still on the floor at the top of the movement.",
@@ -14,6 +23,13 @@
     "Keeping the weight on your heels and pushing your feet and knees out, drive upward off of the box as you lead the movement with your head. Continue upward, maintaining tightness head to toe."
   ],
   "category": "strength",
-  "images": ["Box_Squat_with_Chains/0.jpg", "Box_Squat_with_Chains/1.jpg"],
-  "id": "Box_Squat_with_Chains"
+  "images": [
+    "Box_Squat_with_Chains/0.jpg",
+    "Box_Squat_with_Chains/1.jpg"
+  ],
+  "id": "Box_Squat_with_Chains",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Box_Squat_with_Chains/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Box_Squat_with_Chains/1.jpg"
+  ]
 }

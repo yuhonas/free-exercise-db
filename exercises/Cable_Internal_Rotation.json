@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "cable",
-  "primaryMuscles": ["shoulders"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Sit next to a low pulley sideways (with legs stretched in front of you or crossed) and grasp the single hand cable attachment with the arm nearest to the cable. Tip: If you can adjust the pulleyâ€™s height, you can use a flat bench to sit on instead.",
     "Position the elbow against your side with the elbow bent at 90Â° and the arm pointing towards the pulley. This will be your starting position.",
@@ -14,6 +18,13 @@
     "Repeat for the recommended amount of repetitions and then repeat the movement with the next arm."
   ],
   "category": "strength",
-  "images": ["Cable_Internal_Rotation/0.jpg", "Cable_Internal_Rotation/1.jpg"],
-  "id": "Cable_Internal_Rotation"
+  "images": [
+    "Cable_Internal_Rotation/0.jpg",
+    "Cable_Internal_Rotation/1.jpg"
+  ],
+  "id": "Cable_Internal_Rotation",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/1.jpg"
+  ]
 }

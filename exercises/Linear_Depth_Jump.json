@@ -4,8 +4,14 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
   "instructions": [
     "You will need two boxes or benches spaced a few feet away from each other. Begin by standing on one box facing towards the other platform.",
     "To initiate the movement, gently drop down to the ground between your platforms, allowing the knees and hips to flex.",
@@ -13,6 +19,13 @@
     "Land softly, asborbing the impact through the legs."
   ],
   "category": "plyometrics",
-  "images": ["Linear_Depth_Jump/0.jpg", "Linear_Depth_Jump/1.jpg"],
-  "id": "Linear_Depth_Jump"
+  "images": [
+    "Linear_Depth_Jump/0.jpg",
+    "Linear_Depth_Jump/1.jpg"
+  ],
+  "id": "Linear_Depth_Jump",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Linear_Depth_Jump/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Linear_Depth_Jump/1.jpg"
+  ]
 }

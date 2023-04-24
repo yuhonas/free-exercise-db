@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",
-  "primaryMuscles": ["biceps"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Lie against an incline bench, with your arms holding a barbell and hanging down in a horizontal line. This will be your starting position.",
     "While keeping the upper arms stationary, curl the weight up as high as you can while squeezing the biceps. Breathe out as you perform this portion of the movement. Tip: Only the forearms should move. Do not swing the arms.",
@@ -17,5 +21,9 @@
     "Barbell_Curls_Lying_Against_An_Incline/0.jpg",
     "Barbell_Curls_Lying_Against_An_Incline/1.jpg"
   ],
-  "id": "Barbell_Curls_Lying_Against_An_Incline"
+  "id": "Barbell_Curls_Lying_Against_An_Incline",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curls_Lying_Against_An_Incline/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curls_Lying_Against_An_Incline/1.jpg"
+  ]
 }

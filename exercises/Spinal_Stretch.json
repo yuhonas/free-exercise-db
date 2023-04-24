@@ -4,8 +4,15 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": null,
-  "primaryMuscles": ["middle back"],
-  "secondaryMuscles": ["lats", "lower back", "neck", "traps"],
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "lower back",
+    "neck",
+    "traps"
+  ],
   "instructions": [
     "Sit in a chair so your back is straight and your feet planted on the floor.",
     "Interlace your fingers behind your head, elbows out and your chin down.",
@@ -13,6 +20,13 @@
     "Return to upright position and then repeat for your other side."
   ],
   "category": "stretching",
-  "images": ["Spinal_Stretch/0.jpg", "Spinal_Stretch/1.jpg"],
-  "id": "Spinal_Stretch"
+  "images": [
+    "Spinal_Stretch/0.jpg",
+    "Spinal_Stretch/1.jpg"
+  ],
+  "id": "Spinal_Stretch",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Spinal_Stretch/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Spinal_Stretch/1.jpg"
+  ]
 }

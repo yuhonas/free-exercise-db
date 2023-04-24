@@ -4,7 +4,9 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["lower back"],
+  "primaryMuscles": [
+    "lower back"
+  ],
   "secondaryMuscles": [
     "abdominals",
     "biceps",
@@ -24,6 +26,13 @@
     "Return to the starting position to retrieve the next keg, and repeat until the event is completed."
   ],
   "category": "strongman",
-  "images": ["Keg_Load/0.jpg", "Keg_Load/1.jpg"],
-  "id": "Keg_Load"
+  "images": [
+    "Keg_Load/0.jpg",
+    "Keg_Load/1.jpg"
+  ],
+  "id": "Keg_Load",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Keg_Load/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Keg_Load/1.jpg"
+  ]
 }

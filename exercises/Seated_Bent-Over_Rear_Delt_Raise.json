@@ -4,8 +4,12 @@
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": ["shoulders"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Place a couple of dumbbells looking forward in front of a flat bench.",
     "Sit on the end of the bench with your legs together and the dumbbells behind your calves.",
@@ -15,6 +19,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Seated_Bent-Over_Rear_Delt_Raise/0.jpg", "Seated_Bent-Over_Rear_Delt_Raise/1.jpg"],
-  "id": "Seated_Bent-Over_Rear_Delt_Raise"
+  "images": [
+    "Seated_Bent-Over_Rear_Delt_Raise/0.jpg",
+    "Seated_Bent-Over_Rear_Delt_Raise/1.jpg"
+  ],
+  "id": "Seated_Bent-Over_Rear_Delt_Raise",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Bent-Over_Rear_Delt_Raise/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Bent-Over_Rear_Delt_Raise/1.jpg"
+  ]
 }

@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": ["abdominals"],
-  "secondaryMuscles": ["glutes", "shoulders"],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "shoulders"
+  ],
   "instructions": [
     "Hold a dumbbell in each hand with a pronated grip. Your feet should be wide with your hips and knees extended. This will be your starting position.",
     "Begin the movement by pulling both of the dumbbells to one side next to your hip, rotating your torso.",
@@ -13,6 +18,13 @@
     "Continue alternating, rotating from one side to the other until the set is complete."
   ],
   "category": "strength",
-  "images": ["Spell_Caster/0.jpg", "Spell_Caster/1.jpg"],
-  "id": "Spell_Caster"
+  "images": [
+    "Spell_Caster/0.jpg",
+    "Spell_Caster/1.jpg"
+  ],
+  "id": "Spell_Caster",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Spell_Caster/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Spell_Caster/1.jpg"
+  ]
 }

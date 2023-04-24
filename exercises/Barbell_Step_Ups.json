@@ -4,8 +4,15 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["calves", "glutes", "hamstrings", "quadriceps"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
   "instructions": [
     "Stand up straight while holding a barbell placed on the back of your shoulders (slightly below the neck) and stand upright behind an elevated platform (such as the one used for spotting behind a flat bench). This is your starting position.",
     "Place the right foot on the elevated platform. Step on the platform by extending the hip and the knee of your right leg. Use the heel mainly to lift the rest of your body up and place the foot of the left leg on the platform as well. Breathe out as you execute the force required to come up.",
@@ -13,6 +20,13 @@
     "Repeat with the right leg for the recommended amount of repetitions and then perform with the left leg."
   ],
   "category": "strength",
-  "images": ["Barbell_Step_Ups/0.jpg", "Barbell_Step_Ups/1.jpg"],
-  "id": "Barbell_Step_Ups"
+  "images": [
+    "Barbell_Step_Ups/0.jpg",
+    "Barbell_Step_Ups/1.jpg"
+  ],
+  "id": "Barbell_Step_Ups",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Step_Ups/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Step_Ups/1.jpg"
+  ]
 }

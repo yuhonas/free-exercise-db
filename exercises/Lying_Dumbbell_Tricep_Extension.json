@@ -4,8 +4,13 @@
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": ["triceps"],
-  "secondaryMuscles": ["chest", "shoulders"],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
   "instructions": [
     "Lie on a flat bench while holding two dumbbells directly in front of you. Your arms should be fully extended at a 90-degree angle from your torso and the floor. The palms should be facing in and the elbows should be tucked in. This is the starting position.",
     "As you breathe in and you keep the upper arms stationary with the elbows in, slowly lower the weight until the dumbbells are near your ears.",
@@ -13,6 +18,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Lying_Dumbbell_Tricep_Extension/0.jpg", "Lying_Dumbbell_Tricep_Extension/1.jpg"],
-  "id": "Lying_Dumbbell_Tricep_Extension"
+  "images": [
+    "Lying_Dumbbell_Tricep_Extension/0.jpg",
+    "Lying_Dumbbell_Tricep_Extension/1.jpg"
+  ],
+  "id": "Lying_Dumbbell_Tricep_Extension",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Dumbbell_Tricep_Extension/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Dumbbell_Tricep_Extension/1.jpg"
+  ]
 }

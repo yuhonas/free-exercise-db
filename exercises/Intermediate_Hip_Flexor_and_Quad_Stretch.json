@@ -4,8 +4,12 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Lie face down on the floor, with a rope, belt, or band looped around one foot.",
     "Flex the knee and extend the hip of the leg to be stretched, using both hands to pull on the belt. Your knee and your hip should come off of the floor, creating tension in the hip flexors and quadriceps. Hold the stretch for 10-20 seconds, and repeat on the other leg."
@@ -15,5 +19,9 @@
     "Intermediate_Hip_Flexor_and_Quad_Stretch/0.jpg",
     "Intermediate_Hip_Flexor_and_Quad_Stretch/1.jpg"
   ],
-  "id": "Intermediate_Hip_Flexor_and_Quad_Stretch"
+  "id": "Intermediate_Hip_Flexor_and_Quad_Stretch",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Intermediate_Hip_Flexor_and_Quad_Stretch/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Intermediate_Hip_Flexor_and_Quad_Stretch/1.jpg"
+  ]
 }

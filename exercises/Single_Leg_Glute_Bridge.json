@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "body only",
-  "primaryMuscles": ["glutes"],
-  "secondaryMuscles": ["hamstrings"],
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
   "instructions": [
     "Lay on the floor with your feet flat and knees bent.",
     "Raise one leg off of the ground, pulling the knee to your chest. This will be your starting position.",
@@ -13,6 +17,13 @@
     "Extend as far as possible, pause and then return to the starting position."
   ],
   "category": "strength",
-  "images": ["Single_Leg_Glute_Bridge/0.jpg", "Single_Leg_Glute_Bridge/1.jpg"],
-  "id": "Single_Leg_Glute_Bridge"
+  "images": [
+    "Single_Leg_Glute_Bridge/0.jpg",
+    "Single_Leg_Glute_Bridge/1.jpg"
+  ],
+  "id": "Single_Leg_Glute_Bridge",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single_Leg_Glute_Bridge/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single_Leg_Glute_Bridge/1.jpg"
+  ]
 }

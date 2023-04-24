@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": ["triceps"],
-  "secondaryMuscles": ["chest", "shoulders"],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
   "instructions": [
     "To get into the starting position, hold your body at arm's length with your arms nearly locked above the bars.",
     "Now, inhale and slowly lower yourself downward. Your torso should remain upright and your elbows should stay close to your body. This helps to better focus on tricep involvement. Lower yourself until there is a 90 degree angle formed between the upper arm and forearm.",
@@ -13,6 +18,13 @@
     "Repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Dips_-_Triceps_Version/0.jpg", "Dips_-_Triceps_Version/1.jpg"],
-  "id": "Dips_-_Triceps_Version"
+  "images": [
+    "Dips_-_Triceps_Version/0.jpg",
+    "Dips_-_Triceps_Version/1.jpg"
+  ],
+  "id": "Dips_-_Triceps_Version",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dips_-_Triceps_Version/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dips_-_Triceps_Version/1.jpg"
+  ]
 }

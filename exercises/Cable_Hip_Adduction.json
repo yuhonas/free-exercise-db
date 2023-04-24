@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Stand in front of a low pulley facing forward with one leg next to the pulley and the other one away.",
     "Attach the ankle cuff to the cable and also to the ankle of the leg that is next to the pulley.",
@@ -16,6 +20,13 @@
     "Repeat for the recommended amount of repetitions and then repeat the same movement with the opposite leg."
   ],
   "category": "strength",
-  "images": ["Cable_Hip_Adduction/0.jpg", "Cable_Hip_Adduction/1.jpg"],
-  "id": "Cable_Hip_Adduction"
+  "images": [
+    "Cable_Hip_Adduction/0.jpg",
+    "Cable_Hip_Adduction/1.jpg"
+  ],
+  "id": "Cable_Hip_Adduction",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/1.jpg"
+  ]
 }

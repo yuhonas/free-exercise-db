@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["shoulders", "triceps"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
   "instructions": [
     "Lie on the floor face down and body straight with your toes on the floor and the hands wider than shoulder width for a wide hand position and closer than shoulder width for a close hand position. Make sure you are holding your torso up at arms length.",
     "Lower yourself until your chest almost touches the floor as you inhale.",
@@ -17,5 +22,9 @@
     "Pushups_Close_and_Wide_Hand_Positions/0.jpg",
     "Pushups_Close_and_Wide_Hand_Positions/1.jpg"
   ],
-  "id": "Pushups_Close_and_Wide_Hand_Positions"
+  "id": "Pushups_Close_and_Wide_Hand_Positions",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups_Close_and_Wide_Hand_Positions/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups_Close_and_Wide_Hand_Positions/1.jpg"
+  ]
 }

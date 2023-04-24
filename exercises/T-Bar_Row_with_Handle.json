@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["middle back"],
-  "secondaryMuscles": ["biceps", "lats"],
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
   "instructions": [
     "Position a bar into a landmine or in a corner to keep it from moving. Load an appropriate weight onto your end.",
     "Stand over the bar, and position a Double D row handle around the bar next to the collar. Using your hips and legs, rise to a standing position.",
@@ -14,6 +19,13 @@
     "After a brief pause, return to the starting position."
   ],
   "category": "strength",
-  "images": ["T-Bar_Row_with_Handle/0.jpg", "T-Bar_Row_with_Handle/1.jpg"],
-  "id": "T-Bar_Row_with_Handle"
+  "images": [
+    "T-Bar_Row_with_Handle/0.jpg",
+    "T-Bar_Row_with_Handle/1.jpg"
+  ],
+  "id": "T-Bar_Row_with_Handle",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/1.jpg"
+  ]
 }

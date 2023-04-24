@@ -4,7 +4,9 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["quadriceps"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
   "secondaryMuscles": [
     "calves",
     "forearms",
@@ -23,6 +25,13 @@
     "Immediately recover by driving through the heels, keeping the torso upright and elbows up. Bring the feet together as you stand up."
   ],
   "category": "olympic weightlifting",
-  "images": ["Split_Clean/0.jpg", "Split_Clean/1.jpg"],
-  "id": "Split_Clean"
+  "images": [
+    "Split_Clean/0.jpg",
+    "Split_Clean/1.jpg"
+  ],
+  "id": "Split_Clean",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Clean/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Clean/1.jpg"
+  ]
 }

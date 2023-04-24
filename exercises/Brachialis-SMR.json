@@ -4,13 +4,24 @@
   "level": "intermediate",
   "mechanic": null,
   "equipment": "foam roll",
-  "primaryMuscles": ["biceps"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Lie on your side, with your upper arm against the foam roller. The upper arm should be more or less aligned with your body, with the outside of the bicep pressed against the foam roller.",
     "Raise your hips off of the floor, supporting your weight on your arm and on your feet. Hold for 10-30 seconds, and then switch sides."
   ],
   "category": "stretching",
-  "images": ["Brachialis-SMR/0.jpg", "Brachialis-SMR/1.jpg"],
-  "id": "Brachialis-SMR"
+  "images": [
+    "Brachialis-SMR/0.jpg",
+    "Brachialis-SMR/1.jpg"
+  ],
+  "id": "Brachialis-SMR",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Brachialis-SMR/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Brachialis-SMR/1.jpg"
+  ]
 }

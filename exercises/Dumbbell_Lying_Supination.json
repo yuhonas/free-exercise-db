@@ -4,8 +4,12 @@
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": ["forearms"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Lie sideways on a flat bench with one arm holding a dumbbell and the other hand on top of the bench folded so that you can rest your head on it.",
     "Bend the elbows of the arm holding the dumbbell so that it creates a 90-degree angle between the upper arm and the forearm.",
@@ -15,6 +19,13 @@
     "Repeat for the recommended amount of repetitions and then switch to the other arm."
   ],
   "category": "strength",
-  "images": ["Dumbbell_Lying_Supination/0.jpg", "Dumbbell_Lying_Supination/1.jpg"],
-  "id": "Dumbbell_Lying_Supination"
+  "images": [
+    "Dumbbell_Lying_Supination/0.jpg",
+    "Dumbbell_Lying_Supination/1.jpg"
+  ],
+  "id": "Dumbbell_Lying_Supination",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Lying_Supination/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Lying_Supination/1.jpg"
+  ]
 }

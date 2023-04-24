@@ -4,14 +4,25 @@
   "level": "beginner",
   "mechanic": null,
   "equipment": null,
-  "primaryMuscles": ["hamstrings"],
-  "secondaryMuscles": ["calves"],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves"
+  ],
   "instructions": [
     "It's easiest to get into this stretch if you start standing up, put one leg behind you, and slowly lower your torso down to the floor.",
     "Keep the front heel on the floor (if it lifts up, scoot your other leg further back).",
     "Place your hands on either side of your front leg. To get more out of this stretch, push your butt up toward the ceiling, and then gradually lower it back toward the floor. You'll Stretch the hip flexor of the back leg and the hamstring and buttocks of the front."
   ],
   "category": "stretching",
-  "images": ["Runners_Stretch/0.jpg", "Runners_Stretch/1.jpg"],
-  "id": "Runners_Stretch"
+  "images": [
+    "Runners_Stretch/0.jpg",
+    "Runners_Stretch/1.jpg"
+  ],
+  "id": "Runners_Stretch",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Runners_Stretch/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Runners_Stretch/1.jpg"
+  ]
 }

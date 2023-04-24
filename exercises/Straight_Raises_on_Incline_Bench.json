@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",
-  "primaryMuscles": ["shoulders"],
-  "secondaryMuscles": ["traps"],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
   "instructions": [
     "Place a bar on the ground behind the head of an incline bench.",
     "Lay on the bench face down. With a pronated grip, pick the barbell up from the floor, keeping your arms straight. Allow the bar to hang straight down. This will be your starting position.",
@@ -13,6 +17,13 @@
     "Return to the starting position."
   ],
   "category": "strength",
-  "images": ["Straight_Raises_on_Incline_Bench/0.jpg", "Straight_Raises_on_Incline_Bench/1.jpg"],
-  "id": "Straight_Raises_on_Incline_Bench"
+  "images": [
+    "Straight_Raises_on_Incline_Bench/0.jpg",
+    "Straight_Raises_on_Incline_Bench/1.jpg"
+  ],
+  "id": "Straight_Raises_on_Incline_Bench",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Straight_Raises_on_Incline_Bench/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Straight_Raises_on_Incline_Bench/1.jpg"
+  ]
 }

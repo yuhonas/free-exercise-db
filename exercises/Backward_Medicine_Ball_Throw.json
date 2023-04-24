@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "medicine ball",
-  "primaryMuscles": ["shoulders"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "This exercise is best done with a partner. If you lack a partner, the ball can be thrown and retrieved or thrown against a wall.",
     "Begin standing a few meters in front of your partner, both facing the same direction. Begin holding the ball between your legs.",
@@ -13,6 +17,13 @@
     "Your partner can then roll the ball back to you. Repeat for the desired number of repetitions."
   ],
   "category": "plyometrics",
-  "images": ["Backward_Medicine_Ball_Throw/0.jpg", "Backward_Medicine_Ball_Throw/1.jpg"],
-  "id": "Backward_Medicine_Ball_Throw"
+  "images": [
+    "Backward_Medicine_Ball_Throw/0.jpg",
+    "Backward_Medicine_Ball_Throw/1.jpg"
+  ],
+  "id": "Backward_Medicine_Ball_Throw",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/1.jpg"
+  ]
 }

@@ -4,8 +4,14 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
   "instructions": [
     "Begin standing with your feet shoulder width apart and a barbell across your upper back.",
     "Step forward with one leg, flexing the knees to drop your hips. Descend until your rear knee nearly touches the ground. Your posture should remain upright, and your front knee should stay above the front foot.",
@@ -13,6 +19,13 @@
     "Step forward with your rear foot, repeating the lunge on the opposite leg."
   ],
   "category": "strength",
-  "images": ["Barbell_Walking_Lunge/0.jpg", "Barbell_Walking_Lunge/1.jpg"],
-  "id": "Barbell_Walking_Lunge"
+  "images": [
+    "Barbell_Walking_Lunge/0.jpg",
+    "Barbell_Walking_Lunge/1.jpg"
+  ],
+  "id": "Barbell_Walking_Lunge",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Walking_Lunge/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Walking_Lunge/1.jpg"
+  ]
 }

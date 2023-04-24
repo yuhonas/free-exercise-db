@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "machine",
-  "primaryMuscles": ["triceps"],
-  "secondaryMuscles": ["chest", "shoulders"],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
   "instructions": [
     "Sit securely in a dip machine, select the weight and firmly grasp the handles.",
     "Now keep your elbows in at your sides in order to place emphasis on the triceps. The elbows should be bent at a 90 degree angle.",
@@ -14,6 +19,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Dip_Machine/0.jpg", "Dip_Machine/1.jpg"],
-  "id": "Dip_Machine"
+  "images": [
+    "Dip_Machine/0.jpg",
+    "Dip_Machine/1.jpg"
+  ],
+  "id": "Dip_Machine",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/1.jpg"
+  ]
 }

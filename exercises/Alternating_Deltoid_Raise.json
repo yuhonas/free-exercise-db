@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": ["shoulders"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "In a standing position, hold a pair of dumbbells at your side.",
     "Keeping your elbows slightly bent, raise the weights directly in front of you to shoulder height, avoiding any swinging or cheating.",
@@ -14,6 +18,13 @@
     "Return the weights to the starting position and continue alternating to the front and side."
   ],
   "category": "strength",
-  "images": ["Alternating_Deltoid_Raise/0.jpg", "Alternating_Deltoid_Raise/1.jpg"],
-  "id": "Alternating_Deltoid_Raise"
+  "images": [
+    "Alternating_Deltoid_Raise/0.jpg",
+    "Alternating_Deltoid_Raise/1.jpg"
+  ],
+  "id": "Alternating_Deltoid_Raise",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Deltoid_Raise/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Deltoid_Raise/1.jpg"
+  ]
 }

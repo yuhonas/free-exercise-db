@@ -4,8 +4,13 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["hamstrings"],
-  "secondaryMuscles": ["glutes", "lower back"],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
   "instructions": [
     "Grasp a bar using an overhand grip (palms facing down). You may need some wrist wraps if using a significant amount of weight.",
     "Stand with your torso straight and your legs spaced using a shoulder width or narrower stance. The knees should be slightly bent. This is your starting position.",
@@ -14,6 +19,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Stiff-Legged_Barbell_Deadlift/0.jpg", "Stiff-Legged_Barbell_Deadlift/1.jpg"],
-  "id": "Stiff-Legged_Barbell_Deadlift"
+  "images": [
+    "Stiff-Legged_Barbell_Deadlift/0.jpg",
+    "Stiff-Legged_Barbell_Deadlift/1.jpg"
+  ],
+  "id": "Stiff-Legged_Barbell_Deadlift",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Barbell_Deadlift/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Barbell_Deadlift/1.jpg"
+  ]
 }

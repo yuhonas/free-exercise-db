@@ -4,10 +4,25 @@
   "level": "beginner",
   "mechanic": null,
   "equipment": "other",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
-  "instructions": ["To begin, seat yourself on the bike and adjust the seat to your height."],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "To begin, seat yourself on the bike and adjust the seat to your height."
+  ],
   "category": "cardio",
-  "images": ["Bicycling/0.jpg", "Bicycling/1.jpg"],
-  "id": "Bicycling"
+  "images": [
+    "Bicycling/0.jpg",
+    "Bicycling/1.jpg"
+  ],
+  "id": "Bicycling",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling/1.jpg"
+  ]
 }

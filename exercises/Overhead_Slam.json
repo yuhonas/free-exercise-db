@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "medicine ball",
-  "primaryMuscles": ["lats"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Hold a medine ball with both hands and stand with your feet at shoulder width. This will be your starting position.",
     "Initiate the countermovement by raising the ball above your head and fully extending your body.",
@@ -13,6 +17,13 @@
     "Receive the ball with both hands on the bounce and repeat the movement."
   ],
   "category": "plyometrics",
-  "images": ["Overhead_Slam/0.jpg", "Overhead_Slam/1.jpg"],
-  "id": "Overhead_Slam"
+  "images": [
+    "Overhead_Slam/0.jpg",
+    "Overhead_Slam/1.jpg"
+  ],
+  "id": "Overhead_Slam",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Slam/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Slam/1.jpg"
+  ]
 }

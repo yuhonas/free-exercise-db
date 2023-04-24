@@ -4,13 +4,24 @@
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "other",
-  "primaryMuscles": ["hamstrings"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Lie on your back with your legs extended. Loop a belt, rope, or band around one of your feet, and swing that leg as far to the side as you can. This will be your starting position.",
     "Pull gently on the belt to create tension in your groin and hamstring muscles. Hold for 10-20 seconds, and repeat on the other side."
   ],
   "category": "stretching",
-  "images": ["Intermediate_Groin_Stretch/0.jpg", "Intermediate_Groin_Stretch/1.jpg"],
-  "id": "Intermediate_Groin_Stretch"
+  "images": [
+    "Intermediate_Groin_Stretch/0.jpg",
+    "Intermediate_Groin_Stretch/1.jpg"
+  ],
+  "id": "Intermediate_Groin_Stretch",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Intermediate_Groin_Stretch/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Intermediate_Groin_Stretch/1.jpg"
+  ]
 }

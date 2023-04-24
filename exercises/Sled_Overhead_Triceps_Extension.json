@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "other",
-  "primaryMuscles": ["triceps"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Attach dual handles to a sled using a chain or rope. Load the sled to an appropriate load.",
     "Facing away from the sled, step away until there is tension in the line. Raise your hands above your head, keeping them together, palms facing each other. Your elbows should be pointed upward with the elbows flexed. This will be your starting position.",
@@ -13,6 +17,13 @@
     "Upon full extension, step forward to take the slack out of the line. You may keep your feet staggered for more stability."
   ],
   "category": "strength",
-  "images": ["Sled_Overhead_Triceps_Extension/0.jpg", "Sled_Overhead_Triceps_Extension/1.jpg"],
-  "id": "Sled_Overhead_Triceps_Extension"
+  "images": [
+    "Sled_Overhead_Triceps_Extension/0.jpg",
+    "Sled_Overhead_Triceps_Extension/1.jpg"
+  ],
+  "id": "Sled_Overhead_Triceps_Extension",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Overhead_Triceps_Extension/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Overhead_Triceps_Extension/1.jpg"
+  ]
 }

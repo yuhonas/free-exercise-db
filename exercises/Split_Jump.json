@@ -4,8 +4,14 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
   "instructions": [
     "Assume a lunge stance position with one foot forward with the knee bent, and the rear knee nearly touching the ground.",
     "Ensure that the front knee is over the midline of the foot.",
@@ -14,6 +20,13 @@
     "Absorb the impact by reverting back to the starting position."
   ],
   "category": "plyometrics",
-  "images": ["Split_Jump/0.jpg", "Split_Jump/1.jpg"],
-  "id": "Split_Jump"
+  "images": [
+    "Split_Jump/0.jpg",
+    "Split_Jump/1.jpg"
+  ],
+  "id": "Split_Jump",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jump/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jump/1.jpg"
+  ]
 }

@@ -4,8 +4,14 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["lats", "shoulders", "triceps"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "shoulders",
+    "triceps"
+  ],
   "instructions": [
     "Place a dumbbell standing up on a flat bench.",
     "Ensuring that the dumbbell stays securely placed at the top of the bench, lie perpendicular to the bench (torso across it as in forming a cross) with only your shoulders lying on the surface. Hips should be below the bench and legs bent with feet firmly on the floor. The head will be off the bench as well.",
@@ -15,6 +21,13 @@
     "Hold the weight on the initial position for a second and repeat the motion for the prescribed number of repetitions."
   ],
   "category": "strength",
-  "images": ["Bent-Arm_Dumbbell_Pullover/0.jpg", "Bent-Arm_Dumbbell_Pullover/1.jpg"],
-  "id": "Bent-Arm_Dumbbell_Pullover"
+  "images": [
+    "Bent-Arm_Dumbbell_Pullover/0.jpg",
+    "Bent-Arm_Dumbbell_Pullover/1.jpg"
+  ],
+  "id": "Bent-Arm_Dumbbell_Pullover",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent-Arm_Dumbbell_Pullover/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent-Arm_Dumbbell_Pullover/1.jpg"
+  ]
 }

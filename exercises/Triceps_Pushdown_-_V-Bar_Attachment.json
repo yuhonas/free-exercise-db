@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": ["triceps"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Attach a V-Bar to a high pulley and grab with an overhand grip (palms facing down) at shoulder width.",
     "Standing upright with the torso straight and a very small inclination forward, bring the upper arms close to your body and perpendicular to the floor. The forearms should be pointing up towards the pulley as they hold the bar. The thumbs should be higher than the small finger. This is your starting position.",
@@ -18,5 +22,9 @@
     "Triceps_Pushdown_-_V-Bar_Attachment/0.jpg",
     "Triceps_Pushdown_-_V-Bar_Attachment/1.jpg"
   ],
-  "id": "Triceps_Pushdown_-_V-Bar_Attachment"
+  "id": "Triceps_Pushdown_-_V-Bar_Attachment",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Triceps_Pushdown_-_V-Bar_Attachment/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Triceps_Pushdown_-_V-Bar_Attachment/1.jpg"
+  ]
 }

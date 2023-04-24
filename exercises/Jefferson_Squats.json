@@ -4,8 +4,16 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["calves", "glutes", "hamstrings", "lower back", "traps"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "traps"
+  ],
   "instructions": [
     "Place a barbell on the floor.",
     "Stand in the middle of the bar length wise.",
@@ -16,6 +24,13 @@
     "Now drive yourself back up to the starting position by pushing with the feet . Tip: Keep the bar hanging at arm's length and your elbows locked with a slight bend. The arms only serve as hooks. Avoid doing any lifting with them. Do the lifting with your thighs; not your arms."
   ],
   "category": "strength",
-  "images": ["Jefferson_Squats/0.jpg", "Jefferson_Squats/1.jpg"],
-  "id": "Jefferson_Squats"
+  "images": [
+    "Jefferson_Squats/0.jpg",
+    "Jefferson_Squats/1.jpg"
+  ],
+  "id": "Jefferson_Squats",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jefferson_Squats/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jefferson_Squats/1.jpg"
+  ]
 }

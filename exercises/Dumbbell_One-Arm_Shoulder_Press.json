@@ -4,8 +4,12 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": ["shoulders"],
-  "secondaryMuscles": ["triceps"],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
   "instructions": [
     "Grab a dumbbell and either sit on a military press bench or a utility bench that has a back support on it as you place the dumbbells upright on top of your thighs or stand up straight.",
     "Clean the dumbbell up to bring it to shoulder height. The other hand can be kept fully extended to the side, by the waist or grabbing a fixed surface.",
@@ -15,6 +19,13 @@
     "Repeat for the recommended amount of repetitions and then switch arms."
   ],
   "category": "strength",
-  "images": ["Dumbbell_One-Arm_Shoulder_Press/0.jpg", "Dumbbell_One-Arm_Shoulder_Press/1.jpg"],
-  "id": "Dumbbell_One-Arm_Shoulder_Press"
+  "images": [
+    "Dumbbell_One-Arm_Shoulder_Press/0.jpg",
+    "Dumbbell_One-Arm_Shoulder_Press/1.jpg"
+  ],
+  "id": "Dumbbell_One-Arm_Shoulder_Press",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_One-Arm_Shoulder_Press/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_One-Arm_Shoulder_Press/1.jpg"
+  ]
 }

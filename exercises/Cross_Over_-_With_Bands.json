@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "bands",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["biceps", "shoulders"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "shoulders"
+  ],
   "instructions": [
     "Secure an exercise band around a stationary post.",
     "While facing away from the post, grab the handles on both ends of the band and step forward enough to create tension on the band.",
@@ -15,6 +20,13 @@
     "Perform for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Cross_Over_-_With_Bands/0.jpg", "Cross_Over_-_With_Bands/1.jpg"],
-  "id": "Cross_Over_-_With_Bands"
+  "images": [
+    "Cross_Over_-_With_Bands/0.jpg",
+    "Cross_Over_-_With_Bands/1.jpg"
+  ],
+  "id": "Cross_Over_-_With_Bands",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/1.jpg"
+  ]
 }

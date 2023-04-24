@@ -4,14 +4,26 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["middle back"],
-  "secondaryMuscles": ["biceps", "lats"],
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
   "instructions": [
     "Suspend your straps at around chest height. Take a handle in each hand and lean back. Keep your body erect and your head and chest up. Your arms should be fully extended. This will be your starting position.",
     "Begin by flexing the elbow to initiate the movement. Protract your shoulder blades as you do so.",
     "At the completion of the motion pause, and then return to the starting position."
   ],
   "category": "strength",
-  "images": ["Suspended_Row/0.jpg", "Suspended_Row/1.jpg"],
-  "id": "Suspended_Row"
+  "images": [
+    "Suspended_Row/0.jpg",
+    "Suspended_Row/1.jpg"
+  ],
+  "id": "Suspended_Row",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Row/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Row/1.jpg"
+  ]
 }

@@ -4,14 +4,26 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["glutes", "hamstrings"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
   "instructions": [
     "Position a box in a rack. Secure a band or rope in place above the box.",
     "Standing in front of it, step onto the box to a full standing position, letting your other leg remain unsupported. Hold onto the band for balance",
     ". Continue stepping up and down on the same leg before switching to the opposite side."
   ],
   "category": "strength",
-  "images": ["Single-Leg_High_Box_Squat/0.jpg", "Single-Leg_High_Box_Squat/1.jpg"],
-  "id": "Single-Leg_High_Box_Squat"
+  "images": [
+    "Single-Leg_High_Box_Squat/0.jpg",
+    "Single-Leg_High_Box_Squat/1.jpg"
+  ],
+  "id": "Single-Leg_High_Box_Squat",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_High_Box_Squat/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_High_Box_Squat/1.jpg"
+  ]
 }

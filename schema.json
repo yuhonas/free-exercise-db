@@ -133,6 +133,14 @@
           "type": "string"
         }
       ]
+    },
+    "imageUrls": {
+      "type": "array",
+      "items": [
+        {
+          "type": "string"
+        }
+      ]
     }
   },
   "required": [
@@ -145,6 +153,7 @@
     "secondaryMuscles",
     "instructions",
     "category",
-    "images"
+    "images",
+    "imageUrls"
   ]
 }

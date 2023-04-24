@@ -4,8 +4,12 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",
-  "primaryMuscles": ["shoulders"],
-  "secondaryMuscles": ["triceps"],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
   "instructions": [
     "Clean a kettlebell to your shoulder. Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulder. Rotate your wrist as you do so, so that the palm faces inward. This will be your starting position.",
     "Look at the kettlebell and press it up and out until it is locked out overhead.",
@@ -16,5 +20,9 @@
     "One-Arm_Kettlebell_Military_Press_To_The_Side/0.jpg",
     "One-Arm_Kettlebell_Military_Press_To_The_Side/1.jpg"
   ],
-  "id": "One-Arm_Kettlebell_Military_Press_To_The_Side"
+  "id": "One-Arm_Kettlebell_Military_Press_To_The_Side",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Military_Press_To_The_Side/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Military_Press_To_The_Side/1.jpg"
+  ]
 }

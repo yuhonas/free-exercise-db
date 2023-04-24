@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",
-  "primaryMuscles": ["forearms"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Hold a barbell with both hands and your palms facing up; hands spaced about shoulder width.",
     "Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart. This will be your starting position.",
@@ -13,6 +17,13 @@
     "Now curl bar up as high as possible by closing your hands while exhaling. Hold the contraction at the top."
   ],
   "category": "strength",
-  "images": ["Finger_Curls/0.jpg", "Finger_Curls/1.jpg"],
-  "id": "Finger_Curls"
+  "images": [
+    "Finger_Curls/0.jpg",
+    "Finger_Curls/1.jpg"
+  ],
+  "id": "Finger_Curls",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Finger_Curls/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Finger_Curls/1.jpg"
+  ]
 }

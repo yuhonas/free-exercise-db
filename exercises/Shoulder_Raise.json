@@ -4,12 +4,23 @@
   "level": "beginner",
   "mechanic": null,
   "equipment": null,
-  "primaryMuscles": ["shoulders"],
-  "secondaryMuscles": ["lats"],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "lats"
+  ],
   "instructions": [
     "Relax your arms to your sides and raise your shoulders up toward your ears, then back down."
   ],
   "category": "stretching",
-  "images": ["Shoulder_Raise/0.jpg", "Shoulder_Raise/1.jpg"],
-  "id": "Shoulder_Raise"
+  "images": [
+    "Shoulder_Raise/0.jpg",
+    "Shoulder_Raise/1.jpg"
+  ],
+  "id": "Shoulder_Raise",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Shoulder_Raise/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Shoulder_Raise/1.jpg"
+  ]
 }

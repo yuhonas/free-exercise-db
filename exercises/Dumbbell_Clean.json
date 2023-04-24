@@ -4,7 +4,9 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": ["hamstrings"],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
   "secondaryMuscles": [
     "calves",
     "forearms",
@@ -22,6 +24,13 @@
     "Upon receiving the weight in the squat position, extend the hips and knees to finish in a standing position with the weights on your shoulders."
   ],
   "category": "strength",
-  "images": ["Dumbbell_Clean/0.jpg", "Dumbbell_Clean/1.jpg"],
-  "id": "Dumbbell_Clean"
+  "images": [
+    "Dumbbell_Clean/0.jpg",
+    "Dumbbell_Clean/1.jpg"
+  ],
+  "id": "Dumbbell_Clean",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Clean/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Clean/1.jpg"
+  ]
 }

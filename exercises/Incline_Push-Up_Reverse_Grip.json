@@ -4,8 +4,14 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["abdominals", "shoulders", "triceps"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
   "instructions": [
     "Stand facing a Smith machine bar or sturdy elevated platform at an appropriate height.",
     "Place your hands on the bar palms up, with your hands about shoulder width apart.",
@@ -14,6 +20,13 @@
     "Return to the starting position by extending the elbows, pressing yourself back up."
   ],
   "category": "strength",
-  "images": ["Incline_Push-Up_Reverse_Grip/0.jpg", "Incline_Push-Up_Reverse_Grip/1.jpg"],
-  "id": "Incline_Push-Up_Reverse_Grip"
+  "images": [
+    "Incline_Push-Up_Reverse_Grip/0.jpg",
+    "Incline_Push-Up_Reverse_Grip/1.jpg"
+  ],
+  "id": "Incline_Push-Up_Reverse_Grip",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Push-Up_Reverse_Grip/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Push-Up_Reverse_Grip/1.jpg"
+  ]
 }

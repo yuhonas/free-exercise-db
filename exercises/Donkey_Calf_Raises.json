@@ -4,8 +4,12 @@
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "other",
-  "primaryMuscles": ["calves"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "For this exercise you will need access to a donkey calf raise machine. Start by positioning your lower back and hips under the padded lever provided. The tailbone area should be the one making contact with the pad.",
     "Place both of your arms on the side handles and place the balls of your feet on the calf block with the heels extending off. Align the toes forward, inward or outward, depending on the area you wish to target, and straighten the knees without locking them. This will be your starting position.",
@@ -14,6 +18,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Donkey_Calf_Raises/0.jpg", "Donkey_Calf_Raises/1.jpg"],
-  "id": "Donkey_Calf_Raises"
+  "images": [
+    "Donkey_Calf_Raises/0.jpg",
+    "Donkey_Calf_Raises/1.jpg"
+  ],
+  "id": "Donkey_Calf_Raises",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/1.jpg"
+  ]
 }

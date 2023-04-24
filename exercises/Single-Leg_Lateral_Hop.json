@@ -4,8 +4,15 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["abductors", "adductors", "calves", "hamstrings"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "hamstrings"
+  ],
   "instructions": [
     "Stand to the side of a cone or hurdle. To get into the start position, stand on one leg with your knee slightly bent.",
     "To begin, execute a counterjump to hop sideways over the cone.",
@@ -13,6 +20,13 @@
     "Continue hopping back and forth."
   ],
   "category": "plyometrics",
-  "images": ["Single-Leg_Lateral_Hop/0.jpg", "Single-Leg_Lateral_Hop/1.jpg"],
-  "id": "Single-Leg_Lateral_Hop"
+  "images": [
+    "Single-Leg_Lateral_Hop/0.jpg",
+    "Single-Leg_Lateral_Hop/1.jpg"
+  ],
+  "id": "Single-Leg_Lateral_Hop",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Lateral_Hop/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Lateral_Hop/1.jpg"
+  ]
 }

@@ -4,7 +4,9 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["shoulders"],
+  "primaryMuscles": [
+    "shoulders"
+  ],
   "secondaryMuscles": [
     "abdominals",
     "calves",
@@ -27,6 +29,13 @@
     "Without moving your feet, press the bar overhead as you exhale. Lower the bar under control ."
   ],
   "category": "strength",
-  "images": ["Clean_and_Press/0.jpg", "Clean_and_Press/1.jpg"],
-  "id": "Clean_and_Press"
+  "images": [
+    "Clean_and_Press/0.jpg",
+    "Clean_and_Press/1.jpg"
+  ],
+  "id": "Clean_and_Press",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_and_Press/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_and_Press/1.jpg"
+  ]
 }

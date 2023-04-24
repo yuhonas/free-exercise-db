@@ -4,10 +4,23 @@
   "level": "beginner",
   "mechanic": null,
   "equipment": "body only",
-  "primaryMuscles": ["abdominals"],
-  "secondaryMuscles": ["shoulders"],
-  "instructions": [],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+
+  ],
   "category": "strength",
-  "images": ["Side_Bridge/0.jpg", "Side_Bridge/1.jpg"],
-  "id": "Side_Bridge"
+  "images": [
+    "Side_Bridge/0.jpg",
+    "Side_Bridge/1.jpg"
+  ],
+  "id": "Side_Bridge",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Bridge/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Bridge/1.jpg"
+  ]
 }

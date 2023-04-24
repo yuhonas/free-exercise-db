@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "bands",
-  "primaryMuscles": ["shoulders"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Choke the band around a post. The band should be at the same height as your elbow. Stand with your right side to the band a couple of feet away.",
     "Grasp the end of the band with your right hand, and keep your elbow pressed firmly to your side. We recommend you hold a pad or foam roll in place with your elbow to keep it firmly in position.",
@@ -14,6 +18,13 @@
     "Continue as far as you are able, pause, and then return to the starting position."
   ],
   "category": "strength",
-  "images": ["Internal_Rotation_with_Band/0.jpg", "Internal_Rotation_with_Band/1.jpg"],
-  "id": "Internal_Rotation_with_Band"
+  "images": [
+    "Internal_Rotation_with_Band/0.jpg",
+    "Internal_Rotation_with_Band/1.jpg"
+  ],
+  "id": "Internal_Rotation_with_Band",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Internal_Rotation_with_Band/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Internal_Rotation_with_Band/1.jpg"
+  ]
 }

@@ -4,8 +4,14 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "machine",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
   "instructions": [
     "To begin, first set the bar to a position that best matches your height. Once the bar is loaded, step under it and position it across the back of your shoulders.",
     "Take the bar with your hands facing forward, unlock it and lift it off the rack by extending your legs.",
@@ -15,6 +21,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Chair_Squat/0.jpg", "Chair_Squat/1.jpg"],
-  "id": "Chair_Squat"
+  "images": [
+    "Chair_Squat/0.jpg",
+    "Chair_Squat/1.jpg"
+  ],
+  "id": "Chair_Squat",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chair_Squat/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chair_Squat/1.jpg"
+  ]
 }

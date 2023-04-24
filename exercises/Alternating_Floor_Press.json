@@ -4,8 +4,14 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "kettlebells",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["abdominals", "shoulders", "triceps"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
   "instructions": [
     "Lie on the floor with two kettlebells next to your shoulders.",
     "Position one in place on your chest and then the other, gripping the kettlebells on the handle with the palms facing forward.",
@@ -13,6 +19,13 @@
     "Raise the kettlebell and repeat on the opposite side."
   ],
   "category": "strength",
-  "images": ["Alternating_Floor_Press/0.jpg", "Alternating_Floor_Press/1.jpg"],
-  "id": "Alternating_Floor_Press"
+  "images": [
+    "Alternating_Floor_Press/0.jpg",
+    "Alternating_Floor_Press/1.jpg"
+  ],
+  "id": "Alternating_Floor_Press",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Floor_Press/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Floor_Press/1.jpg"
+  ]
 }

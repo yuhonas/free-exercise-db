@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "cable",
-  "primaryMuscles": ["abdominals"],
-  "secondaryMuscles": ["shoulders"],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
   "instructions": [
     "Connect a standard handle to a tower, and move the cable to the highest pulley position.",
     "With your side to the cable, grab the handle with one hand and step away from the tower. You should be approximately armâ€™s length away from the pulley, with the tension of the weight on the cable. Your outstretched arm should be aligned with the cable.",
@@ -17,6 +21,13 @@
     "Then, reposition and repeat the same series of movements on the opposite side."
   ],
   "category": "strength",
-  "images": ["Standing_Cable_Wood_Chop/0.jpg", "Standing_Cable_Wood_Chop/1.jpg"],
-  "id": "Standing_Cable_Wood_Chop"
+  "images": [
+    "Standing_Cable_Wood_Chop/0.jpg",
+    "Standing_Cable_Wood_Chop/1.jpg"
+  ],
+  "id": "Standing_Cable_Wood_Chop",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/1.jpg"
+  ]
 }

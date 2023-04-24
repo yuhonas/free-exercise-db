@@ -4,8 +4,13 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["shoulders", "triceps"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
   "instructions": [
     "Move into a prone position on the floor, supporting your weight on your hands and toes.",
     "Your arms should be fully extended with the hands around shoulder width. Keep your body straight throughout the movement. This will be your starting position.",
@@ -15,6 +20,13 @@
     "Return to the starting position and repeat the exercise, working all the way around until you are back where you started."
   ],
   "category": "strength",
-  "images": ["Clock_Push-Up/0.jpg", "Clock_Push-Up/1.jpg"],
-  "id": "Clock_Push-Up"
+  "images": [
+    "Clock_Push-Up/0.jpg",
+    "Clock_Push-Up/1.jpg"
+  ],
+  "id": "Clock_Push-Up",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clock_Push-Up/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clock_Push-Up/1.jpg"
+  ]
 }

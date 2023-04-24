@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "exercise ball",
-  "primaryMuscles": ["hamstrings"],
-  "secondaryMuscles": ["calves", "glutes"],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes"
+  ],
   "instructions": [
     "Begin on the floor laying on your back with your feet on top of the ball.",
     "Position the ball so that when your legs are extended your ankles are on top of the ball. This will be your starting position.",
@@ -14,6 +19,13 @@
     "After a brief pause, return to the starting position."
   ],
   "category": "strength",
-  "images": ["Ball_Leg_Curl/0.jpg", "Ball_Leg_Curl/1.jpg"],
-  "id": "Ball_Leg_Curl"
+  "images": [
+    "Ball_Leg_Curl/0.jpg",
+    "Ball_Leg_Curl/1.jpg"
+  ],
+  "id": "Ball_Leg_Curl",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ball_Leg_Curl/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ball_Leg_Curl/1.jpg"
+  ]
 }

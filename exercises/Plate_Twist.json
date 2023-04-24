@@ -4,8 +4,12 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["abdominals"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Lie down on the floor or an exercise mat with your legs fully extended and your upper body upright. Grab the plate by its sides with both hands out in front of your abdominals with your arms slightly bent.",
     "Slowly cross your legs near your ankles and lift them up off the ground. Your knees should also be bent slightly. Note: Move your upper body back slightly to help keep you balanced turning this exercise. This is the starting position.",
@@ -14,6 +18,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Plate_Twist/0.jpg", "Plate_Twist/1.jpg"],
-  "id": "Plate_Twist"
+  "images": [
+    "Plate_Twist/0.jpg",
+    "Plate_Twist/1.jpg"
+  ],
+  "id": "Plate_Twist",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plate_Twist/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plate_Twist/1.jpg"
+  ]
 }

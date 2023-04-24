@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": ["abdominals"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Connect a rope attachment to a high pulley cable and position a mat on the floor in front of it.",
     "Grab the rope with both hands and kneel approximately two feet back from the tower.",
@@ -22,5 +26,9 @@
     "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists/0.jpg",
     "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists/1.jpg"
   ],
-  "id": "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists"
+  "id": "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists/1.jpg"
+  ]
 }

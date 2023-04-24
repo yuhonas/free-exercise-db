@@ -4,14 +4,28 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["abductors", "adductors", "calves", "hamstrings"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "hamstrings"
+  ],
   "instructions": [
     "Stand to the side of a cone or hurdle.",
     "Begin this drill by hopping sideways over the obstacle, rebounding out of your landing to hop back to where you started.",
     "Hop for a prescribed number or repetitions as quickly as possible, and finish this drill by sprinting a short distance upon landing the last hop."
   ],
   "category": "plyometrics",
-  "images": ["Side_Hop-Sprint/0.jpg", "Side_Hop-Sprint/1.jpg"],
-  "id": "Side_Hop-Sprint"
+  "images": [
+    "Side_Hop-Sprint/0.jpg",
+    "Side_Hop-Sprint/1.jpg"
+  ],
+  "id": "Side_Hop-Sprint",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Hop-Sprint/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Hop-Sprint/1.jpg"
+  ]
 }

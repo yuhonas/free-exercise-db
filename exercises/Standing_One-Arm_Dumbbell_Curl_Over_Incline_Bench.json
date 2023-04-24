@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": ["biceps"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Stand on the back side of an incline bench as if you were going to be a spotter for someone. Have a dumbbell in one hand and rest it across the incline bench with a supinated (palms up) grip.",
     "Position your non lifting hand at the corner or side of the incline bench. The chest should be pressed against the top part of the incline and your feet should be pressed against the floor at a wide stance. This is the starting position.",
@@ -19,5 +23,9 @@
     "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench/0.jpg",
     "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench/1.jpg"
   ],
-  "id": "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench"
+  "id": "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench/1.jpg"
+  ]
 }

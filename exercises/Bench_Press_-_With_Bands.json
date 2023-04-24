@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "bands",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["shoulders", "triceps"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
   "instructions": [
     "Using a flat bench secure a band under the leg of the bench that is nearest to your head.",
     "Once the band is secure, grab it by both handles and lie down on the bench.",
@@ -16,6 +21,13 @@
     "Repeat the movement for the prescribed amount of repetitions of your training program."
   ],
   "category": "strength",
-  "images": ["Bench_Press_-_With_Bands/0.jpg", "Bench_Press_-_With_Bands/1.jpg"],
-  "id": "Bench_Press_-_With_Bands"
+  "images": [
+    "Bench_Press_-_With_Bands/0.jpg",
+    "Bench_Press_-_With_Bands/1.jpg"
+  ],
+  "id": "Bench_Press_-_With_Bands",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Press_-_With_Bands/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Press_-_With_Bands/1.jpg"
+  ]
 }

@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "machine",
-  "primaryMuscles": ["calves"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Adjust the seat so that your legs are only slightly bent in the start position. The balls of your feet should be firmly on the platform.",
     "Select an appropriate weight, and grasp the handles. This will be your starting position.",
@@ -13,6 +17,13 @@
     "After a brief pause, reverse the motion and repeat."
   ],
   "category": "strength",
-  "images": ["Calf_Press/0.jpg", "Calf_Press/1.jpg"],
-  "id": "Calf_Press"
+  "images": [
+    "Calf_Press/0.jpg",
+    "Calf_Press/1.jpg"
+  ],
+  "id": "Calf_Press",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Press/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Press/1.jpg"
+  ]
 }

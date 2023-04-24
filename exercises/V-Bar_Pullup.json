@@ -4,8 +4,14 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": ["lats"],
-  "secondaryMuscles": ["biceps", "middle back", "shoulders"],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back",
+    "shoulders"
+  ],
   "instructions": [
     "Start by placing the middle of the V-bar in the middle of the pull-up bar (assuming that the pull-up station you are using does not have neutral grip handles). The V-Bar handles will be facing down so that you can hang from the pull-up bar through the use of the handles.",
     "Once you securely place the V-bar, take a hold of the bar from each side and hang from it. Stick your chest out and lean yourself back slightly in order to better engage the lats. This will be your starting position.",
@@ -14,6 +20,13 @@
     "Repeat for the prescribed number of repetitions."
   ],
   "category": "strength",
-  "images": ["V-Bar_Pullup/0.jpg", "V-Bar_Pullup/1.jpg"],
-  "id": "V-Bar_Pullup"
+  "images": [
+    "V-Bar_Pullup/0.jpg",
+    "V-Bar_Pullup/1.jpg"
+  ],
+  "id": "V-Bar_Pullup",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pullup/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pullup/1.jpg"
+  ]
 }

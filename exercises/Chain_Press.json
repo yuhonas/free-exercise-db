@@ -4,14 +4,26 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["shoulders", "triceps"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
   "instructions": [
     "Begin by connecting the chains to the cable handle attachments. Position yourself on the flat bench in the same position as for a dumbbell press. Your wrists should be pronated and arms perpendicular to the floor. This will be your starting position.",
     "Lower the chains by flexing the elbows, unloading some of the chain onto the floor.",
     "Continue until your elbow forms a 90 degree angle, and then reverse the motion by extending through the elbow to lockout."
   ],
   "category": "powerlifting",
-  "images": ["Chain_Press/0.jpg", "Chain_Press/1.jpg"],
-  "id": "Chain_Press"
+  "images": [
+    "Chain_Press/0.jpg",
+    "Chain_Press/1.jpg"
+  ],
+  "id": "Chain_Press",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chain_Press/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chain_Press/1.jpg"
+  ]
 }

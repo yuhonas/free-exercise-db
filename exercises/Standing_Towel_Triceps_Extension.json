@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "body only",
-  "primaryMuscles": ["triceps"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "To begin, stand up with both arms fully extended above the head holding one end of a towel with both hands. Your elbows should be in and the arms perpendicular to the floor with the palms facing each other while your feet should be shoulder width apart from each other. This is the starting position.",
     "Now communicate with your partner so that he/she can grip the other side of the towel to apply resistance. Keeping your upper arms close to your head (elbows in) and perpendicular to the floor, lower the resistance in a semicircular motion behind your head until your forearms touch your biceps. Tip: The upper arms should remain stationary and only the forearms should move. Breathe in as you perform this step.",
@@ -13,6 +17,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Standing_Towel_Triceps_Extension/0.jpg", "Standing_Towel_Triceps_Extension/1.jpg"],
-  "id": "Standing_Towel_Triceps_Extension"
+  "images": [
+    "Standing_Towel_Triceps_Extension/0.jpg",
+    "Standing_Towel_Triceps_Extension/1.jpg"
+  ],
+  "id": "Standing_Towel_Triceps_Extension",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Towel_Triceps_Extension/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Towel_Triceps_Extension/1.jpg"
+  ]
 }

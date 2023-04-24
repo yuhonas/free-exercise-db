@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Secure your legs at the end of the decline bench and lie down with a dumbbell on each hand on top of your thighs. The palms of your hand will be facing each other.",
     "Once you are laying down, move the dumbbells in front of you at shoulder width. The palms of the hands should be facing each other and the arms should be perpendicular to the floor and fully extended. This will be your starting position.",
@@ -14,6 +18,13 @@
     "Hold for a second at the contracted position and repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Decline_Dumbbell_Flyes/0.jpg", "Decline_Dumbbell_Flyes/1.jpg"],
-  "id": "Decline_Dumbbell_Flyes"
+  "images": [
+    "Decline_Dumbbell_Flyes/0.jpg",
+    "Decline_Dumbbell_Flyes/1.jpg"
+  ],
+  "id": "Decline_Dumbbell_Flyes",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Dumbbell_Flyes/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Dumbbell_Flyes/1.jpg"
+  ]
 }

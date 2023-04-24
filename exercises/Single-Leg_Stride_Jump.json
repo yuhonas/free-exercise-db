@@ -4,14 +4,28 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["abductors", "adductors", "calves", "hamstrings"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "hamstrings"
+  ],
   "instructions": [
     "Stand to the side of a box with your inside foot on top of it, close to the edge.",
     "Begin by swinging the arms upward as you push through the top leg, jumping upward as high as possible. Attempt to drive the opposite knee upward.",
     "Land in the same position that you started, using your inside leg to decelerate the impact."
   ],
   "category": "plyometrics",
-  "images": ["Single-Leg_Stride_Jump/0.jpg", "Single-Leg_Stride_Jump/1.jpg"],
-  "id": "Single-Leg_Stride_Jump"
+  "images": [
+    "Single-Leg_Stride_Jump/0.jpg",
+    "Single-Leg_Stride_Jump/1.jpg"
+  ],
+  "id": "Single-Leg_Stride_Jump",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Stride_Jump/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Stride_Jump/1.jpg"
+  ]
 }

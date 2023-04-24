@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "e-z curl bar",
-  "primaryMuscles": ["triceps"],
-  "secondaryMuscles": ["forearms"],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
   "instructions": [
     "Using a close grip, lift the EZ bar and hold it with your elbows in as you lie on the bench. Your arms should be perpendicular to the floor. This will be your starting position.",
     "Keeping the upper arms stationary, lower the bar by allowing the elbows to flex. Inhale as you perform this portion of the movement. Pause once the bar is directly above the forehead.",
@@ -13,6 +17,13 @@
     "Repeat."
   ],
   "category": "strength",
-  "images": ["EZ-Bar_Skullcrusher/0.jpg", "EZ-Bar_Skullcrusher/1.jpg"],
-  "id": "EZ-Bar_Skullcrusher"
+  "images": [
+    "EZ-Bar_Skullcrusher/0.jpg",
+    "EZ-Bar_Skullcrusher/1.jpg"
+  ],
+  "id": "EZ-Bar_Skullcrusher",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/EZ-Bar_Skullcrusher/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/EZ-Bar_Skullcrusher/1.jpg"
+  ]
 }

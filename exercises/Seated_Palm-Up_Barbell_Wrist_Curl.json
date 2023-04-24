@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",
-  "primaryMuscles": ["forearms"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Hold a barbell with both hands and your palms facing up; hands spaced about shoulder width.",
     "Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart.",
@@ -14,6 +18,13 @@
     "Now curl bar up as high as possible while flexing the forearms and exhaling. Hold the contraction at the top for a second and Tip: Only the wrist should move."
   ],
   "category": "strength",
-  "images": ["Seated_Palm-Up_Barbell_Wrist_Curl/0.jpg", "Seated_Palm-Up_Barbell_Wrist_Curl/1.jpg"],
-  "id": "Seated_Palm-Up_Barbell_Wrist_Curl"
+  "images": [
+    "Seated_Palm-Up_Barbell_Wrist_Curl/0.jpg",
+    "Seated_Palm-Up_Barbell_Wrist_Curl/1.jpg"
+  ],
+  "id": "Seated_Palm-Up_Barbell_Wrist_Curl",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Palm-Up_Barbell_Wrist_Curl/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Palm-Up_Barbell_Wrist_Curl/1.jpg"
+  ]
 }

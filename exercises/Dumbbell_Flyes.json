@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Lie down on a flat bench with a dumbbell on each hand resting on top of your thighs. The palms of your hand will be facing each other.",
     "Then using your thighs to help raise the dumbbells, lift the dumbbells one at a time so you can hold them in front of you at shoulder width with the palms of your hands facing each other. Raise the dumbbells up like you're pressing them, but stop and hold just before you lock out. This will be your starting position.",
@@ -14,6 +18,13 @@
     "Hold for a second at the contracted position and repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Dumbbell_Flyes/0.jpg", "Dumbbell_Flyes/1.jpg"],
-  "id": "Dumbbell_Flyes"
+  "images": [
+    "Dumbbell_Flyes/0.jpg",
+    "Dumbbell_Flyes/1.jpg"
+  ],
+  "id": "Dumbbell_Flyes",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Flyes/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Flyes/1.jpg"
+  ]
 }

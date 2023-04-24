@@ -4,8 +4,13 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["triceps"],
-  "secondaryMuscles": ["chest", "shoulders"],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
   "instructions": [
     "Adjust the j-hooks so they are at the appropriate height to rack the bar. For this exercise, drape the chains directly over the end of the bar, trying to keep the ends away from the plates.",
     "Begin lying on the floor with your head near the end of a power rack. Keeping your shoulder blades pulled together, pull the bar off of the hooks.",
@@ -13,6 +18,13 @@
     "Press the bar back up as fast as you can, keeping the bar, your wrists, and elbows in line as you do so."
   ],
   "category": "powerlifting",
-  "images": ["Floor_Press_with_Chains/0.jpg", "Floor_Press_with_Chains/1.jpg"],
-  "id": "Floor_Press_with_Chains"
+  "images": [
+    "Floor_Press_with_Chains/0.jpg",
+    "Floor_Press_with_Chains/1.jpg"
+  ],
+  "id": "Floor_Press_with_Chains",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Floor_Press_with_Chains/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Floor_Press_with_Chains/1.jpg"
+  ]
 }

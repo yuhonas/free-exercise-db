@@ -4,8 +4,12 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": ["shoulders"],
-  "secondaryMuscles": ["triceps"],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
   "instructions": [
     "Sit on an exercise bench with back support and hold two dumbbells in front of you at about upper chest level with your palms facing your body and your elbows bent. Tip: Your arms should be next to your torso. The starting position should look like the contracted portion of a dumbbell curl.",
     "Now to perform the movement, raise the dumbbells as you rotate the palms of your hands until they are facing forward.",
@@ -14,6 +18,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Arnold_Dumbbell_Press/0.jpg", "Arnold_Dumbbell_Press/1.jpg"],
-  "id": "Arnold_Dumbbell_Press"
+  "images": [
+    "Arnold_Dumbbell_Press/0.jpg",
+    "Arnold_Dumbbell_Press/1.jpg"
+  ],
+  "id": "Arnold_Dumbbell_Press",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arnold_Dumbbell_Press/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arnold_Dumbbell_Press/1.jpg"
+  ]
 }

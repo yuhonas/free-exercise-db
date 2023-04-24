@@ -4,7 +4,9 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["forearms"],
+  "primaryMuscles": [
+    "forearms"
+  ],
   "secondaryMuscles": [
     "abdominals",
     "calves",
@@ -19,6 +21,13 @@
     "Immediately begin walking briskly with quick, controlled steps. Keep your chest up and head forward, and make sure you continue breathing. Bring the frame to the ground after you have reached the end point."
   ],
   "category": "strongman",
-  "images": ["Rickshaw_Carry/0.jpg", "Rickshaw_Carry/1.jpg"],
-  "id": "Rickshaw_Carry"
+  "images": [
+    "Rickshaw_Carry/0.jpg",
+    "Rickshaw_Carry/1.jpg"
+  ],
+  "id": "Rickshaw_Carry",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rickshaw_Carry/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rickshaw_Carry/1.jpg"
+  ]
 }

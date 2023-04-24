@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "machine",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Sit on the machine with your back flat on the pad.",
     "Take hold of the handles. Tip: Your upper arms should be positioned parallel to the floor; adjust the machine accordingly. This will be your starting position.",
@@ -14,6 +18,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Butterfly/0.jpg", "Butterfly/1.jpg"],
-  "id": "Butterfly"
+  "images": [
+    "Butterfly/0.jpg",
+    "Butterfly/1.jpg"
+  ],
+  "id": "Butterfly",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/1.jpg"
+  ]
 }

@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",
-  "primaryMuscles": ["biceps"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "To perform this movement you will need a preacher bench and an E-Z bar. Grab the E-Z curl bar at the close inner handle (either have someone hand you the bar which is preferable or grab the bar from the front bar rest provided by most preacher benches). The palm of your hands should be facing forward and they should be slightly tilted inwards due to the shape of the bar.",
     "With the upper arms positioned against the preacher bench pad and the chest against it, hold the E-Z Curl Bar at shoulder length. This will be your starting position.",
@@ -14,6 +18,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Preacher_Curl/0.jpg", "Preacher_Curl/1.jpg"],
-  "id": "Preacher_Curl"
+  "images": [
+    "Preacher_Curl/0.jpg",
+    "Preacher_Curl/1.jpg"
+  ],
+  "id": "Preacher_Curl",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Curl/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Curl/1.jpg"
+  ]
 }

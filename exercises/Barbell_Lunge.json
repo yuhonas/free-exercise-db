@@ -4,8 +4,14 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
   "instructions": [
     "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack just below shoulder level. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
     "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
@@ -14,6 +20,13 @@
     "Repeat the movement for the recommended amount of repetitions and then perform with the left leg."
   ],
   "category": "strength",
-  "images": ["Barbell_Lunge/0.jpg", "Barbell_Lunge/1.jpg"],
-  "id": "Barbell_Lunge"
+  "images": [
+    "Barbell_Lunge/0.jpg",
+    "Barbell_Lunge/1.jpg"
+  ],
+  "id": "Barbell_Lunge",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Lunge/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Lunge/1.jpg"
+  ]
 }

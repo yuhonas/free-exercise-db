@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": ["hamstrings"],
-  "secondaryMuscles": ["glutes", "lower back"],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
   "instructions": [
     "Grasp a couple of dumbbells holding them by your side at arm's length.",
     "Stand with your torso straight and your legs spaced using a shoulder width or narrower stance. The knees should be slightly bent. This is your starting position.",
@@ -14,6 +19,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Stiff-Legged_Dumbbell_Deadlift/0.jpg", "Stiff-Legged_Dumbbell_Deadlift/1.jpg"],
-  "id": "Stiff-Legged_Dumbbell_Deadlift"
+  "images": [
+    "Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+    "Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+  ],
+  "id": "Stiff-Legged_Dumbbell_Deadlift",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+  ]
 }

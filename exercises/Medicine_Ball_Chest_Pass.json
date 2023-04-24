@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "medicine ball",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["shoulders", "triceps"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
   "instructions": [
     "You will need a partner for this exercise. Lacking one, this movement can be performed against a wall.",
     "Begin facing your partner holding the medicine ball at your torso with both hands.",
@@ -14,6 +19,13 @@
     "Receive the throw with both hands at chest height."
   ],
   "category": "plyometrics",
-  "images": ["Medicine_Ball_Chest_Pass/0.jpg", "Medicine_Ball_Chest_Pass/1.jpg"],
-  "id": "Medicine_Ball_Chest_Pass"
+  "images": [
+    "Medicine_Ball_Chest_Pass/0.jpg",
+    "Medicine_Ball_Chest_Pass/1.jpg"
+  ],
+  "id": "Medicine_Ball_Chest_Pass",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/1.jpg"
+  ]
 }

@@ -4,7 +4,9 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["lats"],
+  "primaryMuscles": [
+    "lats"
+  ],
   "secondaryMuscles": [
     "abdominals",
     "biceps",
@@ -21,6 +23,13 @@
     "Use care when lowering yourself to the ground."
   ],
   "category": "strength",
-  "images": ["Muscle_Up/0.jpg", "Muscle_Up/1.jpg"],
-  "id": "Muscle_Up"
+  "images": [
+    "Muscle_Up/0.jpg",
+    "Muscle_Up/1.jpg"
+  ],
+  "id": "Muscle_Up",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/1.jpg"
+  ]
 }

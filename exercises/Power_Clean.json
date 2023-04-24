@@ -4,7 +4,9 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["hamstrings"],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
   "secondaryMuscles": [
     "calves",
     "forearms",
@@ -43,6 +45,13 @@
     "Start over at Phase 1 and repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Power_Clean/0.jpg", "Power_Clean/1.jpg"],
-  "id": "Power_Clean"
+  "images": [
+    "Power_Clean/0.jpg",
+    "Power_Clean/1.jpg"
+  ],
+  "id": "Power_Clean",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Clean/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Clean/1.jpg"
+  ]
 }

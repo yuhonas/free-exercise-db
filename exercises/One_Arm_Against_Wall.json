@@ -4,13 +4,24 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": null,
-  "primaryMuscles": ["lats"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "From a standing position, place a bent arm against a wall or doorway.",
     "Slowly lean toward your arm until you feel a stretch in your lats."
   ],
   "category": "stretching",
-  "images": ["One_Arm_Against_Wall/0.jpg", "One_Arm_Against_Wall/1.jpg"],
-  "id": "One_Arm_Against_Wall"
+  "images": [
+    "One_Arm_Against_Wall/0.jpg",
+    "One_Arm_Against_Wall/1.jpg"
+  ],
+  "id": "One_Arm_Against_Wall",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Arm_Against_Wall/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Arm_Against_Wall/1.jpg"
+  ]
 }

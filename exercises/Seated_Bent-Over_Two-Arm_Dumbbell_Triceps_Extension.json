@@ -4,8 +4,12 @@
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": ["triceps"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Sit down at the end of a flat bench with a dumbbell in both arms using a neutral grip (palms of the hand facing you).",
     "Bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Make sure that you keep the head up.",
@@ -19,5 +23,9 @@
     "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/0.jpg",
     "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/1.jpg"
   ],
-  "id": "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension"
+  "id": "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/1.jpg"
+  ]
 }

@@ -4,8 +4,14 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "machine",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
   "instructions": [
     "To begin, place a flat bench 2-3 feet behind the smith machine. Then, set the bar on the height that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
     "Hold on to the bar using both arms at each side (palms facing forward), unlock it and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
@@ -16,6 +22,13 @@
     "Switch legs and repeat the movement."
   ],
   "category": "strength",
-  "images": ["Smith_Single-Leg_Split_Squat/0.jpg", "Smith_Single-Leg_Split_Squat/1.jpg"],
-  "id": "Smith_Single-Leg_Split_Squat"
+  "images": [
+    "Smith_Single-Leg_Split_Squat/0.jpg",
+    "Smith_Single-Leg_Split_Squat/1.jpg"
+  ],
+  "id": "Smith_Single-Leg_Split_Squat",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/1.jpg"
+  ]
 }

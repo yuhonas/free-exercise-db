@@ -4,14 +4,26 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "exercise ball",
-  "primaryMuscles": ["lower back"],
-  "secondaryMuscles": ["calves", "glutes"],
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes"
+  ],
   "instructions": [
     "Seat yourself on the floor.",
     "Straddle an exercise ball between both legs and lower your hips down toward the floor.",
     "Hug your arms around the ball to support your body. Adjust your legs so that your feet are flat on the floor and your knees line up over your ankles. Keep a good grip on the ball so it doesn't roll away from you and send you back onto your buttocks."
   ],
   "category": "stretching",
-  "images": ["Hug_A_Ball/0.jpg", "Hug_A_Ball/1.jpg"],
-  "id": "Hug_A_Ball"
+  "images": [
+    "Hug_A_Ball/0.jpg",
+    "Hug_A_Ball/1.jpg"
+  ],
+  "id": "Hug_A_Ball",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hug_A_Ball/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hug_A_Ball/1.jpg"
+  ]
 }

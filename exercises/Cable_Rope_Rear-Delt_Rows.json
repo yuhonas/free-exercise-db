@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "cable",
-  "primaryMuscles": ["shoulders"],
-  "secondaryMuscles": ["biceps", "middle back"],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back"
+  ],
   "instructions": [
     "Sit in the same position on a low pulley row station as you would if you were doing seated cable rows for the back.",
     "Attach a rope to the pulley and grasp it with an overhand grip. Your arms should be extended and parallel to the floor with the elbows flared out.",
@@ -15,6 +20,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Cable_Rope_Rear-Delt_Rows/0.jpg", "Cable_Rope_Rear-Delt_Rows/1.jpg"],
-  "id": "Cable_Rope_Rear-Delt_Rows"
+  "images": [
+    "Cable_Rope_Rear-Delt_Rows/0.jpg",
+    "Cable_Rope_Rear-Delt_Rows/1.jpg"
+  ],
+  "id": "Cable_Rope_Rear-Delt_Rows",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Rope_Rear-Delt_Rows/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Rope_Rear-Delt_Rows/1.jpg"
+  ]
 }

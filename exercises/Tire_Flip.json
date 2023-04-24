@@ -4,7 +4,9 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["quadriceps"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
   "secondaryMuscles": [
     "calves",
     "chest",
@@ -22,6 +24,13 @@
     "As the tire reaches a 45 degree angle, step forward and drive a knee into the tire. As you do so adjust your grip to the upper portion of the tire and push it forward as hard as possible to complete the turn. Repeat as necessary."
   ],
   "category": "strongman",
-  "images": ["Tire_Flip/0.jpg", "Tire_Flip/1.jpg"],
-  "id": "Tire_Flip"
+  "images": [
+    "Tire_Flip/0.jpg",
+    "Tire_Flip/1.jpg"
+  ],
+  "id": "Tire_Flip",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Tire_Flip/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Tire_Flip/1.jpg"
+  ]
 }

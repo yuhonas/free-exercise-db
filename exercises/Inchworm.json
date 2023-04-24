@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": ["hamstrings"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Stand with your feet close together. Keeping your legs straight, stretch down and put your hands on the floor directly in front of you. This will be your starting position.",
     "Begin by walking your hands forward slowly, alternating your left and your right. As you do so, bend only at the hip, keeping your legs straight.",
@@ -14,6 +18,13 @@
     "Continue walking until your feet are by hour hands, keeping your legs straight as you do so."
   ],
   "category": "stretching",
-  "images": ["Inchworm/0.jpg", "Inchworm/1.jpg"],
-  "id": "Inchworm"
+  "images": [
+    "Inchworm/0.jpg",
+    "Inchworm/1.jpg"
+  ],
+  "id": "Inchworm",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inchworm/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inchworm/1.jpg"
+  ]
 }

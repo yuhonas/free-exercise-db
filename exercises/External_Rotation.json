@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": ["shoulders"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Lie sideways on a flat bench with one arm holding a dumbbell and the other hand on top of the bench folded so that you can rest your head on it.",
     "Bend the elbows of the arm holding the dumbbell so that it creates a 90-degree angle between the upper arm and the forearm. Tip: Keep the arm parallel to your torso.",
@@ -15,6 +19,13 @@
     "Repeat for the recommended amount of repetitions and then switch to the other arm."
   ],
   "category": "strength",
-  "images": ["External_Rotation/0.jpg", "External_Rotation/1.jpg"],
-  "id": "External_Rotation"
+  "images": [
+    "External_Rotation/0.jpg",
+    "External_Rotation/1.jpg"
+  ],
+  "id": "External_Rotation",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation/1.jpg"
+  ]
 }

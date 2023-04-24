@@ -4,14 +4,25 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",
-  "primaryMuscles": ["shoulders"],
-  "secondaryMuscles": ["triceps"],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
   "instructions": [
     "Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you pull the kettlebells towards your shoulders. Rotate your wrists as you do so.",
     "Press one directly overhead by extending through the elbow, turning it so the palm faces forward while holding the other kettlebell stationary .",
     "Lower the pressed kettlebell to the starting position and immediately press with your other arm."
   ],
   "category": "strength",
-  "images": ["Alternating_Kettlebell_Press/0.jpg", "Alternating_Kettlebell_Press/1.jpg"],
-  "id": "Alternating_Kettlebell_Press"
+  "images": [
+    "Alternating_Kettlebell_Press/0.jpg",
+    "Alternating_Kettlebell_Press/1.jpg"
+  ],
+  "id": "Alternating_Kettlebell_Press",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Kettlebell_Press/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Kettlebell_Press/1.jpg"
+  ]
 }

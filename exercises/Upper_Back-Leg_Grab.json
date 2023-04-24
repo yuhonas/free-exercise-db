@@ -4,13 +4,25 @@
   "level": "beginner",
   "mechanic": null,
   "equipment": null,
-  "primaryMuscles": ["hamstrings"],
-  "secondaryMuscles": ["lower back", "middle back"],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "lower back",
+    "middle back"
+  ],
   "instructions": [
     "While seated, bend forward to hug your thighs from underneath with both arms.",
     "Keep your knees together and your legs extended out as you bring your chest down to your knees. You can also stretch your middle back by pulling your back away from your knees as your hugging them."
   ],
   "category": "stretching",
-  "images": ["Upper_Back-Leg_Grab/0.jpg", "Upper_Back-Leg_Grab/1.jpg"],
-  "id": "Upper_Back-Leg_Grab"
+  "images": [
+    "Upper_Back-Leg_Grab/0.jpg",
+    "Upper_Back-Leg_Grab/1.jpg"
+  ],
+  "id": "Upper_Back-Leg_Grab",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Upper_Back-Leg_Grab/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Upper_Back-Leg_Grab/1.jpg"
+  ]
 }

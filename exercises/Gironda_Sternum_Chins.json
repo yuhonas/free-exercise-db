@@ -4,8 +4,13 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["lats"],
-  "secondaryMuscles": ["biceps", "middle back"],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back"
+  ],
   "instructions": [
     "Grasp the pull-up bar with a shoulder width underhand grip.",
     "Now hang with your arms fully extended and stick your chest out and lean back. Tip: You will be leaning back throughout the entire movement. This will be your starting position.",
@@ -15,6 +20,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Gironda_Sternum_Chins/0.jpg", "Gironda_Sternum_Chins/1.jpg"],
-  "id": "Gironda_Sternum_Chins"
+  "images": [
+    "Gironda_Sternum_Chins/0.jpg",
+    "Gironda_Sternum_Chins/1.jpg"
+  ],
+  "id": "Gironda_Sternum_Chins",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Gironda_Sternum_Chins/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Gironda_Sternum_Chins/1.jpg"
+  ]
 }

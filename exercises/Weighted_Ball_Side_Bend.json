@@ -4,8 +4,12 @@
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "exercise ball",
-  "primaryMuscles": ["abdominals"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "To begin, lie down on an exercise ball with your left side of the torso (waist, hips and shoulder) pressed against the ball.",
     "Your feet should be on the floor while your legs are crossed and hanging from the ball. Hold a weighted plate with your right hand directly to the right side of your head. Tip: Make sure the smooth side of the plate is resting against your head.",
@@ -16,6 +20,13 @@
     "Switch sides and repeat the exercise."
   ],
   "category": "strength",
-  "images": ["Weighted_Ball_Side_Bend/0.jpg", "Weighted_Ball_Side_Bend/1.jpg"],
-  "id": "Weighted_Ball_Side_Bend"
+  "images": [
+    "Weighted_Ball_Side_Bend/0.jpg",
+    "Weighted_Ball_Side_Bend/1.jpg"
+  ],
+  "id": "Weighted_Ball_Side_Bend",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Weighted_Ball_Side_Bend/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Weighted_Ball_Side_Bend/1.jpg"
+  ]
 }

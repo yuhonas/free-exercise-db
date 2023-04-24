@@ -4,13 +4,27 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": null,
-  "primaryMuscles": ["abdominals"],
-  "secondaryMuscles": ["chest", "forearms", "lats", "triceps"],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "forearms",
+    "lats",
+    "triceps"
+  ],
   "instructions": [
     "Standing straight up, lace your fingers together and open your palms to the ceiling. Keep your shoulders down as you extend your arms up.",
     "To create a full torso stretch, pull your tailbone down and stabilize your torso as you do this. Stretch the muscles on both the front and the back of the torso."
   ],
   "category": "stretching",
-  "images": ["Overhead_Stretch/0.jpg", "Overhead_Stretch/1.jpg"],
-  "id": "Overhead_Stretch"
+  "images": [
+    "Overhead_Stretch/0.jpg",
+    "Overhead_Stretch/1.jpg"
+  ],
+  "id": "Overhead_Stretch",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Stretch/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Stretch/1.jpg"
+  ]
 }

@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["shoulders", "triceps"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
   "instructions": [
     "Lie down on a flat bench with a dumbbell in one hand on top of your thigh.",
     "By using your thigh to help you get the dumbbell up, clean the dumbbell up so that you can hold it in front of you at shoulder width. Use the hand you are not lifting with to help position the dumbbell over you properly.",
@@ -16,6 +21,13 @@
     "Switch arms and repeat the movement."
   ],
   "category": "strength",
-  "images": ["One_Arm_Dumbbell_Bench_Press/0.jpg", "One_Arm_Dumbbell_Bench_Press/1.jpg"],
-  "id": "One_Arm_Dumbbell_Bench_Press"
+  "images": [
+    "One_Arm_Dumbbell_Bench_Press/0.jpg",
+    "One_Arm_Dumbbell_Bench_Press/1.jpg"
+  ],
+  "id": "One_Arm_Dumbbell_Bench_Press",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Arm_Dumbbell_Bench_Press/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Arm_Dumbbell_Bench_Press/1.jpg"
+  ]
 }

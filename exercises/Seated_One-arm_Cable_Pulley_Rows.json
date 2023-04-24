@@ -4,8 +4,14 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "cable",
-  "primaryMuscles": ["middle back"],
-  "secondaryMuscles": ["biceps", "lats", "traps"],
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats",
+    "traps"
+  ],
   "instructions": [
     "To get into the starting position, first sit down on the machine and place your feet on the front platform or crossbar provided making sure that your knees are slightly bent and not locked.",
     "Lean over as you keep the natural alignment of your back and grab the single handle attachment with your left arm using a palms-down grip.",
@@ -15,6 +21,13 @@
     "Repeat for the recommended amount of repetitions and then perform the same movement with the right hand."
   ],
   "category": "strength",
-  "images": ["Seated_One-arm_Cable_Pulley_Rows/0.jpg", "Seated_One-arm_Cable_Pulley_Rows/1.jpg"],
-  "id": "Seated_One-arm_Cable_Pulley_Rows"
+  "images": [
+    "Seated_One-arm_Cable_Pulley_Rows/0.jpg",
+    "Seated_One-arm_Cable_Pulley_Rows/1.jpg"
+  ],
+  "id": "Seated_One-arm_Cable_Pulley_Rows",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_One-arm_Cable_Pulley_Rows/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_One-arm_Cable_Pulley_Rows/1.jpg"
+  ]
 }

@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "machine",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["shoulders", "triceps"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
   "instructions": [
     "Load an appropriate weight onto the pins and adjust the seat for your height. The handles should be near the bottom or middle of the pectorals at the beginning of the motion.",
     "Your chest and head should be up and your shoulder blades retracted. This will be your starting position.",
@@ -13,6 +18,13 @@
     "After a brief pause at the top, return the weight just above the start position, keeping tension on the muscles by not returning the weight to the stops until the set is complete."
   ],
   "category": "strength",
-  "images": ["Leverage_Chest_Press/0.jpg", "Leverage_Chest_Press/1.jpg"],
-  "id": "Leverage_Chest_Press"
+  "images": [
+    "Leverage_Chest_Press/0.jpg",
+    "Leverage_Chest_Press/1.jpg"
+  ],
+  "id": "Leverage_Chest_Press",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leverage_Chest_Press/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leverage_Chest_Press/1.jpg"
+  ]
 }

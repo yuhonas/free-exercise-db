@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",
-  "primaryMuscles": ["calves"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the bar on the back of your shoulders (slightly below the neck).",
     "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
@@ -15,6 +19,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Standing_Barbell_Calf_Raise/0.jpg", "Standing_Barbell_Calf_Raise/1.jpg"],
-  "id": "Standing_Barbell_Calf_Raise"
+  "images": [
+    "Standing_Barbell_Calf_Raise/0.jpg",
+    "Standing_Barbell_Calf_Raise/1.jpg"
+  ],
+  "id": "Standing_Barbell_Calf_Raise",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/1.jpg"
+  ]
 }

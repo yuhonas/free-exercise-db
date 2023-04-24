@@ -4,8 +4,14 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["lats", "shoulders", "triceps"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "shoulders",
+    "triceps"
+  ],
   "instructions": [
     "Lie on a flat bench while holding a barbell using a palms down grip that is about 15 inches apart.",
     "Place the bar on your upper thighs, extend your arms and lock them while keeping a slight bend on the elbows. This will be your starting position.",
@@ -14,6 +20,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Front_Raise_And_Pullover/0.jpg", "Front_Raise_And_Pullover/1.jpg"],
-  "id": "Front_Raise_And_Pullover"
+  "images": [
+    "Front_Raise_And_Pullover/0.jpg",
+    "Front_Raise_And_Pullover/1.jpg"
+  ],
+  "id": "Front_Raise_And_Pullover",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Raise_And_Pullover/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Raise_And_Pullover/1.jpg"
+  ]
 }

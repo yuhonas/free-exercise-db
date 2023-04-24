@@ -4,8 +4,12 @@
   "level": "expert",
   "mechanic": "isolation",
   "equipment": "body only",
-  "primaryMuscles": ["abdominals"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Hang from a chin-up bar with both arms extended at arms length in top of you using either a wide grip or a medium grip. The legs should be straight down with the pelvis rolled slightly backwards. This will be your starting position.",
     "Raise your legs until the torso makes a 90-degree angle with the legs. Exhale as you perform this movement and hold the contraction for a second or so.",
@@ -13,6 +17,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Hanging_Leg_Raise/0.jpg", "Hanging_Leg_Raise/1.jpg"],
-  "id": "Hanging_Leg_Raise"
+  "images": [
+    "Hanging_Leg_Raise/0.jpg",
+    "Hanging_Leg_Raise/1.jpg"
+  ],
+  "id": "Hanging_Leg_Raise",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+  ]
 }

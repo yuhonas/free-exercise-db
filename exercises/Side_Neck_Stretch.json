@@ -4,13 +4,24 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": null,
-  "primaryMuscles": ["neck"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Start with your shoulders relaxed, gently tilt your head towards your shoulder.",
     "Assist stretch with a gentle pull on the side of the head."
   ],
   "category": "stretching",
-  "images": ["Side_Neck_Stretch/0.jpg", "Side_Neck_Stretch/1.jpg"],
-  "id": "Side_Neck_Stretch"
+  "images": [
+    "Side_Neck_Stretch/0.jpg",
+    "Side_Neck_Stretch/1.jpg"
+  ],
+  "id": "Side_Neck_Stretch",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Neck_Stretch/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Neck_Stretch/1.jpg"
+  ]
 }

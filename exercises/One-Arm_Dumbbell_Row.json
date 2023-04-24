@@ -4,8 +4,14 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": ["middle back"],
-  "secondaryMuscles": ["biceps", "lats", "shoulders"],
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats",
+    "shoulders"
+  ],
   "instructions": [
     "Choose a flat bench and place a dumbbell on each side of it.",
     "Place the right leg on top of the end of the bench, bend your torso forward from the waist until your upper body is parallel to the floor, and place your right hand on the other end of the bench for support.",
@@ -16,6 +22,13 @@
     "Switch sides and repeat again with the other arm."
   ],
   "category": "strength",
-  "images": ["One-Arm_Dumbbell_Row/0.jpg", "One-Arm_Dumbbell_Row/1.jpg"],
-  "id": "One-Arm_Dumbbell_Row"
+  "images": [
+    "One-Arm_Dumbbell_Row/0.jpg",
+    "One-Arm_Dumbbell_Row/1.jpg"
+  ],
+  "id": "One-Arm_Dumbbell_Row",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/1.jpg"
+  ]
 }

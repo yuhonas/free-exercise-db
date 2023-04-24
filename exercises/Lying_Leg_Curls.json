@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "machine",
-  "primaryMuscles": ["hamstrings"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Adjust the machine lever to fit your height and lie face down on the leg curl machine with the pad of the lever on the back of your legs (just a few inches under the calves). Tip: Preferably use a leg curl machine that is angled as opposed to flat since an angled position is more favorable for hamstrings recruitment.",
     "Keeping the torso flat on the bench, ensure your legs are fully stretched and grab the side handles of the machine. Position your toes straight (or you can also use any of the other two stances described on the foot positioning section). This will be your starting position.",
@@ -13,6 +17,13 @@
     "As you inhale, bring the legs back to the initial position. Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Lying_Leg_Curls/0.jpg", "Lying_Leg_Curls/1.jpg"],
-  "id": "Lying_Leg_Curls"
+  "images": [
+    "Lying_Leg_Curls/0.jpg",
+    "Lying_Leg_Curls/1.jpg"
+  ],
+  "id": "Lying_Leg_Curls",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Leg_Curls/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Leg_Curls/1.jpg"
+  ]
 }

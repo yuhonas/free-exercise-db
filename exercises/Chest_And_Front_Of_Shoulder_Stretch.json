@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "other",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["shoulders"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
   "instructions": [
     "Start off by standing with your legs together, holding a bodybar or a broomstick.",
     "Take a slightly wider than shoulder width grip on the pole and hold it in front of you with your palms facing down.",
@@ -16,5 +20,9 @@
     "Chest_And_Front_Of_Shoulder_Stretch/0.jpg",
     "Chest_And_Front_Of_Shoulder_Stretch/1.jpg"
   ],
-  "id": "Chest_And_Front_Of_Shoulder_Stretch"
+  "id": "Chest_And_Front_Of_Shoulder_Stretch",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chest_And_Front_Of_Shoulder_Stretch/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chest_And_Front_Of_Shoulder_Stretch/1.jpg"
+  ]
 }

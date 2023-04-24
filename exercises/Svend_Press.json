@@ -4,8 +4,14 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["forearms", "shoulders", "triceps"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "shoulders",
+    "triceps"
+  ],
   "instructions": [
     "Begin in a standing position.",
     "Press two lightweight plates together with your hands. Hold the plates together close to your chest to create an isometric contraction in your chest muscles. Your fingers should be pointed forward. This is your starting position.",
@@ -13,6 +19,13 @@
     "Pause at the top of the motion, and then slowly return to the starting position."
   ],
   "category": "strength",
-  "images": ["Svend_Press/0.jpg", "Svend_Press/1.jpg"],
-  "id": "Svend_Press"
+  "images": [
+    "Svend_Press/0.jpg",
+    "Svend_Press/1.jpg"
+  ],
+  "id": "Svend_Press",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Svend_Press/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Svend_Press/1.jpg"
+  ]
 }

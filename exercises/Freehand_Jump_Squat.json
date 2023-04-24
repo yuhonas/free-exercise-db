@@ -4,8 +4,14 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
   "instructions": [
     "Cross your arms over your chest.",
     "With your head up and your back straight, position your feet at shoulder width.",
@@ -15,6 +21,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Freehand_Jump_Squat/0.jpg", "Freehand_Jump_Squat/1.jpg"],
-  "id": "Freehand_Jump_Squat"
+  "images": [
+    "Freehand_Jump_Squat/0.jpg",
+    "Freehand_Jump_Squat/1.jpg"
+  ],
+  "id": "Freehand_Jump_Squat",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Freehand_Jump_Squat/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Freehand_Jump_Squat/1.jpg"
+  ]
 }

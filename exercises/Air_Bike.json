@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": ["abdominals"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Lie flat on the floor with your lower back pressed to the ground. For this exercise, you will need to put your hands beside your head. Be careful however to not strain with the neck as you perform it. Now lift your shoulders into the crunch position.",
     "Bring knees up to where they are perpendicular to the floor, with your lower legs parallel to the floor. This will be your starting position.",
@@ -15,6 +19,13 @@
     "Continue alternating in this manner until all of the recommended repetitions for each side have been completed."
   ],
   "category": "strength",
-  "images": ["Air_Bike/0.jpg", "Air_Bike/1.jpg"],
-  "id": "Air_Bike"
+  "images": [
+    "Air_Bike/0.jpg",
+    "Air_Bike/1.jpg"
+  ],
+  "id": "Air_Bike",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/1.jpg"
+  ]
 }

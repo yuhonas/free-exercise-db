@@ -4,14 +4,27 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["glutes"],
-  "secondaryMuscles": ["abdominals", "hamstrings", "lower back"],
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "hamstrings",
+    "lower back"
+  ],
   "instructions": [
     "Set the bar to the proper height in a power rack. Kneel behind the bar; it may be beneficial to put a mat down to pad your knees. Slide under the bar, racking it across the back of your shoulders. Your shoulder blades should be retracted and the bar tight across your back. Unrack the weight.",
     "With your head looking forward, sit back with your butt until you touch your calves.",
     "Reverse the motion, returning the torso to an upright position."
   ],
   "category": "powerlifting",
-  "images": ["Kneeling_Squat/0.jpg", "Kneeling_Squat/1.jpg"],
-  "id": "Kneeling_Squat"
+  "images": [
+    "Kneeling_Squat/0.jpg",
+    "Kneeling_Squat/1.jpg"
+  ],
+  "id": "Kneeling_Squat",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Squat/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Squat/1.jpg"
+  ]
 }

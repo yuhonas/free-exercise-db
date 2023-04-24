@@ -4,12 +4,23 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": null,
-  "primaryMuscles": ["triceps"],
-  "secondaryMuscles": ["lats"],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "lats"
+  ],
   "instructions": [
     "Reach your hand behind your head, grasp your elbow and gently pull. Hold for 10 to 20 seconds, then switch sides."
   ],
   "category": "stretching",
-  "images": ["Triceps_Stretch/0.jpg", "Triceps_Stretch/1.jpg"],
-  "id": "Triceps_Stretch"
+  "images": [
+    "Triceps_Stretch/0.jpg",
+    "Triceps_Stretch/1.jpg"
+  ],
+  "id": "Triceps_Stretch",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Triceps_Stretch/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Triceps_Stretch/1.jpg"
+  ]
 }

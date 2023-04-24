@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "machine",
-  "primaryMuscles": ["traps"],
-  "secondaryMuscles": ["forearms"],
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
   "instructions": [
     "Load the pins to an appropriate weight. Position yourself directly between the handles.",
     "Grasp the top handles with a comfortable grip, and then lower your hips as you take a breath. Look forward with your head and keep your chest up.",
@@ -14,6 +18,13 @@
     "Pause at the top of the motion, and then return the weight to the starting position."
   ],
   "category": "strength",
-  "images": ["Leverage_Shrug/0.jpg", "Leverage_Shrug/1.jpg"],
-  "id": "Leverage_Shrug"
+  "images": [
+    "Leverage_Shrug/0.jpg",
+    "Leverage_Shrug/1.jpg"
+  ],
+  "id": "Leverage_Shrug",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leverage_Shrug/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leverage_Shrug/1.jpg"
+  ]
 }

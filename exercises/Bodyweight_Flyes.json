@@ -4,8 +4,14 @@
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "e-z curl bar",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["abdominals", "shoulders", "triceps"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
   "instructions": [
     "Position two equally loaded EZ bars on the ground next to each other. Ensure they are able to roll.",
     "Assume a push-up position over the bars, supporting your weight on your toes and hands with your arms extended and body straight.",
@@ -14,6 +20,13 @@
     "After moving the bars as far apart as you can, return to the starting position by pulling them back together. Exhale as you perform this movement."
   ],
   "category": "strength",
-  "images": ["Bodyweight_Flyes/0.jpg", "Bodyweight_Flyes/1.jpg"],
-  "id": "Bodyweight_Flyes"
+  "images": [
+    "Bodyweight_Flyes/0.jpg",
+    "Bodyweight_Flyes/1.jpg"
+  ],
+  "id": "Bodyweight_Flyes",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bodyweight_Flyes/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bodyweight_Flyes/1.jpg"
+  ]
 }

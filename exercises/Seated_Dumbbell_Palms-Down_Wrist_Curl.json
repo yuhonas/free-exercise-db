@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": ["forearms"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Start out by placing two dumbbells on the floor in front of a flat bench.",
     "Sit down on the edge of the flat bench with your legs at about shoulder width apart. Make sure to keep your feet on the floor.",
@@ -20,5 +24,9 @@
     "Seated_Dumbbell_Palms-Down_Wrist_Curl/0.jpg",
     "Seated_Dumbbell_Palms-Down_Wrist_Curl/1.jpg"
   ],
-  "id": "Seated_Dumbbell_Palms-Down_Wrist_Curl"
+  "id": "Seated_Dumbbell_Palms-Down_Wrist_Curl",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Dumbbell_Palms-Down_Wrist_Curl/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Dumbbell_Palms-Down_Wrist_Curl/1.jpg"
+  ]
 }

@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": null,
-  "primaryMuscles": ["glutes"],
-  "secondaryMuscles": ["hamstrings", "lower back"],
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back"
+  ],
   "instructions": [
     "Start off by lying on the floor.",
     "Extend one leg straight and pull the other knee to your chest. Hold under the knee joint to protect the kneecap.",
@@ -13,6 +18,13 @@
     "Switch sides. This stretches the buttocks and lower back of the bent leg and the hip flexor of the straight leg."
   ],
   "category": "stretching",
-  "images": ["One_Knee_To_Chest/0.jpg", "One_Knee_To_Chest/1.jpg"],
-  "id": "One_Knee_To_Chest"
+  "images": [
+    "One_Knee_To_Chest/0.jpg",
+    "One_Knee_To_Chest/1.jpg"
+  ],
+  "id": "One_Knee_To_Chest",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Knee_To_Chest/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Knee_To_Chest/1.jpg"
+  ]
 }

@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "machine",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Seat yourself in the machine and adjust it so that you are positioned properly. The pad should be against the lower part of the shin but not in contact with the ankle. Adjust the seat so that the pivot point is in line with your knee. Select a weight appropriate for your abilities.",
     "Maintaining good posture, fully extend one leg, pausing at the top of the motion.",
@@ -13,6 +17,13 @@
     "Repeat for the desired number of repetitions."
   ],
   "category": "strength",
-  "images": ["Single-Leg_Leg_Extension/0.jpg", "Single-Leg_Leg_Extension/1.jpg"],
-  "id": "Single-Leg_Leg_Extension"
+  "images": [
+    "Single-Leg_Leg_Extension/0.jpg",
+    "Single-Leg_Leg_Extension/1.jpg"
+  ],
+  "id": "Single-Leg_Leg_Extension",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/1.jpg"
+  ]
 }

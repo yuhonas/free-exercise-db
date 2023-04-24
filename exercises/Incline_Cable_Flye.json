@@ -4,8 +4,12 @@
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["shoulders"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
   "instructions": [
     "To get yourself into the starting position, set the pulleys at the floor level (lowest level possible on the machine that is below your torso).",
     "Place an incline bench (set at 45 degrees) in between the pulleys, select a weight on each one and grab a pulley on each hand.",
@@ -15,6 +19,13 @@
     "Repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Incline_Cable_Flye/0.jpg", "Incline_Cable_Flye/1.jpg"],
-  "id": "Incline_Cable_Flye"
+  "images": [
+    "Incline_Cable_Flye/0.jpg",
+    "Incline_Cable_Flye/1.jpg"
+  ],
+  "id": "Incline_Cable_Flye",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Cable_Flye/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Cable_Flye/1.jpg"
+  ]
 }

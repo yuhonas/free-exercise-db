@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": ["abdominals"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Lay flat on the floor with your arms next to your sides.",
     "Now bend your knees at around a 75 degree angle and lift your feet off the floor by around 2 inches.",
@@ -14,6 +18,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Bent-Knee_Hip_Raise/0.jpg", "Bent-Knee_Hip_Raise/1.jpg"],
-  "id": "Bent-Knee_Hip_Raise"
+  "images": [
+    "Bent-Knee_Hip_Raise/0.jpg",
+    "Bent-Knee_Hip_Raise/1.jpg"
+  ],
+  "id": "Bent-Knee_Hip_Raise",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent-Knee_Hip_Raise/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent-Knee_Hip_Raise/1.jpg"
+  ]
 }

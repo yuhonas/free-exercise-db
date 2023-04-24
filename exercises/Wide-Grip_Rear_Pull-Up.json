@@ -4,8 +4,14 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": ["lats"],
-  "secondaryMuscles": ["biceps", "middle back", "shoulders"],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back",
+    "shoulders"
+  ],
   "instructions": [
     "Grab the pull-up bar with the palms facing forward using a wide grip.",
     "As you have both arms extended in front of you holding the bar, bring your torso forward and head so that there is an imaginary line from the pull-up bar to the back of your neck. This is your starting position.",
@@ -14,6 +20,13 @@
     "Repeat this motion for the prescribed amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Wide-Grip_Rear_Pull-Up/0.jpg", "Wide-Grip_Rear_Pull-Up/1.jpg"],
-  "id": "Wide-Grip_Rear_Pull-Up"
+  "images": [
+    "Wide-Grip_Rear_Pull-Up/0.jpg",
+    "Wide-Grip_Rear_Pull-Up/1.jpg"
+  ],
+  "id": "Wide-Grip_Rear_Pull-Up",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/1.jpg"
+  ]
 }

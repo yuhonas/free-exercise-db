@@ -4,14 +4,29 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["hamstrings"],
-  "secondaryMuscles": ["glutes", "lower back", "quadriceps", "shoulders", "triceps"],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back",
+    "quadriceps",
+    "shoulders",
+    "triceps"
+  ],
   "instructions": [
     "Begin with a loaded barbell held at the mid thigh position with a wide grip. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar. This will be the starting position.",
     "Begin the pull by driving through the front of the heels, raising the bar. Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body.",
     "Continue raising the bar to the overhead position, without rebending the knees."
   ],
   "category": "olympic weightlifting",
-  "images": ["Muscle_Snatch/0.jpg", "Muscle_Snatch/1.jpg"],
-  "id": "Muscle_Snatch"
+  "images": [
+    "Muscle_Snatch/0.jpg",
+    "Muscle_Snatch/1.jpg"
+  ],
+  "id": "Muscle_Snatch",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Snatch/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Snatch/1.jpg"
+  ]
 }

@@ -4,8 +4,16 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["abductors", "adductors", "calves", "glutes", "hamstrings"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
   "instructions": [
     "Begin standing with your knees slightly bent.",
     "Quickly squat a short distance, flexing the hips and knees, and immediately extend to jump for maximum vertical height.",
@@ -13,6 +21,13 @@
     "Finish the motion by landing with the knees only partially bent, using your legs to absorb the impact."
   ],
   "category": "plyometrics",
-  "images": ["Double_Leg_Butt_Kick/0.jpg", "Double_Leg_Butt_Kick/1.jpg"],
-  "id": "Double_Leg_Butt_Kick"
+  "images": [
+    "Double_Leg_Butt_Kick/0.jpg",
+    "Double_Leg_Butt_Kick/1.jpg"
+  ],
+  "id": "Double_Leg_Butt_Kick",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Leg_Butt_Kick/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Leg_Butt_Kick/1.jpg"
+  ]
 }

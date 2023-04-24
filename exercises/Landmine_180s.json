@@ -4,8 +4,14 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["abdominals"],
-  "secondaryMuscles": ["glutes", "lower back", "shoulders"],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back",
+    "shoulders"
+  ],
   "instructions": [
     "Position a bar into a landmine or securely anchor it in a corner. Load the bar to an appropriate weight.",
     "Raise the bar from the floor, taking it to shoulder height with both hands with your arms extended in front of you. Adopt a wide stance. This will be your starting position.",
@@ -14,6 +20,13 @@
     "Continue alternating the movement until the set is complete."
   ],
   "category": "strength",
-  "images": ["Landmine_180s/0.jpg", "Landmine_180s/1.jpg"],
-  "id": "Landmine_180s"
+  "images": [
+    "Landmine_180s/0.jpg",
+    "Landmine_180s/1.jpg"
+  ],
+  "id": "Landmine_180s",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Landmine_180s/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Landmine_180s/1.jpg"
+  ]
 }

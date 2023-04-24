@@ -4,8 +4,14 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "machine",
-  "primaryMuscles": ["traps"],
-  "secondaryMuscles": ["biceps", "middle back", "shoulders"],
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back",
+    "shoulders"
+  ],
   "instructions": [
     "To begin, set the bar on the smith machine to a height that is around the middle of your thighs. Once the correct height is chosen and the bar is loaded, grasp the bar using a pronated (palms forward) grip that is shoulder width apart. You may need some wrist wraps if using a significant amount of weight.",
     "Lift the barbell up and fully extend your arms with your back straight. There should be a slight bend at the elbows. This is the starting position.",
@@ -14,6 +20,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Smith_Machine_Upright_Row/0.jpg", "Smith_Machine_Upright_Row/1.jpg"],
-  "id": "Smith_Machine_Upright_Row"
+  "images": [
+    "Smith_Machine_Upright_Row/0.jpg",
+    "Smith_Machine_Upright_Row/1.jpg"
+  ],
+  "id": "Smith_Machine_Upright_Row",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Upright_Row/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Upright_Row/1.jpg"
+  ]
 }

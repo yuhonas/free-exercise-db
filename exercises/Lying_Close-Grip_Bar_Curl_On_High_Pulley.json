@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": ["biceps"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Place a flat bench in front of a high pulley or lat pulldown machine.",
     "Hold the straight bar attachment using an underhand grip (palms up) that is about shoulder width.",
@@ -20,5 +24,9 @@
     "Lying_Close-Grip_Bar_Curl_On_High_Pulley/0.jpg",
     "Lying_Close-Grip_Bar_Curl_On_High_Pulley/1.jpg"
   ],
-  "id": "Lying_Close-Grip_Bar_Curl_On_High_Pulley"
+  "id": "Lying_Close-Grip_Bar_Curl_On_High_Pulley",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Close-Grip_Bar_Curl_On_High_Pulley/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Close-Grip_Bar_Curl_On_High_Pulley/1.jpg"
+  ]
 }

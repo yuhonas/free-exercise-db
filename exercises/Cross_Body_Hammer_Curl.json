@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": ["biceps"],
-  "secondaryMuscles": ["forearms"],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
   "instructions": [
     "Stand up straight with a dumbbell in each hand. Your hands should be down at your side with your palms facing in.",
     "While keeping your palms facing in and without twisting your arm, curl the dumbbell of the right arm up towards your left shoulder as you exhale. Touch the top of the dumbbell to your shoulder and hold the contraction for a second.",
@@ -13,6 +17,13 @@
     "Continue alternating in this fashion until the recommended amount of repetitions is performed for each arm."
   ],
   "category": "strength",
-  "images": ["Cross_Body_Hammer_Curl/0.jpg", "Cross_Body_Hammer_Curl/1.jpg"],
-  "id": "Cross_Body_Hammer_Curl"
+  "images": [
+    "Cross_Body_Hammer_Curl/0.jpg",
+    "Cross_Body_Hammer_Curl/1.jpg"
+  ],
+  "id": "Cross_Body_Hammer_Curl",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Body_Hammer_Curl/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Body_Hammer_Curl/1.jpg"
+  ]
 }

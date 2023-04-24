@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": ["triceps"],
-  "secondaryMuscles": ["chest", "shoulders"],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
   "instructions": [
     "Place a dumbbell standing up on a flat bench.",
     "Ensuring that the dumbbell stays securely placed at the top of the bench, lie perpendicular to the bench with only your shoulders lying on the surface. Hips should be below the bench and your legs bent with your feet firmly on the floor.",
@@ -14,6 +19,13 @@
     "Return to the starting position by extending the elbows."
   ],
   "category": "strength",
-  "images": ["Close-Grip_Dumbbell_Press/0.jpg", "Close-Grip_Dumbbell_Press/1.jpg"],
-  "id": "Close-Grip_Dumbbell_Press"
+  "images": [
+    "Close-Grip_Dumbbell_Press/0.jpg",
+    "Close-Grip_Dumbbell_Press/1.jpg"
+  ],
+  "id": "Close-Grip_Dumbbell_Press",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_Dumbbell_Press/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_Dumbbell_Press/1.jpg"
+  ]
 }

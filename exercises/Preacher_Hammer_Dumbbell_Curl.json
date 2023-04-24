@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": ["biceps"],
-  "secondaryMuscles": ["forearms"],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
   "instructions": [
     "Place the upper part of both arms on top of the preacher bench as you hold a dumbbell in each hand with the palms facing each other (neutral grip).",
     "As you breathe in, slowly lower the dumbbells until your upper arm is extended and the biceps is fully stretched.",
@@ -13,6 +17,13 @@
     "Squeeze the biceps hard for a second at the contracted position and repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Preacher_Hammer_Dumbbell_Curl/0.jpg", "Preacher_Hammer_Dumbbell_Curl/1.jpg"],
-  "id": "Preacher_Hammer_Dumbbell_Curl"
+  "images": [
+    "Preacher_Hammer_Dumbbell_Curl/0.jpg",
+    "Preacher_Hammer_Dumbbell_Curl/1.jpg"
+  ],
+  "id": "Preacher_Hammer_Dumbbell_Curl",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Hammer_Dumbbell_Curl/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Hammer_Dumbbell_Curl/1.jpg"
+  ]
 }

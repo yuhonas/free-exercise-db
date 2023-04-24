@@ -4,8 +4,15 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["lats"],
-  "secondaryMuscles": ["biceps", "forearms", "middle back", "shoulders"],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "middle back",
+    "shoulders"
+  ],
   "instructions": [
     "Grab the pull-up bar with the palms facing forward using a wide grip.",
     "As you have both arms extended in front of you holding the bar at a wide grip, bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.",
@@ -16,6 +23,13 @@
     "Repeat steps 3-6 until you have performed the prescribed amount of repetitions for each side."
   ],
   "category": "strength",
-  "images": ["Side_To_Side_Chins/0.jpg", "Side_To_Side_Chins/1.jpg"],
-  "id": "Side_To_Side_Chins"
+  "images": [
+    "Side_To_Side_Chins/0.jpg",
+    "Side_To_Side_Chins/1.jpg"
+  ],
+  "id": "Side_To_Side_Chins",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_To_Side_Chins/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_To_Side_Chins/1.jpg"
+  ]
 }

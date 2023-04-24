@@ -4,8 +4,14 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
   "instructions": [
     "Stand on the ground with one foot resting on a bench or box with your heel close to the edge.",
     "Push off with your foot on top of the bench, extending through the hip and knee.",
@@ -13,6 +19,13 @@
     "Continue alternating from one foot to another to complete the set."
   ],
   "category": "plyometrics",
-  "images": ["Bench_Sprint/0.jpg", "Bench_Sprint/1.jpg"],
-  "id": "Bench_Sprint"
+  "images": [
+    "Bench_Sprint/0.jpg",
+    "Bench_Sprint/1.jpg"
+  ],
+  "id": "Bench_Sprint",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/1.jpg"
+  ]
 }

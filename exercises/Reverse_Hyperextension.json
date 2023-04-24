@@ -4,8 +4,13 @@
   "level": "intermediate",
   "mechanic": null,
   "equipment": "machine",
-  "primaryMuscles": ["hamstrings"],
-  "secondaryMuscles": ["calves", "glutes"],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes"
+  ],
   "instructions": [
     "Place your feet between the pads after loading an appropriate weight. Lay on the top pad, allowing your hips to hang off the back, while grasping the handles to hold your position.",
     "To begin the movement, flex the hips, pulling the legs forward.",
@@ -14,6 +19,13 @@
     "Repeat for the desired number of repetitions."
   ],
   "category": "strength",
-  "images": ["Reverse_Hyperextension/0.jpg", "Reverse_Hyperextension/1.jpg"],
-  "id": "Reverse_Hyperextension"
+  "images": [
+    "Reverse_Hyperextension/0.jpg",
+    "Reverse_Hyperextension/1.jpg"
+  ],
+  "id": "Reverse_Hyperextension",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Hyperextension/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Hyperextension/1.jpg"
+  ]
 }

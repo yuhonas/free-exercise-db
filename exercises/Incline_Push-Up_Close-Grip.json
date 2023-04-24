@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": ["triceps"],
-  "secondaryMuscles": ["chest", "shoulders"],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
   "instructions": [
     "Stand facing a Smith machine bar or sturdy elevated platform at an appropriate height.",
     "Place your hands next to one another on the bar.",
@@ -14,6 +19,13 @@
     "Return to the starting position by extending the elbows, pressing yourself back up."
   ],
   "category": "strength",
-  "images": ["Incline_Push-Up_Close-Grip/0.jpg", "Incline_Push-Up_Close-Grip/1.jpg"],
-  "id": "Incline_Push-Up_Close-Grip"
+  "images": [
+    "Incline_Push-Up_Close-Grip/0.jpg",
+    "Incline_Push-Up_Close-Grip/1.jpg"
+  ],
+  "id": "Incline_Push-Up_Close-Grip",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Push-Up_Close-Grip/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Push-Up_Close-Grip/1.jpg"
+  ]
 }

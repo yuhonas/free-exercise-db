@@ -4,8 +4,14 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["hamstrings"],
-  "secondaryMuscles": ["abdominals", "glutes", "lower back"],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "glutes",
+    "lower back"
+  ],
   "instructions": [
     "Begin with a bar on a rack at about the same height as your stomach. Suspend the bar using chains or suspension straps.",
     "Bend over underneath the bar and rack the bar across the rear of your shoulders as you would a power squat, not on top of your traps. At the proper height, you should be near parallel to the floor when bent over. Keep your back tight, shoulder blades pinched together, and your knees slightly bent. Keep your back arched and your cervical spine in proper alignment.",
@@ -13,6 +19,13 @@
     "Slowly lower the weight back to the starting position, where it is supported by the chains."
   ],
   "category": "powerlifting",
-  "images": ["Hanging_Bar_Good_Morning/0.jpg", "Hanging_Bar_Good_Morning/1.jpg"],
-  "id": "Hanging_Bar_Good_Morning"
+  "images": [
+    "Hanging_Bar_Good_Morning/0.jpg",
+    "Hanging_Bar_Good_Morning/1.jpg"
+  ],
+  "id": "Hanging_Bar_Good_Morning",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Bar_Good_Morning/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Bar_Good_Morning/1.jpg"
+  ]
 }

@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "other",
-  "primaryMuscles": ["biceps"],
-  "secondaryMuscles": ["forearms"],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
   "instructions": [
     "Start by standing straight with a weighted plate held by both hands and arms fully extended. Use a pronated grip (palms facing down) and make sure your fingers grab the rough side of the plate while your thumb grabs the smooth side. Note: For the best results, grab the weighted plate at an 11:00 and 1:00 o'clock position.",
     "Your feet should be shoulder width apart from each other and the weighted plate should be near the groin area. This is the starting position.",
@@ -14,6 +18,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Reverse_Plate_Curls/0.jpg", "Reverse_Plate_Curls/1.jpg"],
-  "id": "Reverse_Plate_Curls"
+  "images": [
+    "Reverse_Plate_Curls/0.jpg",
+    "Reverse_Plate_Curls/1.jpg"
+  ],
+  "id": "Reverse_Plate_Curls",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Plate_Curls/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Plate_Curls/1.jpg"
+  ]
 }

@@ -4,8 +4,12 @@
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "e-z curl bar",
-  "primaryMuscles": ["biceps"],
-  "secondaryMuscles": ["forearms"],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
   "instructions": [
     "Grab an EZ-bar using a shoulder width and palms down (pronated) grip.",
     "Now place the upper part of both arms on top of the preacher bench and have your arms extended. This will be your starting position.",
@@ -14,6 +18,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Reverse_Barbell_Preacher_Curls/0.jpg", "Reverse_Barbell_Preacher_Curls/1.jpg"],
-  "id": "Reverse_Barbell_Preacher_Curls"
+  "images": [
+    "Reverse_Barbell_Preacher_Curls/0.jpg",
+    "Reverse_Barbell_Preacher_Curls/1.jpg"
+  ],
+  "id": "Reverse_Barbell_Preacher_Curls",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Barbell_Preacher_Curls/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Barbell_Preacher_Curls/1.jpg"
+  ]
 }

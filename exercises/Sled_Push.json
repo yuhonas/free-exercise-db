@@ -4,13 +4,28 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["calves", "chest", "glutes", "hamstrings", "triceps"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "chest",
+    "glutes",
+    "hamstrings",
+    "triceps"
+  ],
   "instructions": [
     "Load your pushing sled with the desired weight.",
     "Take an athletic posture, leaning into the sled with your arms fully extended, grasping the handles. Push the sled as fast as possible, focusing on extending your hips and knees to strengthen your posterior chain."
   ],
   "category": "strongman",
-  "images": ["Sled_Push/0.jpg", "Sled_Push/1.jpg"],
-  "id": "Sled_Push"
+  "images": [
+    "Sled_Push/0.jpg",
+    "Sled_Push/1.jpg"
+  ],
+  "id": "Sled_Push",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Push/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Push/1.jpg"
+  ]
 }

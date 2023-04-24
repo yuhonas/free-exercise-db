@@ -4,8 +4,16 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["adductors"],
-  "secondaryMuscles": ["abductors", "calves", "glutes", "hamstrings", "quadriceps"],
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
   "instructions": [
     "Position a number of cones in a row several feet apart.",
     "Stand next to the end of the cones, facing 90 degrees to the direction of travel. This will be your starting position.",
@@ -13,6 +21,13 @@
     "Use your legs to absorb impact upon landing, and rebound into the next jump, continuing down the row of cones."
   ],
   "category": "plyometrics",
-  "images": ["Lateral_Cone_Hops/0.jpg", "Lateral_Cone_Hops/1.jpg"],
-  "id": "Lateral_Cone_Hops"
+  "images": [
+    "Lateral_Cone_Hops/0.jpg",
+    "Lateral_Cone_Hops/1.jpg"
+  ],
+  "id": "Lateral_Cone_Hops",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Cone_Hops/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Cone_Hops/1.jpg"
+  ]
 }

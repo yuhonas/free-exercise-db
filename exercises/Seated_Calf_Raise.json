@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "machine",
-  "primaryMuscles": ["calves"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Sit on the machine and place your toes on the lower portion of the platform provided with the heels extending off. Choose the toe positioning of your choice (forward, in, or out) as per the beginning of this chapter.",
     "Place your lower thighs under the lever pad, which will need to be adjusted according to the height of your thighs. Now place your hands on top of the lever pad in order to prevent it from slipping forward.",
@@ -15,6 +19,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Seated_Calf_Raise/0.jpg", "Seated_Calf_Raise/1.jpg"],
-  "id": "Seated_Calf_Raise"
+  "images": [
+    "Seated_Calf_Raise/0.jpg",
+    "Seated_Calf_Raise/1.jpg"
+  ],
+  "id": "Seated_Calf_Raise",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Raise/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Raise/1.jpg"
+  ]
 }

@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["shoulders"],
-  "secondaryMuscles": ["triceps"],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
   "instructions": [
     "Sit on a Military Press Bench with a bar at shoulder level with a pronated grip (palms facing forward). Tip: Your grip should be wider than shoulder width and it should create a 90-degree angle between the forearm and the upper arm as the barbell goes down. This is your starting position.",
     "Once you pick up the barbell with the correct grip, lift the bar up over your head by locking your arms.",
@@ -15,6 +19,13 @@
     "Alternate in this manner until you complete the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Bradford_Rocky_Presses/0.jpg", "Bradford_Rocky_Presses/1.jpg"],
-  "id": "Bradford_Rocky_Presses"
+  "images": [
+    "Bradford_Rocky_Presses/0.jpg",
+    "Bradford_Rocky_Presses/1.jpg"
+  ],
+  "id": "Bradford_Rocky_Presses",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bradford_Rocky_Presses/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bradford_Rocky_Presses/1.jpg"
+  ]
 }

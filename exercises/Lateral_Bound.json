@@ -4,8 +4,16 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": ["adductors"],
-  "secondaryMuscles": ["abductors", "calves", "glutes", "hamstrings", "quadriceps"],
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
   "instructions": [
     "Assume a half squat position facing 90 degrees from your direction of travel. This will be your starting position.",
     "Allow your lead leg to do a countermovement inward as you shift your weight to the outside leg.",
@@ -14,6 +22,13 @@
     "Continue back and forth for several repetitions."
   ],
   "category": "plyometrics",
-  "images": ["Lateral_Bound/0.jpg", "Lateral_Bound/1.jpg"],
-  "id": "Lateral_Bound"
+  "images": [
+    "Lateral_Bound/0.jpg",
+    "Lateral_Bound/1.jpg"
+  ],
+  "id": "Lateral_Bound",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
+  ]
 }

@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["shoulders", "triceps"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
   "instructions": [
     "Lie on the floor face down and place your hands about 36 inches apart while holding your torso up at arms length.",
     "Next, lower yourself downward until your chest almost touches the floor as you inhale.",
@@ -13,6 +18,13 @@
     "After a brief pause at the top contracted position, you can begin to lower yourself downward again for as many repetitions as needed."
   ],
   "category": "strength",
-  "images": ["Pushups/0.jpg", "Pushups/1.jpg"],
-  "id": "Pushups"
+  "images": [
+    "Pushups/0.jpg",
+    "Pushups/1.jpg"
+  ],
+  "id": "Pushups",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups/1.jpg"
+  ]
 }

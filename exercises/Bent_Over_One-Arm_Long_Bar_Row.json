@@ -4,8 +4,15 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["middle back"],
-  "secondaryMuscles": ["biceps", "lats", "lower back", "traps"],
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats",
+    "lower back",
+    "traps"
+  ],
   "instructions": [
     "Put weight on one of the ends of an Olympic barbell. Make sure that you either place the other end of the barbell in the corner of two walls; or put a heavy object on the ground so the barbell cannot slide backward.",
     "Bend forward until your torso is as close to parallel with the floor as you can and keep your knees slightly bent.",
@@ -15,6 +22,13 @@
     "Repeat for the recommended amount of repetitions and switch arms."
   ],
   "category": "strength",
-  "images": ["Bent_Over_One-Arm_Long_Bar_Row/0.jpg", "Bent_Over_One-Arm_Long_Bar_Row/1.jpg"],
-  "id": "Bent_Over_One-Arm_Long_Bar_Row"
+  "images": [
+    "Bent_Over_One-Arm_Long_Bar_Row/0.jpg",
+    "Bent_Over_One-Arm_Long_Bar_Row/1.jpg"
+  ],
+  "id": "Bent_Over_One-Arm_Long_Bar_Row",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_One-Arm_Long_Bar_Row/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_One-Arm_Long_Bar_Row/1.jpg"
+  ]
 }

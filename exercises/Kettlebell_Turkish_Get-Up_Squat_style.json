@@ -4,8 +4,16 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",
-  "primaryMuscles": ["shoulders"],
-  "secondaryMuscles": ["abdominals", "calves", "hamstrings", "quadriceps", "triceps"],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "hamstrings",
+    "quadriceps",
+    "triceps"
+  ],
   "instructions": [
     "Lie on your back on the floor and press a kettlebell to the top position by extending the elbow. Bend the knee on the same side as the kettlebell.",
     "Keeping the kettlebell locked out at all times, pivot to the opposite side and use your non- working arm to assist you in driving forward to the lunge position.",
@@ -16,5 +24,9 @@
     "Kettlebell_Turkish_Get-Up_Squat_style/0.jpg",
     "Kettlebell_Turkish_Get-Up_Squat_style/1.jpg"
   ],
-  "id": "Kettlebell_Turkish_Get-Up_Squat_style"
+  "id": "Kettlebell_Turkish_Get-Up_Squat_style",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Turkish_Get-Up_Squat_style/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Turkish_Get-Up_Squat_style/1.jpg"
+  ]
 }

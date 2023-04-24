@@ -4,8 +4,15 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["abdominals", "calves", "glutes", "hamstrings"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
   "instructions": [
     "Hold a dumbbell at the base with both hands and stand straight up. Move your legs so that they are wider than shoulder width apart from each other with your knees slightly bent.",
     "Your toes should be facing out. Note: Your arms should be stationary while performing the exercise. This is the starting position.",
@@ -14,6 +21,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Plie_Dumbbell_Squat/0.jpg", "Plie_Dumbbell_Squat/1.jpg"],
-  "id": "Plie_Dumbbell_Squat"
+  "images": [
+    "Plie_Dumbbell_Squat/0.jpg",
+    "Plie_Dumbbell_Squat/1.jpg"
+  ],
+  "id": "Plie_Dumbbell_Squat",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plie_Dumbbell_Squat/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plie_Dumbbell_Squat/1.jpg"
+  ]
 }

@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": ["quadriceps"],
-  "secondaryMuscles": ["glutes", "hamstrings"],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
   "instructions": [
     "Position yourself into a staggered stance with the rear foot elevated and front foot forward.",
     "Hold a dumbbell in each hand, letting them hang at the sides. This will be your starting position.",
@@ -13,6 +18,13 @@
     "At the bottom of the movement, drive through the heel to extend the knee and hip to return to the starting position."
   ],
   "category": "strength",
-  "images": ["Split_Squat_with_Dumbbells/0.jpg", "Split_Squat_with_Dumbbells/1.jpg"],
-  "id": "Split_Squat_with_Dumbbells"
+  "images": [
+    "Split_Squat_with_Dumbbells/0.jpg",
+    "Split_Squat_with_Dumbbells/1.jpg"
+  ],
+  "id": "Split_Squat_with_Dumbbells",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squat_with_Dumbbells/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squat_with_Dumbbells/1.jpg"
+  ]
 }

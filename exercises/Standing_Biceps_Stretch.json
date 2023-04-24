@@ -4,13 +4,25 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "other",
-  "primaryMuscles": ["biceps"],
-  "secondaryMuscles": ["chest", "shoulders"],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
   "instructions": [
     "Clasp your hands behind your back with your palms together, straighten arms and then rotate them so your palms face downward.",
     "Raise your arms up and hold until you feel a stretch in your biceps."
   ],
   "category": "stretching",
-  "images": ["Standing_Biceps_Stretch/0.jpg", "Standing_Biceps_Stretch/1.jpg"],
-  "id": "Standing_Biceps_Stretch"
+  "images": [
+    "Standing_Biceps_Stretch/0.jpg",
+    "Standing_Biceps_Stretch/1.jpg"
+  ],
+  "id": "Standing_Biceps_Stretch",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Stretch/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Stretch/1.jpg"
+  ]
 }

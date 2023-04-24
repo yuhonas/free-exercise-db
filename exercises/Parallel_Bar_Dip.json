@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": ["triceps"],
-  "secondaryMuscles": ["chest", "shoulders"],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
   "instructions": [
     "Stand between a set of parallel bars. Place a hand on each bar, and then take a small jump to help you get into the starting position with your arms locked out.",
     "Begin by flexing the elbow, lowering your body until your arms break 90 degrees. Avoid swinging, and maintain good posture throughout the descent.",
@@ -13,6 +18,13 @@
     "Repeat for the desired number of repetitions."
   ],
   "category": "strength",
-  "images": ["Parallel_Bar_Dip/0.jpg", "Parallel_Bar_Dip/1.jpg"],
-  "id": "Parallel_Bar_Dip"
+  "images": [
+    "Parallel_Bar_Dip/0.jpg",
+    "Parallel_Bar_Dip/1.jpg"
+  ],
+  "id": "Parallel_Bar_Dip",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Parallel_Bar_Dip/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Parallel_Bar_Dip/1.jpg"
+  ]
 }

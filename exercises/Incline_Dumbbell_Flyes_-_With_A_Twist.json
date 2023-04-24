@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": ["chest"],
-  "secondaryMuscles": ["shoulders"],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
   "instructions": [
     "Hold a dumbbell in each hand and lie on an incline bench that is set to an incline angle of no more than 30 degrees.",
     "Extend your arms above you with a slight bend at the elbows.",
@@ -19,5 +23,9 @@
     "Incline_Dumbbell_Flyes_-_With_A_Twist/0.jpg",
     "Incline_Dumbbell_Flyes_-_With_A_Twist/1.jpg"
   ],
-  "id": "Incline_Dumbbell_Flyes_-_With_A_Twist"
+  "id": "Incline_Dumbbell_Flyes_-_With_A_Twist",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Flyes_-_With_A_Twist/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Flyes_-_With_A_Twist/1.jpg"
+  ]
 }

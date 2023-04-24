@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": ["lats"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Lie on incline an bench facing away from a high pulley machine that has a straight bar attachment on it.",
     "Grasp the straight bar attachment overhead with a pronated (overhand; palms down) shoulder width grip and extend your arms in front of you. The bar should be around 2 inches away from your upper thighs. This will be your starting position.",
@@ -14,6 +18,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Cable_Incline_Pushdown/0.jpg", "Cable_Incline_Pushdown/1.jpg"],
-  "id": "Cable_Incline_Pushdown"
+  "images": [
+    "Cable_Incline_Pushdown/0.jpg",
+    "Cable_Incline_Pushdown/1.jpg"
+  ],
+  "id": "Cable_Incline_Pushdown",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Incline_Pushdown/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Incline_Pushdown/1.jpg"
+  ]
 }

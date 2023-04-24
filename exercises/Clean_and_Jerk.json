@@ -4,7 +4,9 @@
   "level": "expert",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["shoulders"],
+  "primaryMuscles": [
+    "shoulders"
+  ],
   "secondaryMuscles": [
     "abdominals",
     "glutes",
@@ -25,6 +27,13 @@
     "At this moment as the feet leave the floor, the feet must be placed into the receiving position as quickly as possible. In the brief moment the feet are not actively driving against the platform, the athletes effort to push the bar up will drive them down. The feet should be split, with one foot forward, and one foot back. Receive the bar with the arms locked out overhead. Return to a standing position."
   ],
   "category": "olympic weightlifting",
-  "images": ["Clean_and_Jerk/0.jpg", "Clean_and_Jerk/1.jpg"],
-  "id": "Clean_and_Jerk"
+  "images": [
+    "Clean_and_Jerk/0.jpg",
+    "Clean_and_Jerk/1.jpg"
+  ],
+  "id": "Clean_and_Jerk",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_and_Jerk/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_and_Jerk/1.jpg"
+  ]
 }

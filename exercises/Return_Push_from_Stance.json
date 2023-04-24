@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "medicine ball",
-  "primaryMuscles": ["shoulders"],
-  "secondaryMuscles": ["chest", "triceps"],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "triceps"
+  ],
   "instructions": [
     "You will need a partner for this drill.",
     "Begin in an athletic 2 or 3 point stance.",
@@ -14,6 +19,13 @@
     "You can modify this drill by running different routes."
   ],
   "category": "plyometrics",
-  "images": ["Return_Push_from_Stance/0.jpg", "Return_Push_from_Stance/1.jpg"],
-  "id": "Return_Push_from_Stance"
+  "images": [
+    "Return_Push_from_Stance/0.jpg",
+    "Return_Push_from_Stance/1.jpg"
+  ],
+  "id": "Return_Push_from_Stance",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Return_Push_from_Stance/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Return_Push_from_Stance/1.jpg"
+  ]
 }

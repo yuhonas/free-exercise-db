@@ -4,10 +4,26 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",
-  "primaryMuscles": ["hamstrings"],
-  "secondaryMuscles": ["calves", "glutes", "lower back", "shoulders"],
-  "instructions": [],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "lower back",
+    "shoulders"
+  ],
+  "instructions": [
+
+  ],
   "category": "strength",
-  "images": ["One-Arm_Kettlebell_Swings/0.jpg", "One-Arm_Kettlebell_Swings/1.jpg"],
-  "id": "One-Arm_Kettlebell_Swings"
+  "images": [
+    "One-Arm_Kettlebell_Swings/0.jpg",
+    "One-Arm_Kettlebell_Swings/1.jpg"
+  ],
+  "id": "One-Arm_Kettlebell_Swings",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/1.jpg"
+  ]
 }

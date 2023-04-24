@@ -4,7 +4,9 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": ["hamstrings"],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
   "secondaryMuscles": [
     "calves",
     "forearms",
@@ -23,6 +25,13 @@
     "Immediately recover by driving through the heels, keeping the torso upright and elbows up. Continue until you have risen to a standing position."
   ],
   "category": "olympic weightlifting",
-  "images": ["Clean/0.jpg", "Clean/1.jpg"],
-  "id": "Clean"
+  "images": [
+    "Clean/0.jpg",
+    "Clean/1.jpg"
+  ],
+  "id": "Clean",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/1.jpg"
+  ]
 }

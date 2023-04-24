@@ -4,14 +4,27 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",
-  "primaryMuscles": ["shoulders"],
-  "secondaryMuscles": ["calves", "quadriceps", "triceps"],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "quadriceps",
+    "triceps"
+  ],
   "instructions": [
     "Clean two kettlebells to your shoulders.",
     "Squat down a few inches and reverse the motion rapidly. Use the momentum from the legs to drive the kettlebells overhead.",
     "Once the kettlebells are locked out, lower the kettlebells to your shoulders and repeat."
   ],
   "category": "strength",
-  "images": ["Double_Kettlebell_Push_Press/0.jpg", "Double_Kettlebell_Push_Press/1.jpg"],
-  "id": "Double_Kettlebell_Push_Press"
+  "images": [
+    "Double_Kettlebell_Push_Press/0.jpg",
+    "Double_Kettlebell_Push_Press/1.jpg"
+  ],
+  "id": "Double_Kettlebell_Push_Press",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Push_Press/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Push_Press/1.jpg"
+  ]
 }

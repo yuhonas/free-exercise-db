@@ -4,8 +4,14 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "cable",
-  "primaryMuscles": ["lats"],
-  "secondaryMuscles": ["biceps", "middle back", "shoulders"],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back",
+    "shoulders"
+  ],
   "instructions": [
     "Sit down on a pull-down machine with a V-Bar attached to the top pulley.",
     "Adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar.",
@@ -15,6 +21,13 @@
     "Repeat for the prescribed number of repetitions."
   ],
   "category": "strength",
-  "images": ["V-Bar_Pulldown/0.jpg", "V-Bar_Pulldown/1.jpg"],
-  "id": "V-Bar_Pulldown"
+  "images": [
+    "V-Bar_Pulldown/0.jpg",
+    "V-Bar_Pulldown/1.jpg"
+  ],
+  "id": "V-Bar_Pulldown",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/1.jpg"
+  ]
 }

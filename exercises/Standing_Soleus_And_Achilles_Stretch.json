@@ -4,8 +4,12 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": null,
-  "primaryMuscles": ["calves"],
-  "secondaryMuscles": [],
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+
+  ],
   "instructions": [
     "Stand with your feet hip-distance apart, one foot slightly in front of the other.",
     "Bend both knees, keeping your back heel on the floor. Switch sides."
@@ -15,5 +19,9 @@
     "Standing_Soleus_And_Achilles_Stretch/0.jpg",
     "Standing_Soleus_And_Achilles_Stretch/1.jpg"
   ],
-  "id": "Standing_Soleus_And_Achilles_Stretch"
+  "id": "Standing_Soleus_And_Achilles_Stretch",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Soleus_And_Achilles_Stretch/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Soleus_And_Achilles_Stretch/1.jpg"
+  ]
 }

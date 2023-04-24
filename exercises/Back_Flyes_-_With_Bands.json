@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "bands",
-  "primaryMuscles": ["shoulders"],
-  "secondaryMuscles": ["middle back", "triceps"],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "triceps"
+  ],
   "instructions": [
     "Run a band around a stationary post like that of a squat rack.",
     "Grab the band by the handles and stand back so that the tension in the band rises.",
@@ -15,6 +20,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Back_Flyes_-_With_Bands/0.jpg", "Back_Flyes_-_With_Bands/1.jpg"],
-  "id": "Back_Flyes_-_With_Bands"
+  "images": [
+    "Back_Flyes_-_With_Bands/0.jpg",
+    "Back_Flyes_-_With_Bands/1.jpg"
+  ],
+  "id": "Back_Flyes_-_With_Bands",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Back_Flyes_-_With_Bands/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Back_Flyes_-_With_Bands/1.jpg"
+  ]
 }

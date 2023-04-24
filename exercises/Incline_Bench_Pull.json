@@ -4,8 +4,13 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "barbell",
-  "primaryMuscles": ["middle back"],
-  "secondaryMuscles": ["lats", "shoulders"],
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "shoulders"
+  ],
   "instructions": [
     "Grab a dumbbell in each hand and lie face down on an incline bench that is set to an incline that is approximately 30 degrees.",
     "Let the arms hang to your sides fully extended as they point to the floor.",
@@ -16,6 +21,13 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": ["Incline_Bench_Pull/0.jpg", "Incline_Bench_Pull/1.jpg"],
-  "id": "Incline_Bench_Pull"
+  "images": [
+    "Incline_Bench_Pull/0.jpg",
+    "Incline_Bench_Pull/1.jpg"
+  ],
+  "id": "Incline_Bench_Pull",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Bench_Pull/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Bench_Pull/1.jpg"
+  ]
 }

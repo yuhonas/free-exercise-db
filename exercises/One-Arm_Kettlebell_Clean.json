@@ -4,14 +4,28 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",
-  "primaryMuscles": ["hamstrings"],
-  "secondaryMuscles": ["glutes", "lower back", "shoulders", "traps"],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back",
+    "shoulders",
+    "traps"
+  ],
   "instructions": [
     "Place a kettlebell between your feet. As you bend down to grab the kettlebell, push your butt back and keep your eyes looking forward.",
     "Clean the kettlebell to your shoulders by extending through the legs and hips as you raise the kettlebell towards your shoulder. The wrist should rotate as you do so.",
     "Return the weight to the starting position."
   ],
   "category": "strength",
-  "images": ["One-Arm_Kettlebell_Clean/0.jpg", "One-Arm_Kettlebell_Clean/1.jpg"],
-  "id": "One-Arm_Kettlebell_Clean"
+  "images": [
+    "One-Arm_Kettlebell_Clean/0.jpg",
+    "One-Arm_Kettlebell_Clean/1.jpg"
+  ],
+  "id": "One-Arm_Kettlebell_Clean",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Clean/0.jpg",
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Clean/1.jpg"
+  ]
 }
