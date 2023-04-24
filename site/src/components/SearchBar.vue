@@ -55,7 +55,7 @@ export default {
     },
     saveExercise(exercise) {
       // add the exercise if it's not already in the array otherwise remove it
-      if (!this.savedExercises.includes(exercise)) {
+      if (!this.isBookedMarked(exercise)) {
         this.savedExercises.push(exercise)
       } else {
         this.savedExercises = this.savedExercises.filter((e) => e !== exercise)
@@ -96,8 +96,19 @@ export default {
         }
       }
     })
+
+    // load saved exercises from local storage
+    if (localStorage.getItem('savedExercises')) {
+      this.savedExercises = JSON.parse(localStorage.getItem('savedExercises'))
+    }
   },
   watch: {
+    savedExercises: {
+      handler: function (val) {
+        localStorage.setItem('savedExercises', JSON.stringify(val))
+      },
+      deep: true
+    },
     query(oldValue, newValue) {
       const options = {
         keys: ['id', 'name']
