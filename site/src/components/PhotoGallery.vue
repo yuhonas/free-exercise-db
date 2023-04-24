@@ -42,7 +42,7 @@ export default {
   <div class="relative" :class="{ loading: loading }">
     <a href="#" @click="nextPhoto">
       <img
-        :src="`./exercises/${photos[currentIndex]}`"
+        :src="photos[currentIndex]"
         class="w-full object-cover rounded-t-lg p-2"
         @load="onImageLoad"
       />

@@ -1,5 +1,5 @@
 <script>
-import exercises from '../assets/exercises.json'
+import exercises from '../../../dist/exercises.json'
 import ExerciseInstructions from './ExerciseInstructions.vue'
 import PhotoGallery from './PhotoGallery.vue'
 
@@ -185,7 +185,7 @@ export default {
       class="exercise flex flex-col relative mt-4 items-center justify-between bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl dark:border-gray-700"
     >
       <div class="w-full md:h-auto md:w-60">
-        <PhotoGallery :photos="exercise.images" />
+        <PhotoGallery :photos="exercise.imageUrls" />
       </div>
       <div class="w-96 p-4 leading-normal" :class="{ bookedmarked: isBookedMarked(exercise) }">
         <a
