@@ -15,6 +15,7 @@ All exercises are stored as seperate `JSON` documents and conform to the followi
 
 ```json
 {
+  "id": "Alternate_Incline_Dumbbell_Curl",
   "name": "Alternate Incline Dumbbell Curl",
   "force": "pull",
   "level": "beginner",
@@ -34,7 +35,6 @@ All exercises are stored as seperate `JSON` documents and conform to the followi
     "Alternate_Incline_Dumbbell_Curl/0.jpg",
     "Alternate_Incline_Dumbbell_Curl/1.jpg"
   ],
-  "id": "Alternate_Incline_Dumbbell_Curl",
   "imageUrls": [
     "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternate_Incline_Dumbbell_Curl/0.jpg",
     "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternate_Incline_Dumbbell_Curl/1.jpg"
