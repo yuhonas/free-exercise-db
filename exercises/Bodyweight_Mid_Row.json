@@ -21,9 +21,5 @@
     "Bodyweight_Mid_Row/0.jpg",
     "Bodyweight_Mid_Row/1.jpg"
   ],
-  "id": "Bodyweight_Mid_Row",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bodyweight_Mid_Row/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bodyweight_Mid_Row/1.jpg"
-  ]
+  "id": "Bodyweight_Mid_Row"
 }

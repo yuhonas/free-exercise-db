@@ -22,9 +22,5 @@
     "Trap_Bar_Deadlift/0.jpg",
     "Trap_Bar_Deadlift/1.jpg"
   ],
-  "id": "Trap_Bar_Deadlift",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/1.jpg"
-  ]
+  "id": "Trap_Bar_Deadlift"
 }

@@ -19,9 +19,5 @@
     "Rear_Leg_Raises/0.jpg",
     "Rear_Leg_Raises/1.jpg"
   ],
-  "id": "Rear_Leg_Raises",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rear_Leg_Raises/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rear_Leg_Raises/1.jpg"
-  ]
+  "id": "Rear_Leg_Raises"
 }

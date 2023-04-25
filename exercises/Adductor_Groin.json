@@ -21,9 +21,5 @@
     "Adductor_Groin/0.jpg",
     "Adductor_Groin/1.jpg"
   ],
-  "id": "Adductor_Groin",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor_Groin/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor_Groin/1.jpg"
-  ]
+  "id": "Adductor_Groin"
 }

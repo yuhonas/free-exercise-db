@@ -21,9 +21,5 @@
     "Mountain_Climbers/0.jpg",
     "Mountain_Climbers/1.jpg"
   ],
-  "id": "Mountain_Climbers",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mountain_Climbers/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mountain_Climbers/1.jpg"
-  ]
+  "id": "Mountain_Climbers"
 }

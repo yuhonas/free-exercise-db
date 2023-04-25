@@ -28,9 +28,5 @@
     "Jefferson_Squats/0.jpg",
     "Jefferson_Squats/1.jpg"
   ],
-  "id": "Jefferson_Squats",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jefferson_Squats/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jefferson_Squats/1.jpg"
-  ]
+  "id": "Jefferson_Squats"
 }

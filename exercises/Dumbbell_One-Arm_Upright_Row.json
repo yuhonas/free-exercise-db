@@ -23,9 +23,5 @@
     "Dumbbell_One-Arm_Upright_Row/0.jpg",
     "Dumbbell_One-Arm_Upright_Row/1.jpg"
   ],
-  "id": "Dumbbell_One-Arm_Upright_Row",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_One-Arm_Upright_Row/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_One-Arm_Upright_Row/1.jpg"
-  ]
+  "id": "Dumbbell_One-Arm_Upright_Row"
 }

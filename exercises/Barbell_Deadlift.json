@@ -29,9 +29,5 @@
     "Barbell_Deadlift/0.jpg",
     "Barbell_Deadlift/1.jpg"
   ],
-  "id": "Barbell_Deadlift",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Deadlift/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Deadlift/1.jpg"
-  ]
+  "id": "Barbell_Deadlift"
 }

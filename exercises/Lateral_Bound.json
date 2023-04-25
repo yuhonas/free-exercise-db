@@ -26,9 +26,5 @@
     "Lateral_Bound/0.jpg",
     "Lateral_Bound/1.jpg"
   ],
-  "id": "Lateral_Bound",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
-  ]
+  "id": "Lateral_Bound"
 }

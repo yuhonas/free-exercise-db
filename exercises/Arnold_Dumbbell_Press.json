@@ -22,9 +22,5 @@
     "Arnold_Dumbbell_Press/0.jpg",
     "Arnold_Dumbbell_Press/1.jpg"
   ],
-  "id": "Arnold_Dumbbell_Press",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arnold_Dumbbell_Press/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arnold_Dumbbell_Press/1.jpg"
-  ]
+  "id": "Arnold_Dumbbell_Press"
 }

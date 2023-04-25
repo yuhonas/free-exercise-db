@@ -20,9 +20,5 @@
     "Side_Wrist_Pull/0.jpg",
     "Side_Wrist_Pull/1.jpg"
   ],
-  "id": "Side_Wrist_Pull",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Wrist_Pull/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Wrist_Pull/1.jpg"
-  ]
+  "id": "Side_Wrist_Pull"
 }

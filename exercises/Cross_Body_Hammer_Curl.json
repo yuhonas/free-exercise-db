@@ -21,9 +21,5 @@
     "Cross_Body_Hammer_Curl/0.jpg",
     "Cross_Body_Hammer_Curl/1.jpg"
   ],
-  "id": "Cross_Body_Hammer_Curl",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Body_Hammer_Curl/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Body_Hammer_Curl/1.jpg"
-  ]
+  "id": "Cross_Body_Hammer_Curl"
 }

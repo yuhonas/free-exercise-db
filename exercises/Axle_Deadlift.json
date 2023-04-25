@@ -26,9 +26,5 @@
     "Axle_Deadlift/0.jpg",
     "Axle_Deadlift/1.jpg"
   ],
-  "id": "Axle_Deadlift",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Axle_Deadlift/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Axle_Deadlift/1.jpg"
-  ]
+  "id": "Axle_Deadlift"
 }

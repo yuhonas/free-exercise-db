@@ -22,9 +22,5 @@
     "Plate_Twist/0.jpg",
     "Plate_Twist/1.jpg"
   ],
-  "id": "Plate_Twist",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plate_Twist/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plate_Twist/1.jpg"
-  ]
+  "id": "Plate_Twist"
 }

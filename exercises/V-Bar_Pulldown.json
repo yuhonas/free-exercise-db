@@ -25,9 +25,5 @@
     "V-Bar_Pulldown/0.jpg",
     "V-Bar_Pulldown/1.jpg"
   ],
-  "id": "V-Bar_Pulldown",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/1.jpg"
-  ]
+  "id": "V-Bar_Pulldown"
 }

@@ -20,9 +20,5 @@
     "Prone_Manual_Hamstring/0.jpg",
     "Prone_Manual_Hamstring/1.jpg"
   ],
-  "id": "Prone_Manual_Hamstring",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Prone_Manual_Hamstring/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Prone_Manual_Hamstring/1.jpg"
-  ]
+  "id": "Prone_Manual_Hamstring"
 }

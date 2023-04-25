@@ -24,9 +24,5 @@
     "Bench_Jump/0.jpg",
     "Bench_Jump/1.jpg"
   ],
-  "id": "Bench_Jump",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/1.jpg"
-  ]
+  "id": "Bench_Jump"
 }

@@ -21,9 +21,5 @@
     "Elliptical_Trainer/0.jpg",
     "Elliptical_Trainer/1.jpg"
   ],
-  "id": "Elliptical_Trainer",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Elliptical_Trainer/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Elliptical_Trainer/1.jpg"
-  ]
+  "id": "Elliptical_Trainer"
 }

@@ -21,9 +21,5 @@
     "Incline_Dumbbell_Curl/0.jpg",
     "Incline_Dumbbell_Curl/1.jpg"
   ],
-  "id": "Incline_Dumbbell_Curl",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/1.jpg"
-  ]
+  "id": "Incline_Dumbbell_Curl"
 }

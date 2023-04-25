@@ -21,9 +21,5 @@
     "Lying_Glute/0.jpg",
     "Lying_Glute/1.jpg"
   ],
-  "id": "Lying_Glute",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Glute/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Glute/1.jpg"
-  ]
+  "id": "Lying_Glute"
 }

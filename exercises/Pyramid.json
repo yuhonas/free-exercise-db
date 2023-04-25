@@ -19,9 +19,5 @@
     "Pyramid/0.jpg",
     "Pyramid/1.jpg"
   ],
-  "id": "Pyramid",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pyramid/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pyramid/1.jpg"
-  ]
+  "id": "Pyramid"
 }

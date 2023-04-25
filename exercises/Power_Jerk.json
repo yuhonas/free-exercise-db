@@ -27,9 +27,5 @@
     "Power_Jerk/0.jpg",
     "Power_Jerk/1.jpg"
   ],
-  "id": "Power_Jerk",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Jerk/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Jerk/1.jpg"
-  ]
+  "id": "Power_Jerk"
 }

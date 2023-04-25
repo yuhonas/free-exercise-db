@@ -21,9 +21,5 @@
     "Bodyweight_Squat/0.jpg",
     "Bodyweight_Squat/1.jpg"
   ],
-  "id": "Bodyweight_Squat",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bodyweight_Squat/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bodyweight_Squat/1.jpg"
-  ]
+  "id": "Bodyweight_Squat"
 }

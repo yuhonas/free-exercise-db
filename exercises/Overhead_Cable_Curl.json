@@ -23,9 +23,5 @@
     "Overhead_Cable_Curl/0.jpg",
     "Overhead_Cable_Curl/1.jpg"
   ],
-  "id": "Overhead_Cable_Curl",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Cable_Curl/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Cable_Curl/1.jpg"
-  ]
+  "id": "Overhead_Cable_Curl"
 }

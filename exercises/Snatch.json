@@ -30,9 +30,5 @@
     "Snatch/0.jpg",
     "Snatch/1.jpg"
   ],
-  "id": "Snatch",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch/1.jpg"
-  ]
+  "id": "Snatch"
 }

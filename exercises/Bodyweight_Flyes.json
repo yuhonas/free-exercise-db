@@ -24,9 +24,5 @@
     "Bodyweight_Flyes/0.jpg",
     "Bodyweight_Flyes/1.jpg"
   ],
-  "id": "Bodyweight_Flyes",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bodyweight_Flyes/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bodyweight_Flyes/1.jpg"
-  ]
+  "id": "Bodyweight_Flyes"
 }

@@ -21,9 +21,5 @@
     "Glute_Kickback/0.jpg",
     "Glute_Kickback/1.jpg"
   ],
-  "id": "Glute_Kickback",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Glute_Kickback/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Glute_Kickback/1.jpg"
-  ]
+  "id": "Glute_Kickback"
 }

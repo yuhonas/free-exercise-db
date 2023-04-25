@@ -21,9 +21,5 @@
     "Childs_Pose/0.jpg",
     "Childs_Pose/1.jpg"
   ],
-  "id": "Childs_Pose",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Childs_Pose/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Childs_Pose/1.jpg"
-  ]
+  "id": "Childs_Pose"
 }

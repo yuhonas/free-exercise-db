@@ -23,9 +23,5 @@
     "Dumbbell_Seated_Box_Jump/0.jpg",
     "Dumbbell_Seated_Box_Jump/1.jpg"
   ],
-  "id": "Dumbbell_Seated_Box_Jump",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Seated_Box_Jump/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Seated_Box_Jump/1.jpg"
-  ]
+  "id": "Dumbbell_Seated_Box_Jump"
 }

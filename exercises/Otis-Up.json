@@ -23,9 +23,5 @@
     "Otis-Up/0.jpg",
     "Otis-Up/1.jpg"
   ],
-  "id": "Otis-Up",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Otis-Up/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Otis-Up/1.jpg"
-  ]
+  "id": "Otis-Up"
 }

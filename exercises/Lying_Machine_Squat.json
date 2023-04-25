@@ -25,9 +25,5 @@
     "Lying_Machine_Squat/0.jpg",
     "Lying_Machine_Squat/1.jpg"
   ],
-  "id": "Lying_Machine_Squat",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Machine_Squat/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Machine_Squat/1.jpg"
-  ]
+  "id": "Lying_Machine_Squat"
 }

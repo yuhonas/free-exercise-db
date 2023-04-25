@@ -22,9 +22,5 @@
     "Suspended_Push-Up/0.jpg",
     "Suspended_Push-Up/1.jpg"
   ],
-  "id": "Suspended_Push-Up",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
-  ]
+  "id": "Suspended_Push-Up"
 }

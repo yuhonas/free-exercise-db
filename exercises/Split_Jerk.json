@@ -24,9 +24,5 @@
     "Split_Jerk/0.jpg",
     "Split_Jerk/1.jpg"
   ],
-  "id": "Split_Jerk",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jerk/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jerk/1.jpg"
-  ]
+  "id": "Split_Jerk"
 }

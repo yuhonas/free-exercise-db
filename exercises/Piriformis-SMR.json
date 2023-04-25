@@ -19,9 +19,5 @@
     "Piriformis-SMR/0.jpg",
     "Piriformis-SMR/1.jpg"
   ],
-  "id": "Piriformis-SMR",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Piriformis-SMR/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Piriformis-SMR/1.jpg"
-  ]
+  "id": "Piriformis-SMR"
 }

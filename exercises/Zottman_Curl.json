@@ -25,9 +25,5 @@
     "Zottman_Curl/0.jpg",
     "Zottman_Curl/1.jpg"
   ],
-  "id": "Zottman_Curl",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zottman_Curl/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zottman_Curl/1.jpg"
-  ]
+  "id": "Zottman_Curl"
 }

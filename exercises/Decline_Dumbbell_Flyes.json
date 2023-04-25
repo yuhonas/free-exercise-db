@@ -22,9 +22,5 @@
     "Decline_Dumbbell_Flyes/0.jpg",
     "Decline_Dumbbell_Flyes/1.jpg"
   ],
-  "id": "Decline_Dumbbell_Flyes",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Dumbbell_Flyes/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Dumbbell_Flyes/1.jpg"
-  ]
+  "id": "Decline_Dumbbell_Flyes"
 }

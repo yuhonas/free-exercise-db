@@ -21,9 +21,5 @@
     "Upright_Barbell_Row/0.jpg",
     "Upright_Barbell_Row/1.jpg"
   ],
-  "id": "Upright_Barbell_Row",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Upright_Barbell_Row/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Upright_Barbell_Row/1.jpg"
-  ]
+  "id": "Upright_Barbell_Row"
 }

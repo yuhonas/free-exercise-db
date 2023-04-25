@@ -23,9 +23,5 @@
     "Cable_Crunch/0.jpg",
     "Cable_Crunch/1.jpg"
   ],
-  "id": "Cable_Crunch",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Crunch/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Crunch/1.jpg"
-  ]
+  "id": "Cable_Crunch"
 }

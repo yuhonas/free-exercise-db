@@ -28,9 +28,5 @@
     "Log_Lift/0.jpg",
     "Log_Lift/1.jpg"
   ],
-  "id": "Log_Lift",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Log_Lift/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Log_Lift/1.jpg"
-  ]
+  "id": "Log_Lift"
 }

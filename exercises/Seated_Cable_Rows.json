@@ -24,9 +24,5 @@
     "Seated_Cable_Rows/0.jpg",
     "Seated_Cable_Rows/1.jpg"
   ],
-  "id": "Seated_Cable_Rows",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Cable_Rows/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Cable_Rows/1.jpg"
-  ]
+  "id": "Seated_Cable_Rows"
 }

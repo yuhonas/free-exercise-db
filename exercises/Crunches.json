@@ -23,9 +23,5 @@
     "Crunches/0.jpg",
     "Crunches/1.jpg"
   ],
-  "id": "Crunches",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
-  ]
+  "id": "Crunches"
 }

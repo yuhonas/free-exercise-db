@@ -29,9 +29,5 @@
     "Clean/0.jpg",
     "Clean/1.jpg"
   ],
-  "id": "Clean",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/1.jpg"
-  ]
+  "id": "Clean"
 }

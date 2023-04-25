@@ -21,9 +21,5 @@
     "Tricep_Dumbbell_Kickback/0.jpg",
     "Tricep_Dumbbell_Kickback/1.jpg"
   ],
-  "id": "Tricep_Dumbbell_Kickback",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Tricep_Dumbbell_Kickback/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Tricep_Dumbbell_Kickback/1.jpg"
-  ]
+  "id": "Tricep_Dumbbell_Kickback"
 }

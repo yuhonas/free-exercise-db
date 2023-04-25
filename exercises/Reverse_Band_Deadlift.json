@@ -27,9 +27,5 @@
     "Reverse_Band_Deadlift/0.jpg",
     "Reverse_Band_Deadlift/1.jpg"
   ],
-  "id": "Reverse_Band_Deadlift",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Band_Deadlift/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Band_Deadlift/1.jpg"
-  ]
+  "id": "Reverse_Band_Deadlift"
 }

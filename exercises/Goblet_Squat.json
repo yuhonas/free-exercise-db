@@ -23,9 +23,5 @@
     "Goblet_Squat/0.jpg",
     "Goblet_Squat/1.jpg"
   ],
-  "id": "Goblet_Squat",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Goblet_Squat/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Goblet_Squat/1.jpg"
-  ]
+  "id": "Goblet_Squat"
 }

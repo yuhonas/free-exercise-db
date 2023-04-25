@@ -29,9 +29,5 @@
     "Overhead_Squat/0.jpg",
     "Overhead_Squat/1.jpg"
   ],
-  "id": "Overhead_Squat",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Squat/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Squat/1.jpg"
-  ]
+  "id": "Overhead_Squat"
 }

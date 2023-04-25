@@ -22,9 +22,5 @@
     "Seated_Barbell_Military_Press/0.jpg",
     "Seated_Barbell_Military_Press/1.jpg"
   ],
-  "id": "Seated_Barbell_Military_Press",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Barbell_Military_Press/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Barbell_Military_Press/1.jpg"
-  ]
+  "id": "Seated_Barbell_Military_Press"
 }

@@ -21,9 +21,5 @@
     "Incline_Push-Up/0.jpg",
     "Incline_Push-Up/1.jpg"
   ],
-  "id": "Incline_Push-Up",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Push-Up/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Push-Up/1.jpg"
-  ]
+  "id": "Incline_Push-Up"
 }

@@ -26,9 +26,5 @@
     "Hack_Squat/0.jpg",
     "Hack_Squat/1.jpg"
   ],
-  "id": "Hack_Squat",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/1.jpg"
-  ]
+  "id": "Hack_Squat"
 }

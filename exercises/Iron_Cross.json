@@ -23,9 +23,5 @@
     "Iron_Cross/0.jpg",
     "Iron_Cross/1.jpg"
   ],
-  "id": "Iron_Cross",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iron_Cross/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iron_Cross/1.jpg"
-  ]
+  "id": "Iron_Cross"
 }

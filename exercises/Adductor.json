@@ -20,9 +20,5 @@
     "Adductor/0.jpg",
     "Adductor/1.jpg"
   ],
-  "id": "Adductor",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor/1.jpg"
-  ]
+  "id": "Adductor"
 }

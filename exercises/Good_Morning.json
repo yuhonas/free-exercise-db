@@ -22,9 +22,5 @@
     "Good_Morning/0.jpg",
     "Good_Morning/1.jpg"
   ],
-  "id": "Good_Morning",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Good_Morning/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Good_Morning/1.jpg"
-  ]
+  "id": "Good_Morning"
 }

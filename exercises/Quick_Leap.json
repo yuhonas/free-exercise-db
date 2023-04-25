@@ -22,9 +22,5 @@
     "Quick_Leap/0.jpg",
     "Quick_Leap/1.jpg"
   ],
-  "id": "Quick_Leap",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Quick_Leap/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Quick_Leap/1.jpg"
-  ]
+  "id": "Quick_Leap"
 }

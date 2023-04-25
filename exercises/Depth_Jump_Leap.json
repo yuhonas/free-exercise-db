@@ -25,9 +25,5 @@
     "Depth_Jump_Leap/0.jpg",
     "Depth_Jump_Leap/1.jpg"
   ],
-  "id": "Depth_Jump_Leap",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Depth_Jump_Leap/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Depth_Jump_Leap/1.jpg"
-  ]
+  "id": "Depth_Jump_Leap"
 }

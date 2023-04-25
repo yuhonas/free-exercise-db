@@ -30,9 +30,5 @@
     "Sandbag_Load/0.jpg",
     "Sandbag_Load/1.jpg"
   ],
-  "id": "Sandbag_Load",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sandbag_Load/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sandbag_Load/1.jpg"
-  ]
+  "id": "Sandbag_Load"
 }

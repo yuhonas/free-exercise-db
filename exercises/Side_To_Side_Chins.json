@@ -27,9 +27,5 @@
     "Side_To_Side_Chins/0.jpg",
     "Side_To_Side_Chins/1.jpg"
   ],
-  "id": "Side_To_Side_Chins",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_To_Side_Chins/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_To_Side_Chins/1.jpg"
-  ]
+  "id": "Side_To_Side_Chins"
 }

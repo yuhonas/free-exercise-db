@@ -24,9 +24,5 @@
     "Barbell_Step_Ups/0.jpg",
     "Barbell_Step_Ups/1.jpg"
   ],
-  "id": "Barbell_Step_Ups",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Step_Ups/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Step_Ups/1.jpg"
-  ]
+  "id": "Barbell_Step_Ups"
 }

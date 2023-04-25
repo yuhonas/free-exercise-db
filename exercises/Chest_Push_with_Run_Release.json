@@ -22,9 +22,5 @@
     "Chest_Push_with_Run_Release/0.jpg",
     "Chest_Push_with_Run_Release/1.jpg"
   ],
-  "id": "Chest_Push_with_Run_Release",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chest_Push_with_Run_Release/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chest_Push_with_Run_Release/1.jpg"
-  ]
+  "id": "Chest_Push_with_Run_Release"
 }

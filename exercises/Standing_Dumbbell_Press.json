@@ -20,9 +20,5 @@
     "Standing_Dumbbell_Press/0.jpg",
     "Standing_Dumbbell_Press/1.jpg"
   ],
-  "id": "Standing_Dumbbell_Press",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Dumbbell_Press/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Dumbbell_Press/1.jpg"
-  ]
+  "id": "Standing_Dumbbell_Press"
 }

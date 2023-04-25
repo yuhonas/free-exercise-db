@@ -26,9 +26,5 @@
     "Yoke_Walk/0.jpg",
     "Yoke_Walk/1.jpg"
   ],
-  "id": "Yoke_Walk",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Yoke_Walk/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Yoke_Walk/1.jpg"
-  ]
+  "id": "Yoke_Walk"
 }

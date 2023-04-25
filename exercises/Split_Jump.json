@@ -24,9 +24,5 @@
     "Split_Jump/0.jpg",
     "Split_Jump/1.jpg"
   ],
-  "id": "Split_Jump",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jump/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jump/1.jpg"
-  ]
+  "id": "Split_Jump"
 }

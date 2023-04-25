@@ -22,9 +22,5 @@
     "Smith_Machine_Leg_Press/0.jpg",
     "Smith_Machine_Leg_Press/1.jpg"
   ],
-  "id": "Smith_Machine_Leg_Press",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Leg_Press/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Leg_Press/1.jpg"
-  ]
+  "id": "Smith_Machine_Leg_Press"
 }

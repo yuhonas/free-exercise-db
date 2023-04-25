@@ -21,9 +21,5 @@
     "External_Rotation_with_Cable/0.jpg",
     "External_Rotation_with_Cable/1.jpg"
   ],
-  "id": "External_Rotation_with_Cable",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/1.jpg"
-  ]
+  "id": "External_Rotation_with_Cable"
 }

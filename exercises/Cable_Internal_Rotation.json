@@ -22,9 +22,5 @@
     "Cable_Internal_Rotation/0.jpg",
     "Cable_Internal_Rotation/1.jpg"
   ],
-  "id": "Cable_Internal_Rotation",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/1.jpg"
-  ]
+  "id": "Cable_Internal_Rotation"
 }

@@ -25,9 +25,5 @@
     "Clean_Deadlift/0.jpg",
     "Clean_Deadlift/1.jpg"
   ],
-  "id": "Clean_Deadlift",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Deadlift/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Deadlift/1.jpg"
-  ]
+  "id": "Clean_Deadlift"
 }

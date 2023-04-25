@@ -23,9 +23,5 @@
     "Lunge_Sprint/0.jpg",
     "Lunge_Sprint/1.jpg"
   ],
-  "id": "Lunge_Sprint",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lunge_Sprint/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lunge_Sprint/1.jpg"
-  ]
+  "id": "Lunge_Sprint"
 }

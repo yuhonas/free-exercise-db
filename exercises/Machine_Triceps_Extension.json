@@ -21,9 +21,5 @@
     "Machine_Triceps_Extension/0.jpg",
     "Machine_Triceps_Extension/1.jpg"
   ],
-  "id": "Machine_Triceps_Extension",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Machine_Triceps_Extension/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Machine_Triceps_Extension/1.jpg"
-  ]
+  "id": "Machine_Triceps_Extension"
 }

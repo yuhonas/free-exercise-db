@@ -22,9 +22,5 @@
     "Cable_Iron_Cross/0.jpg",
     "Cable_Iron_Cross/1.jpg"
   ],
-  "id": "Cable_Iron_Cross",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Iron_Cross/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Iron_Cross/1.jpg"
-  ]
+  "id": "Cable_Iron_Cross"
 }

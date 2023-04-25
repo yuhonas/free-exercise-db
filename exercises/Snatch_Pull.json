@@ -25,9 +25,5 @@
     "Snatch_Pull/0.jpg",
     "Snatch_Pull/1.jpg"
   ],
-  "id": "Snatch_Pull",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/1.jpg"
-  ]
+  "id": "Snatch_Pull"
 }

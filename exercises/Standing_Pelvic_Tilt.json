@@ -20,9 +20,5 @@
     "Standing_Pelvic_Tilt/0.jpg",
     "Standing_Pelvic_Tilt/1.jpg"
   ],
-  "id": "Standing_Pelvic_Tilt",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Pelvic_Tilt/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Pelvic_Tilt/1.jpg"
-  ]
+  "id": "Standing_Pelvic_Tilt"
 }

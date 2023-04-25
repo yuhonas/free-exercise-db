@@ -23,9 +23,5 @@
     "Single-Leg_Stride_Jump/0.jpg",
     "Single-Leg_Stride_Jump/1.jpg"
   ],
-  "id": "Single-Leg_Stride_Jump",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Stride_Jump/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Stride_Jump/1.jpg"
-  ]
+  "id": "Single-Leg_Stride_Jump"
 }

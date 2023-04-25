@@ -23,9 +23,5 @@
     "Side_to_Side_Box_Shuffle/0.jpg",
     "Side_to_Side_Box_Shuffle/1.jpg"
   ],
-  "id": "Side_to_Side_Box_Shuffle",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_to_Side_Box_Shuffle/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_to_Side_Box_Shuffle/1.jpg"
-  ]
+  "id": "Side_to_Side_Box_Shuffle"
 }

@@ -23,9 +23,5 @@
     "Neck_Press/0.jpg",
     "Neck_Press/1.jpg"
   ],
-  "id": "Neck_Press",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Neck_Press/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Neck_Press/1.jpg"
-  ]
+  "id": "Neck_Press"
 }

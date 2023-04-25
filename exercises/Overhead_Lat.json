@@ -20,9 +20,5 @@
     "Overhead_Lat/0.jpg",
     "Overhead_Lat/1.jpg"
   ],
-  "id": "Overhead_Lat",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Lat/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Lat/1.jpg"
-  ]
+  "id": "Overhead_Lat"
 }

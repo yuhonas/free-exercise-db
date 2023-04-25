@@ -21,9 +21,5 @@
     "Ab_Roller/0.jpg",
     "Ab_Roller/1.jpg"
   ],
-  "id": "Ab_Roller",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Roller/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Roller/1.jpg"
-  ]
+  "id": "Ab_Roller"
 }

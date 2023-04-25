@@ -25,9 +25,5 @@
     "Bent-Arm_Dumbbell_Pullover/0.jpg",
     "Bent-Arm_Dumbbell_Pullover/1.jpg"
   ],
-  "id": "Bent-Arm_Dumbbell_Pullover",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent-Arm_Dumbbell_Pullover/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent-Arm_Dumbbell_Pullover/1.jpg"
-  ]
+  "id": "Bent-Arm_Dumbbell_Pullover"
 }

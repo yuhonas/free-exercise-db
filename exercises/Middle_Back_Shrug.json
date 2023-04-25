@@ -21,9 +21,5 @@
     "Middle_Back_Shrug/0.jpg",
     "Middle_Back_Shrug/1.jpg"
   ],
-  "id": "Middle_Back_Shrug",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Middle_Back_Shrug/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Middle_Back_Shrug/1.jpg"
-  ]
+  "id": "Middle_Back_Shrug"
 }

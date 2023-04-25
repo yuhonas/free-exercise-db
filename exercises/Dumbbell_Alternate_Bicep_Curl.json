@@ -22,9 +22,5 @@
     "Dumbbell_Alternate_Bicep_Curl/0.jpg",
     "Dumbbell_Alternate_Bicep_Curl/1.jpg"
   ],
-  "id": "Dumbbell_Alternate_Bicep_Curl",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Alternate_Bicep_Curl/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Alternate_Bicep_Curl/1.jpg"
-  ]
+  "id": "Dumbbell_Alternate_Bicep_Curl"
 }

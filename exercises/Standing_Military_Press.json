@@ -23,9 +23,5 @@
     "Standing_Military_Press/0.jpg",
     "Standing_Military_Press/1.jpg"
   ],
-  "id": "Standing_Military_Press",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Military_Press/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Military_Press/1.jpg"
-  ]
+  "id": "Standing_Military_Press"
 }

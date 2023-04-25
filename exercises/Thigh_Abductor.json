@@ -21,9 +21,5 @@
     "Thigh_Abductor/0.jpg",
     "Thigh_Abductor/1.jpg"
   ],
-  "id": "Thigh_Abductor",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Abductor/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Abductor/1.jpg"
-  ]
+  "id": "Thigh_Abductor"
 }

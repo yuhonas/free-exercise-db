@@ -21,9 +21,5 @@
     "Barbell_Incline_Shoulder_Raise/0.jpg",
     "Barbell_Incline_Shoulder_Raise/1.jpg"
   ],
-  "id": "Barbell_Incline_Shoulder_Raise",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Shoulder_Raise/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Shoulder_Raise/1.jpg"
-  ]
+  "id": "Barbell_Incline_Shoulder_Raise"
 }

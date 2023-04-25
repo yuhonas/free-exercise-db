@@ -28,9 +28,5 @@
     "Power_Snatch/0.jpg",
     "Power_Snatch/1.jpg"
   ],
-  "id": "Power_Snatch",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Snatch/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Snatch/1.jpg"
-  ]
+  "id": "Power_Snatch"
 }

@@ -24,9 +24,5 @@
     "Single-Leg_Lateral_Hop/0.jpg",
     "Single-Leg_Lateral_Hop/1.jpg"
   ],
-  "id": "Single-Leg_Lateral_Hop",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Lateral_Hop/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Lateral_Hop/1.jpg"
-  ]
+  "id": "Single-Leg_Lateral_Hop"
 }

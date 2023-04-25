@@ -24,9 +24,5 @@
     "Clean_Pull/0.jpg",
     "Clean_Pull/1.jpg"
   ],
-  "id": "Clean_Pull",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/1.jpg"
-  ]
+  "id": "Clean_Pull"
 }

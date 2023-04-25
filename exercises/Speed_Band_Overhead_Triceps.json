@@ -21,9 +21,5 @@
     "Speed_Band_Overhead_Triceps/0.jpg",
     "Speed_Band_Overhead_Triceps/1.jpg"
   ],
-  "id": "Speed_Band_Overhead_Triceps",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Speed_Band_Overhead_Triceps/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Speed_Band_Overhead_Triceps/1.jpg"
-  ]
+  "id": "Speed_Band_Overhead_Triceps"
 }

@@ -23,9 +23,5 @@
     "Toe_Touchers/0.jpg",
     "Toe_Touchers/1.jpg"
   ],
-  "id": "Toe_Touchers",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Toe_Touchers/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Toe_Touchers/1.jpg"
-  ]
+  "id": "Toe_Touchers"
 }

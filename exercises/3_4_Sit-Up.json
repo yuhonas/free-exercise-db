@@ -22,9 +22,5 @@
     "3_4_Sit-Up/0.jpg",
     "3_4_Sit-Up/1.jpg"
   ],
-  "id": "3_4_Sit-Up",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/3_4_Sit-Up/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/3_4_Sit-Up/1.jpg"
-  ]
+  "id": "3_4_Sit-Up"
 }

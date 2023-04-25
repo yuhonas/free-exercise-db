@@ -23,9 +23,5 @@
     "Kneeling_Jump_Squat/0.jpg",
     "Kneeling_Jump_Squat/1.jpg"
   ],
-  "id": "Kneeling_Jump_Squat",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Jump_Squat/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Jump_Squat/1.jpg"
-  ]
+  "id": "Kneeling_Jump_Squat"
 }

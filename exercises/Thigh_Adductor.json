@@ -22,9 +22,5 @@
     "Thigh_Adductor/0.jpg",
     "Thigh_Adductor/1.jpg"
   ],
-  "id": "Thigh_Adductor",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Adductor/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Adductor/1.jpg"
-  ]
+  "id": "Thigh_Adductor"
 }

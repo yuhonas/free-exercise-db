@@ -24,9 +24,5 @@
     "Speed_Box_Squat/0.jpg",
     "Speed_Box_Squat/1.jpg"
   ],
-  "id": "Speed_Box_Squat",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Speed_Box_Squat/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Speed_Box_Squat/1.jpg"
-  ]
+  "id": "Speed_Box_Squat"
 }

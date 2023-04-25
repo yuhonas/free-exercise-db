@@ -26,9 +26,5 @@
     "Barbell_Full_Squat/0.jpg",
     "Barbell_Full_Squat/1.jpg"
   ],
-  "id": "Barbell_Full_Squat",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
-  ]
+  "id": "Barbell_Full_Squat"
 }

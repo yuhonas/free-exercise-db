@@ -19,9 +19,5 @@
     "Quadriceps-SMR/0.jpg",
     "Quadriceps-SMR/1.jpg"
   ],
-  "id": "Quadriceps-SMR",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Quadriceps-SMR/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Quadriceps-SMR/1.jpg"
-  ]
+  "id": "Quadriceps-SMR"
 }

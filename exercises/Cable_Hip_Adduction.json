@@ -24,9 +24,5 @@
     "Cable_Hip_Adduction/0.jpg",
     "Cable_Hip_Adduction/1.jpg"
   ],
-  "id": "Cable_Hip_Adduction",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/1.jpg"
-  ]
+  "id": "Cable_Hip_Adduction"
 }

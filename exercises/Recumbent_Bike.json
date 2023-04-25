@@ -22,9 +22,5 @@
     "Recumbent_Bike/0.jpg",
     "Recumbent_Bike/1.jpg"
   ],
-  "id": "Recumbent_Bike",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Recumbent_Bike/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Recumbent_Bike/1.jpg"
-  ]
+  "id": "Recumbent_Bike"
 }

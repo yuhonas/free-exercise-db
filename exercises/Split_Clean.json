@@ -29,9 +29,5 @@
     "Split_Clean/0.jpg",
     "Split_Clean/1.jpg"
   ],
-  "id": "Split_Clean",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Clean/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Clean/1.jpg"
-  ]
+  "id": "Split_Clean"
 }

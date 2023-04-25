@@ -21,9 +21,5 @@
     "Barbell_Side_Bend/0.jpg",
     "Barbell_Side_Bend/1.jpg"
   ],
-  "id": "Barbell_Side_Bend",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Side_Bend/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Side_Bend/1.jpg"
-  ]
+  "id": "Barbell_Side_Bend"
 }

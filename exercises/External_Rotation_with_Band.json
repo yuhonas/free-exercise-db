@@ -22,9 +22,5 @@
     "External_Rotation_with_Band/0.jpg",
     "External_Rotation_with_Band/1.jpg"
   ],
-  "id": "External_Rotation_with_Band",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Band/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Band/1.jpg"
-  ]
+  "id": "External_Rotation_with_Band"
 }

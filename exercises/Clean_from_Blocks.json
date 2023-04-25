@@ -25,9 +25,5 @@
     "Clean_from_Blocks/0.jpg",
     "Clean_from_Blocks/1.jpg"
   ],
-  "id": "Clean_from_Blocks",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_from_Blocks/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_from_Blocks/1.jpg"
-  ]
+  "id": "Clean_from_Blocks"
 }

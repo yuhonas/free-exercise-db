@@ -23,9 +23,5 @@
     "Barbell_Guillotine_Bench_Press/0.jpg",
     "Barbell_Guillotine_Bench_Press/1.jpg"
   ],
-  "id": "Barbell_Guillotine_Bench_Press",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Guillotine_Bench_Press/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Guillotine_Bench_Press/1.jpg"
-  ]
+  "id": "Barbell_Guillotine_Bench_Press"
 }

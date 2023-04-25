@@ -23,9 +23,5 @@
     "External_Rotation/0.jpg",
     "External_Rotation/1.jpg"
   ],
-  "id": "External_Rotation",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation/1.jpg"
-  ]
+  "id": "External_Rotation"
 }

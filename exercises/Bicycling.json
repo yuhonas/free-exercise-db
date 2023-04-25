@@ -20,9 +20,5 @@
     "Bicycling/0.jpg",
     "Bicycling/1.jpg"
   ],
-  "id": "Bicycling",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling/1.jpg"
-  ]
+  "id": "Bicycling"
 }

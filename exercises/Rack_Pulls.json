@@ -23,9 +23,5 @@
     "Rack_Pulls/0.jpg",
     "Rack_Pulls/1.jpg"
   ],
-  "id": "Rack_Pulls",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rack_Pulls/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rack_Pulls/1.jpg"
-  ]
+  "id": "Rack_Pulls"
 }

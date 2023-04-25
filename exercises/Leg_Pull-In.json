@@ -21,9 +21,5 @@
     "Leg_Pull-In/0.jpg",
     "Leg_Pull-In/1.jpg"
   ],
-  "id": "Leg_Pull-In",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Pull-In/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Pull-In/1.jpg"
-  ]
+  "id": "Leg_Pull-In"
 }

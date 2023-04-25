@@ -21,9 +21,5 @@
     "Cat_Stretch/0.jpg",
     "Cat_Stretch/1.jpg"
   ],
-  "id": "Cat_Stretch",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cat_Stretch/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cat_Stretch/1.jpg"
-  ]
+  "id": "Cat_Stretch"
 }

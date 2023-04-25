@@ -24,9 +24,5 @@
     "Rack_Pull_with_Bands/0.jpg",
     "Rack_Pull_with_Bands/1.jpg"
   ],
-  "id": "Rack_Pull_with_Bands",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rack_Pull_with_Bands/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rack_Pull_with_Bands/1.jpg"
-  ]
+  "id": "Rack_Pull_with_Bands"
 }

@@ -23,9 +23,5 @@
     "Reverse_Hyperextension/0.jpg",
     "Reverse_Hyperextension/1.jpg"
   ],
-  "id": "Reverse_Hyperextension",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Hyperextension/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Hyperextension/1.jpg"
-  ]
+  "id": "Reverse_Hyperextension"
 }

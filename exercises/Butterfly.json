@@ -22,9 +22,5 @@
     "Butterfly/0.jpg",
     "Butterfly/1.jpg"
   ],
-  "id": "Butterfly",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/1.jpg"
-  ]
+  "id": "Butterfly"
 }

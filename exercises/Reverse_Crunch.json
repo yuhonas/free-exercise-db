@@ -22,9 +22,5 @@
     "Reverse_Crunch/0.jpg",
     "Reverse_Crunch/1.jpg"
   ],
-  "id": "Reverse_Crunch",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Crunch/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Crunch/1.jpg"
-  ]
+  "id": "Reverse_Crunch"
 }

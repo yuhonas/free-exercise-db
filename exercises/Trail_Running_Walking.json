@@ -21,9 +21,5 @@
     "Trail_Running_Walking/0.jpg",
     "Trail_Running_Walking/1.jpg"
   ],
-  "id": "Trail_Running_Walking",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trail_Running_Walking/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trail_Running_Walking/1.jpg"
-  ]
+  "id": "Trail_Running_Walking"
 }

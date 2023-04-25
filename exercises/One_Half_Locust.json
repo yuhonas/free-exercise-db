@@ -23,9 +23,5 @@
     "One_Half_Locust/0.jpg",
     "One_Half_Locust/1.jpg"
   ],
-  "id": "One_Half_Locust",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Half_Locust/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Half_Locust/1.jpg"
-  ]
+  "id": "One_Half_Locust"
 }

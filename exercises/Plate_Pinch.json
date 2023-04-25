@@ -22,9 +22,5 @@
     "Plate_Pinch/0.jpg",
     "Plate_Pinch/1.jpg"
   ],
-  "id": "Plate_Pinch",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plate_Pinch/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plate_Pinch/1.jpg"
-  ]
+  "id": "Plate_Pinch"
 }

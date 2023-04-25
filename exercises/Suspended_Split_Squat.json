@@ -25,9 +25,5 @@
     "Suspended_Split_Squat/0.jpg",
     "Suspended_Split_Squat/1.jpg"
   ],
-  "id": "Suspended_Split_Squat",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
-  ]
+  "id": "Suspended_Split_Squat"
 }

@@ -22,9 +22,5 @@
     "Flutter_Kicks/0.jpg",
     "Flutter_Kicks/1.jpg"
   ],
-  "id": "Flutter_Kicks",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Flutter_Kicks/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Flutter_Kicks/1.jpg"
-  ]
+  "id": "Flutter_Kicks"
 }

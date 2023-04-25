@@ -24,9 +24,5 @@
     "Muscle_Snatch/0.jpg",
     "Muscle_Snatch/1.jpg"
   ],
-  "id": "Muscle_Snatch",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Snatch/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Snatch/1.jpg"
-  ]
+  "id": "Muscle_Snatch"
 }

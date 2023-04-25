@@ -21,9 +21,5 @@
     "Front_Plate_Raise/0.jpg",
     "Front_Plate_Raise/1.jpg"
   ],
-  "id": "Front_Plate_Raise",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Plate_Raise/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Plate_Raise/1.jpg"
-  ]
+  "id": "Front_Plate_Raise"
 }

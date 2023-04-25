@@ -21,9 +21,5 @@
     "Suspended_Row/0.jpg",
     "Suspended_Row/1.jpg"
   ],
-  "id": "Suspended_Row",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Row/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Row/1.jpg"
-  ]
+  "id": "Suspended_Row"
 }

@@ -22,9 +22,5 @@
     "Spider_Crawl/0.jpg",
     "Spider_Crawl/1.jpg"
   ],
-  "id": "Spider_Crawl",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Spider_Crawl/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Spider_Crawl/1.jpg"
-  ]
+  "id": "Spider_Crawl"
 }

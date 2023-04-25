@@ -21,9 +21,5 @@
     "Hip_Flexion_with_Band/0.jpg",
     "Hip_Flexion_with_Band/1.jpg"
   ],
-  "id": "Hip_Flexion_with_Band",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Flexion_with_Band/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Flexion_with_Band/1.jpg"
-  ]
+  "id": "Hip_Flexion_with_Band"
 }

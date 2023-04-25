@@ -21,9 +21,5 @@
     "Calf_Press/0.jpg",
     "Calf_Press/1.jpg"
   ],
-  "id": "Calf_Press",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Press/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Press/1.jpg"
-  ]
+  "id": "Calf_Press"
 }

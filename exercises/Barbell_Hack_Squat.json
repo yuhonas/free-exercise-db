@@ -23,9 +23,5 @@
     "Barbell_Hack_Squat/0.jpg",
     "Barbell_Hack_Squat/1.jpg"
   ],
-  "id": "Barbell_Hack_Squat",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hack_Squat/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hack_Squat/1.jpg"
-  ]
+  "id": "Barbell_Hack_Squat"
 }

@@ -22,9 +22,5 @@
     "Inchworm/0.jpg",
     "Inchworm/1.jpg"
   ],
-  "id": "Inchworm",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inchworm/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inchworm/1.jpg"
-  ]
+  "id": "Inchworm"
 }

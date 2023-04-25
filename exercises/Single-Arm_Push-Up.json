@@ -22,9 +22,5 @@
     "Single-Arm_Push-Up/0.jpg",
     "Single-Arm_Push-Up/1.jpg"
   ],
-  "id": "Single-Arm_Push-Up",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Arm_Push-Up/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Arm_Push-Up/1.jpg"
-  ]
+  "id": "Single-Arm_Push-Up"
 }

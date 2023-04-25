@@ -21,9 +21,5 @@
     "Finger_Curls/0.jpg",
     "Finger_Curls/1.jpg"
   ],
-  "id": "Finger_Curls",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Finger_Curls/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Finger_Curls/1.jpg"
-  ]
+  "id": "Finger_Curls"
 }

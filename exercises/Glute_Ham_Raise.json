@@ -21,9 +21,5 @@
     "Glute_Ham_Raise/0.jpg",
     "Glute_Ham_Raise/1.jpg"
   ],
-  "id": "Glute_Ham_Raise",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Glute_Ham_Raise/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Glute_Ham_Raise/1.jpg"
-  ]
+  "id": "Glute_Ham_Raise"
 }

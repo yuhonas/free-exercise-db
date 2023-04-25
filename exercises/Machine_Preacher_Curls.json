@@ -22,9 +22,5 @@
     "Machine_Preacher_Curls/0.jpg",
     "Machine_Preacher_Curls/1.jpg"
   ],
-  "id": "Machine_Preacher_Curls",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Machine_Preacher_Curls/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Machine_Preacher_Curls/1.jpg"
-  ]
+  "id": "Machine_Preacher_Curls"
 }

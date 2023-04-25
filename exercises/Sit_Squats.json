@@ -22,9 +22,5 @@
     "Sit_Squats/0.jpg",
     "Sit_Squats/1.jpg"
   ],
-  "id": "Sit_Squats",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sit_Squats/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sit_Squats/1.jpg"
-  ]
+  "id": "Sit_Squats"
 }

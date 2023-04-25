@@ -23,9 +23,5 @@
     "Weighted_Bench_Dip/0.jpg",
     "Weighted_Bench_Dip/1.jpg"
   ],
-  "id": "Weighted_Bench_Dip",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Weighted_Bench_Dip/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Weighted_Bench_Dip/1.jpg"
-  ]
+  "id": "Weighted_Bench_Dip"
 }

@@ -19,9 +19,5 @@
     "Kneeling_Hip_Flexor/0.jpg",
     "Kneeling_Hip_Flexor/1.jpg"
   ],
-  "id": "Kneeling_Hip_Flexor",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Hip_Flexor/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Hip_Flexor/1.jpg"
-  ]
+  "id": "Kneeling_Hip_Flexor"
 }

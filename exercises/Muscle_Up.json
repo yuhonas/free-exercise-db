@@ -27,9 +27,5 @@
     "Muscle_Up/0.jpg",
     "Muscle_Up/1.jpg"
   ],
-  "id": "Muscle_Up",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/1.jpg"
-  ]
+  "id": "Muscle_Up"
 }

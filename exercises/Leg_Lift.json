@@ -22,9 +22,5 @@
     "Leg_Lift/0.jpg",
     "Leg_Lift/1.jpg"
   ],
-  "id": "Leg_Lift",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Lift/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Lift/1.jpg"
-  ]
+  "id": "Leg_Lift"
 }

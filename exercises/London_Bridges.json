@@ -23,9 +23,5 @@
     "London_Bridges/0.jpg",
     "London_Bridges/1.jpg"
   ],
-  "id": "London_Bridges",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/London_Bridges/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/London_Bridges/1.jpg"
-  ]
+  "id": "London_Bridges"
 }

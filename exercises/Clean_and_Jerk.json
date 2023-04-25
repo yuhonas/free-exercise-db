@@ -31,9 +31,5 @@
     "Clean_and_Jerk/0.jpg",
     "Clean_and_Jerk/1.jpg"
   ],
-  "id": "Clean_and_Jerk",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_and_Jerk/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_and_Jerk/1.jpg"
-  ]
+  "id": "Clean_and_Jerk"
 }

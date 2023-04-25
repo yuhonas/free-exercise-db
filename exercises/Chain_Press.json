@@ -21,9 +21,5 @@
     "Chain_Press/0.jpg",
     "Chain_Press/1.jpg"
   ],
-  "id": "Chain_Press",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chain_Press/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chain_Press/1.jpg"
-  ]
+  "id": "Chain_Press"
 }

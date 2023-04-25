@@ -20,9 +20,5 @@
     "Leverage_Deadlift/0.jpg",
     "Leverage_Deadlift/1.jpg"
   ],
-  "id": "Leverage_Deadlift",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leverage_Deadlift/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leverage_Deadlift/1.jpg"
-  ]
+  "id": "Leverage_Deadlift"
 }

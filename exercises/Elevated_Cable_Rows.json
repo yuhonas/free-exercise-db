@@ -25,9 +25,5 @@
     "Elevated_Cable_Rows/0.jpg",
     "Elevated_Cable_Rows/1.jpg"
   ],
-  "id": "Elevated_Cable_Rows",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Elevated_Cable_Rows/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Elevated_Cable_Rows/1.jpg"
-  ]
+  "id": "Elevated_Cable_Rows"
 }

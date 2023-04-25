@@ -22,9 +22,5 @@
     "Wrist_Roller/0.jpg",
     "Wrist_Roller/1.jpg"
   ],
-  "id": "Wrist_Roller",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/1.jpg"
-  ]
+  "id": "Wrist_Roller"
 }

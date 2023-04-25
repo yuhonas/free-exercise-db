@@ -20,9 +20,5 @@
     "Seated_Front_Deltoid/0.jpg",
     "Seated_Front_Deltoid/1.jpg"
   ],
-  "id": "Seated_Front_Deltoid",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Front_Deltoid/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Front_Deltoid/1.jpg"
-  ]
+  "id": "Seated_Front_Deltoid"
 }

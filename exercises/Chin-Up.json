@@ -24,9 +24,5 @@
     "Chin-Up/0.jpg",
     "Chin-Up/1.jpg"
   ],
-  "id": "Chin-Up",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin-Up/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin-Up/1.jpg"
-  ]
+  "id": "Chin-Up"
 }

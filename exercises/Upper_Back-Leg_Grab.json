@@ -20,9 +20,5 @@
     "Upper_Back-Leg_Grab/0.jpg",
     "Upper_Back-Leg_Grab/1.jpg"
   ],
-  "id": "Upper_Back-Leg_Grab",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Upper_Back-Leg_Grab/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Upper_Back-Leg_Grab/1.jpg"
-  ]
+  "id": "Upper_Back-Leg_Grab"
 }

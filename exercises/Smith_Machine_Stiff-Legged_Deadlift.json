@@ -23,9 +23,5 @@
     "Smith_Machine_Stiff-Legged_Deadlift/0.jpg",
     "Smith_Machine_Stiff-Legged_Deadlift/1.jpg"
   ],
-  "id": "Smith_Machine_Stiff-Legged_Deadlift",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Stiff-Legged_Deadlift/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Stiff-Legged_Deadlift/1.jpg"
-  ]
+  "id": "Smith_Machine_Stiff-Legged_Deadlift"
 }

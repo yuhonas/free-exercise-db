@@ -20,9 +20,5 @@
     "Elbows_Back/0.jpg",
     "Elbows_Back/1.jpg"
   ],
-  "id": "Elbows_Back",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Elbows_Back/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Elbows_Back/1.jpg"
-  ]
+  "id": "Elbows_Back"
 }

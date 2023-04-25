@@ -25,9 +25,5 @@
     "Deficit_Deadlift/0.jpg",
     "Deficit_Deadlift/1.jpg"
   ],
-  "id": "Deficit_Deadlift",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Deficit_Deadlift/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Deficit_Deadlift/1.jpg"
-  ]
+  "id": "Deficit_Deadlift"
 }

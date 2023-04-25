@@ -23,9 +23,5 @@
     "Star_Jump/0.jpg",
     "Star_Jump/1.jpg"
   ],
-  "id": "Star_Jump",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Star_Jump/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Star_Jump/1.jpg"
-  ]
+  "id": "Star_Jump"
 }

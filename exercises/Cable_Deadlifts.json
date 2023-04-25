@@ -24,9 +24,5 @@
     "Cable_Deadlifts/0.jpg",
     "Cable_Deadlifts/1.jpg"
   ],
-  "id": "Cable_Deadlifts",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Deadlifts/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Deadlifts/1.jpg"
-  ]
+  "id": "Cable_Deadlifts"
 }

@@ -21,9 +21,5 @@
     "Seated_Biceps/0.jpg",
     "Seated_Biceps/1.jpg"
   ],
-  "id": "Seated_Biceps",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Biceps/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Biceps/1.jpg"
-  ]
+  "id": "Seated_Biceps"
 }

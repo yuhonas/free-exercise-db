@@ -24,9 +24,5 @@
     "Weighted_Squat/0.jpg",
     "Weighted_Squat/1.jpg"
   ],
-  "id": "Weighted_Squat",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Weighted_Squat/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Weighted_Squat/1.jpg"
-  ]
+  "id": "Weighted_Squat"
 }

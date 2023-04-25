@@ -26,9 +26,5 @@
     "Box_Skip/0.jpg",
     "Box_Skip/1.jpg"
   ],
-  "id": "Box_Skip",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Box_Skip/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Box_Skip/1.jpg"
-  ]
+  "id": "Box_Skip"
 }

@@ -49,9 +49,5 @@
     "Power_Clean/0.jpg",
     "Power_Clean/1.jpg"
   ],
-  "id": "Power_Clean",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Clean/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Clean/1.jpg"
-  ]
+  "id": "Power_Clean"
 }

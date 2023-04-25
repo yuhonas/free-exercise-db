@@ -21,9 +21,5 @@
     "Drop_Push/0.jpg",
     "Drop_Push/1.jpg"
   ],
-  "id": "Drop_Push",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Drop_Push/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Drop_Push/1.jpg"
-  ]
+  "id": "Drop_Push"
 }

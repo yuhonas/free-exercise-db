@@ -23,9 +23,5 @@
     "Seated_Dumbbell_Inner_Biceps_Curl/0.jpg",
     "Seated_Dumbbell_Inner_Biceps_Curl/1.jpg"
   ],
-  "id": "Seated_Dumbbell_Inner_Biceps_Curl",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Dumbbell_Inner_Biceps_Curl/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Dumbbell_Inner_Biceps_Curl/1.jpg"
-  ]
+  "id": "Seated_Dumbbell_Inner_Biceps_Curl"
 }

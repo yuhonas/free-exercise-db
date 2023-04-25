@@ -19,9 +19,5 @@
     "Torso_Rotation/0.jpg",
     "Torso_Rotation/1.jpg"
   ],
-  "id": "Torso_Rotation",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Torso_Rotation/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Torso_Rotation/1.jpg"
-  ]
+  "id": "Torso_Rotation"
 }

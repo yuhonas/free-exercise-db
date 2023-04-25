@@ -20,9 +20,5 @@
     "Groiners/0.jpg",
     "Groiners/1.jpg"
   ],
-  "id": "Groiners",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groiners/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groiners/1.jpg"
-  ]
+  "id": "Groiners"
 }

@@ -22,9 +22,5 @@
     "Body-Up/0.jpg",
     "Body-Up/1.jpg"
   ],
-  "id": "Body-Up",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Body-Up/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Body-Up/1.jpg"
-  ]
+  "id": "Body-Up"
 }

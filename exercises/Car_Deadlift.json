@@ -25,9 +25,5 @@
     "Car_Deadlift/0.jpg",
     "Car_Deadlift/1.jpg"
   ],
-  "id": "Car_Deadlift",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Car_Deadlift/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Car_Deadlift/1.jpg"
-  ]
+  "id": "Car_Deadlift"
 }

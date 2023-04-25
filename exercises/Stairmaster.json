@@ -22,9 +22,5 @@
     "Stairmaster/0.jpg",
     "Stairmaster/1.jpg"
   ],
-  "id": "Stairmaster",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stairmaster/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stairmaster/1.jpg"
-  ]
+  "id": "Stairmaster"
 }

@@ -24,9 +24,5 @@
     "Kettlebell_Dead_Clean/0.jpg",
     "Kettlebell_Dead_Clean/1.jpg"
   ],
-  "id": "Kettlebell_Dead_Clean",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Dead_Clean/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Dead_Clean/1.jpg"
-  ]
+  "id": "Kettlebell_Dead_Clean"
 }

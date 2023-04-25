@@ -24,9 +24,5 @@
     "Frankenstein_Squat/0.jpg",
     "Frankenstein_Squat/1.jpg"
   ],
-  "id": "Frankenstein_Squat",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Frankenstein_Squat/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Frankenstein_Squat/1.jpg"
-  ]
+  "id": "Frankenstein_Squat"
 }

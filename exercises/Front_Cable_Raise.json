@@ -22,9 +22,5 @@
     "Front_Cable_Raise/0.jpg",
     "Front_Cable_Raise/1.jpg"
   ],
-  "id": "Front_Cable_Raise",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cable_Raise/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cable_Raise/1.jpg"
-  ]
+  "id": "Front_Cable_Raise"
 }

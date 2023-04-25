@@ -22,9 +22,5 @@
     "Preacher_Curl/0.jpg",
     "Preacher_Curl/1.jpg"
   ],
-  "id": "Preacher_Curl",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Curl/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Curl/1.jpg"
-  ]
+  "id": "Preacher_Curl"
 }

@@ -25,9 +25,5 @@
     "Pallof_Press/0.jpg",
     "Pallof_Press/1.jpg"
   ],
-  "id": "Pallof_Press",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
-  ]
+  "id": "Pallof_Press"
 }

@@ -23,9 +23,5 @@
     "Ball_Leg_Curl/0.jpg",
     "Ball_Leg_Curl/1.jpg"
   ],
-  "id": "Ball_Leg_Curl",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ball_Leg_Curl/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ball_Leg_Curl/1.jpg"
-  ]
+  "id": "Ball_Leg_Curl"
 }

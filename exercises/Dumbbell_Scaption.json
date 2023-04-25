@@ -20,9 +20,5 @@
     "Dumbbell_Scaption/0.jpg",
     "Dumbbell_Scaption/1.jpg"
   ],
-  "id": "Dumbbell_Scaption",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Scaption/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Scaption/1.jpg"
-  ]
+  "id": "Dumbbell_Scaption"
 }

@@ -21,9 +21,5 @@
     "Frog_Hops/0.jpg",
     "Frog_Hops/1.jpg"
   ],
-  "id": "Frog_Hops",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Frog_Hops/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Frog_Hops/1.jpg"
-  ]
+  "id": "Frog_Hops"
 }

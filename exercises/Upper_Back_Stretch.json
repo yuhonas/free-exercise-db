@@ -18,9 +18,5 @@
     "Upper_Back_Stretch/0.jpg",
     "Upper_Back_Stretch/1.jpg"
   ],
-  "id": "Upper_Back_Stretch",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Upper_Back_Stretch/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Upper_Back_Stretch/1.jpg"
-  ]
+  "id": "Upper_Back_Stretch"
 }

@@ -1,13 +1,11 @@
 ## Free Exercise DB 💪  &nbsp; [![Test, Lint & Deploy Site to Github Pages](https://github.com/yuhonas/free-exercise-db/actions/workflows/ci.yaml/badge.svg)](https://github.com/yuhonas/free-exercise-db/actions/workflows/ci.yaml) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
-
-
 Open Public Domain Exercise Dataset in `JSON` format, 800+ exercises & images with a browsable public searchable frontend
 
 ### Why?
 
 I started building another fitness related app and was looking for free/open source exercise lists and imagery I stumbled upon
-[exercises.json](https://github.com/wrkout/exercises.json) which was amazing though the data wasn't structured the way I wanted it and I also wanted a free browsable/searchable frontend to the data inspired by [this issue](https://github.com/wrkout/exercises.json/issues/5) so I restructured the data and built a simple frontend to it :)
+[exercises.json](https://github.com/wrkout/exercises.json) which was amazing though the data wasn't structured the way I wanted it and I also wanted a browsable/searchable frontend to the data inspired by [this issue](https://github.com/wrkout/exercises.json/issues/5) so I restructured the data and built a simple frontend to it :)
 
 ### What do they look like?
 
@@ -34,10 +32,6 @@ All exercises are stored as seperate `JSON` documents and conform to the followi
   "images": [
     "Alternate_Incline_Dumbbell_Curl/0.jpg",
     "Alternate_Incline_Dumbbell_Curl/1.jpg"
-  ],
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternate_Incline_Dumbbell_Curl/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternate_Incline_Dumbbell_Curl/1.jpg"
   ]
 }
 ```
@@ -45,29 +39,45 @@ See [Alternate_Incline_Dumbbell_Curl.json](./exercises/Alternate_Incline_Dumbbel
 
 ### How do I use them?
 
-You can use the `JSON` files independantly or combine them into a single `JSON` file containing an array of objects using the following make task
+You can check the repo out and use the `JSON` files and images locally
+
+#### Alternatively
+
+You can leverage github's hosting and access the single or combined [exercises.json](https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/dist/exercises.json) and prefix any of image path's contained in the `JSON` with `https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/dist/exercises/` to get a hosted version of the image eg. [Air_Bike/0.jpg](https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/0.jpg) or leverage something like [imagekit.io](https://imagekit.io/) for dynamic image resizing which is utlized on the frontend [ example site ](https://github.com/yuhonas/free-exercise-db/blob/main/site/src/components/PhotoGallery.vue#L44-L54)
+
+### Build tasks
+There are a number of helpful [Makefile](./Makefile) tasks that you can utilize
+
+#### Linting
+To lint all the `JSON` files against the [schema.json](./schema.json) use
+
+```
+make lint
+```
+
+#### Combining into a single JSON file
+If you make changes to any of the exercises or add new ones, to recombine all single `JSON` files into a single `JSON` containing an array of objects using the following make task
 
 ```sh
 make dist/exercises.json
 ```
 _Note: requires [jq](https://stedolan.github.io/jq/)_
 
-### Importing into PostgreSQL
-
-To combine all `JSON` files into Newline Delimeted `JSON` suitable for import into PostgreSQL use the following make task
+#### Importing into PostgreSQL
+To combine all `JSON` files into [Newline Delimeted JSON](http://ndjson.org/) suitable for import into PostgreSQL use the following make task
 
 ```sh
 make dist/exercises.nd.json
 ```
 _Note: requires [jq](https://stedolan.github.io/jq/)_
 
-See also [Makefile](./Makefile)
+See also [Importing JSON into PostgreSQL using COPY](https://konbert.com/blog/import-json-into-postgres-using-copy)
 
 ### Browsable frontend
 
 <img src="./site/public/screenshot.png" alt="Screenshot of browsable frontend" width="500">
 
-There is a simple searchable/browsable frontend to the data written in [Vue.js](https://vuejs.org/)  available at [https://yuhonas.github.io/free-exercise-db/](https://yuhonas.github.io/free-exercise-db/), all related code is in the [./site](./site) directory
+There is a simple searchable/browsable frontend to the data written in [Vue.js](https://vuejs.org/)  available at [yuhonas.github.io/free-exercise-db](https://yuhonas.github.io/free-exercise-db/) all related code is in the [site](./site) directory
 
 
 #### Setup

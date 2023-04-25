@@ -25,9 +25,5 @@
     "Rowing_Stationary/0.jpg",
     "Rowing_Stationary/1.jpg"
   ],
-  "id": "Rowing_Stationary",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/1.jpg"
-  ]
+  "id": "Rowing_Stationary"
 }

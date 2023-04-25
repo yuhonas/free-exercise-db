@@ -25,9 +25,5 @@
     "Zercher_Squats/0.jpg",
     "Zercher_Squats/1.jpg"
   ],
-  "id": "Zercher_Squats",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/1.jpg"
-  ]
+  "id": "Zercher_Squats"
 }

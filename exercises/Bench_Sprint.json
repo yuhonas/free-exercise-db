@@ -23,9 +23,5 @@
     "Bench_Sprint/0.jpg",
     "Bench_Sprint/1.jpg"
   ],
-  "id": "Bench_Sprint",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/1.jpg"
-  ]
+  "id": "Bench_Sprint"
 }

@@ -25,9 +25,5 @@
     "Incline_Bench_Pull/0.jpg",
     "Incline_Bench_Pull/1.jpg"
   ],
-  "id": "Incline_Bench_Pull",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Bench_Pull/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Bench_Pull/1.jpg"
-  ]
+  "id": "Incline_Bench_Pull"
 }

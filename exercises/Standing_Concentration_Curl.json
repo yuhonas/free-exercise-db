@@ -21,9 +21,5 @@
     "Standing_Concentration_Curl/0.jpg",
     "Standing_Concentration_Curl/1.jpg"
   ],
-  "id": "Standing_Concentration_Curl",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Concentration_Curl/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Concentration_Curl/1.jpg"
-  ]
+  "id": "Standing_Concentration_Curl"
 }

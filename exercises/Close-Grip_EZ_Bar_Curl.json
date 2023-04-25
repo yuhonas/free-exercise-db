@@ -22,9 +22,5 @@
     "Close-Grip_EZ_Bar_Curl/0.jpg",
     "Close-Grip_EZ_Bar_Curl/1.jpg"
   ],
-  "id": "Close-Grip_EZ_Bar_Curl",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_EZ_Bar_Curl/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_EZ_Bar_Curl/1.jpg"
-  ]
+  "id": "Close-Grip_EZ_Bar_Curl"
 }

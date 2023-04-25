@@ -20,9 +20,5 @@
     "Wrist_Circles/0.jpg",
     "Wrist_Circles/1.jpg"
   ],
-  "id": "Wrist_Circles",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Circles/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Circles/1.jpg"
-  ]
+  "id": "Wrist_Circles"
 }

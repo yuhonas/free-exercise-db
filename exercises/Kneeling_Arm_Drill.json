@@ -21,9 +21,5 @@
     "Kneeling_Arm_Drill/0.jpg",
     "Kneeling_Arm_Drill/1.jpg"
   ],
-  "id": "Kneeling_Arm_Drill",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/1.jpg"
-  ]
+  "id": "Kneeling_Arm_Drill"
 }

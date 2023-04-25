@@ -21,9 +21,5 @@
     "Bicycling_Stationary/0.jpg",
     "Bicycling_Stationary/1.jpg"
   ],
-  "id": "Bicycling_Stationary",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/1.jpg"
-  ]
+  "id": "Bicycling_Stationary"
 }

@@ -19,9 +19,5 @@
     "Lower_Back_Curl/0.jpg",
     "Lower_Back_Curl/1.jpg"
   ],
-  "id": "Lower_Back_Curl",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lower_Back_Curl/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lower_Back_Curl/1.jpg"
-  ]
+  "id": "Lower_Back_Curl"
 }

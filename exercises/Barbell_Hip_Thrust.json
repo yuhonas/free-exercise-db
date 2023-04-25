@@ -21,9 +21,5 @@
     "Barbell_Hip_Thrust/0.jpg",
     "Barbell_Hip_Thrust/1.jpg"
   ],
-  "id": "Barbell_Hip_Thrust",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
-  ]
+  "id": "Barbell_Hip_Thrust"
 }

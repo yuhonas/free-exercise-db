@@ -19,9 +19,5 @@
     "Crucifix/0.jpg",
     "Crucifix/1.jpg"
   ],
-  "id": "Crucifix",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crucifix/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crucifix/1.jpg"
-  ]
+  "id": "Crucifix"
 }

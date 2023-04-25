@@ -22,9 +22,5 @@
     "Bench_Dips/0.jpg",
     "Bench_Dips/1.jpg"
   ],
-  "id": "Bench_Dips",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Dips/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Dips/1.jpg"
-  ]
+  "id": "Bench_Dips"
 }

@@ -20,9 +20,5 @@
     "Seated_Hamstring/0.jpg",
     "Seated_Hamstring/1.jpg"
   ],
-  "id": "Seated_Hamstring",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Hamstring/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Hamstring/1.jpg"
-  ]
+  "id": "Seated_Hamstring"
 }

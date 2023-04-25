@@ -24,9 +24,5 @@
     "Romanian_Deadlift/0.jpg",
     "Romanian_Deadlift/1.jpg"
   ],
-  "id": "Romanian_Deadlift",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
-  ]
+  "id": "Romanian_Deadlift"
 }

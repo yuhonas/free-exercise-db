@@ -24,9 +24,5 @@
     "Box_Jump_Multiple_Response/0.jpg",
     "Box_Jump_Multiple_Response/1.jpg"
   ],
-  "id": "Box_Jump_Multiple_Response",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Box_Jump_Multiple_Response/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Box_Jump_Multiple_Response/1.jpg"
-  ]
+  "id": "Box_Jump_Multiple_Response"
 }

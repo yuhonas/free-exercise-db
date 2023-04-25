@@ -22,9 +22,5 @@
     "Olympic_Squat/0.jpg",
     "Olympic_Squat/1.jpg"
   ],
-  "id": "Olympic_Squat",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Olympic_Squat/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Olympic_Squat/1.jpg"
-  ]
+  "id": "Olympic_Squat"
 }

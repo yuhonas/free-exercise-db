@@ -21,9 +21,5 @@
     "Step_Mill/0.jpg",
     "Step_Mill/1.jpg"
   ],
-  "id": "Step_Mill",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Step_Mill/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Step_Mill/1.jpg"
-  ]
+  "id": "Step_Mill"
 }

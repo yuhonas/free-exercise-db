@@ -22,9 +22,5 @@
     "Superman/0.jpg",
     "Superman/1.jpg"
   ],
-  "id": "Superman",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/1.jpg"
-  ]
+  "id": "Superman"
 }

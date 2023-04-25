@@ -24,9 +24,5 @@
     "Barbell_Rear_Delt_Row/0.jpg",
     "Barbell_Rear_Delt_Row/1.jpg"
   ],
-  "id": "Barbell_Rear_Delt_Row",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Rear_Delt_Row/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Rear_Delt_Row/1.jpg"
-  ]
+  "id": "Barbell_Rear_Delt_Row"
 }

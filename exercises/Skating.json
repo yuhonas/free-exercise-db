@@ -23,9 +23,5 @@
     "Skating/0.jpg",
     "Skating/1.jpg"
   ],
-  "id": "Skating",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Skating/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Skating/1.jpg"
-  ]
+  "id": "Skating"
 }

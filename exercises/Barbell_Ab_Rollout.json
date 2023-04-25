@@ -22,9 +22,5 @@
     "Barbell_Ab_Rollout/0.jpg",
     "Barbell_Ab_Rollout/1.jpg"
   ],
-  "id": "Barbell_Ab_Rollout",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Ab_Rollout/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Ab_Rollout/1.jpg"
-  ]
+  "id": "Barbell_Ab_Rollout"
 }

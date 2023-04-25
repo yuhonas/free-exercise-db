@@ -20,9 +20,5 @@
     "Pull_Through/0.jpg",
     "Pull_Through/1.jpg"
   ],
-  "id": "Pull_Through",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pull_Through/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pull_Through/1.jpg"
-  ]
+  "id": "Pull_Through"
 }

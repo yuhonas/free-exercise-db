@@ -31,9 +31,5 @@
     "Split_Snatch/0.jpg",
     "Split_Snatch/1.jpg"
   ],
-  "id": "Split_Snatch",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Snatch/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Snatch/1.jpg"
-  ]
+  "id": "Split_Snatch"
 }

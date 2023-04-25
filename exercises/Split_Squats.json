@@ -21,9 +21,5 @@
     "Split_Squats/0.jpg",
     "Split_Squats/1.jpg"
   ],
-  "id": "Split_Squats",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squats/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squats/1.jpg"
-  ]
+  "id": "Split_Squats"
 }

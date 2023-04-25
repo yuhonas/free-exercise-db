@@ -28,9 +28,5 @@
     "Tire_Flip/0.jpg",
     "Tire_Flip/1.jpg"
   ],
-  "id": "Tire_Flip",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Tire_Flip/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Tire_Flip/1.jpg"
-  ]
+  "id": "Tire_Flip"
 }

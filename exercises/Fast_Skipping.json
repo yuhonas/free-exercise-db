@@ -24,9 +24,5 @@
     "Fast_Skipping/0.jpg",
     "Fast_Skipping/1.jpg"
   ],
-  "id": "Fast_Skipping",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Fast_Skipping/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Fast_Skipping/1.jpg"
-  ]
+  "id": "Fast_Skipping"
 }

@@ -24,9 +24,5 @@
     "Clock_Push-Up/0.jpg",
     "Clock_Push-Up/1.jpg"
   ],
-  "id": "Clock_Push-Up",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clock_Push-Up/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clock_Push-Up/1.jpg"
-  ]
+  "id": "Clock_Push-Up"
 }

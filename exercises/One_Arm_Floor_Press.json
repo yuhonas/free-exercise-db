@@ -25,9 +25,5 @@
     "One_Arm_Floor_Press/0.jpg",
     "One_Arm_Floor_Press/1.jpg"
   ],
-  "id": "One_Arm_Floor_Press",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Arm_Floor_Press/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Arm_Floor_Press/1.jpg"
-  ]
+  "id": "One_Arm_Floor_Press"
 }

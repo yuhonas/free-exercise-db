@@ -23,9 +23,5 @@
     "Seated_Calf_Raise/0.jpg",
     "Seated_Calf_Raise/1.jpg"
   ],
-  "id": "Seated_Calf_Raise",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Raise/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Raise/1.jpg"
-  ]
+  "id": "Seated_Calf_Raise"
 }

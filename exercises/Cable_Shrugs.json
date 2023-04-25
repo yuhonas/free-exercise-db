@@ -22,9 +22,5 @@
     "Cable_Shrugs/0.jpg",
     "Cable_Shrugs/1.jpg"
   ],
-  "id": "Cable_Shrugs",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Shrugs/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Shrugs/1.jpg"
-  ]
+  "id": "Cable_Shrugs"
 }

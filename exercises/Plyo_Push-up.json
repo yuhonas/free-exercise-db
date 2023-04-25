@@ -24,9 +24,5 @@
     "Plyo_Push-up/0.jpg",
     "Plyo_Push-up/1.jpg"
   ],
-  "id": "Plyo_Push-up",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plyo_Push-up/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plyo_Push-up/1.jpg"
-  ]
+  "id": "Plyo_Push-up"
 }

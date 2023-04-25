@@ -23,9 +23,5 @@
     "Dip_Machine/0.jpg",
     "Dip_Machine/1.jpg"
   ],
-  "id": "Dip_Machine",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/1.jpg"
-  ]
+  "id": "Dip_Machine"
 }

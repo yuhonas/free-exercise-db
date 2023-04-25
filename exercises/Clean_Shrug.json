@@ -20,9 +20,5 @@
     "Clean_Shrug/0.jpg",
     "Clean_Shrug/1.jpg"
   ],
-  "id": "Clean_Shrug",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Shrug/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Shrug/1.jpg"
-  ]
+  "id": "Clean_Shrug"
 }

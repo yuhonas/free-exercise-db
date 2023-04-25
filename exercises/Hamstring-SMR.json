@@ -20,9 +20,5 @@
     "Hamstring-SMR/0.jpg",
     "Hamstring-SMR/1.jpg"
   ],
-  "id": "Hamstring-SMR",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hamstring-SMR/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hamstring-SMR/1.jpg"
-  ]
+  "id": "Hamstring-SMR"
 }

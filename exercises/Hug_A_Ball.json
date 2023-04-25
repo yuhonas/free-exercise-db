@@ -21,9 +21,5 @@
     "Hug_A_Ball/0.jpg",
     "Hug_A_Ball/1.jpg"
   ],
-  "id": "Hug_A_Ball",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hug_A_Ball/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hug_A_Ball/1.jpg"
-  ]
+  "id": "Hug_A_Ball"
 }

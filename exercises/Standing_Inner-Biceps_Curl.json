@@ -24,9 +24,5 @@
     "Standing_Inner-Biceps_Curl/0.jpg",
     "Standing_Inner-Biceps_Curl/1.jpg"
   ],
-  "id": "Standing_Inner-Biceps_Curl",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Inner-Biceps_Curl/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Inner-Biceps_Curl/1.jpg"
-  ]
+  "id": "Standing_Inner-Biceps_Curl"
 }

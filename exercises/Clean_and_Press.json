@@ -33,9 +33,5 @@
     "Clean_and_Press/0.jpg",
     "Clean_and_Press/1.jpg"
   ],
-  "id": "Clean_and_Press",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_and_Press/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_and_Press/1.jpg"
-  ]
+  "id": "Clean_and_Press"
 }

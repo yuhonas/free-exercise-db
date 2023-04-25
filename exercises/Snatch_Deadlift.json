@@ -25,9 +25,5 @@
     "Snatch_Deadlift/0.jpg",
     "Snatch_Deadlift/1.jpg"
   ],
-  "id": "Snatch_Deadlift",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Deadlift/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Deadlift/1.jpg"
-  ]
+  "id": "Snatch_Deadlift"
 }

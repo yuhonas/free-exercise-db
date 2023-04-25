@@ -23,9 +23,5 @@
     "Alternate_Hammer_Curl/0.jpg",
     "Alternate_Hammer_Curl/1.jpg"
   ],
-  "id": "Alternate_Hammer_Curl",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternate_Hammer_Curl/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternate_Hammer_Curl/1.jpg"
-  ]
+  "id": "Alternate_Hammer_Curl"
 }

@@ -24,9 +24,5 @@
     "Smith_Machine_Pistol_Squat/0.jpg",
     "Smith_Machine_Pistol_Squat/1.jpg"
   ],
-  "id": "Smith_Machine_Pistol_Squat",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Pistol_Squat/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Pistol_Squat/1.jpg"
-  ]
+  "id": "Smith_Machine_Pistol_Squat"
 }

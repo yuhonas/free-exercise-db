@@ -23,9 +23,5 @@
     "Svend_Press/0.jpg",
     "Svend_Press/1.jpg"
   ],
-  "id": "Svend_Press",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Svend_Press/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Svend_Press/1.jpg"
-  ]
+  "id": "Svend_Press"
 }

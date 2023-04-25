@@ -23,9 +23,5 @@
     "Sled_Push/0.jpg",
     "Sled_Push/1.jpg"
   ],
-  "id": "Sled_Push",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Push/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Push/1.jpg"
-  ]
+  "id": "Sled_Push"
 }

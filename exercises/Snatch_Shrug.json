@@ -20,9 +20,5 @@
     "Snatch_Shrug/0.jpg",
     "Snatch_Shrug/1.jpg"
   ],
-  "id": "Snatch_Shrug",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Shrug/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Shrug/1.jpg"
-  ]
+  "id": "Snatch_Shrug"
 }

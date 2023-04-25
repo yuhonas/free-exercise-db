@@ -20,9 +20,5 @@
     "Seated_Glute/0.jpg",
     "Seated_Glute/1.jpg"
   ],
-  "id": "Seated_Glute",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/1.jpg"
-  ]
+  "id": "Seated_Glute"
 }

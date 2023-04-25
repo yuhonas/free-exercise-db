@@ -22,9 +22,5 @@
     "Parallel_Bar_Dip/0.jpg",
     "Parallel_Bar_Dip/1.jpg"
   ],
-  "id": "Parallel_Bar_Dip",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Parallel_Bar_Dip/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Parallel_Bar_Dip/1.jpg"
-  ]
+  "id": "Parallel_Bar_Dip"
 }

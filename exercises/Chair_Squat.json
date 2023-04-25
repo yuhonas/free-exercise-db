@@ -25,9 +25,5 @@
     "Chair_Squat/0.jpg",
     "Chair_Squat/1.jpg"
   ],
-  "id": "Chair_Squat",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chair_Squat/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chair_Squat/1.jpg"
-  ]
+  "id": "Chair_Squat"
 }

@@ -22,9 +22,5 @@
     "Cable_Incline_Pushdown/0.jpg",
     "Cable_Incline_Pushdown/1.jpg"
   ],
-  "id": "Cable_Incline_Pushdown",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Incline_Pushdown/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Incline_Pushdown/1.jpg"
-  ]
+  "id": "Cable_Incline_Pushdown"
 }

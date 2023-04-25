@@ -20,9 +20,5 @@
     "Overhead_Triceps/0.jpg",
     "Overhead_Triceps/1.jpg"
   ],
-  "id": "Overhead_Triceps",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Triceps/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Triceps/1.jpg"
-  ]
+  "id": "Overhead_Triceps"
 }

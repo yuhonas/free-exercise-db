@@ -19,9 +19,5 @@
     "Push_Press/0.jpg",
     "Push_Press/1.jpg"
   ],
-  "id": "Push_Press",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Press/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Press/1.jpg"
-  ]
+  "id": "Push_Press"
 }

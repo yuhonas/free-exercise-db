@@ -21,9 +21,5 @@
     "Walking_Treadmill/0.jpg",
     "Walking_Treadmill/1.jpg"
   ],
-  "id": "Walking_Treadmill",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Walking_Treadmill/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Walking_Treadmill/1.jpg"
-  ]
+  "id": "Walking_Treadmill"
 }

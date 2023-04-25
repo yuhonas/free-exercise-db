@@ -24,9 +24,5 @@
     "Board_Press/0.jpg",
     "Board_Press/1.jpg"
   ],
-  "id": "Board_Press",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Board_Press/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Board_Press/1.jpg"
-  ]
+  "id": "Board_Press"
 }

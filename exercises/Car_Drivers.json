@@ -21,9 +21,5 @@
     "Car_Drivers/0.jpg",
     "Car_Drivers/1.jpg"
   ],
-  "id": "Car_Drivers",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Car_Drivers/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Car_Drivers/1.jpg"
-  ]
+  "id": "Car_Drivers"
 }

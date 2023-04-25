@@ -28,9 +28,5 @@
     "Dumbbell_Clean/0.jpg",
     "Dumbbell_Clean/1.jpg"
   ],
-  "id": "Dumbbell_Clean",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Clean/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Clean/1.jpg"
-  ]
+  "id": "Dumbbell_Clean"
 }

@@ -22,9 +22,5 @@
     "Shotgun_Row/0.jpg",
     "Shotgun_Row/1.jpg"
   ],
-  "id": "Shotgun_Row",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Shotgun_Row/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Shotgun_Row/1.jpg"
-  ]
+  "id": "Shotgun_Row"
 }

@@ -21,9 +21,5 @@
     "Leg_Extensions/0.jpg",
     "Leg_Extensions/1.jpg"
   ],
-  "id": "Leg_Extensions",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Extensions/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Extensions/1.jpg"
-  ]
+  "id": "Leg_Extensions"
 }

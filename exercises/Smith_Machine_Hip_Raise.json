@@ -21,9 +21,5 @@
     "Smith_Machine_Hip_Raise/0.jpg",
     "Smith_Machine_Hip_Raise/1.jpg"
   ],
-  "id": "Smith_Machine_Hip_Raise",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Hip_Raise/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Hip_Raise/1.jpg"
-  ]
+  "id": "Smith_Machine_Hip_Raise"
 }

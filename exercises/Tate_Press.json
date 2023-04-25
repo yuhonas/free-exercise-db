@@ -23,9 +23,5 @@
     "Tate_Press/0.jpg",
     "Tate_Press/1.jpg"
   ],
-  "id": "Tate_Press",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Tate_Press/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Tate_Press/1.jpg"
-  ]
+  "id": "Tate_Press"
 }

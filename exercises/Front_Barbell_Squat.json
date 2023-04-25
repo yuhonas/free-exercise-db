@@ -25,9 +25,5 @@
     "Front_Barbell_Squat/0.jpg",
     "Front_Barbell_Squat/1.jpg"
   ],
-  "id": "Front_Barbell_Squat",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Barbell_Squat/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Barbell_Squat/1.jpg"
-  ]
+  "id": "Front_Barbell_Squat"
 }

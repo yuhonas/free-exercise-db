@@ -24,9 +24,5 @@
     "Spider_Curl/0.jpg",
     "Spider_Curl/1.jpg"
   ],
-  "id": "Spider_Curl",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Spider_Curl/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Spider_Curl/1.jpg"
-  ]
+  "id": "Spider_Curl"
 }

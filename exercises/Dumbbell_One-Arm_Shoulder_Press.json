@@ -23,9 +23,5 @@
     "Dumbbell_One-Arm_Shoulder_Press/0.jpg",
     "Dumbbell_One-Arm_Shoulder_Press/1.jpg"
   ],
-  "id": "Dumbbell_One-Arm_Shoulder_Press",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_One-Arm_Shoulder_Press/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_One-Arm_Shoulder_Press/1.jpg"
-  ]
+  "id": "Dumbbell_One-Arm_Shoulder_Press"
 }

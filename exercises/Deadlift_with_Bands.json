@@ -25,9 +25,5 @@
     "Deadlift_with_Bands/0.jpg",
     "Deadlift_with_Bands/1.jpg"
   ],
-  "id": "Deadlift_with_Bands",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Deadlift_with_Bands/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Deadlift_with_Bands/1.jpg"
-  ]
+  "id": "Deadlift_with_Bands"
 }

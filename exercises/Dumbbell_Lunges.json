@@ -23,9 +23,5 @@
     "Dumbbell_Lunges/0.jpg",
     "Dumbbell_Lunges/1.jpg"
   ],
-  "id": "Dumbbell_Lunges",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Lunges/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Lunges/1.jpg"
-  ]
+  "id": "Dumbbell_Lunges"
 }

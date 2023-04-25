@@ -27,9 +27,5 @@
     "Pin_Presses/0.jpg",
     "Pin_Presses/1.jpg"
   ],
-  "id": "Pin_Presses",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pin_Presses/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pin_Presses/1.jpg"
-  ]
+  "id": "Pin_Presses"
 }

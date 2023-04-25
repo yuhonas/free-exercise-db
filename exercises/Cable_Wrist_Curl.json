@@ -23,9 +23,5 @@
     "Cable_Wrist_Curl/0.jpg",
     "Cable_Wrist_Curl/1.jpg"
   ],
-  "id": "Cable_Wrist_Curl",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Wrist_Curl/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Wrist_Curl/1.jpg"
-  ]
+  "id": "Cable_Wrist_Curl"
 }

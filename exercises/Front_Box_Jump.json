@@ -25,9 +25,5 @@
     "Front_Box_Jump/0.jpg",
     "Front_Box_Jump/1.jpg"
   ],
-  "id": "Front_Box_Jump",
-  "imageUrls": [
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/0.jpg",
-    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/1.jpg"
-  ]
+  "id": "Front_Box_Jump"
 }
