@@ -1,7 +1,7 @@
 name: Test, Lint & Deploy Site to Github Pages
 
 env:
-  VITE_BASE_DIR: /free-exercise-db/
+  VITE_BASE_DIR: ${{ github.event.repository.name }}
 
 on:
   # Runs on pushes targeting the default branch
@@ -45,7 +45,7 @@ jobs:
           build: npm run build
           start: npm run preview
           working-directory: site
-          config: baseUrl=http://localhost:4173/free-exercise-db/
+          config: baseUrl=http://localhost:4173/${{ github.event.repository.name }}
 
   deploy:
     needs: [lint,test]
