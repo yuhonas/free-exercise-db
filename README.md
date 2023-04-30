@@ -73,6 +73,10 @@ _Note: requires [jq](https://stedolan.github.io/jq/)_
 
 See also [Importing JSON into PostgreSQL using COPY](https://konbert.com/blog/import-json-into-postgres-using-copy)
 
+### Exploring the data
+
+For a quick no frills way of exploring the data, you can use [lite.datasette.io](https://lite.datasette.io/?json=https://github.com/yuhonas/free-exercise-db/blob/main/dist/exercises.json#/data/exercises?_facet_array=primaryMuscles&_facet=force&_facet=level&_facet=equipment)
+
 ### Browsable frontend
 
 <img src="./site/public/screenshot.png" alt="Screenshot of browsable frontend" width="500">
