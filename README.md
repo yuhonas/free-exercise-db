@@ -37,6 +37,8 @@ All exercises are stored as seperate `JSON` documents and conform to the followi
 ```
 See [Alternate_Incline_Dumbbell_Curl.json](./exercises/Alternate_Incline_Dumbbell_Curl.json)
 
+To further explore the data, you can use [lite.datasette.io](https://lite.datasette.io/?json=https://github.com/yuhonas/free-exercise-db/blob/main/dist/exercises.json#/data/exercises?_facet_array=primaryMuscles&_facet=force&_facet=level&_facet=equipment)
+
 ### How do I use them?
 
 You can check the repo out and use the `JSON` files and images locally
@@ -72,10 +74,6 @@ make dist/exercises.nd.json
 _Note: requires [jq](https://stedolan.github.io/jq/)_
 
 See also [Importing JSON into PostgreSQL using COPY](https://konbert.com/blog/import-json-into-postgres-using-copy)
-
-### Exploring the data
-
-For a quick no frills way of exploring the data, you can use [lite.datasette.io](https://lite.datasette.io/?json=https://github.com/yuhonas/free-exercise-db/blob/main/dist/exercises.json#/data/exercises?_facet_array=primaryMuscles&_facet=force&_facet=level&_facet=equipment)
 
 ### Browsable frontend
 
