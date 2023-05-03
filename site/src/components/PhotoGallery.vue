@@ -49,6 +49,7 @@ export default {
         :srcset="`https://ik.imagekit.io/yuhonas/${photos[currentIndex]} 850w, https://ik.imagekit.io/yuhonas/tr:w-250,h-180/${photos[currentIndex]} 200w`"
         sizes="(min-width: 765px) 200px,
             850px"
+        loading="lazy"
         class="w-full object-cover rounded-t-lg p-2"
         @load="onImageLoad"
       />
