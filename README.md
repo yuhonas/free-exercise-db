@@ -1,6 +1,6 @@
 ## Free Exercise DB 💪  &nbsp; [![Test, Lint & Deploy Site to Github Pages](https://github.com/yuhonas/free-exercise-db/actions/workflows/ci.yaml/badge.svg)](https://github.com/yuhonas/free-exercise-db/actions/workflows/ci.yaml) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
-Open Public Domain Exercise Dataset in `JSON` format, 800+ exercises & images with a browsable public searchable frontend
+Open Public Domain Exercise Dataset in `JSON` format, 800+ exercises with a browsable public searchable frontend
 
 ### Why?
 
