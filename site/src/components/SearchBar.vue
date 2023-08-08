@@ -109,7 +109,7 @@ export default {
       },
       deep: true
     },
-    query(oldValue, newValue) {
+    query(newValue, _) {
       const options = {
         keys: ['id', 'name']
       }
