@@ -50,6 +50,7 @@ jobs:
 
   deploy:
     if: github.ref == 'refs/heads/main'
+    needs: [lint, test]
     # Sets the GITHUB_TOKEN permissions to allow deployment to GitHub Pages
     permissions:
       contents: read
