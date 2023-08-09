@@ -11,6 +11,8 @@ describe('PhotoGallery', () => {
       }
     })
     // it should render an image with example.jpg as the src
-    expect(wrapper.find('img').attributes('src')).toBe('https://www.example.com/3_4_Sit-Up.jpg')
+    expect(wrapper.find('img').attributes('src')).toBe(
+      'https://ik.imagekit.io/yuhonas/https://www.example.com/3_4_Sit-Up.jpg'
+    )
   })
 })
