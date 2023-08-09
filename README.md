@@ -149,7 +149,14 @@ Scanning: 2620 files, 874 items (in 1 specified)
 25 duplicate files (in 22 sets), occupying 809 KB
 ```
 
-### Contribute
+### Contributors
+
+<a href="https://github.com/yuhonas/free-exercise-db/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=yuhonas/free-exercise-db" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
 Contributions are always welcome! Please read the contribution guidelines first.
 
 ### Special Thanks 🙇
