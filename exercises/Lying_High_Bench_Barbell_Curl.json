@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie face forward on a tall flat bench while holding a barbell with a supinated grip (palms facing up). Tip: If you are holding a barbell grab it using a shoulder-width grip and if you are using an E-Z Bar grab it on the inner handles. Your upper body should be positioned in a way that the upper chest is over the end of the bench and the barbell is hanging in front of you with the arms extended and perpendicular to the floor. This will be your starting position.",
     "While keeping the elbows in and the upper arms stationary, curl the weight up in a semi-circular motion as you contract the biceps and exhale. Hold at the top of the movement for a second.",
@@ -21,5 +19,6 @@
     "Lying_High_Bench_Barbell_Curl/0.jpg",
     "Lying_High_Bench_Barbell_Curl/1.jpg"
   ],
-  "id": "Lying_High_Bench_Barbell_Curl"
+  "id": "Lying_High_Bench_Barbell_Curl",
+  "alternateNames": []
 }

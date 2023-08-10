@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "chest"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie down on a flat bench with a dumbbell in one hand resting on top of your thigh. The palm of your hand with the dumbbell in it should be at a neutral grip.",
     "By using your thighs to help you get the dumbbell up, clean the dumbbell so that you can hold it in front of you with your lifting arm being fully extended. Remember to maintain a neutral grip with this exercise. Your non lifting hand should be to the side holding the flat bench for better support. This will be your starting position.",
@@ -23,5 +21,6 @@
     "One-Arm_Flat_Bench_Dumbbell_Flye/0.jpg",
     "One-Arm_Flat_Bench_Dumbbell_Flye/1.jpg"
   ],
-  "id": "One-Arm_Flat_Bench_Dumbbell_Flye"
+  "id": "One-Arm_Flat_Bench_Dumbbell_Flye",
+  "alternateNames": []
 }

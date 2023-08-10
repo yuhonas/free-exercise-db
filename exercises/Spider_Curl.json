@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Start out by setting the bar on the part of the preacher bench that you would normally sit on. Make sure to align the barbell properly so that it is balanced and will not fall off.",
     "Move to the front side of the preacher bench (the part where the arms usually lay) and position yourself to lay at a 45 degree slant with your torso and stomach pressed against the front side of the preacher bench.",
@@ -24,5 +22,6 @@
     "Spider_Curl/0.jpg",
     "Spider_Curl/1.jpg"
   ],
-  "id": "Spider_Curl"
+  "id": "Spider_Curl",
+  "alternateNames": []
 }

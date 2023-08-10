@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "adductors"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie face down with one leg on a foam roll.",
     "Rotate the leg so that the foam roll contacts against your inner thigh. Shift as much weight onto the foam roll as can be tolerated.",
@@ -20,5 +18,6 @@
     "Adductor/0.jpg",
     "Adductor/1.jpg"
   ],
-  "id": "Adductor"
+  "id": "Adductor",
+  "alternateNames": []
 }

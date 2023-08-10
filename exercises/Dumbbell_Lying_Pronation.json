@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "forearms"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie on a flat bench face down with one arm holding a dumbbell and the other hand on top of the bench folded so that you can rest your head on it.",
     "Bend the elbows of the arm holding the dumbbell so that it creates a 90-degree angle between the upper arm and the forearm.",
@@ -23,5 +21,6 @@
     "Dumbbell_Lying_Pronation/0.jpg",
     "Dumbbell_Lying_Pronation/1.jpg"
   ],
-  "id": "Dumbbell_Lying_Pronation"
+  "id": "Dumbbell_Lying_Pronation",
+  "alternateNames": []
 }

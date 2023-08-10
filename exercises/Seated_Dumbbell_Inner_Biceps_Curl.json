@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Sit on the end of a flat bench with a dumbbell in each hand being held at arms length. The elbows should be close to the torso.",
     "Rotate the palms of the hands so that they are facing inward in a neutral position. This will be your starting position.",
@@ -23,5 +21,6 @@
     "Seated_Dumbbell_Inner_Biceps_Curl/0.jpg",
     "Seated_Dumbbell_Inner_Biceps_Curl/1.jpg"
   ],
-  "id": "Seated_Dumbbell_Inner_Biceps_Curl"
+  "id": "Seated_Dumbbell_Inner_Biceps_Curl",
+  "alternateNames": []
 }

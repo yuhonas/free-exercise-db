@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Seat on a flat bench with your back facing a high pulley.",
     "Grasp the cable rope attachment with both hands (with the palms of the hands facing each other) and place your hands securely over both shoulders. Tip: Allow the weight to hyperextend the lower back slightly. This will be your starting position.",
@@ -22,5 +20,6 @@
     "Cable_Seated_Crunch/0.jpg",
     "Cable_Seated_Crunch/1.jpg"
   ],
-  "id": "Cable_Seated_Crunch"
+  "id": "Cable_Seated_Crunch",
+  "alternateNames": []
 }

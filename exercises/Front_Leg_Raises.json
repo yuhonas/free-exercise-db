@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "hamstrings"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand next to a chair or other support, holding on with one hand.",
     "Swing your leg forward, keeping the leg straight. Continue with a downward swing, bringing the leg as far back as your flexibility allows. Repeat 5-10 times, and then switch legs."
@@ -19,5 +17,6 @@
     "Front_Leg_Raises/0.jpg",
     "Front_Leg_Raises/1.jpg"
   ],
-  "id": "Front_Leg_Raises"
+  "id": "Front_Leg_Raises",
+  "alternateNames": []
 }

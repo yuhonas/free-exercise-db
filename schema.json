@@ -114,6 +114,14 @@
         }
       ]
     },
+    "alternateNames": {
+      "type": "array",
+      "items": [
+        {
+          "type": "string"
+        }
+      ]
+    },
     "category": {
       "type": "string",
       "enum": [

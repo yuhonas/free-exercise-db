@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Sit down on the Preacher Curl Machine and select the weight.",
     "Place the back of your upper arms (your triceps) on the preacher pad provided and grab the handles using an underhand grip (palms facing up). Tip: Make sure that when you place the arms on the pad you keep the elbows in. This will be your starting position.",
@@ -22,5 +20,6 @@
     "Machine_Preacher_Curls/0.jpg",
     "Machine_Preacher_Curls/1.jpg"
   ],
-  "id": "Machine_Preacher_Curls"
+  "id": "Machine_Preacher_Curls",
+  "alternateNames": []
 }

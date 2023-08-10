@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Grab a dumbbell and either sit on a military press bench or a utility bench that has a back support on it as you place the dumbbells upright on top of your thighs or stand up straight.",
     "Clean the dumbbell up to bring it to shoulder height and then extend the arm over your head so that the whole arm is perpendicular to the floor and next to your head. The dumbbell should be on top of you. The other hand can be kept fully extended to the side, by the waist, supporting the upper arm that has the dumbbell or grabbing a fixed surface.",
@@ -23,5 +21,6 @@
     "Dumbbell_One-Arm_Triceps_Extension/0.jpg",
     "Dumbbell_One-Arm_Triceps_Extension/1.jpg"
   ],
-  "id": "Dumbbell_One-Arm_Triceps_Extension"
+  "id": "Dumbbell_One-Arm_Triceps_Extension",
+  "alternateNames": []
 }

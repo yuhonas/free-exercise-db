@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie down on a flat bench face up while holding a dumbbell in each arm on top of your thighs.",
     "Bring the dumbbells to the sides with the arms extended and the palms of the hands facing your thighs (neutral grip).",
@@ -22,5 +20,6 @@
     "Lying_Supine_Dumbbell_Curl/0.jpg",
     "Lying_Supine_Dumbbell_Curl/1.jpg"
   ],
-  "id": "Lying_Supine_Dumbbell_Curl"
+  "id": "Lying_Supine_Dumbbell_Curl",
+  "alternateNames": []
 }

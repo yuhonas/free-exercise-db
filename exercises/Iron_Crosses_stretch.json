@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "quadriceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie face down on the floor, with your arms extended out to your side, palms pressed to the floor. This will be your starting position.",
     "To begin, flex one knee and bring that leg across the back of your body, attempting to touch it to the ground near the opposite hand.",
@@ -20,5 +18,6 @@
     "Iron_Crosses_stretch/0.jpg",
     "Iron_Crosses_stretch/1.jpg"
   ],
-  "id": "Iron_Crosses_stretch"
+  "id": "Iron_Crosses_stretch",
+  "alternateNames": []
 }

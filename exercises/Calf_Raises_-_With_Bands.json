@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Grab an exercise band and stand on it with your toes making sure that the length of the band between the foot and the arms is the same for both sides.",
     "While holding the handles of the band, raise the arms to the side of your head as if you were getting ready to perform a shoulder press. The palms should be facing forward with the elbows bent and to the sides. This movement will create tension on the band. This will be your starting position.",
@@ -22,5 +20,6 @@
     "Calf_Raises_-_With_Bands/0.jpg",
     "Calf_Raises_-_With_Bands/1.jpg"
   ],
-  "id": "Calf_Raises_-_With_Bands"
+  "id": "Calf_Raises_-_With_Bands",
+  "alternateNames": []
 }

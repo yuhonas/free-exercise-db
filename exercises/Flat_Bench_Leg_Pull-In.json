@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie on an exercise mat or a flat bench with your legs off the end.",
     "Place your hands either under your glutes with your palms down or by the sides holding on to the bench (or with palms down by the side on an exercise mat). Also extend your legs straight out. This will be your starting position.",
@@ -22,5 +20,6 @@
     "Flat_Bench_Leg_Pull-In/0.jpg",
     "Flat_Bench_Leg_Pull-In/1.jpg"
   ],
-  "id": "Flat_Bench_Leg_Pull-In"
+  "id": "Flat_Bench_Leg_Pull-In",
+  "alternateNames": []
 }

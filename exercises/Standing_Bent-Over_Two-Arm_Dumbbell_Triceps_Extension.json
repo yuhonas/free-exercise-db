@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "With a dumbbell in each hand and the palms facing your torso, bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Make sure that you keep the head up. The upper arms should be close to the torso and parallel to the floor while the forearms are pointing towards the floor as the hands hold the weights. Tip: There should be a 90-degree angle between the forearms and the upper arm. This is your starting position.",
     "Keeping the upper arms stationary, use the triceps to lift the weights as you exhale until the forearms are parallel to the floor and the whole arms are extended. Like many other arm exercises, only the forearm moves.",
@@ -21,5 +19,6 @@
     "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/0.jpg",
     "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/1.jpg"
   ],
-  "id": "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension"
+  "id": "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
+  "alternateNames": []
 }

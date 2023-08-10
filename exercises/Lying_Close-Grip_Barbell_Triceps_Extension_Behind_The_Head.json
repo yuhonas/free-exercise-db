@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "While holding a barbell or EZ Curl bar with a pronated grip (palms facing forward), lie on your back on a flat bench with your head close to the end of the bench. Tip: If you are holding a barbell grab it using a shoulder-width grip and if you are using an E-Z Bar grab it on the inner handles.",
     "Extend your arms in front of you and slowly bring the bar back in a semi circular motion (while keeping the arms extended) to a position over your head. At the end of this step your arms should be overhead and parallel to the floor. This will be your starting position. Tip: Keep your elbows in at all times.",
@@ -22,5 +20,6 @@
     "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head/0.jpg",
     "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head/1.jpg"
   ],
-  "id": "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head"
+  "id": "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head",
+  "alternateNames": []
 }

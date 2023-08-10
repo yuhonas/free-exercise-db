@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abductors"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Place a band around both ankles and another around both knees. There should be enough tension that they are tight when your feet are shoulder width apart.",
     "To begin, take short steps forward alternating your left and right foot.",
@@ -20,5 +18,6 @@
     "Monster_Walk/0.jpg",
     "Monster_Walk/1.jpg"
   ],
-  "id": "Monster_Walk"
+  "id": "Monster_Walk",
+  "alternateNames": []
 }

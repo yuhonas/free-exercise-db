@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "lats"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "From a standing position, place a bent arm against a wall or doorway.",
     "Slowly lean toward your arm until you feel a stretch in your lats."
@@ -19,5 +17,6 @@
     "One_Arm_Against_Wall/0.jpg",
     "One_Arm_Against_Wall/1.jpg"
   ],
-  "id": "One_Arm_Against_Wall"
+  "id": "One_Arm_Against_Wall",
+  "alternateNames": []
 }

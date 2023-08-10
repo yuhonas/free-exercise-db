@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Attach a rope to the bottom pulley of the pulley machine.",
     "Grasping the rope with both hands, extend your arms with your hands directly above your head using a neutral grip (palms facing each other). Your elbows should be in close to your head and the arms should be perpendicular to the floor with the knuckles aimed at the ceiling. This will be your starting position.",
@@ -22,5 +20,6 @@
     "Cable_Rope_Overhead_Triceps_Extension/0.jpg",
     "Cable_Rope_Overhead_Triceps_Extension/1.jpg"
   ],
-  "id": "Cable_Rope_Overhead_Triceps_Extension"
+  "id": "Cable_Rope_Overhead_Triceps_Extension",
+  "alternateNames": []
 }

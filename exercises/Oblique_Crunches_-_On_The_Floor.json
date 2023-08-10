@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Start out by lying on your right side with your legs lying on top of each other. Make sure your knees are bent a little bit.",
     "Place your left hand behind your head.",
@@ -22,5 +20,6 @@
     "Oblique_Crunches_-_On_The_Floor/0.jpg",
     "Oblique_Crunches_-_On_The_Floor/1.jpg"
   ],
-  "id": "Oblique_Crunches_-_On_The_Floor"
+  "id": "Oblique_Crunches_-_On_The_Floor",
+  "alternateNames": []
 }

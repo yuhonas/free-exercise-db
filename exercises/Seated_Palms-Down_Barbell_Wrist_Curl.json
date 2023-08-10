@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "forearms"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Hold a barbell with both hands and your palms facing down; hands spaced about shoulder width.",
     "Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart.",
@@ -22,5 +20,6 @@
     "Seated_Palms-Down_Barbell_Wrist_Curl/0.jpg",
     "Seated_Palms-Down_Barbell_Wrist_Curl/1.jpg"
   ],
-  "id": "Seated_Palms-Down_Barbell_Wrist_Curl"
+  "id": "Seated_Palms-Down_Barbell_Wrist_Curl",
+  "alternateNames": []
 }

@@ -10,13 +10,12 @@
   "secondaryMuscles": [
     "shoulders"
   ],
-  "instructions": [
-
-  ],
+  "instructions": [],
   "category": "strength",
   "images": [
     "Side_Bridge/0.jpg",
     "Side_Bridge/1.jpg"
   ],
-  "id": "Side_Bridge"
+  "id": "Side_Bridge",
+  "alternateNames": []
 }

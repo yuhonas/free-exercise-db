@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Place a bench sideways in front of a high pulley machine.",
     "Hold a straight bar attachment above your head with your hands about 6 inches apart with your palms facing down.",
@@ -24,5 +22,6 @@
     "Kneeling_Cable_Triceps_Extension/0.jpg",
     "Kneeling_Cable_Triceps_Extension/1.jpg"
   ],
-  "id": "Kneeling_Cable_Triceps_Extension"
+  "id": "Kneeling_Cable_Triceps_Extension",
+  "alternateNames": []
 }

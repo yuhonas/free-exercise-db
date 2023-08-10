@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "quadriceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Start by standing with your back about two to three feet away from a bench or step.",
     "Lift one leg behind you and rest your foot on the step,either on your instep or the ball of your foot, whichever you find most comfortable.",
@@ -20,5 +18,6 @@
     "Standing_Elevated_Quad_Stretch/0.jpg",
     "Standing_Elevated_Quad_Stretch/1.jpg"
   ],
-  "id": "Standing_Elevated_Quad_Stretch"
+  "id": "Standing_Elevated_Quad_Stretch",
+  "alternateNames": []
 }

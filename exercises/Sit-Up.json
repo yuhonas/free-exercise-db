@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees.",
     "Place your hands behind your head and lock them together by clasping your fingers. This is the starting position.",
@@ -22,5 +20,6 @@
     "Sit-Up/0.jpg",
     "Sit-Up/1.jpg"
   ],
-  "id": "Sit-Up"
+  "id": "Sit-Up",
+  "alternateNames": []
 }

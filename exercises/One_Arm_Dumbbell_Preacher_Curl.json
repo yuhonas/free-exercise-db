@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Grab a dumbbell with the right arm and place the upper arm on top of the preacher bench or the incline bench. The dumbbell should be held at shoulder length. This will be your starting position.",
     "As you breathe in, slowly lower the dumbbell until your upper arm is extended and the biceps is fully stretched.",
@@ -22,5 +20,6 @@
     "One_Arm_Dumbbell_Preacher_Curl/0.jpg",
     "One_Arm_Dumbbell_Preacher_Curl/1.jpg"
   ],
-  "id": "One_Arm_Dumbbell_Preacher_Curl"
+  "id": "One_Arm_Dumbbell_Preacher_Curl",
+  "alternateNames": []
 }

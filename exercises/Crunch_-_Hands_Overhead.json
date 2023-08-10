@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie on the floor with your back flat and knees bent with around a 60-degree angle between the hamstrings and the calves.",
     "Keep your feet flat on the floor and stretch your arms overhead with your palms crossed. This will be your starting position.",
@@ -22,5 +20,6 @@
     "Crunch_-_Hands_Overhead/0.jpg",
     "Crunch_-_Hands_Overhead/1.jpg"
   ],
-  "id": "Crunch_-_Hands_Overhead"
+  "id": "Crunch_-_Hands_Overhead",
+  "alternateNames": []
 }

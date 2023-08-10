@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "forearms"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Hold a barbell with both hands and your palms facing down; hands spaced about shoulder width. This will be your starting position.",
     "Alternating between each of your hands, perform the movement by extending the wrist as though you were rolling up a newspaper. Continue alternating back and forth until failure.",
@@ -20,5 +18,6 @@
     "Wrist_Rotations_with_Straight_Bar/0.jpg",
     "Wrist_Rotations_with_Straight_Bar/1.jpg"
   ],
-  "id": "Wrist_Rotations_with_Straight_Bar"
+  "id": "Wrist_Rotations_with_Straight_Bar",
+  "alternateNames": []
 }

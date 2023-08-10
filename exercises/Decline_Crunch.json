@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Secure your legs at the end of the decline bench and lie down.",
     "Now place your hands lightly on either side of your head keeping your elbows in. Tip: Don't lock your fingers behind your head.",
@@ -23,5 +21,6 @@
     "Decline_Crunch/0.jpg",
     "Decline_Crunch/1.jpg"
   ],
-  "id": "Decline_Crunch"
+  "id": "Decline_Crunch",
+  "alternateNames": []
 }

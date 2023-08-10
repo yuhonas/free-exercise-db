@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "neck"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Using a muscle roller or a rolling pin, place the roller behind your head and against your neck. Make sure that you do not place the roller directly against the spine, but turned slightly so that the roller is pressed against the muscles to either side of the spine. This will be your starting position.",
     "Starting at the top of your neck, slowly roll down the muscles of your neck, pausing at points of tension for 10-30 seconds."
@@ -19,5 +17,6 @@
     "Neck-SMR/0.jpg",
     "Neck-SMR/1.jpg"
   ],
-  "id": "Neck-SMR"
+  "id": "Neck-SMR",
+  "alternateNames": []
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "hamstrings"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand with your feet close together. Keeping your legs straight, stretch down and put your hands on the floor directly in front of you. This will be your starting position.",
     "Begin by walking your hands forward slowly, alternating your left and your right. As you do so, bend only at the hip, keeping your legs straight.",
@@ -22,5 +20,6 @@
     "Inchworm/0.jpg",
     "Inchworm/1.jpg"
   ],
-  "id": "Inchworm"
+  "id": "Inchworm",
+  "alternateNames": []
 }

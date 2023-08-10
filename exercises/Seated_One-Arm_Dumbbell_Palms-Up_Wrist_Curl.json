@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "forearms"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Sit on a flat bench with a dumbbell in your right hand.",
     "Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart.",
@@ -23,5 +21,6 @@
     "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl/0.jpg",
     "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl/1.jpg"
   ],
-  "id": "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl"
+  "id": "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl",
+  "alternateNames": []
 }

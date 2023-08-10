@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie down on a flat bench holding two dumbbells directly above your shoulders. Your arms should be fully extended and form a 90 degree angle from your torso and the floor.",
     "The palms of your hands should be facing forward, and your elbows should be tucked in. This will be your starting position.",
@@ -21,5 +19,6 @@
     "Dumbbell_Tricep_Extension_-Pronated_Grip/0.jpg",
     "Dumbbell_Tricep_Extension_-Pronated_Grip/1.jpg"
   ],
-  "id": "Dumbbell_Tricep_Extension_-Pronated_Grip"
+  "id": "Dumbbell_Tricep_Extension_-Pronated_Grip",
+  "alternateNames": []
 }

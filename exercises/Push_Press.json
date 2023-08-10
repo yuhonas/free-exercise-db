@@ -11,13 +11,12 @@
     "quadriceps",
     "triceps"
   ],
-  "instructions": [
-
-  ],
+  "instructions": [],
   "category": "olympic weightlifting",
   "images": [
     "Push_Press/0.jpg",
     "Push_Press/1.jpg"
   ],
-  "id": "Push_Press"
+  "id": "Push_Press",
+  "alternateNames": []
 }

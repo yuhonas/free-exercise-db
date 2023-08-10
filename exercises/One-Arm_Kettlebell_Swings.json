@@ -13,13 +13,12 @@
     "lower back",
     "shoulders"
   ],
-  "instructions": [
-
-  ],
+  "instructions": [],
   "category": "strength",
   "images": [
     "One-Arm_Kettlebell_Swings/0.jpg",
     "One-Arm_Kettlebell_Swings/1.jpg"
   ],
-  "id": "One-Arm_Kettlebell_Swings"
+  "id": "One-Arm_Kettlebell_Swings",
+  "alternateNames": []
 }

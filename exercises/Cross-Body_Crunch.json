@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie flat on your back and bend your knees about 60 degrees.",
     "Keep your feet flat on the floor and place your hands loosely behind your head. This will be your starting position.",
@@ -22,5 +20,6 @@
     "Cross-Body_Crunch/0.jpg",
     "Cross-Body_Crunch/1.jpg"
   ],
-  "id": "Cross-Body_Crunch"
+  "id": "Cross-Body_Crunch",
+  "alternateNames": []
 }

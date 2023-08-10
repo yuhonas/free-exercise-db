@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Adjust the handles so that they are fully to the rear. Make an appropriate weight selection and adjust the seat height so the handles are at shoulder level. Grasp the handles with your hands facing inwards. This will be your starting position.",
     "In a semicircular motion, pull your hands out to your side and back, contracting your rear delts.",
@@ -21,5 +19,6 @@
     "Reverse_Machine_Flyes/0.jpg",
     "Reverse_Machine_Flyes/1.jpg"
   ],
-  "id": "Reverse_Machine_Flyes"
+  "id": "Reverse_Machine_Flyes",
+  "alternateNames": []
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "traps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand erect with a dumbbell on each hand (palms facing your torso), arms extended on the sides.",
     "Lift the dumbbells by elevating the shoulders as high as possible while you exhale. Hold the contraction at the top for a second. Tip: The arms should remain extended at all times. Refrain from using the biceps to help lift the dumbbells. Only the shoulders should be moving up and down.",
@@ -21,5 +19,6 @@
     "Dumbbell_Shrug/0.jpg",
     "Dumbbell_Shrug/1.jpg"
   ],
-  "id": "Dumbbell_Shrug"
+  "id": "Dumbbell_Shrug",
+  "alternateNames": []
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "To begin, lie down with your back pressed against the floor or on an exercise mat (optional). Your arms should be fully extended to the sides with your palms facing down. Note: The arms should be stationary the entire time.",
     "With a slight bend at the knees, lift your legs up so that your heels are about 6 inches off the ground. This is the starting position.",
@@ -22,5 +20,6 @@
     "Scissor_Kick/0.jpg",
     "Scissor_Kick/1.jpg"
   ],
-  "id": "Scissor_Kick"
+  "id": "Scissor_Kick",
+  "alternateNames": []
 }

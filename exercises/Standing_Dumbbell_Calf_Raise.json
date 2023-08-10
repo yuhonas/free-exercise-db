@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand with your torso upright holding two dumbbells in your hands by your sides. Place the ball of the foot on a sturdy and stable wooden board (that is around 2-3 inches tall) while your heels extend off and touch the floor. This will be your starting position.",
     "With the toes pointing either straight (to hit all parts equally), inwards (for emphasis on the outer head) or outwards (for emphasis on the inner head), raise the heels off the floor as you exhale by contracting the calves. Hold the top contraction for a second.",
@@ -21,5 +19,6 @@
     "Standing_Dumbbell_Calf_Raise/0.jpg",
     "Standing_Dumbbell_Calf_Raise/1.jpg"
   ],
-  "id": "Standing_Dumbbell_Calf_Raise"
+  "id": "Standing_Dumbbell_Calf_Raise",
+  "alternateNames": []
 }

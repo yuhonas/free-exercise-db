@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "To begin, stand straight with a barbell in your hands. You should grip the bar with palms facing down and a closer than shoulder width grip apart from each other.",
     "Your feet should be shoulder width apart from each other. Your elbows should be slightly bent. This is the starting position.",
@@ -22,5 +20,6 @@
     "Standing_Front_Barbell_Raise_Over_Head/0.jpg",
     "Standing_Front_Barbell_Raise_Over_Head/1.jpg"
   ],
-  "id": "Standing_Front_Barbell_Raise_Over_Head"
+  "id": "Standing_Front_Barbell_Raise_Over_Head",
+  "alternateNames": []
 }

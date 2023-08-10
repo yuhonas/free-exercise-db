@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Hold a dumbbell in each hand and lie back on an incline bench.",
     "The dumbbells should be at arm's length hanging at your sides and your palms should be facing out. This will be your starting position.",
@@ -22,5 +20,6 @@
     "Incline_Inner_Biceps_Curl/0.jpg",
     "Incline_Inner_Biceps_Curl/1.jpg"
   ],
-  "id": "Incline_Inner_Biceps_Curl"
+  "id": "Incline_Inner_Biceps_Curl",
+  "alternateNames": []
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Hold a kettlebell by the handle.",
     "Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulder. Rotate your wrist as you do so, so that the palm faces forward.",
@@ -23,5 +21,6 @@
     "One-Arm_Kettlebell_Clean_and_Jerk/0.jpg",
     "One-Arm_Kettlebell_Clean_and_Jerk/1.jpg"
   ],
-  "id": "One-Arm_Kettlebell_Clean_and_Jerk"
+  "id": "One-Arm_Kettlebell_Clean_and_Jerk",
+  "alternateNames": []
 }

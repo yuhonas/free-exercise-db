@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie down sideways on an incline bench press with a dumbbell in the hand. Make sure the shoulder is pressing against the incline bench and the arm is lying across your body with the palm around your navel.",
     "Hold a dumbbell in your uppermost arm while keeping it extended in front of you parallel to the floor. This is your starting position.",
@@ -23,5 +21,6 @@
     "One-Arm_Incline_Lateral_Raise/0.jpg",
     "One-Arm_Incline_Lateral_Raise/1.jpg"
   ],
-  "id": "One-Arm_Incline_Lateral_Raise"
+  "id": "One-Arm_Incline_Lateral_Raise",
+  "alternateNames": []
 }

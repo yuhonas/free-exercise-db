@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "In a seated position, loop a belt, rope, or band around one foot. This will be your starting position.",
     "With the leg extended and the heel off of the ground, pull on the belt so that the foot is everted, with the outside of the foot being pulled towards you. Hold for 10-20 seconds, and then switch sides."
@@ -19,5 +17,6 @@
     "Posterior_Tibialis_Stretch/0.jpg",
     "Posterior_Tibialis_Stretch/1.jpg"
   ],
-  "id": "Posterior_Tibialis_Stretch"
+  "id": "Posterior_Tibialis_Stretch",
+  "alternateNames": []
 }

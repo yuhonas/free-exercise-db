@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Begin lying on your back with your hands extended above you toward the ceiling.",
     "Bring your feet, knees, and hips up to 90 degrees.",
@@ -24,5 +22,6 @@
     "Dead_Bug/0.jpg",
     "Dead_Bug/1.jpg"
   ],
-  "id": "Dead_Bug"
+  "id": "Dead_Bug",
+  "alternateNames": []
 }
