@@ -4,9 +4,7 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "body only",
-  "primaryMuscles": [
-    "abdominals"
-  ],
+  "primaryMuscles": ["abdominals"],
   "secondaryMuscles": [],
   "instructions": [
     "Lie with your back flat on a bench and your legs extended in front of you off the end.",
@@ -20,5 +18,8 @@
     "Flat_Bench_Lying_Leg_Raise/1.jpg"
   ],
   "id": "Flat_Bench_Lying_Leg_Raise",
-  "alternateNames": []
+  "alternateNames": [
+    "Lying Leg Raise With Lateral Throw Down",
+    "Assisted Lying Leg Raise With Throw Down"
+  ]
 }
