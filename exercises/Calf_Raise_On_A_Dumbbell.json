@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Hang on to a sturdy object for balance and stand on a dumbbell handle, preferably one with round plates so that it rolls as in this manner you have to work harder to stabilize yourself; thus increasing the effectiveness of the exercise.",
     "Now roll your foot slightly forward so that you can get a nice stretch of the calf. This will be your starting position.",
@@ -22,5 +20,6 @@
     "Calf_Raise_On_A_Dumbbell/0.jpg",
     "Calf_Raise_On_A_Dumbbell/1.jpg"
   ],
-  "id": "Calf_Raise_On_A_Dumbbell"
+  "id": "Calf_Raise_On_A_Dumbbell",
+  "alternateNames": []
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Sit back on an incline bench with a dumbbell in each hand held at arms length. Keep your elbows close to your torso and rotate the palms of your hands until they are facing forward. This will be your starting position.",
     "While holding the upper arm stationary, curl the weights forward while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second.",
@@ -21,5 +19,6 @@
     "Incline_Dumbbell_Curl/0.jpg",
     "Incline_Dumbbell_Curl/1.jpg"
   ],
-  "id": "Incline_Dumbbell_Curl"
+  "id": "Incline_Dumbbell_Curl",
+  "alternateNames": []
 }

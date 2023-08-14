@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie flat on your back with your feet flat on the ground or resting on a bench with your knees bent at a 90 degree angle.",
     "Hold a weight to your chest, or you may hold it extended above your torso. This will be your starting position.",
@@ -22,5 +20,6 @@
     "Weighted_Crunches/0.jpg",
     "Weighted_Crunches/1.jpg"
   ],
-  "id": "Weighted_Crunches"
+  "id": "Weighted_Crunches",
+  "alternateNames": []
 }

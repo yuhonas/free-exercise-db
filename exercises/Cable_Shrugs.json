@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "traps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Grasp a cable bar attachment that is attached to a low pulley with a shoulder width or slightly wider overhand (palms facing down) grip.",
     "Stand erect close to the pulley with your arms extended in front of you holding the bar. This will be your starting position.",
@@ -22,5 +20,6 @@
     "Cable_Shrugs/0.jpg",
     "Cable_Shrugs/1.jpg"
   ],
-  "id": "Cable_Shrugs"
+  "id": "Cable_Shrugs",
+  "alternateNames": []
 }

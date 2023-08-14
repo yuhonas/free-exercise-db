@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Adjust the cable to the same height as your elbow. Stand with your left side to the band a couple of feet away.",
     "Grasp the handle with your right hand, and keep your elbow pressed firmly to your side. We recommend you hold a pad or foam roll in place with your elbow to keep it firmly in position.",
@@ -21,5 +19,6 @@
     "External_Rotation_with_Cable/0.jpg",
     "External_Rotation_with_Cable/1.jpg"
   ],
-  "id": "External_Rotation_with_Cable"
+  "id": "External_Rotation_with_Cable",
+  "alternateNames": []
 }

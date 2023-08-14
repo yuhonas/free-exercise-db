@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie down on the floor and secure your feet. Your legs should be bent at the knees.",
     "Place your hands behind or to the side of your head. You will begin with your back on the ground. This will be your starting position.",
@@ -22,5 +20,6 @@
     "3_4_Sit-Up/0.jpg",
     "3_4_Sit-Up/1.jpg"
   ],
-  "id": "3_4_Sit-Up"
+  "id": "3_4_Sit-Up",
+  "alternateNames": []
 }

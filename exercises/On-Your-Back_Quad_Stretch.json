@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "quadriceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie on a flat bench or step, and hang one leg and arm over the side.",
     "Bend the knee and hold the top of the foot. As you do this, be careful not to arch your lower back.",
@@ -21,5 +19,6 @@
     "On-Your-Back_Quad_Stretch/0.jpg",
     "On-Your-Back_Quad_Stretch/1.jpg"
   ],
-  "id": "On-Your-Back_Quad_Stretch"
+  "id": "On-Your-Back_Quad_Stretch",
+  "alternateNames": []
 }

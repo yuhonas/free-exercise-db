@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "lats"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Attach a rope to a high pulley and make your weight selection. Stand a couple feet back from the pulley with your feet staggered and take the rope with both hands. Lean forward from the hip, keeping your back straight, with your arms extended up in front of you. This will be your starting position.",
     "Keeping your arms straight, extend the shoulder to pull the rope down to your thighs.",
@@ -21,5 +19,6 @@
     "Rope_Straight-Arm_Pulldown/0.jpg",
     "Rope_Straight-Arm_Pulldown/1.jpg"
   ],
-  "id": "Rope_Straight-Arm_Pulldown"
+  "id": "Rope_Straight-Arm_Pulldown",
+  "alternateNames": []
 }

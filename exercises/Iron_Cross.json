@@ -15,13 +15,12 @@
     "quadriceps",
     "traps"
   ],
-  "instructions": [
-
-  ],
+  "instructions": [],
   "category": "strength",
   "images": [
     "Iron_Cross/0.jpg",
     "Iron_Cross/1.jpg"
   ],
-  "id": "Iron_Cross"
+  "id": "Iron_Cross",
+  "alternateNames": []
 }

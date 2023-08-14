@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "To begin, set a weight that is comfortable on each side of the pulley machine. Note: Make sure that the amount of weight selected is the same on each side.",
     "Now adjust the height of the pulleys on each side and make sure that they are positioned at a height higher than that of your shoulders.",
@@ -23,5 +21,6 @@
     "Overhead_Cable_Curl/0.jpg",
     "Overhead_Cable_Curl/1.jpg"
   ],
-  "id": "Overhead_Cable_Curl"
+  "id": "Overhead_Cable_Curl",
+  "alternateNames": []
 }

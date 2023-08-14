@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "quadriceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand in front of a low pulley facing forward with one leg next to the pulley and the other one away.",
     "Attach the ankle cuff to the cable and also to the ankle of the leg that is next to the pulley.",
@@ -24,5 +22,6 @@
     "Cable_Hip_Adduction/0.jpg",
     "Cable_Hip_Adduction/1.jpg"
   ],
-  "id": "Cable_Hip_Adduction"
+  "id": "Cable_Hip_Adduction",
+  "alternateNames": []
 }

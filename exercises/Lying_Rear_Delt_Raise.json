@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "While holding a dumbbell in each hand, lay with your chest down on a flat bench.",
     "Position the palms of the hands in a neutral manner (palms facing your torso) as you keep the arms extended with the elbows slightly bent. This will be your starting position.",
@@ -22,5 +20,6 @@
     "Lying_Rear_Delt_Raise/0.jpg",
     "Lying_Rear_Delt_Raise/1.jpg"
   ],
-  "id": "Lying_Rear_Delt_Raise"
+  "id": "Lying_Rear_Delt_Raise",
+  "alternateNames": []
 }

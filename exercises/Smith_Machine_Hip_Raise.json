@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Position a bench in the rack and load the bar to an appropriate weight. Lie down on the bench, placing the bottom of your feet against the bar. Unlock the bar and extend your legs. You may need to use your hands to assist you. For added stability grasp the sides of the Smith Machine. This will be your starting position.",
     "Initiate the movement by rotating your pelvis, flexing your spine to raise your hips off of the bench. Maintain a slight bend in the knees throughout the motion.",
@@ -21,5 +19,6 @@
     "Smith_Machine_Hip_Raise/0.jpg",
     "Smith_Machine_Hip_Raise/1.jpg"
   ],
-  "id": "Smith_Machine_Hip_Raise"
+  "id": "Smith_Machine_Hip_Raise",
+  "alternateNames": []
 }

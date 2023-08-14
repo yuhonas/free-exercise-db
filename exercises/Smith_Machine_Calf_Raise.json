@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Place a block or weight plate below the bar on the Smith machine. Set the bar to a position that best matches your height. Once the correct height is chosen and the bar is loaded, step onto the plates with the balls of your feet and place the bar on the back of your shoulders.",
     "Take the bar with both hands facing forward. Rotate the bar to unrack it. This will be your starting position.",
@@ -22,5 +20,6 @@
     "Smith_Machine_Calf_Raise/0.jpg",
     "Smith_Machine_Calf_Raise/1.jpg"
   ],
-  "id": "Smith_Machine_Calf_Raise"
+  "id": "Smith_Machine_Calf_Raise",
+  "alternateNames": []
 }

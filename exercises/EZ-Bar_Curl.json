@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand up straight while holding an EZ curl bar at the wide outer handle. The palms of your hands should be facing forward and slightly tilted inward due to the shape of the bar. Keep your elbows close to your torso. This will be your starting position.",
     "Now, while keeping your upper arms stationary, exhale and curl the weights forward while contracting the biceps. Focus on only moving your forearms.",
@@ -22,5 +20,6 @@
     "EZ-Bar_Curl/0.jpg",
     "EZ-Bar_Curl/1.jpg"
   ],
-  "id": "EZ-Bar_Curl"
+  "id": "EZ-Bar_Curl",
+  "alternateNames": []
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Take a slightly wider than hip distance stance with your knees slightly bent.",
     "Place your right hand on your right hip to support the spine.",
@@ -21,5 +19,6 @@
     "Standing_Lateral_Stretch/0.jpg",
     "Standing_Lateral_Stretch/1.jpg"
   ],
-  "id": "Standing_Lateral_Stretch"
+  "id": "Standing_Lateral_Stretch",
+  "alternateNames": []
 }

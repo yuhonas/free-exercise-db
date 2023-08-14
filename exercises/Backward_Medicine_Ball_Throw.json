@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "This exercise is best done with a partner. If you lack a partner, the ball can be thrown and retrieved or thrown against a wall.",
     "Begin standing a few meters in front of your partner, both facing the same direction. Begin holding the ball between your legs.",
@@ -21,5 +19,6 @@
     "Backward_Medicine_Ball_Throw/0.jpg",
     "Backward_Medicine_Ball_Throw/1.jpg"
   ],
-  "id": "Backward_Medicine_Ball_Throw"
+  "id": "Backward_Medicine_Ball_Throw",
+  "alternateNames": []
 }

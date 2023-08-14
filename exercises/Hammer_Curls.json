@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand up with your torso upright and a dumbbell on each hand being held at arms length. The elbows should be close to the torso.",
     "The palms of the hands should be facing your torso. This will be your starting position.",
@@ -22,5 +20,6 @@
     "Hammer_Curls/0.jpg",
     "Hammer_Curls/1.jpg"
   ],
-  "id": "Hammer_Curls"
+  "id": "Hammer_Curls",
+  "alternateNames": []
 }

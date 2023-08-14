@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "forearms"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Hold a barbell with both hands and your palms facing up; hands spaced about shoulder width.",
     "Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart. This will be your starting position.",
@@ -21,5 +19,6 @@
     "Finger_Curls/0.jpg",
     "Finger_Curls/1.jpg"
   ],
-  "id": "Finger_Curls"
+  "id": "Finger_Curls",
+  "alternateNames": []
 }

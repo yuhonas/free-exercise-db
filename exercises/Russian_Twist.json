@@ -4,12 +4,8 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": [
-    "abdominals"
-  ],
-  "secondaryMuscles": [
-    "lower back"
-  ],
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": ["lower back"],
   "instructions": [
     "Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees.",
     "Elevate your upper body so that it creates an imaginary V-shape with your thighs. Your arms should be fully extended in front of you perpendicular to your torso and with the hands clasped. This is the starting position.",
@@ -18,9 +14,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Russian_Twist/0.jpg",
-    "Russian_Twist/1.jpg"
-  ],
-  "id": "Russian_Twist"
+  "images": ["Russian_Twist/0.jpg", "Russian_Twist/1.jpg"],
+  "id": "Russian_Twist",
+  "alternateNames": ["Assisted Motion Russian Twist"]
 }

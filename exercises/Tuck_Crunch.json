@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "To begin, lie down on the floor or an exercise mat with your back pressed against the floor. Your arms should be lying across your sides with the palms facing down.",
     "Your legs should be crossed by wrapping one ankle around the other. Slowly elevate your legs up in the air until your thighs are perpendicular to the floor with a slight bend at the knees. Note: Your knees and toes should be parallel to the floor as opposed to the thighs.",
@@ -23,5 +21,6 @@
     "Tuck_Crunch/0.jpg",
     "Tuck_Crunch/1.jpg"
   ],
-  "id": "Tuck_Crunch"
+  "id": "Tuck_Crunch",
+  "alternateNames": []
 }

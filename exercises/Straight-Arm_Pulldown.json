@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "lats"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "You will start by grabbing the wide bar from the top pulley of a pulldown machine and using a wider than shoulder-width pronated (palms down) grip. Step backwards two feet or so.",
     "Bend your torso forward at the waist by around 30-degrees with your arms fully extended in front of you and a slight bend at the elbows. If your arms are not fully extended then you need to step a bit more backwards until they are. Once your arms are fully extended and your torso is slightly bent at the waist, tighten the lats and then you are ready to begin.",
@@ -22,5 +20,6 @@
     "Straight-Arm_Pulldown/0.jpg",
     "Straight-Arm_Pulldown/1.jpg"
   ],
-  "id": "Straight-Arm_Pulldown"
+  "id": "Straight-Arm_Pulldown",
+  "alternateNames": []
 }

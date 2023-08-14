@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand up straight while holding a dumbbell on the left hand (palms facing the torso) as you have the right hand holding your waist. Your feet should be placed at shoulder width. This will be your starting position.",
     "While keeping your back straight and your head up, bend only at the waist to the right as far as possible. Breathe in as you bend to the side. Then hold for a second and come back up to the starting position as you exhale. Tip: Keep the rest of the body stationary.",
@@ -21,5 +19,6 @@
     "Dumbbell_Side_Bend/0.jpg",
     "Dumbbell_Side_Bend/1.jpg"
   ],
-  "id": "Dumbbell_Side_Bend"
+  "id": "Dumbbell_Side_Bend",
+  "alternateNames": []
 }

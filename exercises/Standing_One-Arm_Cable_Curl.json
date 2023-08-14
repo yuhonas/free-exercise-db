@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Start out by grabbing single handle next to the low pulley machine. Make sure you are far enough from the machine so that your arm is supporting the weight.",
     "Make sure that your upper arm is stationary, perpendicular to the floor with elbows in and palms facing forward. Your non lifting arm should be grabbing your waist. This will allow you to keep your balance.",
@@ -23,5 +21,6 @@
     "Standing_One-Arm_Cable_Curl/0.jpg",
     "Standing_One-Arm_Cable_Curl/1.jpg"
   ],
-  "id": "Standing_One-Arm_Cable_Curl"
+  "id": "Standing_One-Arm_Cable_Curl",
+  "alternateNames": []
 }

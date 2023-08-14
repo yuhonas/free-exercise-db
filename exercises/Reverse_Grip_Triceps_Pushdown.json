@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Start by setting a bar attachment (straight or e-z) on a high pulley machine.",
     "Facing the bar attachment, grab it with the palms facing up (supinated grip) at shoulder width. Lower the bar by using your lats until your arms are fully extended by your sides. Tip: Elbows should be in by your sides and your feet should be shoulder width apart from each other. This is the starting position.",
@@ -22,5 +20,6 @@
     "Reverse_Grip_Triceps_Pushdown/0.jpg",
     "Reverse_Grip_Triceps_Pushdown/1.jpg"
   ],
-  "id": "Reverse_Grip_Triceps_Pushdown"
+  "id": "Reverse_Grip_Triceps_Pushdown",
+  "alternateNames": []
 }

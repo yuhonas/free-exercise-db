@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Sit on the machine and place your toes on the lower portion of the platform provided with the heels extending off. Choose the toe positioning of your choice (forward, in, or out) as per the beginning of this chapter.",
     "Place your lower thighs under the lever pad, which will need to be adjusted according to the height of your thighs. Now place your hands on top of the lever pad in order to prevent it from slipping forward.",
@@ -23,5 +21,6 @@
     "Seated_Calf_Raise/0.jpg",
     "Seated_Calf_Raise/1.jpg"
   ],
-  "id": "Seated_Calf_Raise"
+  "id": "Seated_Calf_Raise",
+  "alternateNames": []
 }

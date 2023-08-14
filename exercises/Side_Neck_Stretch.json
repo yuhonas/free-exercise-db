@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "neck"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Start with your shoulders relaxed, gently tilt your head towards your shoulder.",
     "Assist stretch with a gentle pull on the side of the head."
@@ -19,5 +17,6 @@
     "Side_Neck_Stretch/0.jpg",
     "Side_Neck_Stretch/1.jpg"
   ],
-  "id": "Side_Neck_Stretch"
+  "id": "Side_Neck_Stretch",
+  "alternateNames": []
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Adjust the barbell on the smith machine to fit your height and align a raised platform right under the bar.",
     "Stand on the platform with the heels of your feet secured on top of it with the balls of your feet extending off it. Position your toes facing forward with a shoulder width stance.",
@@ -23,5 +21,6 @@
     "Smith_Machine_Reverse_Calf_Raises/0.jpg",
     "Smith_Machine_Reverse_Calf_Raises/1.jpg"
   ],
-  "id": "Smith_Machine_Reverse_Calf_Raises"
+  "id": "Smith_Machine_Reverse_Calf_Raises",
+  "alternateNames": []
 }

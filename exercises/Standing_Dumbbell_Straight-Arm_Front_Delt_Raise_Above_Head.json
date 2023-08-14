@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Hold the dumbbells in front of your thighs, palms facing your thighs.",
     "Keep your arms straight with a slight bend at the elbows but keep them locked. This will be your starting position.",
@@ -22,5 +20,6 @@
     "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head/0.jpg",
     "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head/1.jpg"
   ],
-  "id": "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head"
+  "id": "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head",
+  "alternateNames": []
 }

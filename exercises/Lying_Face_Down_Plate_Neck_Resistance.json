@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "neck"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie face down with your whole body straight on a flat bench while holding a weight plate behind your head. Tip: You will need to position yourself so that your shoulders are slightly above the end of a flat bench in order for the upper chest, neck and face to be off the bench. This will be your starting position.",
     "While keeping the plate secure on the back of your head slowly lower your head (as in saying \"yes\") as you breathe in.",
@@ -21,5 +19,6 @@
     "Lying_Face_Down_Plate_Neck_Resistance/0.jpg",
     "Lying_Face_Down_Plate_Neck_Resistance/1.jpg"
   ],
-  "id": "Lying_Face_Down_Plate_Neck_Resistance"
+  "id": "Lying_Face_Down_Plate_Neck_Resistance",
+  "alternateNames": []
 }

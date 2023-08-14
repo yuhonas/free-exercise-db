@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie flat on your back with your feet resting on an exercise ball and your knees bent at a 90 degree angle.",
     "Place your feet three to four inches apart and point your toes inward so they touch.",
@@ -24,5 +22,6 @@
     "Crunch_-_Legs_On_Exercise_Ball/0.jpg",
     "Crunch_-_Legs_On_Exercise_Ball/1.jpg"
   ],
-  "id": "Crunch_-_Legs_On_Exercise_Ball"
+  "id": "Crunch_-_Legs_On_Exercise_Ball",
+  "alternateNames": []
 }

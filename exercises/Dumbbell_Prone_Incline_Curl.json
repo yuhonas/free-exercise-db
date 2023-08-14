@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Grab a dumbbell on each hand and lie face down on an incline bench with your shoulders near top of the incline. Your knees can rest on the seat or your legs can be straddled to the sides (my preferred way).",
     "Let your arms extend and hang naturally in front of you so that they are perpendicular to the floor.",
@@ -23,5 +21,6 @@
     "Dumbbell_Prone_Incline_Curl/0.jpg",
     "Dumbbell_Prone_Incline_Curl/1.jpg"
   ],
-  "id": "Dumbbell_Prone_Incline_Curl"
+  "id": "Dumbbell_Prone_Incline_Curl",
+  "alternateNames": []
 }
