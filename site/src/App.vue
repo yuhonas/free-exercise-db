@@ -20,18 +20,19 @@ import SearchBar from './components/SearchBar.vue'
         <h1
           class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white"
         >
-          Free Exercise DB
+          Conjunto de ejercicios
         </h1>
         <p
           class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400"
         >
-          This is a frontend to a public domain open data set of over 800+ exercises and photo's,
-          see the
+          Esta es una interfaz para un conjunto de datos abiertos de dominio público de más de 800
+          ejercicios y fotos, consulta el
           <a href="https://www.github.com/yuhonas/free-exercise-db/" class="underline"
-            >repository</a
+            >repositorio</a
           >
-          for more details including how to get the backend data, enjoy 💪
+          para más detalles, incluyendo cómo obtener los datos del backend, disfruta 💪
         </p>
+
         <div
           class="flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4"
         >

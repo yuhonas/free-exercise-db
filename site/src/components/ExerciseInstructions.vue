@@ -31,7 +31,7 @@ export default {
       v-if="index == 0 && !expanded"
       class="inline-flex items-center font-medium text-blue-600 dark:text-blue-500 hover:underline"
     >
-      More
+      Más
       <svg
         aria-hidden="true"
         class="w-5 h-5 ml-1"
