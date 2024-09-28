@@ -149,6 +149,10 @@ Scanning: 2620 files, 874 items (in 1 specified)
 25 duplicate files (in 22 sets), occupying 809 KB
 ```
 
+### TODO
+* convert -delay 13 -loop 0 *.jpg animated.gif
+* ffmpeg -framerate 1 -i %d.jpg -c:v libx264 -r 30 output.mp4
+
 ### Contributors
 
 <a href="https://github.com/yuhonas/free-exercise-db/graphs/contributors">
@@ -162,3 +166,18 @@ Contributions are always welcome! Please read the contribution guidelines first.
 ### Special Thanks 🙇
 * [Ollie Jennings](https://github.com/OllieJennings) for the original dataset at [exercises.json](https://github.com/wrkout/exercises.json)
 * flaticon for the favicon see [Sports-and-competition icons created by Dragon Icons - Flaticon](https://www.flaticon.com/free-icons/sports-and-competition)
+
+
+
+# Target for multiple files
+# ffmpeg -framerate 1 -i $$name/%d.jpg -c:v libx264 -r 15 dist/$$(basename $$name).mp4; \
+
+animations: $(sources)
+		# requires ffmpeg
+		# brew install ffmpeg (for macos)
+
+		# for name in $(basename $^); \
+		# do \
+		# 	convert -delay 60 -loop 0 $$name/*.jpg dist/$$(basename $$name).gif; \
+		# done
+
