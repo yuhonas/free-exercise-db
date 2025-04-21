@@ -193,7 +193,7 @@ export default {
       v-for="exercise in paginatedItems"
       v-bind:key="exercise.name"
       :class="savedItemClasses"
-      class="exercise flex flex-col relative mt-4 items-center justify-between bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl dark:border-gray-700"
+      class="exercise flex flex-col relative mt-4 items-start justify-between bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl dark:border-gray-700"
     >
       <div class="w-full md:h-auto md:w-60">
         <PhotoGallery :photos="exercise.images" />
