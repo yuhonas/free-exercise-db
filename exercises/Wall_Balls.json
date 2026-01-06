@@ -1,0 +1,35 @@
+{
+  "id": "Wall_Balls",
+  "name": "Wall Balls",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "quadriceps",
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "chest",
+    "triceps",
+    "abdominals",
+    "calves"
+  ],
+  "instructions": [
+    "Stand facing a wall about 12-18 inches away, holding a medicine ball at chest height.",
+    "Position your feet shoulder-width apart.",
+    "Lower into a squat position, keeping the medicine ball at chest level.",
+    "Descend until your thighs are parallel to the ground or lower.",
+    "Explosively drive through your heels to stand up.",
+    "As you reach full extension, use the momentum to throw the ball upward to a target on the wall (typically 9-10 feet high).",
+    "Catch the ball on its descent and immediately lower into the next squat.",
+    "Maintain a smooth, continuous rhythm throughout the movement."
+  ],
+  "category": "strength",
+  "images": [
+    "Wall_Balls/0.jpg",
+    "Wall_Balls/1.jpg"
+  ]
+}

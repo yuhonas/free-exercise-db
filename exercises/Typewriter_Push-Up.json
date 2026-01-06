@@ -1,0 +1,32 @@
+{
+  "id": "Typewriter_Push-Up",
+  "name": "Typewriter Push-Up",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "abdominals",
+    "biceps"
+  ],
+  "instructions": [
+    "Begin in a push-up position with hands placed wider than shoulder-width apart.",
+    "Lower your body down, shifting your weight to one side.",
+    "Keep your body low to the ground and shift horizontally across to the other side.",
+    "Your chest should stay close to the ground as you slide from one side to the other.",
+    "Push up from the opposite side.",
+    "Repeat the movement, alternating the direction of the typewriter motion.",
+    "Keep your core engaged and maintain a straight body line throughout.",
+    "This movement mimics the motion of an old typewriter carriage."
+  ],
+  "category": "strength",
+  "images": [
+    "Typewriter_Push-Up/0.jpg",
+    "Typewriter_Push-Up/1.jpg"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "Two-Arm_Kettlebell_Swing",
+  "name": "Two-Arm Kettlebell Swing",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "hamstrings",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "lower back",
+    "quadriceps",
+    "shoulders",
+    "abdominals",
+    "calves"
+  ],
+  "instructions": [
+    "Place a kettlebell on the ground between your feet.",
+    "Stand with feet slightly wider than shoulder-width apart.",
+    "Bend at the hips and knees to grip the kettlebell with both hands.",
+    "Keep your back straight and core engaged.",
+    "Swing the kettlebell back between your legs to generate momentum.",
+    "Drive explosively through your hips to swing the kettlebell forward and up.",
+    "Let the kettlebell rise to about chest or shoulder height.",
+    "Keep your arms relatively straight, letting the hip drive power the movement.",
+    "As the kettlebell descends, hinge at the hips and guide it back between your legs.",
+    "Immediately begin the next repetition in a smooth, rhythmic motion."
+  ],
+  "category": "strength",
+  "images": [
+    "Two-Arm_Kettlebell_Swing/0.jpg",
+    "Two-Arm_Kettlebell_Swing/1.jpg"
+  ]
+}

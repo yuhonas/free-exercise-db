@@ -1,0 +1,33 @@
+{
+  "id": "Fingertip_Push-Up",
+  "name": "Fingertip Push-Up",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest",
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps",
+    "abdominals"
+  ],
+  "instructions": [
+    "Begin in a standard push-up position.",
+    "Instead of placing your palms flat, lift your palms off the ground and balance on your fingertips only.",
+    "Spread your fingers wide for better stability and weight distribution.",
+    "Keep your body in a straight line from head to heels.",
+    "Lower your body down by bending your elbows, maintaining balance on your fingertips.",
+    "Descend until your chest nearly touches the ground.",
+    "Press back up to the starting position.",
+    "This variation significantly strengthens finger, hand, and forearm muscles.",
+    "Begin with modified versions on your knees if needed before progressing to full fingertip push-ups."
+  ],
+  "category": "strength",
+  "images": [
+    "Fingertip_Push-Up/0.jpg",
+    "Fingertip_Push-Up/1.jpg"
+  ]
+}

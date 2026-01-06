@@ -1,0 +1,31 @@
+{
+  "id": "Half_Burpee",
+  "name": "Half Burpee",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps",
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "hamstrings",
+    "calves",
+    "glutes"
+  ],
+  "instructions": [
+    "Begin in a standing position with your feet shoulder-width apart.",
+    "Lower your body into a squat position and place your hands on the floor in front of you.",
+    "Kick your feet back into a plank position, keeping your body in a straight line.",
+    "Skip the push-up and immediately jump your feet back to the squat position.",
+    "Explosively jump up into the air, reaching your arms overhead.",
+    "Land softly and begin the next repetition."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Half_Burpee/0.jpg",
+    "Half_Burpee/1.jpg"
+  ]
+}

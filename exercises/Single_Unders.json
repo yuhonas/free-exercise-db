@@ -1,0 +1,31 @@
+{
+  "id": "Single_Unders",
+  "name": "Single Unders",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "calves",
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "forearms"
+  ],
+  "instructions": [
+    "Hold a jump rope with both hands, positioning the rope behind your feet.",
+    "Stand with feet together and elbows close to your sides.",
+    "Swing the rope over your head using wrist rotation.",
+    "Jump just high enough for the rope to pass under your feet once.",
+    "Land softly on the balls of your feet with knees slightly bent.",
+    "Keep your jumps low and quick, maintaining a steady rhythm.",
+    "Keep your core engaged and maintain an upright posture.",
+    "Continue for the desired duration or number of repetitions."
+  ],
+  "category": "cardio",
+  "images": [
+    "Single_Unders/0.jpg",
+    "Single_Unders/1.jpg"
+  ]
+}

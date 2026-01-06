@@ -1,0 +1,33 @@
+{
+  "id": "Burpee",
+  "name": "Burpee",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps",
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps",
+    "hamstrings",
+    "abdominals",
+    "calves"
+  ],
+  "instructions": [
+    "Begin in a standing position with your feet shoulder-width apart.",
+    "Lower your body into a squat position and place your hands on the floor in front of you.",
+    "Kick your feet back into a push-up position.",
+    "Perform one push-up, keeping your body in a straight line.",
+    "Jump your feet back to the squat position.",
+    "Explosively jump up into the air, reaching your arms overhead.",
+    "Land softly and immediately begin the next repetition."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Burpee/0.jpg",
+    "Burpee/1.jpg"
+  ]
+}

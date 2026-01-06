@@ -1,0 +1,31 @@
+{
+  "id": "Jumping_Jacks",
+  "name": "Jumping Jacks",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps",
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "hamstrings",
+    "glutes",
+    "abdominals"
+  ],
+  "instructions": [
+    "Stand upright with your feet together and arms at your sides.",
+    "Jump up and simultaneously spread your feet wider than shoulder-width apart.",
+    "As you jump, raise your arms out to the sides and overhead until your hands nearly touch.",
+    "Jump again and return to the starting position with feet together and arms at your sides.",
+    "Continue jumping in a rhythmic motion, maintaining a steady pace.",
+    "Breathe steadily throughout the movement."
+  ],
+  "category": "cardio",
+  "images": [
+    "Jumping_Jacks/0.jpg",
+    "Jumping_Jacks/1.jpg"
+  ]
+}

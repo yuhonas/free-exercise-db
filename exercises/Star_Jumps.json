@@ -1,0 +1,34 @@
+{
+  "id": "Star_Jumps",
+  "name": "Star Jumps",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps",
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "hamstrings",
+    "glutes",
+    "abdominals",
+    "chest"
+  ],
+  "instructions": [
+    "Stand with feet together and arms at your sides.",
+    "Bend your knees slightly to prepare for the jump.",
+    "Explosively jump up as high as possible.",
+    "As you jump, spread your arms and legs out wide to form a star shape in the air.",
+    "Fully extend your limbs at the peak of the jump.",
+    "Bring your arms and legs back together as you descend.",
+    "Land softly with knees bent to absorb the impact.",
+    "Immediately prepare for the next repetition."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Star_Jumps/0.jpg",
+    "Star_Jumps/1.jpg"
+  ]
+}

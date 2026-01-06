@@ -1,0 +1,32 @@
+{
+  "id": "Dive_Bomber_Push-Up",
+  "name": "Dive Bomber Push-Up",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "abdominals",
+    "lower back"
+  ],
+  "instructions": [
+    "Begin in a downward dog yoga position with hips raised high and hands and feet on the ground.",
+    "Keep your legs and arms relatively straight.",
+    "Swoop your body down and forward in an arcing motion.",
+    "As you move forward, bend your arms and bring your chest close to the ground.",
+    "Continue the arc upward into an upward dog position, fully extending your arms.",
+    "Your hips should now be low and your chest up.",
+    "Reverse the motion by pushing back through the same arc to return to the starting position.",
+    "This creates a fluid, continuous movement working shoulders, chest, and core."
+  ],
+  "category": "strength",
+  "images": [
+    "Dive_Bomber_Push-Up/0.jpg",
+    "Dive_Bomber_Push-Up/1.jpg"
+  ]
+}
