@@ -1,0 +1,11 @@
+[build]
+  publish = "site/dist"
+  command = "make dist/exercises.json && cd site && npm install && npm run build"
+
+[build.environment]
+  NODE_VERSION = "18"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
