@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "buildCommand": "make dist/exercises.json && cd site && npm install && npm run build",
+  "outputDirectory": "site/dist",
+  "framework": "vite",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

@@ -28,11 +28,10 @@ export default {
     }
   },
   computed: {
-    // TODO: Refactor this, it's a mess
     savedItemClasses() {
-      let color = this.showSavedExercises ? 'blue' : 'gray'
+      const color = this.showSavedExercises ? 'blue' : 'gray'
 
-      let colors = {
+      return {
         [`bg-${color}-700`]: true,
         [`hover:bg-${color}-800`]: true,
         [`dark:bg-${color}-800`]: true,
@@ -40,8 +39,6 @@ export default {
         [`dark:focus:ring-${color}-800`]: true,
         [`focus:ring-${color}-300`]: true
       }
-
-      return colors
     },
     paginatedItems() {
       const startIndex = this.currentPage * this.pageSize
@@ -88,8 +85,6 @@ export default {
     window.addEventListener('scroll', () => {
       if (window.scrollY + window.innerHeight >= document.documentElement.scrollHeight) {
         if (this.totalPages() >= this.currentPage + 1) {
-          // FIXME: Add a slight delay to the endless scroll
-          // as it causes repaint issues otherwise
           setTimeout(() => {
             this.currentPage = this.currentPage + 1
           }, 400)
@@ -109,7 +104,7 @@ export default {
       },
       deep: true
     },
-    query(newValue, _) {
+    query(newValue) {
       const options = {
         keys: ['id', 'name']
       }
