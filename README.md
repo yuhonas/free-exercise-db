@@ -75,6 +75,10 @@ _Note: requires [jq](https://stedolan.github.io/jq/)_
 
 See also [Importing JSON into PostgreSQL using COPY](https://konbert.com/blog/import-json-into-postgres-using-copy)
 
+### Projects using this dataset
+
+- [WorkoutPartna Exercise Library](https://workoutpartna.com/exercises) — free browsable library of all 800+ exercises with photos & step-by-step instructions, used by an AI daily-coach app to illustrate generated workouts
+
 ### Browsable frontend
 
 <img src="./site/public/screenshot.png" alt="Screenshot of browsable frontend" width="500">
