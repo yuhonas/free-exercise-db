@@ -1,0 +1,27 @@
+{
+  "id": "Kettlebell_Halo_With_Overhead_Extension",
+  "name": "Kettlebell Halo with Overhead Extension",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "traps",
+    "middle back",
+    "abdominals"
+  ],
+  "instructions": [
+    "Stand tall with your feet hip-width apart. Hold a kettlebell upside down by the horns, with the bell above your hands and close to your chest. Brace your abdominals and squeeze your glutes so your ribcage stays down. This is your starting position.",
+    "Keeping your elbows close to your head, move the kettlebell up past one ear and around until it sits behind your head. Pause here.",
+    "From this position, extend your elbows to press the kettlebell up and overhead until your arms are straight, keeping your upper arms alongside your head.",
+    "Bend your elbows to lower the kettlebell back to the pause position behind your head, under control.",
+    "Continue the circle past the opposite ear and back down to the starting position in front of your chest to complete one repetition.",
+    "Alternate the direction of the circle on each repetition. Keep your head, hips and lower back still throughout; if your lower back arches or you cannot reach the overhead position without leaning back, use a lighter weight or perform the halo and the extension as separate exercises."
+  ],
+  "category": "strength",
+  "images": []
+}
