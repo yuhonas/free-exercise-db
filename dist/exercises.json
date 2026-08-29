@@ -9703,6 +9703,32 @@
     "id": "Kettlebell_Figure_8"
   },
   {
+    "id": "Kettlebell_Halo",
+    "name": "Kettlebell Halo",
+    "force": null,
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "kettlebells",
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "traps",
+      "middle back",
+      "abdominals",
+      "triceps"
+    ],
+    "instructions": [
+      "Stand tall with your feet hip-width apart. Hold a kettlebell upside down by the horns, with the bell above your hands and close to your chest. Brace your abdominals and squeeze your glutes so your ribcage stays down. This is your starting position.",
+      "Keeping your elbows close to your head, move the kettlebell up past one ear and around behind your head.",
+      "Continue the circle past the opposite ear and back down to the starting position in front of your chest, letting the bell pass close to your body throughout.",
+      "Complete the prescribed number of circles in one direction, then repeat the same number in the opposite direction.",
+      "Move slowly and keep your head, hips and lower back still. If your lower back arches or the bell drifts far from your head, use a lighter weight."
+    ],
+    "category": "strength",
+    "images": []
+  },
+  {
     "id": "Kettlebell_Halo_With_Overhead_Extension",
     "name": "Kettlebell Halo with Overhead Extension",
     "force": "push",
@@ -9725,32 +9751,6 @@
       "Bend your elbows to lower the kettlebell back to the pause position behind your head, under control.",
       "Continue the circle past the opposite ear and back down to the starting position in front of your chest to complete one repetition.",
       "Alternate the direction of the circle on each repetition. Keep your head, hips and lower back still throughout; if your lower back arches or you cannot reach the overhead position without leaning back, use a lighter weight or perform the halo and the extension as separate exercises."
-    ],
-    "category": "strength",
-    "images": []
-  },
-  {
-    "id": "Kettlebell_Halo",
-    "name": "Kettlebell Halo",
-    "force": null,
-    "level": "beginner",
-    "mechanic": "compound",
-    "equipment": "kettlebells",
-    "primaryMuscles": [
-      "shoulders"
-    ],
-    "secondaryMuscles": [
-      "traps",
-      "middle back",
-      "abdominals",
-      "triceps"
-    ],
-    "instructions": [
-      "Stand tall with your feet hip-width apart. Hold a kettlebell upside down by the horns, with the bell above your hands and close to your chest. Brace your abdominals and squeeze your glutes so your ribcage stays down. This is your starting position.",
-      "Keeping your elbows close to your head, move the kettlebell up past one ear and around behind your head.",
-      "Continue the circle past the opposite ear and back down to the starting position in front of your chest, letting the bell pass close to your body throughout.",
-      "Complete the prescribed number of circles in one direction, then repeat the same number in the opposite direction.",
-      "Move slowly and keep your head, hips and lower back still. If your lower back arches or the bell drifts far from your head, use a lighter weight."
     ],
     "category": "strength",
     "images": []
