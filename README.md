@@ -66,7 +66,7 @@ make dist/exercises.json
 _Note: requires [jq](https://stedolan.github.io/jq/)_
 
 #### Importing into PostgreSQL
-To combine all `JSON` files into [Newline Delimeted JSON](http://ndjson.org/) suitable for import into PostgreSQL use the following make task
+To combine all `JSON` files into [Newline Delimeted JSON](https://en.wikipedia.org/wiki/JSON_streaming#Newline-delimited_JSON) suitable for import into PostgreSQL use the following make task
 
 ```sh
 make dist/exercises.nd.json

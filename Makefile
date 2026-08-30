@@ -1,6 +1,6 @@
 .PHONY: lint check_dupes install
 
-sources :=$(wildcard ./exercises/**.json)
+sources := $(sort $(wildcard ./exercises/**.json))
 
 lint:
 		check-jsonschema --schemafile ./schema.json $(sources)
