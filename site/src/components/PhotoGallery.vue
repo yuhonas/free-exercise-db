@@ -28,7 +28,6 @@ export default {
     }
   },
   methods: {
-    // NOTE: Assumes we have more then one image
     nextPhoto(event) {
       event.preventDefault()
       if (!this.hasPhotos) {
