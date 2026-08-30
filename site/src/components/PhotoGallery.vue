@@ -1,5 +1,6 @@
 <script>
 import { ArrowPathIcon } from '@heroicons/vue/24/solid'
+import placeholderUrl from '@/assets/placeholder.svg'
 
 export default {
   components: {
@@ -15,7 +16,7 @@ export default {
     return {
       currentIndex: 0,
       loading: false,
-      placeholderUrl: `${import.meta.env.BASE_URL}placeholder.svg`
+      placeholderUrl
     }
   },
   computed: {
