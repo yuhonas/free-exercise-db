@@ -1,0 +1,31 @@
+{
+  "id": "Diamond_Push-Up",
+  "name": "Diamond Push-Up",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders",
+    "abdominals"
+  ],
+  "instructions": [
+    "Begin in a push-up position.",
+    "Place your hands close together directly under your chest, forming a diamond or triangle shape with your index fingers and thumbs touching.",
+    "Keep your body in a straight line from head to heels.",
+    "Lower your chest down toward your hands, keeping your elbows close to your body.",
+    "Descend until your chest nearly touches your hands.",
+    "Press back up to the starting position, fully extending your arms.",
+    "Keep your core engaged throughout the movement.",
+    "This variation places greater emphasis on the triceps compared to standard push-ups."
+  ],
+  "category": "strength",
+  "images": [
+    "Diamond_Push-Up/0.jpg",
+    "Diamond_Push-Up/1.jpg"
+  ]
+}

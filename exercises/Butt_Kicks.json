@@ -1,0 +1,31 @@
+{
+  "id": "Butt_Kicks",
+  "name": "Butt Kicks",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes"
+  ],
+  "instructions": [
+    "Stand upright with your feet hip-width apart.",
+    "Begin running in place, kicking your heels up towards your glutes.",
+    "Aim to touch your heels to your buttocks with each kick.",
+    "Keep your thighs relatively stationary and focus on the knee bend.",
+    "Pump your arms naturally in rhythm with your legs.",
+    "Land softly on the balls of your feet.",
+    "Maintain an upright posture with your core engaged.",
+    "Continue for the desired duration or number of repetitions."
+  ],
+  "category": "cardio",
+  "images": [
+    "Butt_Kicks/0.jpg",
+    "Butt_Kicks/1.jpg"
+  ]
+}

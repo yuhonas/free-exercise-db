@@ -1,0 +1,32 @@
+{
+  "id": "Hollow_Body_Hold",
+  "name": "Hollow Body Hold",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lower back"
+  ],
+  "instructions": [
+    "Lie on your back on the floor with arms extended overhead.",
+    "Press your lower back firmly into the floor, engaging your core.",
+    "Lift your shoulders and legs off the ground simultaneously.",
+    "Keep your arms straight and by your ears, legs straight and together.",
+    "Your body should form a slight curve or 'hollow' shape.",
+    "Only your lower back and glutes should be in contact with the floor.",
+    "Keep your chin tucked slightly and look at your thighs.",
+    "Hold this position for the prescribed time while maintaining tension.",
+    "Breathe steadily throughout the hold.",
+    "If too difficult, bend your knees or keep your arms at your sides.",
+    "This is a fundamental gymnastics position that builds tremendous core strength."
+  ],
+  "category": "strength",
+  "images": [
+    "Hollow_Body_Hold/0.jpg",
+    "Hollow_Body_Hold/1.jpg"
+  ]
+}

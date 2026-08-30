@@ -1,0 +1,32 @@
+{
+  "id": "Double_Unders",
+  "name": "Double Unders",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "calves",
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "forearms",
+    "abdominals"
+  ],
+  "instructions": [
+    "Hold a jump rope with both hands, positioning the rope behind your feet.",
+    "Stand with feet together and elbows close to your sides.",
+    "Jump slightly higher than a normal jump rope skip.",
+    "As you jump, quickly rotate your wrists to spin the rope fast enough to pass under your feet twice before landing.",
+    "Keep your jumps consistent and your core tight.",
+    "Focus on wrist rotation rather than large arm movements.",
+    "Land softly on the balls of your feet with knees slightly bent.",
+    "Maintain a steady breathing rhythm throughout."
+  ],
+  "category": "cardio",
+  "images": [
+    "Double_Unders/0.jpg",
+    "Double_Unders/1.jpg"
+  ]
+}

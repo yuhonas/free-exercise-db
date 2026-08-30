@@ -13,7 +13,7 @@
       "Lie down on the floor and secure your feet. Your legs should be bent at the knees.",
       "Place your hands behind or to the side of your head. You will begin with your back on the ground. This will be your starting position.",
       "Flex your hips and spine to raise your torso toward your knees.",
-      "At the top of the contraction your torso should be perpendicular to the ground. Reverse the motion, going only ¾ of the way down.",
+      "At the top of the contraction your torso should be perpendicular to the ground. Reverse the motion, going only \u00be of the way down.",
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
@@ -3077,7 +3077,7 @@
     "secondaryMuscles": [],
     "instructions": [
       "Sit next to a low pulley sideways (with legs stretched in front of you or crossed) and grasp the single hand cable attachment with the arm nearest to the cable. Tip: If you can adjust the pulley's height, you can use a flat bench to sit on instead.",
-      "Position the elbow against your side with the elbow bent at 90° and the arm pointing towards the pulley. This will be your starting position.",
+      "Position the elbow against your side with the elbow bent at 90\u00b0 and the arm pointing towards the pulley. This will be your starting position.",
       "Pull the single hand cable attachment toward your body by internally rotating your shoulder until your forearm is across your abs. You will be creating an imaginary semi-circle. Tip: The forearm should be perpendicular to your torso at all times.",
       "Slowly go back to the initial position.",
       "Repeat for the recommended amount of repetitions and then repeat the movement with the next arm."
@@ -13679,7 +13679,7 @@
       "triceps"
     ],
     "instructions": [
-      "Connect a standard handle to a tower, and—if possible—position the cable to shoulder height. If not, a low pulley will suffice.",
+      "Connect a standard handle to a tower, and\u2014if possible\u2014position the cable to shoulder height. If not, a low pulley will suffice.",
       "With your side to the cable, grab the handle with both hands and step away from the tower. You should be approximately arm's length away from the pulley, with the tension of the weight on the cable.",
       "With your feet positioned hip-width apart and knees slightly bent, hold the cable to the middle of your chest. This will be your starting position.",
       "Press the cable away from your chest, fully extending both arms. You core should be tight and engaged.",
@@ -17865,7 +17865,7 @@
     ],
     "instructions": [
       "Roller skating is a fun activity which can be effective in improving cardiorespiratory fitness and muscular endurance. It requires relatively good balance and coordination. It is necessary to learn the basics of skating including turning and stopping and to wear protective gear to avoid possible injury.",
-      "You can skate at a comfortable pace for 30 minutes straight. If you want a cardio challenge, do interval skating — speed skate two minutes of every five minutes, using the remaining three minutes to recover. A 150 lb person will typically burn about 175 calories in 30 minutes skating at a comfortable pace, similar to brisk walking."
+      "You can skate at a comfortable pace for 30 minutes straight. If you want a cardio challenge, do interval skating \u2014 speed skate two minutes of every five minutes, using the remaining three minutes to recover. A 150 lb person will typically burn about 175 calories in 30 minutes skating at a comfortable pace, similar to brisk walking."
     ],
     "category": "cardio",
     "images": [
@@ -22690,5 +22690,762 @@
       "Zottman_Preacher_Curl/1.jpg"
     ],
     "id": "Zottman_Preacher_Curl"
+  },
+  {
+    "id": "Burpee",
+    "name": "Burpee",
+    "force": "push",
+    "level": "intermediate",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps",
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps",
+      "hamstrings",
+      "abdominals",
+      "calves"
+    ],
+    "instructions": [
+      "Begin in a standing position with your feet shoulder-width apart.",
+      "Lower your body into a squat position and place your hands on the floor in front of you.",
+      "Kick your feet back into a push-up position.",
+      "Perform one push-up, keeping your body in a straight line.",
+      "Jump your feet back to the squat position.",
+      "Explosively jump up into the air, reaching your arms overhead.",
+      "Land softly and immediately begin the next repetition."
+    ],
+    "category": "plyometrics",
+    "images": [
+      "Burpee/0.jpg",
+      "Burpee/1.jpg"
+    ]
+  },
+  {
+    "id": "Burpee_Box_Jump",
+    "name": "Burpee Box Jump",
+    "force": "push",
+    "level": "expert",
+    "mechanic": "compound",
+    "equipment": "other",
+    "primaryMuscles": [
+      "quadriceps",
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps",
+      "hamstrings",
+      "abdominals",
+      "calves",
+      "glutes"
+    ],
+    "instructions": [
+      "Stand facing a sturdy box or platform with your feet shoulder-width apart.",
+      "Perform a standard burpee: drop into a squat, place hands on the floor, kick feet back into a push-up position.",
+      "Complete one push-up.",
+      "Jump your feet back to the squat position.",
+      "Instead of jumping straight up, explosively jump onto the box, landing with both feet simultaneously.",
+      "Stand fully upright on the box.",
+      "Step down carefully from the box and immediately begin the next repetition."
+    ],
+    "category": "plyometrics",
+    "images": [
+      "Burpee_Box_Jump/0.jpg",
+      "Burpee_Box_Jump/1.jpg"
+    ]
+  },
+  {
+    "id": "Burpee_Pull-Up",
+    "name": "Burpee Pull-Up",
+    "force": "push",
+    "level": "expert",
+    "mechanic": "compound",
+    "equipment": "other",
+    "primaryMuscles": [
+      "quadriceps",
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders",
+      "triceps",
+      "hamstrings",
+      "abdominals",
+      "biceps",
+      "middle back"
+    ],
+    "instructions": [
+      "Stand directly under a pull-up bar with feet shoulder-width apart.",
+      "Drop into a squat and place your hands on the floor.",
+      "Kick your feet back into a push-up position.",
+      "Perform one push-up.",
+      "Jump your feet back to the squat position.",
+      "Explosively jump up and grab the pull-up bar with both hands.",
+      "Immediately perform one pull-up, bringing your chin above the bar.",
+      "Drop down from the bar and land softly, then begin the next repetition."
+    ],
+    "category": "strength",
+    "images": [
+      "Burpee_Pull-Up/0.jpg",
+      "Burpee_Pull-Up/1.jpg"
+    ]
+  },
+  {
+    "id": "Half_Burpee",
+    "name": "Half Burpee",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps",
+      "abdominals"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "hamstrings",
+      "calves",
+      "glutes"
+    ],
+    "instructions": [
+      "Begin in a standing position with your feet shoulder-width apart.",
+      "Lower your body into a squat position and place your hands on the floor in front of you.",
+      "Kick your feet back into a plank position, keeping your body in a straight line.",
+      "Skip the push-up and immediately jump your feet back to the squat position.",
+      "Explosively jump up into the air, reaching your arms overhead.",
+      "Land softly and begin the next repetition."
+    ],
+    "category": "plyometrics",
+    "images": [
+      "Half_Burpee/0.jpg",
+      "Half_Burpee/1.jpg"
+    ]
+  },
+  {
+    "id": "Burpee_Broad_Jump",
+    "name": "Burpee Broad Jump",
+    "force": "push",
+    "level": "expert",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps",
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps",
+      "hamstrings",
+      "abdominals",
+      "calves",
+      "glutes"
+    ],
+    "instructions": [
+      "Begin in a standing position with your feet shoulder-width apart.",
+      "Drop into a squat and place your hands on the floor in front of you.",
+      "Kick your feet back into a push-up position.",
+      "Perform one push-up, keeping your body in a straight line.",
+      "Jump your feet back to the squat position.",
+      "Instead of jumping vertically, explosively jump forward as far as possible (broad jump).",
+      "Land softly with knees bent to absorb the impact.",
+      "Turn around and immediately begin the next repetition."
+    ],
+    "category": "plyometrics",
+    "images": [
+      "Burpee_Broad_Jump/0.jpg",
+      "Burpee_Broad_Jump/1.jpg"
+    ]
+  },
+  {
+    "id": "Jumping_Jacks",
+    "name": "Jumping Jacks",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "hamstrings",
+      "glutes",
+      "abdominals"
+    ],
+    "instructions": [
+      "Stand upright with your feet together and arms at your sides.",
+      "Jump up and simultaneously spread your feet wider than shoulder-width apart.",
+      "As you jump, raise your arms out to the sides and overhead until your hands nearly touch.",
+      "Jump again and return to the starting position with feet together and arms at your sides.",
+      "Continue jumping in a rhythmic motion, maintaining a steady pace.",
+      "Breathe steadily throughout the movement."
+    ],
+    "category": "cardio",
+    "images": [
+      "Jumping_Jacks/0.jpg",
+      "Jumping_Jacks/1.jpg"
+    ]
+  },
+  {
+    "id": "Star_Jumps",
+    "name": "Star Jumps",
+    "force": "push",
+    "level": "intermediate",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "hamstrings",
+      "glutes",
+      "abdominals",
+      "chest"
+    ],
+    "instructions": [
+      "Stand with feet together and arms at your sides.",
+      "Bend your knees slightly to prepare for the jump.",
+      "Explosively jump up as high as possible.",
+      "As you jump, spread your arms and legs out wide to form a star shape in the air.",
+      "Fully extend your limbs at the peak of the jump.",
+      "Bring your arms and legs back together as you descend.",
+      "Land softly with knees bent to absorb the impact.",
+      "Immediately prepare for the next repetition."
+    ],
+    "category": "plyometrics",
+    "images": [
+      "Star_Jumps/0.jpg",
+      "Star_Jumps/1.jpg"
+    ]
+  },
+  {
+    "id": "High_Knees",
+    "name": "High Knees",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps",
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "abdominals"
+    ],
+    "instructions": [
+      "Stand upright with your feet hip-width apart.",
+      "Begin running in place, lifting your knees as high as possible.",
+      "Aim to bring your knees up to hip level or higher with each step.",
+      "Pump your arms in rhythm with your legs, keeping elbows bent at 90 degrees.",
+      "Land on the balls of your feet to maintain a quick, light pace.",
+      "Keep your core engaged and maintain an upright posture throughout.",
+      "Continue for the desired duration or number of repetitions."
+    ],
+    "category": "cardio",
+    "images": [
+      "High_Knees/0.jpg",
+      "High_Knees/1.jpg"
+    ]
+  },
+  {
+    "id": "Butt_Kicks",
+    "name": "Butt Kicks",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "hamstrings",
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes"
+    ],
+    "instructions": [
+      "Stand upright with your feet hip-width apart.",
+      "Begin running in place, kicking your heels up towards your glutes.",
+      "Aim to touch your heels to your buttocks with each kick.",
+      "Keep your thighs relatively stationary and focus on the knee bend.",
+      "Pump your arms naturally in rhythm with your legs.",
+      "Land softly on the balls of your feet.",
+      "Maintain an upright posture with your core engaged.",
+      "Continue for the desired duration or number of repetitions."
+    ],
+    "category": "cardio",
+    "images": [
+      "Butt_Kicks/0.jpg",
+      "Butt_Kicks/1.jpg"
+    ]
+  },
+  {
+    "id": "Double_Unders",
+    "name": "Double Unders",
+    "force": "push",
+    "level": "intermediate",
+    "mechanic": "compound",
+    "equipment": "other",
+    "primaryMuscles": [
+      "calves",
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "forearms",
+      "abdominals"
+    ],
+    "instructions": [
+      "Hold a jump rope with both hands, positioning the rope behind your feet.",
+      "Stand with feet together and elbows close to your sides.",
+      "Jump slightly higher than a normal jump rope skip.",
+      "As you jump, quickly rotate your wrists to spin the rope fast enough to pass under your feet twice before landing.",
+      "Keep your jumps consistent and your core tight.",
+      "Focus on wrist rotation rather than large arm movements.",
+      "Land softly on the balls of your feet with knees slightly bent.",
+      "Maintain a steady breathing rhythm throughout."
+    ],
+    "category": "cardio",
+    "images": [
+      "Double_Unders/0.jpg",
+      "Double_Unders/1.jpg"
+    ]
+  },
+  {
+    "id": "Single_Unders",
+    "name": "Single Unders",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "other",
+    "primaryMuscles": [
+      "calves",
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "forearms"
+    ],
+    "instructions": [
+      "Hold a jump rope with both hands, positioning the rope behind your feet.",
+      "Stand with feet together and elbows close to your sides.",
+      "Swing the rope over your head using wrist rotation.",
+      "Jump just high enough for the rope to pass under your feet once.",
+      "Land softly on the balls of your feet with knees slightly bent.",
+      "Keep your jumps low and quick, maintaining a steady rhythm.",
+      "Keep your core engaged and maintain an upright posture.",
+      "Continue for the desired duration or number of repetitions."
+    ],
+    "category": "cardio",
+    "images": [
+      "Single_Unders/0.jpg",
+      "Single_Unders/1.jpg"
+    ]
+  },
+  {
+    "id": "Wall_Balls",
+    "name": "Wall Balls",
+    "force": "push",
+    "level": "intermediate",
+    "mechanic": "compound",
+    "equipment": "medicine ball",
+    "primaryMuscles": [
+      "quadriceps",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings",
+      "chest",
+      "triceps",
+      "abdominals",
+      "calves"
+    ],
+    "instructions": [
+      "Stand facing a wall about 12-18 inches away, holding a medicine ball at chest height.",
+      "Position your feet shoulder-width apart.",
+      "Lower into a squat position, keeping the medicine ball at chest level.",
+      "Descend until your thighs are parallel to the ground or lower.",
+      "Explosively drive through your heels to stand up.",
+      "As you reach full extension, use the momentum to throw the ball upward to a target on the wall (typically 9-10 feet high).",
+      "Catch the ball on its descent and immediately lower into the next squat.",
+      "Maintain a smooth, continuous rhythm throughout the movement."
+    ],
+    "category": "strength",
+    "images": [
+      "Wall_Balls/0.jpg",
+      "Wall_Balls/1.jpg"
+    ]
+  },
+  {
+    "id": "Farmer_s_Walk",
+    "name": "Farmer's Walk",
+    "force": "static",
+    "level": "intermediate",
+    "mechanic": "compound",
+    "equipment": "other",
+    "primaryMuscles": [
+      "forearms",
+      "traps"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "abdominals",
+      "calves",
+      "glutes",
+      "hamstrings",
+      "quadriceps",
+      "lower back"
+    ],
+    "instructions": [
+      "Select two heavy dumbbells, kettlebells, or farmer's walk handles of equal weight.",
+      "Stand between the weights with feet hip-width apart.",
+      "Bend at the hips and knees to grasp the weights, keeping your back straight.",
+      "Lift the weights by driving through your heels and standing up fully.",
+      "Hold the weights at your sides with arms fully extended and shoulders pulled back.",
+      "Keep your core tight, chest up, and maintain a neutral spine.",
+      "Walk forward with controlled, steady steps for the desired distance or time.",
+      "Keep your shoulders level and avoid leaning to either side.",
+      "At the end, carefully lower the weights back to the ground with proper form."
+    ],
+    "category": "strength",
+    "images": [
+      "Farmer_s_Walk/0.jpg",
+      "Farmer_s_Walk/1.jpg"
+    ]
+  },
+  {
+    "id": "Superman_Push-Up",
+    "name": "Superman Push-Up",
+    "force": "push",
+    "level": "expert",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "triceps",
+      "abdominals",
+      "lower back"
+    ],
+    "instructions": [
+      "Begin in a standard push-up position with hands slightly wider than shoulder-width.",
+      "Lower your body down as in a regular push-up.",
+      "At the bottom, explosively push up with maximum force.",
+      "As you push up, extend your arms forcefully enough to lift your entire body off the ground.",
+      "At the peak of the movement, extend your arms forward in front of you like Superman flying.",
+      "Quickly bring your hands back underneath you before landing.",
+      "Land with your hands in position and immediately lower into the next repetition.",
+      "This is an advanced plyometric movement requiring significant upper body power."
+    ],
+    "category": "plyometrics",
+    "images": [
+      "Superman_Push-Up/0.jpg",
+      "Superman_Push-Up/1.jpg"
+    ]
+  },
+  {
+    "id": "Typewriter_Push-Up",
+    "name": "Typewriter Push-Up",
+    "force": "push",
+    "level": "expert",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "triceps",
+      "abdominals",
+      "biceps"
+    ],
+    "instructions": [
+      "Begin in a push-up position with hands placed wider than shoulder-width apart.",
+      "Lower your body down, shifting your weight to one side.",
+      "Keep your body low to the ground and shift horizontally across to the other side.",
+      "Your chest should stay close to the ground as you slide from one side to the other.",
+      "Push up from the opposite side.",
+      "Repeat the movement, alternating the direction of the typewriter motion.",
+      "Keep your core engaged and maintain a straight body line throughout.",
+      "This movement mimics the motion of an old typewriter carriage."
+    ],
+    "category": "strength",
+    "images": [
+      "Typewriter_Push-Up/0.jpg",
+      "Typewriter_Push-Up/1.jpg"
+    ]
+  },
+  {
+    "id": "Archer_Push-Up",
+    "name": "Archer Push-Up",
+    "force": "push",
+    "level": "expert",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "triceps",
+      "abdominals",
+      "biceps"
+    ],
+    "instructions": [
+      "Begin in a push-up position with hands placed wider than shoulder-width apart.",
+      "Keep one arm straight and extended to the side as you lower your body.",
+      "Bend the opposite arm and lower your chest toward that hand.",
+      "The extended arm should remain relatively straight, supporting minimal weight.",
+      "Push back up through the bent arm to return to the starting position.",
+      "Alternate sides with each repetition.",
+      "Keep your core tight and body in a straight line throughout.",
+      "This movement resembles drawing a bow and arrow, hence the name."
+    ],
+    "category": "strength",
+    "images": [
+      "Archer_Push-Up/0.jpg",
+      "Archer_Push-Up/1.jpg"
+    ]
+  },
+  {
+    "id": "Diamond_Push-Up",
+    "name": "Diamond Push-Up",
+    "force": "push",
+    "level": "intermediate",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders",
+      "abdominals"
+    ],
+    "instructions": [
+      "Begin in a push-up position.",
+      "Place your hands close together directly under your chest, forming a diamond or triangle shape with your index fingers and thumbs touching.",
+      "Keep your body in a straight line from head to heels.",
+      "Lower your chest down toward your hands, keeping your elbows close to your body.",
+      "Descend until your chest nearly touches your hands.",
+      "Press back up to the starting position, fully extending your arms.",
+      "Keep your core engaged throughout the movement.",
+      "This variation places greater emphasis on the triceps compared to standard push-ups."
+    ],
+    "category": "strength",
+    "images": [
+      "Diamond_Push-Up/0.jpg",
+      "Diamond_Push-Up/1.jpg"
+    ]
+  },
+  {
+    "id": "Dive_Bomber_Push-Up",
+    "name": "Dive Bomber Push-Up",
+    "force": "push",
+    "level": "expert",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "triceps",
+      "abdominals",
+      "lower back"
+    ],
+    "instructions": [
+      "Begin in a downward dog yoga position with hips raised high and hands and feet on the ground.",
+      "Keep your legs and arms relatively straight.",
+      "Swoop your body down and forward in an arcing motion.",
+      "As you move forward, bend your arms and bring your chest close to the ground.",
+      "Continue the arc upward into an upward dog position, fully extending your arms.",
+      "Your hips should now be low and your chest up.",
+      "Reverse the motion by pushing back through the same arc to return to the starting position.",
+      "This creates a fluid, continuous movement working shoulders, chest, and core."
+    ],
+    "category": "strength",
+    "images": [
+      "Dive_Bomber_Push-Up/0.jpg",
+      "Dive_Bomber_Push-Up/1.jpg"
+    ]
+  },
+  {
+    "id": "Fingertip_Push-Up",
+    "name": "Fingertip Push-Up",
+    "force": "push",
+    "level": "expert",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "chest",
+      "forearms"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps",
+      "abdominals"
+    ],
+    "instructions": [
+      "Begin in a standard push-up position.",
+      "Instead of placing your palms flat, lift your palms off the ground and balance on your fingertips only.",
+      "Spread your fingers wide for better stability and weight distribution.",
+      "Keep your body in a straight line from head to heels.",
+      "Lower your body down by bending your elbows, maintaining balance on your fingertips.",
+      "Descend until your chest nearly touches the ground.",
+      "Press back up to the starting position.",
+      "This variation significantly strengthens finger, hand, and forearm muscles.",
+      "Begin with modified versions on your knees if needed before progressing to full fingertip push-ups."
+    ],
+    "category": "strength",
+    "images": [
+      "Fingertip_Push-Up/0.jpg",
+      "Fingertip_Push-Up/1.jpg"
+    ]
+  },
+  {
+    "id": "Clapping_Push-Up",
+    "name": "Clapping Push-Up",
+    "force": "push",
+    "level": "expert",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "triceps",
+      "abdominals"
+    ],
+    "instructions": [
+      "Begin in a standard push-up position with hands slightly wider than shoulder-width.",
+      "Lower your body down as in a regular push-up.",
+      "At the bottom, explosively push up with maximum force.",
+      "Push hard enough to lift your hands completely off the ground.",
+      "While airborne, quickly clap your hands together.",
+      "Immediately return your hands to the starting position before landing.",
+      "Land with your hands in the proper push-up position and bend your elbows slightly to absorb the impact.",
+      "Lower into the next repetition.",
+      "This plyometric variation builds explosive upper body power."
+    ],
+    "category": "plyometrics",
+    "images": [
+      "Clapping_Push-Up/0.jpg",
+      "Clapping_Push-Up/1.jpg"
+    ]
+  },
+  {
+    "id": "Pseudo_Planche_Push-Up",
+    "name": "Pseudo Planche Push-Up",
+    "force": "push",
+    "level": "expert",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "shoulders",
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "triceps",
+      "abdominals",
+      "biceps",
+      "lower back"
+    ],
+    "instructions": [
+      "Begin in a push-up position with hands placed next to your hips or lower ribs, not under your shoulders.",
+      "Your fingers should point toward your feet or slightly outward.",
+      "Lean your body forward so your shoulders move well in front of your hands.",
+      "Keep your body in a straight line, engaging your core intensely.",
+      "Lower your body down while maintaining the forward lean.",
+      "Your elbows should stay tucked close to your sides.",
+      "Press back up to the starting position.",
+      "This variation mimics the planche position and builds tremendous shoulder and core strength.",
+      "Begin with hands positioned under shoulders and gradually move them lower as you progress."
+    ],
+    "category": "strength",
+    "images": [
+      "Pseudo_Planche_Push-Up/0.jpg",
+      "Pseudo_Planche_Push-Up/1.jpg"
+    ]
+  },
+  {
+    "id": "Two-Arm_Kettlebell_Swing",
+    "name": "Two-Arm Kettlebell Swing",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "kettlebells",
+    "primaryMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "lower back",
+      "quadriceps",
+      "shoulders",
+      "abdominals",
+      "calves"
+    ],
+    "instructions": [
+      "Place a kettlebell on the ground between your feet.",
+      "Stand with feet slightly wider than shoulder-width apart.",
+      "Bend at the hips and knees to grip the kettlebell with both hands.",
+      "Keep your back straight and core engaged.",
+      "Swing the kettlebell back between your legs to generate momentum.",
+      "Drive explosively through your hips to swing the kettlebell forward and up.",
+      "Let the kettlebell rise to about chest or shoulder height.",
+      "Keep your arms relatively straight, letting the hip drive power the movement.",
+      "As the kettlebell descends, hinge at the hips and guide it back between your legs.",
+      "Immediately begin the next repetition in a smooth, rhythmic motion."
+    ],
+    "category": "strength",
+    "images": [
+      "Two-Arm_Kettlebell_Swing/0.jpg",
+      "Two-Arm_Kettlebell_Swing/1.jpg"
+    ]
+  },
+  {
+    "id": "Hollow_Body_Hold",
+    "name": "Hollow Body Hold",
+    "force": "static",
+    "level": "intermediate",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [
+      "lower back"
+    ],
+    "instructions": [
+      "Lie on your back on the floor with arms extended overhead.",
+      "Press your lower back firmly into the floor, engaging your core.",
+      "Lift your shoulders and legs off the ground simultaneously.",
+      "Keep your arms straight and by your ears, legs straight and together.",
+      "Your body should form a slight curve or 'hollow' shape.",
+      "Only your lower back and glutes should be in contact with the floor.",
+      "Keep your chin tucked slightly and look at your thighs.",
+      "Hold this position for the prescribed time while maintaining tension.",
+      "Breathe steadily throughout the hold.",
+      "If too difficult, bend your knees or keep your arms at your sides.",
+      "This is a fundamental gymnastics position that builds tremendous core strength."
+    ],
+    "category": "strength",
+    "images": [
+      "Hollow_Body_Hold/0.jpg",
+      "Hollow_Body_Hold/1.jpg"
+    ]
   }
 ]
