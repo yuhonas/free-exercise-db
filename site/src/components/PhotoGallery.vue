@@ -14,13 +14,26 @@ export default {
   data() {
     return {
       currentIndex: 0,
-      loading: false
+      loading: false,
+      placeholderUrl: `${import.meta.env.BASE_URL}placeholder.svg`
+    }
+  },
+  computed: {
+    hasPhotos() {
+      return this.photos.length > 0
+    },
+    currentPhoto() {
+      return this.photos[this.currentIndex]
     }
   },
   methods: {
     // NOTE: Assumes we have more then one image
     nextPhoto(event) {
       event.preventDefault()
+      if (!this.hasPhotos) {
+        return
+      }
+
       this.loading = true
 
       // cycle through the photos array
@@ -39,14 +52,14 @@ export default {
 }
 </script>
 <template>
-  <div :class="{ loading: loading }" class="relative">
+  <div v-if="hasPhotos" :class="{ loading: loading }" class="relative">
     <a href="#" @click="nextPhoto">
       <!-- use imagekit.io for dynamic image resizing,
       this is using https://raw.githubusercontent.com/yuhonas/free-exercise-db/exercises
       as the origin server -->
       <img
-        :src="`https://ik.imagekit.io/yuhonas/${photos[currentIndex]}`"
-        :srcset="`https://ik.imagekit.io/yuhonas/${photos[currentIndex]} 850w, https://ik.imagekit.io/yuhonas/tr:w-250,h-180/${photos[currentIndex]} 200w`"
+        :src="`https://ik.imagekit.io/yuhonas/${currentPhoto}`"
+        :srcset="`https://ik.imagekit.io/yuhonas/${currentPhoto} 850w, https://ik.imagekit.io/yuhonas/tr:w-250,h-180/${currentPhoto} 200w`"
         sizes="(min-width: 765px) 200px,
             850px"
         loading="lazy"
@@ -56,6 +69,12 @@ export default {
     </a>
     <ArrowPathIcon class="w-4 h-3 absolute top-4 left-4 text-white text-sm opacity-80" />
   </div>
+  <img
+    v-else
+    :src="placeholderUrl"
+    alt="No image available"
+    class="w-full object-cover rounded-t-lg p-2"
+  />
 </template>
 <style scoped>
 .loading img {
