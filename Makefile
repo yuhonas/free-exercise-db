@@ -1,4 +1,4 @@
-.PHONY: lint check_dupes install
+.PHONY: lint check_dupes check_missing_images install
 
 sources := $(sort $(wildcard ./exercises/**.json))
 
@@ -8,6 +8,11 @@ check_dupes:
 		# check for duplicate id's, if there's ID's listed here
 		# we've got duplicate id's that need to be resolved
 		jq -s ".[]" $(sources) | jq '.id' | sort | uniq -d
+# list exercise JSON files with an empty images array
+check_missing_images:
+		@for f in $(sources); do \
+			jq -e '.images | length == 0' "$$f" >/dev/null 2>&1 && echo "$$f"; \
+		done; true
 install:
 		pip install check-jsonschema
 dist/exercises.json: $(sources)
