@@ -15,4 +15,16 @@ describe('PhotoGallery', () => {
       'https://ik.imagekit.io/yuhonas/https://www.example.com/3_4_Sit-Up.jpg'
     )
   })
+
+  it('when passed an empty array it should render the local placeholder image', () => {
+    const wrapper = mount(PhotoGallery, {
+      props: {
+        photos: []
+      }
+    })
+
+    const img = wrapper.find('img')
+    expect(img.attributes('src')).toContain('placeholder.svg')
+    expect(img.attributes('alt')).toBe('No image available')
+  })
 })
