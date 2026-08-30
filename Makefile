@@ -10,9 +10,7 @@ check_dupes:
 		jq -s ".[]" $(sources) | jq '.id' | sort | uniq -d
 # list exercise JSON files with an empty images array
 check_missing_images:
-		@for f in $(sources); do \
-			jq -e '.images | length == 0' "$$f" >/dev/null 2>&1 && echo "$$f"; \
-		done; true
+		@jq -r 'select(.images | length == 0) | input_filename' $(sources)
 install:
 		pip install check-jsonschema
 dist/exercises.json: $(sources)
