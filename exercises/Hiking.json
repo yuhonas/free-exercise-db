@@ -1,0 +1,23 @@
+{
+  "name": "Hiking",
+  "force": null,
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves",
+    "glutes"
+  ],
+  "instructions": [
+    "Wearing supportive footwear, walk on natural terrain such as trails, hills, or uneven ground, using trekking poles if desired for stability and to engage the upper body.",
+    "Take shorter, controlled steps on inclines and declines, bending your knees to absorb impact on the way down. Pace yourself for the total distance and elevation gain planned.",
+    "Hiking combines cardiovascular exercise with balance and stabilizer work from uneven footing. A 150 lb person can burn over 300 calories hiking for 30 minutes, more with a loaded pack."
+  ],
+  "category": "cardio",
+  "images": [],
+  "id": "Hiking"
+}

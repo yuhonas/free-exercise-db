@@ -1,0 +1,22 @@
+{
+  "name": "Butt Kicks",
+  "force": null,
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "calves"
+  ],
+  "instructions": [
+    "Stand upright with your feet hip-width apart. Jog in place while kicking your heels back to touch or come close to your glutes on each stride.",
+    "Keep your knees pointed toward the ground rather than driving them forward, and pump your arms naturally as you maintain a quick cadence.",
+    "Butt kicks are a common warm-up and cardio drill that emphasize hamstring flexion. A 150 lb person will burn around 300 calories doing butt kicks for 30 minutes."
+  ],
+  "category": "cardio",
+  "images": [],
+  "id": "Butt_Kicks"
+}

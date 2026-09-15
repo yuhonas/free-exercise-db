@@ -1,0 +1,22 @@
+{
+  "name": "Shuttle Runs",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Set two markers a fixed distance apart, commonly 10 to 20 meters. Starting at one marker, sprint to the other, touch the ground or line, and immediately sprint back.",
+    "Continue for the prescribed number of shuttles or amount of time, decelerating under control at each turn to reduce strain on the joints.",
+    "Shuttle runs combine sprinting with change-of-direction demands found in many sports. A 150 lb person will burn around 400 calories doing shuttle runs for 30 minutes."
+  ],
+  "category": "cardio",
+  "images": [],
+  "id": "Shuttle_Runs"
+}

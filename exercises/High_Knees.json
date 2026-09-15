@@ -1,0 +1,23 @@
+{
+  "name": "High Knees",
+  "force": null,
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves",
+    "abdominals"
+  ],
+  "instructions": [
+    "Stand upright with your feet hip-width apart. Run in place, driving one knee up toward your chest as high as possible while pumping the opposite arm.",
+    "Quickly alternate legs, landing on the balls of your feet each time and keeping your torso upright and core engaged throughout.",
+    "High knees raise the heart rate quickly and reinforce running mechanics. A 150 lb person will burn around 350 calories doing high knees for 30 minutes."
+  ],
+  "category": "cardio",
+  "images": [],
+  "id": "High_Knees"
+}
