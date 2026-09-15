@@ -1,0 +1,23 @@
+{
+  "name": "Rowing, On Water",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "biceps",
+    "abdominals"
+  ],
+  "instructions": [
+    "Seated in a rowing shell, kayak, or canoe, grip the oar or paddle with both hands. Reach forward with your arms extended and knees bent, then drive through your legs as you pull the oar or paddle through the water.",
+    "Finish the stroke by leaning back slightly and pulling your hands in toward your body, then reverse the motion smoothly to reset for the next stroke.",
+    "Rowing and paddling sports build back, shoulder, and core strength alongside cardiovascular endurance. A 150 lb person will burn over 400 calories rowing or paddling vigorously for 30 minutes."
+  ],
+  "category": "cardio",
+  "images": [],
+  "id": "Rowing_On_Water"
+}
