@@ -1,0 +1,25 @@
+{
+  "name": "Burpees",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders",
+    "abdominals",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Start standing, then squat down and place your hands on the floor in front of you. Kick your feet back into a plank position and perform a push-up.",
+    "Jump your feet back up toward your hands, then explosively jump straight up with your arms overhead, landing softly to reset for the next rep.",
+    "Burpees combine a squat, plank, push-up, and jump into one continuous full-body movement. A 150 lb person will burn around 400 calories doing burpees for 30 minutes."
+  ],
+  "category": "cardio",
+  "images": [],
+  "id": "Burpees"
+}
