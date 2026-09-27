@@ -1,0 +1,31 @@
+{
+  "id": "High_Knees",
+  "name": "High Knees",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps",
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "abdominals"
+  ],
+  "instructions": [
+    "Stand upright with your feet hip-width apart.",
+    "Begin running in place, lifting your knees as high as possible.",
+    "Aim to bring your knees up to hip level or higher with each step.",
+    "Pump your arms in rhythm with your legs, keeping elbows bent at 90 degrees.",
+    "Land on the balls of your feet to maintain a quick, light pace.",
+    "Keep your core engaged and maintain an upright posture throughout.",
+    "Continue for the desired duration or number of repetitions."
+  ],
+  "category": "cardio",
+  "images": [
+    "High_Knees/0.jpg",
+    "High_Knees/1.jpg"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "Burpee_Broad_Jump",
+  "name": "Burpee Broad Jump",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps",
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps",
+    "hamstrings",
+    "abdominals",
+    "calves",
+    "glutes"
+  ],
+  "instructions": [
+    "Begin in a standing position with your feet shoulder-width apart.",
+    "Drop into a squat and place your hands on the floor in front of you.",
+    "Kick your feet back into a push-up position.",
+    "Perform one push-up, keeping your body in a straight line.",
+    "Jump your feet back to the squat position.",
+    "Instead of jumping vertically, explosively jump forward as far as possible (broad jump).",
+    "Land softly with knees bent to absorb the impact.",
+    "Turn around and immediately begin the next repetition."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Burpee_Broad_Jump/0.jpg",
+    "Burpee_Broad_Jump/1.jpg"
+  ]
+}

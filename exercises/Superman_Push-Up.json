@@ -1,0 +1,32 @@
+{
+  "id": "Superman_Push-Up",
+  "name": "Superman Push-Up",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "abdominals",
+    "lower back"
+  ],
+  "instructions": [
+    "Begin in a standard push-up position with hands slightly wider than shoulder-width.",
+    "Lower your body down as in a regular push-up.",
+    "At the bottom, explosively push up with maximum force.",
+    "As you push up, extend your arms forcefully enough to lift your entire body off the ground.",
+    "At the peak of the movement, extend your arms forward in front of you like Superman flying.",
+    "Quickly bring your hands back underneath you before landing.",
+    "Land with your hands in position and immediately lower into the next repetition.",
+    "This is an advanced plyometric movement requiring significant upper body power."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Superman_Push-Up/0.jpg",
+    "Superman_Push-Up/1.jpg"
+  ]
+}

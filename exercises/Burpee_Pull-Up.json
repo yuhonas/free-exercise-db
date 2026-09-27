@@ -1,0 +1,36 @@
+{
+  "id": "Burpee_Pull-Up",
+  "name": "Burpee Pull-Up",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps",
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders",
+    "triceps",
+    "hamstrings",
+    "abdominals",
+    "biceps",
+    "middle back"
+  ],
+  "instructions": [
+    "Stand directly under a pull-up bar with feet shoulder-width apart.",
+    "Drop into a squat and place your hands on the floor.",
+    "Kick your feet back into a push-up position.",
+    "Perform one push-up.",
+    "Jump your feet back to the squat position.",
+    "Explosively jump up and grab the pull-up bar with both hands.",
+    "Immediately perform one pull-up, bringing your chin above the bar.",
+    "Drop down from the bar and land softly, then begin the next repetition."
+  ],
+  "category": "strength",
+  "images": [
+    "Burpee_Pull-Up/0.jpg",
+    "Burpee_Pull-Up/1.jpg"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "Farmer_s_Walk",
+  "name": "Farmer's Walk",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "forearms",
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "abdominals",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "quadriceps",
+    "lower back"
+  ],
+  "instructions": [
+    "Select two heavy dumbbells, kettlebells, or farmer's walk handles of equal weight.",
+    "Stand between the weights with feet hip-width apart.",
+    "Bend at the hips and knees to grasp the weights, keeping your back straight.",
+    "Lift the weights by driving through your heels and standing up fully.",
+    "Hold the weights at your sides with arms fully extended and shoulders pulled back.",
+    "Keep your core tight, chest up, and maintain a neutral spine.",
+    "Walk forward with controlled, steady steps for the desired distance or time.",
+    "Keep your shoulders level and avoid leaning to either side.",
+    "At the end, carefully lower the weights back to the ground with proper form."
+  ],
+  "category": "strength",
+  "images": [
+    "Farmer_s_Walk/0.jpg",
+    "Farmer_s_Walk/1.jpg"
+  ]
+}

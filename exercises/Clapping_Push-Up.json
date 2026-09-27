@@ -1,0 +1,32 @@
+{
+  "id": "Clapping_Push-Up",
+  "name": "Clapping Push-Up",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "abdominals"
+  ],
+  "instructions": [
+    "Begin in a standard push-up position with hands slightly wider than shoulder-width.",
+    "Lower your body down as in a regular push-up.",
+    "At the bottom, explosively push up with maximum force.",
+    "Push hard enough to lift your hands completely off the ground.",
+    "While airborne, quickly clap your hands together.",
+    "Immediately return your hands to the starting position before landing.",
+    "Land with your hands in the proper push-up position and bend your elbows slightly to absorb the impact.",
+    "Lower into the next repetition.",
+    "This plyometric variation builds explosive upper body power."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Clapping_Push-Up/0.jpg",
+    "Clapping_Push-Up/1.jpg"
+  ]
+}

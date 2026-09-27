@@ -1,0 +1,34 @@
+{
+  "id": "Burpee_Box_Jump",
+  "name": "Burpee Box Jump",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps",
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps",
+    "hamstrings",
+    "abdominals",
+    "calves",
+    "glutes"
+  ],
+  "instructions": [
+    "Stand facing a sturdy box or platform with your feet shoulder-width apart.",
+    "Perform a standard burpee: drop into a squat, place hands on the floor, kick feet back into a push-up position.",
+    "Complete one push-up.",
+    "Jump your feet back to the squat position.",
+    "Instead of jumping straight up, explosively jump onto the box, landing with both feet simultaneously.",
+    "Stand fully upright on the box.",
+    "Step down carefully from the box and immediately begin the next repetition."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Burpee_Box_Jump/0.jpg",
+    "Burpee_Box_Jump/1.jpg"
+  ]
+}

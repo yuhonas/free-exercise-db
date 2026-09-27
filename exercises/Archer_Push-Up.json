@@ -1,0 +1,32 @@
+{
+  "id": "Archer_Push-Up",
+  "name": "Archer Push-Up",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "abdominals",
+    "biceps"
+  ],
+  "instructions": [
+    "Begin in a push-up position with hands placed wider than shoulder-width apart.",
+    "Keep one arm straight and extended to the side as you lower your body.",
+    "Bend the opposite arm and lower your chest toward that hand.",
+    "The extended arm should remain relatively straight, supporting minimal weight.",
+    "Push back up through the bent arm to return to the starting position.",
+    "Alternate sides with each repetition.",
+    "Keep your core tight and body in a straight line throughout.",
+    "This movement resembles drawing a bow and arrow, hence the name."
+  ],
+  "category": "strength",
+  "images": [
+    "Archer_Push-Up/0.jpg",
+    "Archer_Push-Up/1.jpg"
+  ]
+}
