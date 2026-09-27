@@ -1,0 +1,23 @@
+{
+  "name": "Shadow Boxing",
+  "force": null,
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "abdominals",
+    "calves"
+  ],
+  "instructions": [
+    "Stand in a boxing stance with your hands guarding your face and knees slightly bent. Throw combinations of punches into the open air, such as jabs, crosses, hooks, and uppercuts.",
+    "Incorporate head movement and footwork between combinations, pivoting and stepping as if evading and closing distance on an imaginary opponent.",
+    "Shadow boxing builds punching technique, coordination, and cardiovascular endurance without any equipment. A 150 lb person will burn around 300 calories shadow boxing for 30 minutes."
+  ],
+  "category": "cardio",
+  "images": [],
+  "id": "Shadow_Boxing"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Fan Bike",
+  "force": null,
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves",
+    "shoulders",
+    "chest"
+  ],
+  "instructions": [
+    "Sit on the fan bike and adjust the seat so your knees have a slight bend at full pedal extension. Grip the moving handles firmly.",
+    "Push and pull the handles with your arms while pedaling with your legs at the same time, driving the fan blade to generate air resistance. The harder and faster you work, the more resistance the fan provides.",
+    "Because resistance scales with effort, fan bikes are popular for high-intensity interval training. A 150 lb person can burn over 400 calories in 30 minutes of steady effort, more with intervals."
+  ],
+  "category": "cardio",
+  "images": [],
+  "id": "Fan_Bike"
+}

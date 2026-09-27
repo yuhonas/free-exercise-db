@@ -1,0 +1,22 @@
+{
+  "name": "Jumping Jacks",
+  "force": null,
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "shoulders"
+  ],
+  "instructions": [
+    "Stand upright with your feet together and arms at your sides. Jump your feet out to the sides while simultaneously raising your arms overhead.",
+    "Jump again to bring your feet back together and your arms back down to your sides, landing softly on the balls of your feet. Repeat at a steady, rhythmic pace.",
+    "Jumping jacks are a simple, equipment-free way to raise your heart rate. A 150 lb person will burn about 300 calories doing jumping jacks continuously for 30 minutes."
+  ],
+  "category": "cardio",
+  "images": [],
+  "id": "Jumping_Jacks"
+}
