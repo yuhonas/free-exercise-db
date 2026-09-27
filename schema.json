@@ -133,6 +133,10 @@
           "type": "string"
         }
       ]
+    },
+    "videoUrl": {
+      "type": "string",
+      "format": "uri"
     }
   },
   "required": [
@@ -145,6 +149,7 @@
     "secondaryMuscles",
     "instructions",
     "category",
-    "images"
+    "images",
+    "videoUrl"
   ]
 }
