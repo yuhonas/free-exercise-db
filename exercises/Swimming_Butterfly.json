@@ -1,0 +1,23 @@
+{
+  "name": "Swimming, Butterfly",
+  "force": null,
+  "level": "expert",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders",
+    "abdominals"
+  ],
+  "instructions": [
+    "Begin face down with both arms extended forward. Sweep both arms out and back together in a simultaneous pulling motion while your hips rise and fall in a dolphin-like undulation.",
+    "Kick both legs together in a single whip-like motion, timing two kicks per arm cycle. Lift your head and chest to breathe as your arms recover forward over the water.",
+    "Butterfly is the most demanding swimming stroke, requiring significant upper body and core strength. A 150 lb person will burn over 450 calories swimming butterfly for 30 minutes."
+  ],
+  "category": "cardio",
+  "images": [],
+  "id": "Swimming_Butterfly"
+}

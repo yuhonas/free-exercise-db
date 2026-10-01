@@ -1,0 +1,22 @@
+{
+  "name": "Kickboard Swimming",
+  "force": null,
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes"
+  ],
+  "instructions": [
+    "Hold a kickboard out in front of you with both hands and extend your arms while floating face down in the water. Keep your body flat and horizontal.",
+    "Kick continuously from the hips with relatively straight legs and a loose ankle, moving through the water using leg power alone. Keep your face in the water and lift your head only to breathe.",
+    "Kickboard sets isolate the legs and are commonly used for cardio conditioning and technique work. A 150 lb person will burn around 250 calories kicking with a board for 30 minutes."
+  ],
+  "category": "cardio",
+  "images": [],
+  "id": "Kickboard_Swimming"
+}

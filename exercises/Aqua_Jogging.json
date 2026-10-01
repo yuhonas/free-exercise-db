@@ -1,0 +1,22 @@
+{
+  "name": "Aqua Jogging",
+  "force": null,
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Wearing a flotation belt if needed, position yourself upright in deep water so your feet do not touch the bottom. Drive your knees up and pump your arms as if running, without any actual ground contact.",
+    "Maintain an upright posture and a steady cadence, using the water's resistance in place of impact. This makes aqua jogging a popular low-impact option for injury rehabilitation and cross-training.",
+    "A 150 lb person will burn about 300 calories aqua jogging at a moderate effort for 30 minutes, with far less joint stress than running on land."
+  ],
+  "category": "cardio",
+  "images": [],
+  "id": "Aqua_Jogging"
+}

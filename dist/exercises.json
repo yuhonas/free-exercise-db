@@ -598,6 +598,28 @@
     "id": "Anti-Gravity_Press"
   },
   {
+    "name": "Aqua Jogging",
+    "force": null,
+    "level": "beginner",
+    "mechanic": null,
+    "equipment": "other",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "calves"
+    ],
+    "instructions": [
+      "Wearing a flotation belt if needed, position yourself upright in deep water so your feet do not touch the bottom. Drive your knees up and pump your arms as if running, without any actual ground contact.",
+      "Maintain an upright posture and a steady cadence, using the water's resistance in place of impact. This makes aqua jogging a popular low-impact option for injury rehabilitation and cross-training.",
+      "A 150 lb person will burn about 300 calories aqua jogging at a moderate effort for 30 minutes, with far less joint stress than running on land."
+    ],
+    "category": "cardio",
+    "images": [],
+    "id": "Aqua_Jogging"
+  },
+  {
     "name": "Arm Circles",
     "force": "push",
     "level": "beginner",
@@ -10094,6 +10116,28 @@
     "id": "Kettlebell_Windmill"
   },
   {
+    "name": "Kickboard Swimming",
+    "force": null,
+    "level": "beginner",
+    "mechanic": null,
+    "equipment": "other",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes"
+    ],
+    "instructions": [
+      "Hold a kickboard out in front of you with both hands and extend your arms while floating face down in the water. Keep your body flat and horizontal.",
+      "Kick continuously from the hips with relatively straight legs and a loose ankle, moving through the water using leg power alone. Keep your face in the water and lift your head only to breathe.",
+      "Kickboard sets isolate the legs and are commonly used for cardio conditioning and technique work. A 150 lb person will burn around 250 calories kicking with a board for 30 minutes."
+    ],
+    "category": "cardio",
+    "images": [],
+    "id": "Kickboard_Swimming"
+  },
+  {
     "name": "Kipping Muscle Up",
     "force": "pull",
     "level": "intermediate",
@@ -15905,6 +15949,29 @@
     "id": "Round_The_World_Shoulder_Stretch"
   },
   {
+    "name": "Rowing, On Water",
+    "force": null,
+    "level": "intermediate",
+    "mechanic": null,
+    "equipment": "other",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "biceps",
+      "abdominals"
+    ],
+    "instructions": [
+      "Seated in a rowing shell, kayak, or canoe, grip the oar or paddle with both hands. Reach forward with your arms extended and knees bent, then drive through your legs as you pull the oar or paddle through the water.",
+      "Finish the stroke by leaning back slightly and pulling your hands in toward your body, then reverse the motion smoothly to reset for the next stroke.",
+      "Rowing and paddling sports build back, shoulder, and core strength alongside cardiovascular endurance. A 150 lb person will burn over 400 calories rowing or paddling vigorously for 30 minutes."
+    ],
+    "category": "cardio",
+    "images": [],
+    "id": "Rowing_On_Water"
+  },
+  {
     "name": "Rowing, Stationary",
     "force": null,
     "level": "intermediate",
@@ -21099,6 +21166,98 @@
       "Svend_Press/1.jpg"
     ],
     "id": "Svend_Press"
+  },
+  {
+    "name": "Swimming, Backstroke",
+    "force": null,
+    "level": "intermediate",
+    "mechanic": null,
+    "equipment": "other",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps",
+      "calves"
+    ],
+    "instructions": [
+      "Float on your back with your body horizontal and ears in the water. Alternate arms in a continuous windmill motion, with one arm pulling underwater while the other recovers above the water.",
+      "Kick continuously from the hips with relatively straight legs to maintain balance and propulsion. Keep your hips near the surface and your head still, using peripheral vision to stay on course.",
+      "Backstroke works the back and shoulders while keeping the airway clear for breathing. A 150 lb person will burn about 350 calories swimming backstroke at a moderate pace for 30 minutes."
+    ],
+    "category": "cardio",
+    "images": [],
+    "id": "Swimming_Backstroke"
+  },
+  {
+    "name": "Swimming, Breaststroke",
+    "force": null,
+    "level": "intermediate",
+    "mechanic": null,
+    "equipment": "other",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "quadriceps",
+      "calves"
+    ],
+    "instructions": [
+      "Begin face down in the water with arms extended in front of you. Sweep both arms out and back in a circular motion while simultaneously drawing your knees up toward your chest.",
+      "Snap your legs out and together in a whip-like kick as your arms glide forward again, then breathe as your head rises above the water during the arm pull. Glide briefly before repeating the cycle.",
+      "Breaststroke is a slower but less exhausting stroke than freestyle. A 150 lb person will burn about 350 calories swimming breaststroke at a moderate pace for 30 minutes."
+    ],
+    "category": "cardio",
+    "images": [],
+    "id": "Swimming_Breaststroke"
+  },
+  {
+    "name": "Swimming, Butterfly",
+    "force": null,
+    "level": "expert",
+    "mechanic": null,
+    "equipment": "other",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders",
+      "abdominals"
+    ],
+    "instructions": [
+      "Begin face down with both arms extended forward. Sweep both arms out and back together in a simultaneous pulling motion while your hips rise and fall in a dolphin-like undulation.",
+      "Kick both legs together in a single whip-like motion, timing two kicks per arm cycle. Lift your head and chest to breathe as your arms recover forward over the water.",
+      "Butterfly is the most demanding swimming stroke, requiring significant upper body and core strength. A 150 lb person will burn over 450 calories swimming butterfly for 30 minutes."
+    ],
+    "category": "cardio",
+    "images": [],
+    "id": "Swimming_Butterfly"
+  },
+  {
+    "name": "Swimming, Freestyle",
+    "force": null,
+    "level": "intermediate",
+    "mechanic": null,
+    "equipment": "other",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps",
+      "calves"
+    ],
+    "instructions": [
+      "Push off from the wall or shore into a horizontal position, face down in the water. Extend one arm forward while the other pulls back through the water in a continuous windmill motion, rotating your torso with each stroke.",
+      "Kick continuously from the hips with relatively straight legs, and turn your head to the side to breathe every two or three strokes. Keep your body long and streamlined to minimize drag.",
+      "Freestyle is the fastest and most efficient swimming stroke. A 150 lb person will burn around 400 calories swimming freestyle at a moderate pace for 30 minutes."
+    ],
+    "category": "cardio",
+    "images": [],
+    "id": "Swimming_Freestyle"
   },
   {
     "name": "T-Bar Row with Handle",

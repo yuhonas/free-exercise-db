@@ -1,0 +1,23 @@
+{
+  "name": "Swimming, Breaststroke",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "quadriceps",
+    "calves"
+  ],
+  "instructions": [
+    "Begin face down in the water with arms extended in front of you. Sweep both arms out and back in a circular motion while simultaneously drawing your knees up toward your chest.",
+    "Snap your legs out and together in a whip-like kick as your arms glide forward again, then breathe as your head rises above the water during the arm pull. Glide briefly before repeating the cycle.",
+    "Breaststroke is a slower but less exhausting stroke than freestyle. A 150 lb person will burn about 350 calories swimming breaststroke at a moderate pace for 30 minutes."
+  ],
+  "category": "cardio",
+  "images": [],
+  "id": "Swimming_Breaststroke"
+}

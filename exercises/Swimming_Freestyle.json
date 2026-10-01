@@ -1,0 +1,23 @@
+{
+  "name": "Swimming, Freestyle",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps",
+    "calves"
+  ],
+  "instructions": [
+    "Push off from the wall or shore into a horizontal position, face down in the water. Extend one arm forward while the other pulls back through the water in a continuous windmill motion, rotating your torso with each stroke.",
+    "Kick continuously from the hips with relatively straight legs, and turn your head to the side to breathe every two or three strokes. Keep your body long and streamlined to minimize drag.",
+    "Freestyle is the fastest and most efficient swimming stroke. A 150 lb person will burn around 400 calories swimming freestyle at a moderate pace for 30 minutes."
+  ],
+  "category": "cardio",
+  "images": [],
+  "id": "Swimming_Freestyle"
+}

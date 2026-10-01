@@ -1,0 +1,23 @@
+{
+  "name": "Swimming, Backstroke",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps",
+    "calves"
+  ],
+  "instructions": [
+    "Float on your back with your body horizontal and ears in the water. Alternate arms in a continuous windmill motion, with one arm pulling underwater while the other recovers above the water.",
+    "Kick continuously from the hips with relatively straight legs to maintain balance and propulsion. Keep your hips near the surface and your head still, using peripheral vision to stay on course.",
+    "Backstroke works the back and shoulders while keeping the airway clear for breathing. A 150 lb person will burn about 350 calories swimming backstroke at a moderate pace for 30 minutes."
+  ],
+  "category": "cardio",
+  "images": [],
+  "id": "Swimming_Backstroke"
+}
