@@ -672,6 +672,29 @@
     "id": "Around_The_Worlds"
   },
   {
+    "name": "Assault Runner",
+    "force": null,
+    "level": "beginner",
+    "mechanic": null,
+    "equipment": "machine",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "calves",
+      "glutes"
+    ],
+    "instructions": [
+      "Step onto the curved, non-motorized treadmill belt and start with short, light steps, since the belt only moves when driven by your own foot strike.",
+      "Drive your feet backward beneath your hips to accelerate the belt to the desired speed, keeping your torso upright and avoiding overstriding.",
+      "Because the belt has no motor, an assault runner requires more muscular effort than a standard treadmill at the same perceived pace, making it effective for interval training."
+    ],
+    "category": "cardio",
+    "images": [],
+    "id": "Assault_Runner"
+  },
+  {
     "name": "Atlas Stone Trainer",
     "force": "pull",
     "level": "intermediate",
@@ -2812,6 +2835,28 @@
       "Butt-Ups/1.jpg"
     ],
     "id": "Butt-Ups"
+  },
+  {
+    "name": "Butt Kicks",
+    "force": null,
+    "level": "beginner",
+    "mechanic": null,
+    "equipment": "body only",
+    "primaryMuscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "quadriceps",
+      "calves"
+    ],
+    "instructions": [
+      "Stand upright with your feet hip-width apart. Jog in place while kicking your heels back to touch or come close to your glutes on each stride.",
+      "Keep your knees pointed toward the ground rather than driving them forward, and pump your arms naturally as you maintain a quick cadence.",
+      "Butt kicks are a common warm-up and cardio drill that emphasize hamstring flexion. A 150 lb person will burn around 300 calories doing butt kicks for 30 minutes."
+    ],
+    "category": "cardio",
+    "images": [],
+    "id": "Butt_Kicks"
   },
   {
     "name": "Butt Lift (Bridge)",
@@ -8395,6 +8440,75 @@
       "High_Cable_Curls/1.jpg"
     ],
     "id": "High_Cable_Curls"
+  },
+  {
+    "name": "High Knees",
+    "force": null,
+    "level": "beginner",
+    "mechanic": null,
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "calves",
+      "abdominals"
+    ],
+    "instructions": [
+      "Stand upright with your feet hip-width apart. Run in place, driving one knee up toward your chest as high as possible while pumping the opposite arm.",
+      "Quickly alternate legs, landing on the balls of your feet each time and keeping your torso upright and core engaged throughout.",
+      "High knees raise the heart rate quickly and reinforce running mechanics. A 150 lb person will burn around 350 calories doing high knees for 30 minutes."
+    ],
+    "category": "cardio",
+    "images": [],
+    "id": "High_Knees"
+  },
+  {
+    "name": "Hiking",
+    "force": null,
+    "level": "beginner",
+    "mechanic": null,
+    "equipment": "other",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "calves",
+      "glutes"
+    ],
+    "instructions": [
+      "Wearing supportive footwear, walk on natural terrain such as trails, hills, or uneven ground, using trekking poles if desired for stability and to engage the upper body.",
+      "Take shorter, controlled steps on inclines and declines, bending your knees to absorb impact on the way down. Pace yourself for the total distance and elevation gain planned.",
+      "Hiking combines cardiovascular exercise with balance and stabilizer work from uneven footing. A 150 lb person can burn over 300 calories hiking for 30 minutes, more with a loaded pack."
+    ],
+    "category": "cardio",
+    "images": [],
+    "id": "Hiking"
+  },
+  {
+    "name": "Hill Sprints",
+    "force": null,
+    "level": "intermediate",
+    "mechanic": null,
+    "equipment": null,
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Find a hill with a moderate incline, around 50 to 100 meters long. Start at the base and sprint upward at maximum effort, driving your knees high and pumping your arms.",
+      "Lean slightly into the hill and shorten your stride compared to flat sprinting. Walk back down to the start to recover fully before repeating.",
+      "The incline reduces impact on the joints while increasing demand on the glutes and hamstrings. Hill sprints are an efficient way to build both power and cardiovascular capacity."
+    ],
+    "category": "cardio",
+    "images": [],
+    "id": "Hill_Sprints"
   },
   {
     "name": "Hip Circles (prone)",
@@ -15934,6 +16048,30 @@
     "id": "Rowing_Stationary"
   },
   {
+    "name": "Rucking",
+    "force": null,
+    "level": "intermediate",
+    "mechanic": null,
+    "equipment": "other",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "calves",
+      "shoulders",
+      "traps"
+    ],
+    "instructions": [
+      "Load a rucksack or weighted vest with a manageable weight, typically 10 to 30% of body weight, and fit it snugly against your back to minimize shifting.",
+      "Walk at a brisk pace with good posture, keeping the load centered and your core braced. Use trekking poles or adjust your stride on uneven or inclined terrain.",
+      "Rucking adds resistance to ordinary walking, building leg and back strength alongside cardiovascular fitness. A 150 lb person carrying a 30 lb pack can burn over 400 calories rucking for 30 minutes."
+    ],
+    "category": "cardio",
+    "images": [],
+    "id": "Rucking"
+  },
+  {
     "name": "Runner's Stretch",
     "force": "static",
     "level": "beginner",
@@ -15956,6 +16094,29 @@
       "Runners_Stretch/1.jpg"
     ],
     "id": "Runners_Stretch"
+  },
+  {
+    "name": "Running, Outdoor",
+    "force": null,
+    "level": "beginner",
+    "mechanic": null,
+    "equipment": null,
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "calves",
+      "glutes"
+    ],
+    "instructions": [
+      "Find a flat road, path, or track and begin at an easy, sustainable pace. Keep your posture upright, relax your shoulders, and let your arms swing naturally at your sides.",
+      "Land midfoot beneath your hips rather than reaching out with your stride, and maintain a steady breathing rhythm. Adjust pace to terrain and weather, and increase distance or speed gradually over time.",
+      "Outdoor running has more variable terrain and wind resistance than a treadmill. A 150 lb person will burn over 450 calories running outdoors for 30 minutes at a moderate pace."
+    ],
+    "category": "cardio",
+    "images": [],
+    "id": "Running_Outdoor"
   },
   {
     "name": "Running, Treadmill",
@@ -17151,6 +17312,28 @@
       "Shoulder_Stretch/1.jpg"
     ],
     "id": "Shoulder_Stretch"
+  },
+  {
+    "name": "Shuttle Runs",
+    "force": null,
+    "level": "intermediate",
+    "mechanic": null,
+    "equipment": "other",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "calves"
+    ],
+    "instructions": [
+      "Set two markers a fixed distance apart, commonly 10 to 20 meters. Starting at one marker, sprint to the other, touch the ground or line, and immediately sprint back.",
+      "Continue for the prescribed number of shuttles or amount of time, decelerating under control at each turn to reduce strain on the joints.",
+      "Shuttle runs combine sprinting with change-of-direction demands found in many sports. A 150 lb person will burn around 400 calories doing shuttle runs for 30 minutes."
+    ],
+    "category": "cardio",
+    "images": [],
+    "id": "Shuttle_Runs"
   },
   {
     "name": "Side-Lying Floor Stretch",
@@ -19107,6 +19290,28 @@
       "Split_Squats/1.jpg"
     ],
     "id": "Split_Squats"
+  },
+  {
+    "name": "Sprints",
+    "force": null,
+    "level": "intermediate",
+    "mechanic": null,
+    "equipment": null,
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "calves"
+    ],
+    "instructions": [
+      "On a track or flat straightaway, start from a staggered stance and accelerate as fast as possible over the chosen distance, typically 40 to 400 meters.",
+      "Drive your knees high, pump your arms aggressively, and maintain a forward lean during acceleration before transitioning to an upright sprinting posture at top speed.",
+      "Walk or jog back to the start to recover fully between reps. Sprints build explosive power and are one of the most time-efficient forms of cardio conditioning."
+    ],
+    "category": "cardio",
+    "images": [],
+    "id": "Sprints"
   },
   {
     "name": "Squat Jerk",
@@ -21924,6 +22129,29 @@
       "Vertical_Swing/1.jpg"
     ],
     "id": "Vertical_Swing"
+  },
+  {
+    "name": "Walking, Outdoor",
+    "force": null,
+    "level": "beginner",
+    "mechanic": null,
+    "equipment": null,
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "hamstrings",
+      "glutes"
+    ],
+    "instructions": [
+      "Choose a route on pavement, a path, or a trail. Walk at a brisk pace with an upright posture, swinging your arms naturally and taking comfortable, even strides.",
+      "Maintain a pace fast enough to raise your heart rate while still being able to hold a conversation. Vary the terrain or add inclines to increase intensity.",
+      "A 150 lb person will burn about 150 calories walking briskly outdoors for 30 minutes, with variable terrain adding more challenge than a treadmill."
+    ],
+    "category": "cardio",
+    "images": [],
+    "id": "Walking_Outdoor"
   },
   {
     "name": "Walking, Treadmill",

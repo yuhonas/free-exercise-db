@@ -1,0 +1,23 @@
+{
+  "name": "Hill Sprints",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "calves",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Find a hill with a moderate incline, around 50 to 100 meters long. Start at the base and sprint upward at maximum effort, driving your knees high and pumping your arms.",
+    "Lean slightly into the hill and shorten your stride compared to flat sprinting. Walk back down to the start to recover fully before repeating.",
+    "The incline reduces impact on the joints while increasing demand on the glutes and hamstrings. Hill sprints are an efficient way to build both power and cardiovascular capacity."
+  ],
+  "category": "cardio",
+  "images": [],
+  "id": "Hill_Sprints"
+}

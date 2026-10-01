@@ -1,0 +1,23 @@
+{
+  "name": "Walking, Outdoor",
+  "force": null,
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "hamstrings",
+    "glutes"
+  ],
+  "instructions": [
+    "Choose a route on pavement, a path, or a trail. Walk at a brisk pace with an upright posture, swinging your arms naturally and taking comfortable, even strides.",
+    "Maintain a pace fast enough to raise your heart rate while still being able to hold a conversation. Vary the terrain or add inclines to increase intensity.",
+    "A 150 lb person will burn about 150 calories walking briskly outdoors for 30 minutes, with variable terrain adding more challenge than a treadmill."
+  ],
+  "category": "cardio",
+  "images": [],
+  "id": "Walking_Outdoor"
+}

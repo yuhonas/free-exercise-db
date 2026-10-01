@@ -1,0 +1,23 @@
+{
+  "name": "Assault Runner",
+  "force": null,
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves",
+    "glutes"
+  ],
+  "instructions": [
+    "Step onto the curved, non-motorized treadmill belt and start with short, light steps, since the belt only moves when driven by your own foot strike.",
+    "Drive your feet backward beneath your hips to accelerate the belt to the desired speed, keeping your torso upright and avoiding overstriding.",
+    "Because the belt has no motor, an assault runner requires more muscular effort than a standard treadmill at the same perceived pace, making it effective for interval training."
+  ],
+  "category": "cardio",
+  "images": [],
+  "id": "Assault_Runner"
+}

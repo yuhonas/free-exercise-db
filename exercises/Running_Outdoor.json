@@ -1,0 +1,23 @@
+{
+  "name": "Running, Outdoor",
+  "force": null,
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves",
+    "glutes"
+  ],
+  "instructions": [
+    "Find a flat road, path, or track and begin at an easy, sustainable pace. Keep your posture upright, relax your shoulders, and let your arms swing naturally at your sides.",
+    "Land midfoot beneath your hips rather than reaching out with your stride, and maintain a steady breathing rhythm. Adjust pace to terrain and weather, and increase distance or speed gradually over time.",
+    "Outdoor running has more variable terrain and wind resistance than a treadmill. A 150 lb person will burn over 450 calories running outdoors for 30 minutes at a moderate pace."
+  ],
+  "category": "cardio",
+  "images": [],
+  "id": "Running_Outdoor"
+}

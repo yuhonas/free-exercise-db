@@ -1,0 +1,24 @@
+{
+  "name": "Rucking",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves",
+    "shoulders",
+    "traps"
+  ],
+  "instructions": [
+    "Load a rucksack or weighted vest with a manageable weight, typically 10 to 30% of body weight, and fit it snugly against your back to minimize shifting.",
+    "Walk at a brisk pace with good posture, keeping the load centered and your core braced. Use trekking poles or adjust your stride on uneven or inclined terrain.",
+    "Rucking adds resistance to ordinary walking, building leg and back strength alongside cardiovascular fitness. A 150 lb person carrying a 30 lb pack can burn over 400 calories rucking for 30 minutes."
+  ],
+  "category": "cardio",
+  "images": [],
+  "id": "Rucking"
+}

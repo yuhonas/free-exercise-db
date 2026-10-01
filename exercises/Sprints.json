@@ -1,0 +1,22 @@
+{
+  "name": "Sprints",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "On a track or flat straightaway, start from a staggered stance and accelerate as fast as possible over the chosen distance, typically 40 to 400 meters.",
+    "Drive your knees high, pump your arms aggressively, and maintain a forward lean during acceleration before transitioning to an upright sprinting posture at top speed.",
+    "Walk or jog back to the start to recover fully between reps. Sprints build explosive power and are one of the most time-efficient forms of cardio conditioning."
+  ],
+  "category": "cardio",
+  "images": [],
+  "id": "Sprints"
+}
